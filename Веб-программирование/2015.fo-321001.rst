@@ -33,8 +33,10 @@
 
 .. |dz1| replace:: дз #1 (HTTP)
 .. |dz2| replace:: дз #2 (Socket)
+.. |dz3| replace:: дз #3 (WSGI)
 .. _dz1: http://lectureswww.readthedocs.org/ru/latest/net/_checkpoint.html
 .. _dz2: http://lectureswww.readthedocs.org/ru/latest/www.sync/1.net/_checkpoint.html
+.. _dz3: http://lectureswww.readthedocs.org/ru/latest/www.sync/1.net/_checkpoint.html
 
 .. Students work
 
