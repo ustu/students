@@ -51,7 +51,6 @@
 .. GitHub
 
 .. _pfffff: https://github.com/Pfffff
-
 .. _uralbash: https://github.com/uralbash
 .. _BigDaddy: https://github.com/BigDaddy1337
 
