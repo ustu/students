@@ -73,8 +73,8 @@
      -
    * - 6
      - Зылева Мария
-     -
-     -
+     - mary_
+     - |2.1|_ |2.2-4|_
      -
      -
      -
@@ -155,6 +155,7 @@
 
 .. _pfffff: https://github.com/Pfffff
 .. _BigDaddy: https://github.com/BigDaddy1337
+.. _mary: https://github.com/maryekb94
 
 .. Домашняя работа #1
 
@@ -165,6 +166,12 @@
 
 .. |2.2-4| replace:: 2-4
 .. _2.2-4: https://gist.github.com/BigDaddy1337
+
+.. |2.1| replace:: 1
+.. _2.1: https:https://github.com/maryekb94/-1-web
+
+.. |2.2-4| replace:: 2-4
+.. _2.2-4: https://gist.github.com/maryekb94/afcf6637e6be9d2355a9
 
 .. Домашняя работа #2
 
