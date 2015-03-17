@@ -166,9 +166,9 @@
 .. |2.2-4| replace:: 2-4
 .. _2.2-4: https://gist.github.com/BigDaddy1337
 
-.. _MrEqu:https://github.com/MrEqu
-.. _n1:https://github.com/MrEqu/HomeWorks
-.. _n234:https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
+.. MrEqu:https://github.com/MrEqu
+.. n1:https://github.com/MrEqu/HomeWorks
+.. n234:https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
 
 .. Домашняя работа #2
 
