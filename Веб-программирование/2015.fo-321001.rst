@@ -73,8 +73,8 @@
      -
    * - 6
      - Зылева Мария
-     -
-     -
+     - mary_
+     - |2.dz1.1|_ |2.dz1.2-4|_
      -
      -
      -
@@ -156,6 +156,8 @@
 .. _pfffff: https://github.com/Pfffff
 .. _BigDaddy: https://github.com/BigDaddy1337
 .. _MrEqu: https://github.com/MrEqu
+.. _mary: https://github.com/maryekb94
+
 
 .. Домашняя работа #1
 
@@ -173,6 +175,11 @@
 .. _1.dz1.1: https://github.com/MrEqu/HomeWorks
 .. |1.dz1.2-4| replace:: 2-4
 .. _1.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
+
+.. |1.dz1.1| replace:: 1
+.. _1.dz1.1: https://github.com/maryekb94/-1-web/tree/master/myproject
+.. |1.dz1.2-4| replace:: 2-4
+.. _1.dz1.2-4: https://gist.github.com/maryekb94/afcf6637e6be9d2355a9
 
 .. Домашняя работа #2
 
