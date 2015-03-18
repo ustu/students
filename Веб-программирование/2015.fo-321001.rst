@@ -18,8 +18,8 @@
      - тема курсовой
    * - 1
      - Байрамов Эмир
-     -
-     -
+     - MrEqu_
+     - |1.dz1.1|_ |1.dz1.2-4|_
      -
      -
      -
@@ -30,7 +30,7 @@
    * - 2
      - Бессонов Сергей
      - BigDaddy_
-     - |2.1|_ |2.2-4|_
+     - |2.dz1.1|_ |2.dz1.2-4|_
      -
      -
      -
@@ -63,7 +63,7 @@
    * - 5
      - Зуева Галина
      - pfffff_
-     - 5.dz1zg_
+     - |5.dz1.1|_ |5.dz1.2-4|_
      -
      -
      -
@@ -155,16 +155,24 @@
 
 .. _pfffff: https://github.com/Pfffff
 .. _BigDaddy: https://github.com/BigDaddy1337
+.. _MrEqu: https://github.com/MrEqu
 
 .. Домашняя работа #1
 
-.. _5.dz1zg: https://gist.github.com/Pfffff/1e98a42b88040f703948
+.. |5.dz1.1| replace:: 1
+.. _5.dz1.1: https://github.com/Pfffff/my1stRepo
+.. |5.dz1.2-4| replace:: 2-4
+.. _5.dz1.2-4: https://gist.github.com/Pfffff/1e98a42b88040f703948
 
-.. |2.1| replace:: 1
-.. _2.1: https://github.com/BigDaddy1337/WEB/tree/master/myproject
+.. |2.dz1.1| replace:: 1
+.. _2.dz1.1: https://github.com/BigDaddy1337/WEB/tree/master/myproject
+.. |2.dz1.2-4| replace:: 2-4
+.. _2.dz1.2-4: https://gist.github.com/BigDaddy1337
 
-.. |2.2-4| replace:: 2-4
-.. _2.2-4: https://gist.github.com/BigDaddy1337
+.. |1.dz1.1| replace:: 1
+.. _1.dz1.1: https://github.com/MrEqu/HomeWorks
+.. |1.dz1.2-4| replace:: 2-4
+.. _1.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
 
 .. Домашняя работа #2
 
