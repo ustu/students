@@ -94,9 +94,9 @@
      -
      -
    * - 8
-     - Новатек Дмитрий
-     -
-     -
+     - Новачек Дмитрий
+     - LZiM_
+     - |8.dz1.1|_ |8.dz1.2-4|_
      -
      -
      -
@@ -157,6 +157,7 @@
 .. _BigDaddy: https://github.com/BigDaddy1337
 .. _MrEqu: https://github.com/MrEqu
 .. _mary: https://github.com/maryekb94
+.. _LZiM: https://github.com/LZIM-94
 
 
 .. Домашняя работа #1
@@ -175,6 +176,11 @@
 .. _1.dz1.1: https://github.com/MrEqu/HomeWorks
 .. |1.dz1.2-4| replace:: 2-4
 .. _1.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
+
+.. |8.dz1.1| replace:: 1
+.. _8.dz1.1: https://github.com/LZIM-94/MyProject1
+.. |8.dz1.2-4| replace:: 2-4
+.. _8.dz1.2-4: https://gist.github.com/LZIM-94/56814294ff98532d1f18
 
 .. |6.dz1.1| replace:: 1
 .. _6.dz1.1: https://github.com/maryekb94/-1-web/tree/master/myproject
