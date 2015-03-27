@@ -20,7 +20,7 @@
      - Байрамов Эмир
      - MrEqu_
      - |1.dz1.1|_ |1.dz1.2-4|_
-     -
+     - |1.dz2.1|_ |1.dz2.2-3|_
      -
      -
      -
@@ -186,6 +186,12 @@
 .. _6.dz1.1: https://github.com/maryekb94/-1-web/tree/master/myproject
 .. |6.dz1.2-4| replace:: 2-4
 .. _6.dz1.2-4: https://gist.github.com/maryekb94/afcf6637e6be9d2355a9
+
+
+.. |1.dz2.1| replace:: 1  
+.. _1.dz2.1: https://github.com/MrEqu/HomeWorks
+.. |1.dz2.2-3| replace:: 2-3  
+.. _1.dz2.2-3: https://gist.github.com/MrEqu/409f7da97ea6dc071141
 
 .. Домашняя работа #2
 
