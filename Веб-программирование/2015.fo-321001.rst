@@ -145,9 +145,9 @@
 .. |dz3| replace:: дз #3 (WSGI)
 .. |dz4| replace:: дз #4
 .. |dz5| replace:: дз #5
-.. _dz1: http://lectureswww.readthedocs.org/ru/latest/net/_checkpoint.html
-.. _dz2: http://lectureswww.readthedocs.org/ru/latest/www.sync/1.net/_checkpoint.html
-.. _dz3:
+.. _dz1: http://lectureswww.readthedocs.org/ru/latest/3.kpd/_checkpoint.html
+.. _dz2: http://lectureswww.readthedocs.org/ru/latest/4.net/_checkpoint.html
+.. _dz3: http://lectureswww.readthedocs.org/ru/latest/5.web.server/_checkpoint.html
 .. _dz4:
 .. _dz5:
 
