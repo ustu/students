@@ -128,8 +128,9 @@
      -
    * - 11
      - Тюленев Роман
-     -
-     -
+     - Dino1992_
+     - |11.dz1.1|_ |11.dz1.2-4|_
+     - 
      -
      -
      -
@@ -158,6 +159,7 @@
 .. _MrEqu: https://github.com/MrEqu
 .. _mary: https://github.com/maryekb94
 .. _LZiM: https://github.com/LZIM-94
+.. _Dino1992: https://github.com/Dino1992
 
 
 .. Домашняя работа #1
@@ -192,6 +194,11 @@
 .. _1.dz2.1: https://github.com/MrEqu/HomeWorks
 .. |1.dz2.2-3| replace:: 2-3  
 .. _1.dz2.2-3: https://gist.github.com/MrEqu/409f7da97ea6dc071141
+
+.. |11.dz1.1| replace:: 1 
+.. _11.dz1.1: https://github.com/Dino1992/One/
+.. |11.dz1.2-4| replace:: 2-4  
+.. _11.dz1.2-4: https://gist.github.com/Dino1992/48cdc07c84e9ebf11542
 
 .. Домашняя работа #2
 
