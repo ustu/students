@@ -75,7 +75,7 @@
      - Зылева Мария
      - mary_
      - |6.dz1.1|_ |6.dz1.2-4|_
-     -
+     - |6.dz1.1|_
      -
      -
      -
@@ -193,6 +193,9 @@
 .. _1.dz2.1: https://github.com/MrEqu/HomeWorks
 .. |1.dz2.2-3| replace:: 2-3  
 .. _1.dz2.2-3: https://gist.github.com/MrEqu/409f7da97ea6dc071141
+
+.. |1.dz2.1| replace:: 1  
+.. _1.dz2.1: https://github.com/maryekb94/-1-web
 
 .. |11.dz1.1| replace:: 1 
 .. _11.dz1.1: https://github.com/Dino1992/One/
