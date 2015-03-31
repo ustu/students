@@ -75,7 +75,7 @@
      - Зылева Мария
      - mary_
      - |6.dz1.1|_ |6.dz1.2-4|_
-     -
+     - |6.dz2.1|_ |6.dz2.2-3|_
      -
      -
      -
@@ -198,6 +198,11 @@
 .. _11.dz1.1: https://github.com/Dino1992/One/
 .. |11.dz1.2-4| replace:: 2-4  
 .. _11.dz1.2-4: https://gist.github.com/Dino1992/48cdc07c84e9ebf11542
+
+.. |6.dz2.1| replace:: 1  
+.. _6.dz2.1: https://github.com/maryekb94/-1-web/tree/master/myproject
+.. |6.dz2.2-3| replace:: 2-3  
+.. _6.dz2.2-3: https://gist.github.com/maryekb94/e96814a343e2822bff45
 
 .. Домашняя работа #2
 
