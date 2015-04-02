@@ -75,7 +75,7 @@
      - Зылева Мария
      - mary_
      - |6.dz1.1|_ |6.dz1.2-4|_
-     -
+     - |6.dz2.1|_ |6.dz2.2-3|_
      -
      -
      -
@@ -128,9 +128,9 @@
      -
    * - 11
      - Тюленев Роман
-     -
-     -
-     -
+     - Dino1992_
+     - |11.dz1.1|_ |11.dz1.2-4|_
+     - 
      -
      -
      -
@@ -145,9 +145,9 @@
 .. |dz3| replace:: дз #3 (WSGI)
 .. |dz4| replace:: дз #4
 .. |dz5| replace:: дз #5
-.. _dz1: http://lectureswww.readthedocs.org/ru/latest/net/_checkpoint.html
-.. _dz2: http://lectureswww.readthedocs.org/ru/latest/www.sync/1.net/_checkpoint.html
-.. _dz3:
+.. _dz1: http://lectureswww.readthedocs.org/ru/latest/3.kpd/_checkpoint.html
+.. _dz2: http://lectureswww.readthedocs.org/ru/latest/4.net/_checkpoint.html
+.. _dz3: http://lectureswww.readthedocs.org/ru/latest/5.web.server/_checkpoint.html
 .. _dz4:
 .. _dz5:
 
@@ -158,6 +158,7 @@
 .. _MrEqu: https://github.com/MrEqu
 .. _mary: https://github.com/maryekb94
 .. _LZiM: https://github.com/LZIM-94
+.. _Dino1992: https://github.com/Dino1992
 
 
 .. Домашняя работа #1
@@ -192,6 +193,16 @@
 .. _1.dz2.1: https://github.com/MrEqu/HomeWorks
 .. |1.dz2.2-3| replace:: 2-3  
 .. _1.dz2.2-3: https://gist.github.com/MrEqu/409f7da97ea6dc071141
+
+.. |11.dz1.1| replace:: 1 
+.. _11.dz1.1: https://github.com/Dino1992/One/
+.. |11.dz1.2-4| replace:: 2-4  
+.. _11.dz1.2-4: https://gist.github.com/Dino1992/48cdc07c84e9ebf11542
+
+.. |6.dz2.1| replace:: 1  
+.. _6.dz2.1: https://github.com/maryekb94/-1-web/tree/master/myproject
+.. |6.dz2.2-3| replace:: 2-3  
+.. _6.dz2.2-3: https://gist.github.com/maryekb94/e96814a343e2822bff45
 
 .. Домашняя работа #2
 
