@@ -31,7 +31,7 @@
      - Бессонов Сергей
      - BigDaddy_
      - |2.dz1.1|_ |2.dz1.2-4|_
-     -
+     - |2.dz2.1|_ |2.dz2.2-3|_
      -
      -
      -
@@ -207,6 +207,12 @@
 .. _6.dz2.2-3: https://gist.github.com/maryekb94/e96814a343e2822bff45
 
 .. Домашняя работа #2
+
+.. |2.dz2.1| replace:: 1
+.. _2.dz2.1: https://github.com/BigDaddy1337/WEB/tree/master/myproject
+.. |2.dz2.2-3| replace:: 2-3
+.. _2.dz2.2-3: https://gist.github.com/BigDaddy1337/6141439fe387b59c9f54
+
 
 .. Домашняя работа #3
 
