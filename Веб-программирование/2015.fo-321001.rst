@@ -21,7 +21,7 @@
      - MrEqu_
      - |1.dz1.1|_ |1.dz1.2-4|_
      - |1.dz2.1|_ |1.dz2.2-3|_
-     -
+     - |1.dz3.1|_ 
      -
      -
      -
@@ -173,11 +173,6 @@
 .. |2.dz1.2-4| replace:: 2-4
 .. _2.dz1.2-4: https://gist.github.com/BigDaddy1337
 
-.. |1.dz1.1| replace:: 1
-.. _1.dz1.1: https://github.com/MrEqu/HomeWorks
-.. |1.dz1.2-4| replace:: 2-4
-.. _1.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
-
 .. |8.dz1.1| replace:: 1
 .. _8.dz1.1: https://github.com/LZIM-94/MyProject1
 .. |8.dz1.2-4| replace:: 2-4
@@ -188,11 +183,18 @@
 .. |6.dz1.2-4| replace:: 2-4
 .. _6.dz1.2-4: https://gist.github.com/maryekb94/afcf6637e6be9d2355a9
 
+.. |1.dz1.1| replace:: 1
+.. _1.dz1.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework1
+.. |1.dz1.2-4| replace:: 2-4
+.. _1.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
 
 .. |1.dz2.1| replace:: 1  
-.. _1.dz2.1: https://github.com/MrEqu/HomeWorks
+.. _1.dz2.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework2
 .. |1.dz2.2-3| replace:: 2-3  
 .. _1.dz2.2-3: https://gist.github.com/MrEqu/409f7da97ea6dc071141
+
+.. |1.dz3.1| replace:: 1  
+.. _1.dz3.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework3
 
 .. |11.dz1.1| replace:: 1 
 .. _11.dz1.1: https://github.com/Dino1992/One/
