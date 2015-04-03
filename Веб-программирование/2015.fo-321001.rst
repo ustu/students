@@ -64,7 +64,7 @@
      - Зуева Галина
      - pfffff_
      - |5.dz1.1|_ |5.dz1.2-4|_
-     -
+     - |5.dz2.1|_
      -
      -
      -
@@ -207,6 +207,9 @@
 .. _6.dz2.2-3: https://gist.github.com/maryekb94/e96814a343e2822bff45
 
 .. Домашняя работа #2
+
+.. |5.dz2.1| replace:: 1  
+.. _5.dz2.1: https://github.com/Pfffff/sockets
 
 .. |2.dz2.1| replace:: 1
 .. _2.dz2.1: https://github.com/BigDaddy1337/WEB/tree/master/myproject
