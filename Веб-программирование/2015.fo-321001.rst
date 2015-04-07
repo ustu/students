@@ -21,7 +21,7 @@
      - MrEqu_
      - |1.dz1.1|_ |1.dz1.2-4|_
      - |1.dz2.1|_ |1.dz2.2-3|_
-     - |1.dz3.1|_ 
+     - |1.dz3.1|_
      -
      -
      -
@@ -130,7 +130,7 @@
      - Тюленев Роман
      - Dino1992_
      - |11.dz1.1|_ |11.dz1.2-4|_
-     - 
+     -
      -
      -
      -
@@ -143,8 +143,8 @@
 .. |dz1| replace:: дз #1 (HTTP)
 .. |dz2| replace:: дз #2 (Socket)
 .. |dz3| replace:: дз #3 (WSGI)
-.. |dz4| replace:: дз #4
-.. |dz5| replace:: дз #5
+.. |dz4| replace:: дз #4 (Web)
+.. |dz5| replace:: дз #5 (Pyramid)
 .. _dz1: http://lectureswww.readthedocs.org/ru/latest/3.kpd/_checkpoint.html
 .. _dz2: http://lectureswww.readthedocs.org/ru/latest/4.net/_checkpoint.html
 .. _dz3: http://lectureswww.readthedocs.org/ru/latest/5.web.server/_checkpoint.html
@@ -163,60 +163,67 @@
 
 .. Домашняя работа #1
 
-.. |5.dz1.1| replace:: 1
-.. _5.dz1.1: https://github.com/Pfffff/my1stRepo
-.. |5.dz1.2-4| replace:: 2-4
-.. _5.dz1.2-4: https://gist.github.com/Pfffff/1e98a42b88040f703948
+.. |1.dz1.1| replace:: 1
+.. _1.dz1.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework1
+.. |1.dz1.2-4| replace:: 2-4
+.. _1.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
 
 .. |2.dz1.1| replace:: 1
 .. _2.dz1.1: https://github.com/BigDaddy1337/WEB/tree/master/myproject
 .. |2.dz1.2-4| replace:: 2-4
 .. _2.dz1.2-4: https://gist.github.com/BigDaddy1337
 
-.. |8.dz1.1| replace:: 1
-.. _8.dz1.1: https://github.com/LZIM-94/MyProject1
-.. |8.dz1.2-4| replace:: 2-4
-.. _8.dz1.2-4: https://gist.github.com/LZIM-94/56814294ff98532d1f18
+.. |5.dz1.1| replace:: 1
+.. _5.dz1.1: https://github.com/Pfffff/my1stRepo
+.. |5.dz1.2-4| replace:: 2-4
+.. _5.dz1.2-4: https://gist.github.com/Pfffff/1e98a42b88040f703948
 
 .. |6.dz1.1| replace:: 1
 .. _6.dz1.1: https://github.com/maryekb94/-1-web/tree/master/myproject
 .. |6.dz1.2-4| replace:: 2-4
 .. _6.dz1.2-4: https://gist.github.com/maryekb94/afcf6637e6be9d2355a9
 
-.. |1.dz1.1| replace:: 1
-.. _1.dz1.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework1
-.. |1.dz1.2-4| replace:: 2-4
-.. _1.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
+.. |8.dz1.1| replace:: 1
+.. _8.dz1.1: https://github.com/LZIM-94/MyProject1
+.. |8.dz1.2-4| replace:: 2-4
+.. _8.dz1.2-4: https://gist.github.com/LZIM-94/56814294ff98532d1f18
 
-.. |1.dz2.1| replace:: 1  
-.. _1.dz2.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework2
-.. |1.dz2.2-3| replace:: 2-3  
-.. _1.dz2.2-3: https://gist.github.com/MrEqu/409f7da97ea6dc071141
-
-.. |1.dz3.1| replace:: 1  
-.. _1.dz3.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework3
-
-.. |11.dz1.1| replace:: 1 
+.. |11.dz1.1| replace:: 1
 .. _11.dz1.1: https://github.com/Dino1992/One/
-.. |11.dz1.2-4| replace:: 2-4  
+.. |11.dz1.2-4| replace:: 2-4
 .. _11.dz1.2-4: https://gist.github.com/Dino1992/48cdc07c84e9ebf11542
 
-.. |6.dz2.1| replace:: 1  
-.. _6.dz2.1: https://github.com/maryekb94/-1-web/tree/master/myproject
-.. |6.dz2.2-3| replace:: 2-3  
-.. _6.dz2.2-3: https://gist.github.com/maryekb94/e96814a343e2822bff45
-
 .. Домашняя работа #2
+
+.. |1.dz2.1| replace:: 1
+.. _1.dz2.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework2
+.. |1.dz2.2-3| replace:: 2-3
+.. _1.dz2.2-3: https://gist.github.com/MrEqu/409f7da97ea6dc071141
 
 .. |2.dz2.1| replace:: 1
 .. _2.dz2.1: https://github.com/BigDaddy1337/WEB/tree/master/myproject
 .. |2.dz2.2-3| replace:: 2-3
 .. _2.dz2.2-3: https://gist.github.com/BigDaddy1337/6141439fe387b59c9f54
+
+.. |6.dz2.1| replace:: 1
+.. _6.dz2.1: https://github.com/maryekb94/-1-web/tree/master/myproject
+.. |6.dz2.2-3| replace:: 2-3
+.. _6.dz2.2-3: https://gist.github.com/maryekb94/e96814a343e2822bff45
+
 .. |8.dz2.1| replace:: 1
 .. _8.dz2.1: https://github.com/LZIM-94/MyProject1/tree/master/myproject
 .. |8.dz2.2-3| replace:: 2-3
 .. _8.dz2.2-3: https://gist.github.com/LZIM-94/94c4da57eeab64885072
 
 .. Домашняя работа #3
+
+.. |1.dz3.1| replace:: 1
+.. _1.dz3.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework3
+
+
+.. Домашняя работа #4
+
+
+.. Домашняя работа #5
 
 .. Курсовая работа
