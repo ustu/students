@@ -148,7 +148,7 @@
 .. _dz1: http://lectureswww.readthedocs.org/ru/latest/3.kpd/_checkpoint.html
 .. _dz2: http://lectureswww.readthedocs.org/ru/latest/4.net/_checkpoint.html
 .. _dz3: http://lectureswww.readthedocs.org/ru/latest/5.web.server/_checkpoint.html
-.. _dz4:
+.. _dz4: http://lectureswww.readthedocs.org/ru/latest/6.www.sync/2.codding/_checkpoint.html
 .. _dz5:
 
 .. GitHub
