@@ -76,7 +76,7 @@
      - mary_
      - |6.dz1.1|_ |6.dz1.2-4|_
      - |6.dz2.1|_ |6.dz2.2-3|_
-     -
+     - |6.dz3.1|_
      -
      -
      -
@@ -219,6 +219,9 @@
 
 .. |1.dz3.1| replace:: 1
 .. _1.dz3.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework3
+
+.. |6.dz3.1| replace:: 1
+.. _6.dz3.1: https://github.com/maryekb94/-1-web/tree/master/myproject
 
 
 .. Домашняя работа #4
