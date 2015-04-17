@@ -22,7 +22,7 @@
      - |1.dz1.1|_ |1.dz1.2-4|_
      - |1.dz2.1|_ |1.dz2.2-3|_
      - |1.dz3.1|_
-     -
+     - |1.dz4.1|_ |1.dz4.2-4|_
      -
      -
      -
@@ -227,6 +227,11 @@
 .. _2.dz3.1: https://github.com/BigDaddy1337/WEB/tree/master/myproject
 
 .. Домашняя работа #4
+
+.. |1.dz4.1| replace:: 1
+.. _1.dz4.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework4
+.. |1.dz4.2-4| replace:: 2-4
+.. _1.dz4.2-4: https://gist.github.com/MrEqu/3dc260ca9fe8d01a980f
 
 
 .. Домашняя работа #5
