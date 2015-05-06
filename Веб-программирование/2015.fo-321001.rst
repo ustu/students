@@ -149,7 +149,7 @@
 .. _dz2: http://lectures.uralbash.ru/4.net/_checkpoint.html
 .. _dz3: http://lectures.uralbash.ru/5.web.server/_checkpoint.html
 .. _dz4: http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html
-.. _dz5:
+.. _dz5: http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html
 
 .. GitHub
 
