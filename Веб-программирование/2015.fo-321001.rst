@@ -77,7 +77,7 @@
      - |6.dz1.1|_ |6.dz1.2-4|_
      - |6.dz2.1|_ |6.dz2.2-3|_
      - |6.dz3.1|_
-     -
+     - |6.dz4.1|_ |6.dz4.2-4|_
      -
      -
      -
@@ -232,6 +232,11 @@
 .. _1.dz4.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework4
 .. |1.dz4.2-4| replace:: 2-4
 .. _1.dz4.2-4: https://gist.github.com/MrEqu/3dc260ca9fe8d01a980f
+
+.. |6.dz4.1| replace:: 1
+.. _6.dz4.1: https://github.com/maryekb94/-1-web
+.. |6.dz4.2-4| replace:: 2-4
+.. _6.dz4.2-4: https://gist.github.com/maryekb94/b7d8b4378d2d8bd7576c
 
 
 .. Домашняя работа #5
