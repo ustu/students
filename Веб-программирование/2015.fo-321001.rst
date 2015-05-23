@@ -98,7 +98,7 @@
      - LZiM_
      - |8.dz1.1|_ |8.dz1.2-4|_
      - |8.dz2.1|_ |8.dz2.2-3|_
-     -
+     - |8.dz3.1|_
      -
      -
      -
@@ -225,6 +225,9 @@
 
 .. |2.dz3.1| replace:: 1
 .. _2.dz3.1: https://github.com/BigDaddy1337/WEB/tree/master/myproject
+
+.. |8.dz3.1| replace:: 1
+.. _8.dz3.1: https://github.com/LZIM-94/MyProject1/tree/master/myproject
 
 .. Домашняя работа #4
 
