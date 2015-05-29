@@ -99,7 +99,7 @@
      - |8.dz1.1|_ |8.dz1.2-4|_
      - |8.dz2.1|_ |8.dz2.2-3|_
      - |8.dz3.1|_
-     -
+     - |8.dz4.1|_ |8.dz4.2-4|_
      -
      -
      -
@@ -241,6 +241,10 @@
 .. |6.dz4.2-4| replace:: 2-4
 .. _6.dz4.2-4: https://gist.github.com/maryekb94/b7d8b4378d2d8bd7576c
 
+.. |8.dz4.1| replace:: 1
+.. _8.dz4.1: https://github.com/LZIM-94/MyProject1
+.. |8.dz4.2-4| replace:: 2-4
+.. _8.dz4.2-4: https://gist.github.com/LZIM-94/8f4e8896eef90633edb5
 
 .. Домашняя работа #5
 
