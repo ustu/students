@@ -109,7 +109,7 @@
      - dudev_
      - |9.dz1.1|_ |9.dz1.2-4|_
      - |9.dz2.1|_ |9.dz2.2-3|_
-     -
+     - |9.dz3.1|_
      -
      -
      -
@@ -239,6 +239,9 @@
 
 .. |8.dz3.1| replace:: 1
 .. _8.dz3.1: https://github.com/LZIM-94/MyProject1/tree/master/myproject
+
+.. |9.dz3.1| replace:: 1
+.. _9.dz3.1: https://github.com/dudev/3HW.WEB
 
 .. Домашняя работа #4
 
