@@ -106,9 +106,9 @@
      -
    * - 9
      - Русанов Евгений
-     -
-     -
-     -
+     - dudev_
+     - |9.dz1.1|_ |9.dz1.2-4|_
+     - |9.dz2.1|_ |9.dz2.2-3|_
      -
      -
      -
@@ -159,6 +159,7 @@
 .. _mary: https://github.com/maryekb94
 .. _LZiM: https://github.com/LZIM-94
 .. _Dino1992: https://github.com/Dino1992
+.. _dudev: https://github.com/dudev
 
 
 .. Домашняя работа #1
@@ -188,6 +189,11 @@
 .. |8.dz1.2-4| replace:: 2-4
 .. _8.dz1.2-4: https://gist.github.com/LZIM-94/56814294ff98532d1f18
 
+.. |9.dz1.1| replace:: 1
+.. _9.dz1.1: https://github.com/dudev/1HW.WEB
+.. |9.dz1.2-4| replace:: 2-4
+.. _9.dz1.2-4: https://gist.github.com/dudev/ed0a5de0521d724ea79a
+
 .. |11.dz1.1| replace:: 1
 .. _11.dz1.1: https://github.com/Dino1992/One/
 .. |11.dz1.2-4| replace:: 2-4
@@ -214,6 +220,11 @@
 .. _8.dz2.1: https://github.com/LZIM-94/MyProject1/tree/master/myproject
 .. |8.dz2.2-3| replace:: 2-3
 .. _8.dz2.2-3: https://gist.github.com/LZIM-94/94c4da57eeab64885072
+
+.. |9.dz2.1| replace:: 1
+.. _9.dz2.1: https://github.com/dudev/2HW.WEB
+.. |9.dz2.2-3| replace:: 2-3
+.. _9.dz2.2-3: https://gist.github.com/dudev/e01ea6b9c4b255325dbe
 
 .. Домашняя работа #3
 
