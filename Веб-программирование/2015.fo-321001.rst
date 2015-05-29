@@ -64,8 +64,8 @@
      - Зуева Галина
      - pfffff_
      - |5.dz1.1|_ |5.dz1.2-4|_
-     -
-     -
+     - |5.dz2.1|_ |5.dz2.2-3|_
+     - |5.dz3.1|_ 
      -
      -
      -
@@ -226,6 +226,11 @@
 .. |9.dz2.2-3| replace:: 2-3
 .. _9.dz2.2-3: https://gist.github.com/dudev/e01ea6b9c4b255325dbe
 
+.. |5.dz2.1| replace:: 1
+.. _5.dz2.1: https://github.com/Pfffff/sockets/blob/master/server.py
+.. |5.dz2.2-3| replace:: 2-3
+.. _5.dz2.2-3: https://gist.github.com/Pfffff/df886dd5ea64b03c7888#file-http-requests
+
 .. Домашняя работа #3
 
 .. |1.dz3.1| replace:: 1
@@ -239,6 +244,9 @@
 
 .. |8.dz3.1| replace:: 1
 .. _8.dz3.1: https://github.com/LZIM-94/MyProject1/tree/master/myproject
+
+.. |5.dz3.1| replace:: 1
+.. _5.dz3.1: https://github.com/Pfffff/sockets/blob/master/WSGIserv.py
 
 .. Домашняя работа #4
 
