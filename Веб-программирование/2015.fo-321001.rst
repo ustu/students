@@ -110,7 +110,7 @@
      - |9.dz1.1|_ |9.dz1.2-4|_
      - |9.dz2.1|_ |9.dz2.2-3|_
      - |9.dz3.1|_
-     -
+     - |9.dz4.1|_ |9.dz4.2-4|_
      -
      -
      -
@@ -254,6 +254,11 @@
 .. _6.dz4.1: https://github.com/maryekb94/-1-web
 .. |6.dz4.2-4| replace:: 2-4
 .. _6.dz4.2-4: https://gist.github.com/maryekb94/b7d8b4378d2d8bd7576c
+
+.. |9.dz4.1| replace:: 1
+.. _9.dz4.1: https://github.com/dudev/4HW.WEB
+.. |9.dz4.2-4| replace:: 2-4
+.. _9.dz4.2-4: https://gist.github.com/dudev/58e542791f013786fc21
 
 
 .. Домашняя работа #5
