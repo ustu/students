@@ -33,7 +33,7 @@
      - |2.dz1.1|_ |2.dz1.2-4|_
      - |2.dz2.1|_ |2.dz2.2-3|_
      - |2.dz3.1|_
-     -
+     - |2.dz4.1|_ |2.dz4.2-4|_
      -
      -
      -
@@ -267,6 +267,11 @@
 .. _8.dz4.1: https://github.com/LZIM-94/MyProject1
 .. |8.dz4.2-4| replace:: 2-4
 .. _8.dz4.2-4: https://gist.github.com/LZIM-94/8f4e8896eef90633edb5
+
+.. |2.dz4.1| replace:: 1
+.. _2.dz4.1: https://github.com/BigDaddy1337/WEB
+.. |2.dz4.2-4| replace:: 2-4
+.. _2.dz4.2-4: https://gist.github.com/BigDaddy1337/e93205314bbe47677f6e
 
 .. Домашняя работа #5
 
