@@ -131,8 +131,8 @@
      - Dino1992_
      - |11.dz1.1|_ |11.dz1.2-4|_
      - |11.dz2.1|_ |11.dz2.2-3|_
-     -
-     -
+     - |11.dz3.1|_
+     - |11.dz4.1|_ |11.dz4.2-4|_
      -
      -
      -
@@ -256,6 +256,9 @@
 .. |9.dz3.1| replace:: 1
 .. _9.dz3.1: https://github.com/dudev/3HW.WEB
 
+.. |11.dz3.1| replace:: 1
+.. _11.dz3.1 : https://github.com/Dino1992/Web_h2
+
 .. Домашняя работа #4
 
 .. |1.dz4.1| replace:: 1
@@ -277,6 +280,11 @@
 .. _9.dz4.1: https://github.com/dudev/4HW.WEB
 .. |9.dz4.2-4| replace:: 2-4
 .. _9.dz4.2-4: https://gist.github.com/dudev/58e542791f013786fc21
+
+.. |11.dz4.1| replace:: 1
+.. _11.dz4.1: https://github.com/Dino1992/Web_h3
+.. |11.dz4.2-4| replace:: 2-4
+.. _11.dz4.2-4 : https://gist.github.com/Dino1992/f7317dbc8d0d91328214
 
 .. Домашняя работа #5
 
