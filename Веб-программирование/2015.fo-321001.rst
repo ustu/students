@@ -130,7 +130,7 @@
      - Тюленев Роман
      - Dino1992_
      - |11.dz1.1|_ |11.dz1.2-4|_
-     -
+     - |11.dz2.1|_ |11.dz2.2-3|_
      -
      -
      -
@@ -230,6 +230,11 @@
 .. _5.dz2.1: https://github.com/Pfffff/sockets/blob/master/server.py
 .. |5.dz2.2-3| replace:: 2-3
 .. _5.dz2.2-3: https://gist.github.com/Pfffff/df886dd5ea64b03c7888#file-http-requests
+
+.. |11.dz2.1| replace:: 1
+.. _11.dz2.1: https://github.com/Dino1992/Web_h
+.. |11.dz2.2-3| replace:: 2-3
+.. _11.dz2.2-3 : https://gist.github.com/Dino1992/832caea4f355c3d44931
 
 .. Домашняя работа #3
 
