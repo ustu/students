@@ -33,7 +33,7 @@
      - |2.dz1.1|_ |2.dz1.2-4|_
      - |2.dz2.1|_ |2.dz2.2-3|_
      - |2.dz3.1|_
-     -
+     - |2.dz4.1|_ |2.dz4.2-4|_
      -
      -
      -
@@ -277,6 +277,11 @@
 .. _9.dz4.1: https://github.com/dudev/4HW.WEB
 .. |9.dz4.2-4| replace:: 2-4
 .. _9.dz4.2-4: https://gist.github.com/dudev/58e542791f013786fc21
+
+.. |2.dz4.1| replace:: 1
+.. _2.dz4.1: https://github.com/BigDaddy1337/WEB_4_WSGIAJINJA2
+.. |2.dz4.2-4| replace:: 2-4
+.. _2.dz4.2-4: https://gist.github.com/BigDaddy1337/e93205314bbe47677f6e
 
 .. Домашняя работа #5
 
