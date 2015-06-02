@@ -78,7 +78,7 @@
      - |6.dz2.1|_ |6.dz2.2-3|_
      - |6.dz3.1|_
      - |6.dz4.1|_ |6.dz4.2-4|_
-     -
+     - |6.dz5.1|_
      -
      -
      -
@@ -293,5 +293,8 @@
 
 .. |2.dz5.1| replace:: 1
 .. _2.dz5.1: https://github.com/BigDaddy1337/WEB_5
+
+.. |6.dz5.1| replace:: 1
+.. _6.dz5.1: https://github.com/maryekb94/HomeWork5
 
 .. Курсовая работа
