@@ -131,9 +131,9 @@
      - Dino1992_
      - |11.dz1.1|_ |11.dz1.2-4|_
      - |11.dz2.1|_ |11.dz2.2-3|_
-     -
-     -
-     -
+     - |11.dz3.1|_ 
+     - |11.dz4.1|_ |11.dz4.2-4|_
+     - |11.dz5.1|_
      -
      -
      -
@@ -256,6 +256,9 @@
 .. |9.dz3.1| replace:: 1
 .. _9.dz3.1: https://github.com/dudev/3HW.WEB
 
+.. |11.dz3.1| replace:: 1
+.. _11.dz3.1: https://github.com/Dino1992/Web_h2
+
 .. Домашняя работа #4
 
 .. |1.dz4.1| replace:: 1
@@ -283,6 +286,11 @@
 .. |2.dz4.2-4| replace:: 2-4
 .. _2.dz4.2-4: https://gist.github.com/BigDaddy1337/e93205314bbe47677f6e
 
+.. |11.dz4.1| replace:: 1
+.. _11.dz4.1 : https://github.com/Dino1992/homeWork4
+.. |11.dz4.2-4| replace:: 2-4
+.. _11.dz4.2-4 : https://gist.github.com/Dino1992/f7317dbc8d0d91328214
+
 .. Домашняя работа #5
 
 .. |1.dz5.1| replace:: 1
@@ -296,5 +304,8 @@
 
 .. |6.dz5.1| replace:: 1
 .. _6.dz5.1: https://github.com/maryekb94/HomeWork5
+
+.. |11.dz5.1| replace:: 1
+.. _11.dz5.1: https://github.com/Dino1992/homeWork5
 
 .. Курсовая работа
