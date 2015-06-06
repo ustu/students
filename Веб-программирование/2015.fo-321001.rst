@@ -100,7 +100,7 @@
      - |8.dz2.1|_ |8.dz2.2-3|_
      - |8.dz3.1|_
      - |8.dz4.1|_ |8.dz4.2-4|_
-     -
+     - |8.dz5.1|_
      -
      -
      -
@@ -296,5 +296,8 @@
 
 .. |6.dz5.1| replace:: 1
 .. _6.dz5.1: https://github.com/maryekb94/HomeWork5
+
+.. |8.dz5.1| replace:: 1
+.. _8.dz5.1: https://github.com/LZIM-94/HomeWorkFive_WEB
 
 .. Курсовая работа
