@@ -35,7 +35,7 @@
      - |2.dz3.1|_
      - |2.dz4.1|_ |2.dz4.2-4|_
      - |2.dz5.1|_
-     -
+     - |2.curs|_
      -
      -
    * - 3
@@ -101,7 +101,7 @@
      - |8.dz3.1|_
      - |8.dz4.1|_ |8.dz4.2-4|_
      - |8.dz5.1|_
-     -
+     - |8.curs|_
      -
      -
    * - 9
@@ -301,3 +301,9 @@
 .. _8.dz5.1: https://github.com/LZIM-94/HomeWorkFive_WEB
 
 .. Курсовая работа
+
+.. |2.curs| replace:: ОТЛ, "Интерактивная библиотека жанров музыки"
+.. _2.curs: https://github.com/LZIM-94/Web-Music-Library
+
+.. |8.curs| replace:: ОТЛ, "Интерактивная библиотека жанров музыки"
+.. _8.curs: https://github.com/LZIM-94/Web-Music-Library
