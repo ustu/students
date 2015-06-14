@@ -66,8 +66,8 @@
      - |5.dz1.1|_ |5.dz1.2-4|_
      - |5.dz2.1|_ |5.dz2.2-3|_
      - |5.dz3.1|_ 
-     -
-     -
+     - |5.dz4.1|_ |5.dz4.2-4|_
+     - |5.dz5.1|_ 
      -
      -
      -
@@ -283,6 +283,11 @@
 .. |2.dz4.2-4| replace:: 2-4
 .. _2.dz4.2-4: https://gist.github.com/BigDaddy1337/e93205314bbe47677f6e
 
+.. |5.dz4.1| replace:: 1
+.. _5.dz4.1: https://github.com/Pfffff/web
+.. |5.dz4.2-4| replace:: 2-4
+.. _5.dz4.2-4: https://gist.github.com/Pfffff/8edba2a5fb36cd30a05a
+
 .. Домашняя работа #5
 
 .. |1.dz5.1| replace:: 1
@@ -299,6 +304,9 @@
 
 .. |8.dz5.1| replace:: 1
 .. _8.dz5.1: https://github.com/LZIM-94/HomeWorkFive_WEB
+
+.. |5.dz5.1| replace:: 1
+.. _5.dz5.1: https://github.com/Pfffff/pyramidHW
 
 .. Курсовая работа
 
