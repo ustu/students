@@ -132,8 +132,8 @@
      - |11.dz1.1|_ |11.dz1.2-4|_
      - |11.dz2.1|_ |11.dz2.2-3|_
      -
-     -
-     -
+     - |11.dz4.1|_ |11.dz4.2-4|_
+     - |11.dz5.1|_
      -
      -
      -
@@ -288,6 +288,11 @@
 .. |5.dz4.2-4| replace:: 2-4
 .. _5.dz4.2-4: https://gist.github.com/Pfffff/8edba2a5fb36cd30a05a
 
+.. |11.dz4.1| replace:: 1
+.. _11.dz4.1: https://github.com/Dino1992/dz4
+.. |11.dz4.2-4| replace:: 2-4
+.. _11.dz4.2-4: https://gist.github.com/Dino1992/f7317dbc8d0d91328214
+
 .. Домашняя работа #5
 
 .. |1.dz5.1| replace:: 1
@@ -305,6 +310,8 @@
 .. |8.dz5.1| replace:: 1
 .. _8.dz5.1: https://github.com/LZIM-94/HomeWorkFive_WEB
 
+.. |11.dz5.1| replace:: 1
+.. _11.dz5.1: https://github.com/Dino1992/homeWork5
 .. Курсовая работа
 
 .. |2.curs| replace:: "Интерактивная библиотека жанров музыки"
