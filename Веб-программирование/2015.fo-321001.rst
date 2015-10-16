@@ -70,7 +70,7 @@
      -
      -
      -
-     -
+     - |5.curs|_
    * - 6
      - Зылева Мария
      - mary_
@@ -321,5 +321,8 @@
 
 .. |11.curs| replace:: "Проектирование каталога спортивного питания"
 .. _11.curs: https://github.com/maryekb94/-web
+
+.. |5.curs| replace:: "Сайт игры ArmyCommander"
+.. _5.curs: https://github.com/Pfffff/Site
 
 
