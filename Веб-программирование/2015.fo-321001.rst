@@ -51,11 +51,11 @@
      -
    * - 4
      - Гайнуллин Закван
-     -
-     -
-     -
-     -
-     -
+     - Zak-Zak_
+     - |4.dz1.1|_ |4.dz1.2-4|_
+     - |4.dz2.1|_ |4.dz2.2-3|_
+     - |4.dz3.1|_
+     - |4.dz4.1|_ |4.dz4.2-4|_
      -
      -
      -
@@ -160,6 +160,7 @@
 .. _LZiM: https://github.com/LZIM-94
 .. _Dino1992: https://github.com/Dino1992
 .. _dudev: https://github.com/dudev
+.. _Zak-Zak: https://github.com/Zak-Zak
 
 
 .. Домашняя работа #1
@@ -173,6 +174,11 @@
 .. _2.dz1.1: https://github.com/BigDaddy1337/WEB/tree/master/myproject
 .. |2.dz1.2-4| replace:: 2-4
 .. _2.dz1.2-4: https://gist.github.com/BigDaddy1337
+
+.. |4.dz1.1| replace:: 1
+.. _4.dz1.1: https://github.com/Zak-Zak/Web_Homework1
+.. |4.dz1.2-4| replace:: 2-4
+.. _4.dz1.2-4: https://gist.github.com/Zak-Zak/c9466712e237ffbf7481
 
 .. |5.dz1.1| replace:: 1
 .. _5.dz1.1: https://github.com/Pfffff/my1stRepo
@@ -211,6 +217,11 @@
 .. |2.dz2.2-3| replace:: 2-3
 .. _2.dz2.2-3: https://gist.github.com/BigDaddy1337/6141439fe387b59c9f54
 
+.. |4.dz2.1| replace:: 1
+.. _4.dz2.1: https://github.com/Zak-Zak/WEB_Homework2
+.. |4.dz2.2-3| replace:: 2-3
+.. _4.dz2.2-3: https://gist.github.com/Zak-Zak/252b4ffae9cb8b06e3e3
+
 .. |6.dz2.1| replace:: 1
 .. _6.dz2.1: https://github.com/maryekb94/-1-web/tree/master/myproject
 .. |6.dz2.2-3| replace:: 2-3
@@ -246,6 +257,9 @@
 
 .. |2.dz3.1| replace:: 1
 .. _2.dz3.1: https://github.com/BigDaddy1337/WEB/tree/master/myproject
+
+.. |4.dz3.1| replace:: 1
+.. _4.dz3.1: https://github.com/Zak-Zak/WEB_Homework3
 
 .. |8.dz3.1| replace:: 1
 .. _8.dz3.1: https://github.com/LZIM-94/MyProject1/tree/master/myproject
@@ -287,6 +301,11 @@
 .. _5.dz4.1: https://github.com/Pfffff/web
 .. |5.dz4.2-4| replace:: 2-4
 .. _5.dz4.2-4: https://gist.github.com/Pfffff/8edba2a5fb36cd30a05a
+
+.. |4.dz4.1| replace:: 1
+.. _4.dz4.1: https://github.com/Zak-Zak/WEB_Homework4
+.. |4.dz4.2-4| replace:: 2-4
+.. _4.dz4.2-4: https://gist.github.com/Zak-Zak/827c346d081b06ed3232
 
 .. Домашняя работа #5
 
