@@ -114,7 +114,7 @@
      - |9.dz5.1|_
      -
      - хор.
-     -
+     - |9.curs|_
    * - 10
      - Рычков Всеволод
      -
@@ -325,4 +325,5 @@
 .. |5.curs| replace:: "Сайт игры ArmyCommander"
 .. _5.curs: https://github.com/Pfffff/Site
 
-
+.. |9.curs| replace:: Блог
+.. _9.curs: https://github.com/dudev/web-py
