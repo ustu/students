@@ -59,7 +59,7 @@
      -
      -
      -
-     -
+     - |4.curs|_
    * - 5
      - Зуева Галина
      - pfffff_
@@ -344,4 +344,6 @@
 .. |5.curs| replace:: "Сайт игры ArmyCommander"
 .. _5.curs: https://github.com/Pfffff/Site
 
+.. |4.curs| replace:: "Онлайн магазин компьютерных игр"
+.. _4.curs: https://github.com/Zak-Zak/OnlineStore
 
