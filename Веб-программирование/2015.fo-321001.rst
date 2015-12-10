@@ -114,7 +114,7 @@
      - |9.dz5.1|_
      -
      - хор.
-     -
+     - |9.curs|_
    * - 10
      - Рычков Всеволод
      -
@@ -347,3 +347,5 @@
 .. |4.curs| replace:: "Онлайн магазин компьютерных игр"
 .. _4.curs: https://github.com/Zak-Zak/OnlineStore
 
+.. |9.curs| replace:: Блог
+.. _9.curs: https://github.com/dudev/web-py
