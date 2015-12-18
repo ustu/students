@@ -84,7 +84,7 @@
      - |6.curs|_
    * - 7
      - Кулешов Денис
-     - Aironsoft_
+     - https://github.com/Aironsoft
      -
      -
      -
