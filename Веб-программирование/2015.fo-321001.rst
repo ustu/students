@@ -84,6 +84,7 @@
      - |6.curs|_
    * - 7
      - Кулешов Денис
+     - Aironsoft_
      -
      -
      -
@@ -91,8 +92,7 @@
      -
      -
      -
-     -
-     -
+     - |7.curs|_
    * - 8
      - Новачек Дмитрий
      - LZiM_
@@ -157,6 +157,7 @@
 .. _BigDaddy: https://github.com/BigDaddy1337
 .. _MrEqu: https://github.com/MrEqu
 .. _mary: https://github.com/maryekb94
+.. _Aironsoft: https://github.com/Aironsoft
 .. _LZiM: https://github.com/LZIM-94
 .. _Dino1992: https://github.com/Dino1992
 .. _dudev: https://github.com/dudev
@@ -344,6 +345,9 @@
 
 .. |6.curs| replace:: "Проектирование каталога спортивного питания"
 .. _6.curs: https://github.com/maryekb94/-web
+
+.. |7.curs| replace:: "Мультимедийный портал"
+.. _7.curs: https://github.com/Aironsoft/aura
 
 .. |11.curs| replace:: "Проектирование каталога спортивного питания"
 .. _11.curs: https://github.com/maryekb94/-web
