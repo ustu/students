@@ -13,11 +13,11 @@
      - |dz3|_
      - |dz4|_
      - |dz5|_
-     - курсовая (06-06-2015)
-     - зачет (06-06-2015)
+     - курсовая (??-06-2016)
+     - зачет (??-06-2016)
      - тема курсовой
    * - 1
-     - Белкина Екатерина Валерьевна
+     - Анисимов Илья
      -
      -
      -
@@ -28,7 +28,150 @@
      -
      -
    * - 2
-     - Бердюгина Анастасия Олеговна
+     - Гирко Евгений
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 3
+     - Гошкодеров Анатолий
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 4
+     - Каневский Иван
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 5
+     - Легаев Максим
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 6
+     - Муратшин Тимур
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 7
+     - Нищих Инна
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 8
+     - Пермякова Любовь
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 9
+     - Рычков Всеволод
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 10
+     - Симаков Юрий
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 11
+     - Соколов Михаил
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 12
+     - Суворина Арина
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 13
+     - Табакова Кристина
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 14
+     - Фирсов Евгений
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 15
+     - Хорошун Альберт
      -
      -
      -
@@ -46,11 +189,11 @@
 .. |dz3| replace:: дз #3 (WSGI)
 .. |dz4| replace:: дз #4 (Web)
 .. |dz5| replace:: дз #5 (Pyramid)
-.. _dz1: http://lectures.uralbash.ru/3.kpd/_checkpoint.html
-.. _dz2: http://lectures.uralbash.ru/4.net/_checkpoint.html
-.. _dz3: http://lectures.uralbash.ru/5.web.server/_checkpoint.html
-.. _dz4: http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html
-.. _dz5: http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html
+.. _dz1: http://lectures.uralbash.ru/en/latest/3.kpd/_checkpoint.html
+.. _dz2: http://lectures.uralbash.ru/en/latest/4.net/_checkpoint.html
+.. _dz3: http://lectures.uralbash.ru/en/latest/5.web.server/_checkpoint.html
+.. _dz4: http://lectures.uralbash.ru/en/latest/6.www.sync/2.codding/_checkpoint.html
+.. _dz5: http://lectures.uralbash.ru/en/latest/6.www.sync/3.framework/pyramid/_checkpoint.html
 
 .. GitHub
 
@@ -59,10 +202,6 @@
 
 .. Домашняя работа #1
 
-.. |1.dz1.1| replace:: 1
-.. _1.dz1.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework1
-.. |1.dz1.2-4| replace:: 2-4
-.. _1.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
 
 .. Домашняя работа #2
 
@@ -74,7 +213,5 @@
 
 .. Домашняя работа #5
 
-.. Курсовая работа
 
-.. |2.curs| replace:: "Интерактивная библиотека жанров музыки"
-.. _2.curs: https://github.com/LZIM-94/Web-Music-Library
+.. Курсовая работа
