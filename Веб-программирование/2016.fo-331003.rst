@@ -1,0 +1,80 @@
+ФО-321001
+=========
+
+.. list-table:: Успеваемость
+   :header-rows: 1
+   :stub-columns: 1
+
+   * -
+     - ФИО
+     - github
+     - |dz1|_
+     - |dz2|_
+     - |dz3|_
+     - |dz4|_
+     - |dz5|_
+     - курсовая (06-06-2015)
+     - зачет (06-06-2015)
+     - тема курсовой
+   * - 1
+     - Белкина Екатерина Валерьевна
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 2
+     - Бердюгина Анастасия Олеговна
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+
+.. CheckPoints
+
+.. |dz1| replace:: дз #1 (HTTP)
+.. |dz2| replace:: дз #2 (Socket)
+.. |dz3| replace:: дз #3 (WSGI)
+.. |dz4| replace:: дз #4 (Web)
+.. |dz5| replace:: дз #5 (Pyramid)
+.. _dz1: http://lectures.uralbash.ru/3.kpd/_checkpoint.html
+.. _dz2: http://lectures.uralbash.ru/4.net/_checkpoint.html
+.. _dz3: http://lectures.uralbash.ru/5.web.server/_checkpoint.html
+.. _dz4: http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html
+.. _dz5: http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html
+
+.. GitHub
+
+.. _uralbash: https://github.com/uralbash
+
+
+.. Домашняя работа #1
+
+.. |1.dz1.1| replace:: 1
+.. _1.dz1.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework1
+.. |1.dz1.2-4| replace:: 2-4
+.. _1.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
+
+.. Домашняя работа #2
+
+
+.. Домашняя работа #3
+
+
+.. Домашняя работа #4
+
+.. Домашняя работа #5
+
+.. Курсовая работа
+
+.. |2.curs| replace:: "Интерактивная библиотека жанров музыки"
+.. _2.curs: https://github.com/LZIM-94/Web-Music-Library
