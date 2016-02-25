@@ -200,7 +200,7 @@
 .. |dz3| replace:: дз #3 (WSGI)
 .. |dz4| replace:: дз #4 (Web)
 .. |dz5| replace:: дз #5 (Pyramid)
-.. _dz1: http://lectures.uralbash.ru/en/latest/3.kpd/_checkpoint.html
+.. _dz1: http://lectureskpd.readthedocs.org/kpd/_checkpoint.html
 .. _dz2: http://lectures.uralbash.ru/en/latest/4.net/_checkpoint.html
 .. _dz3: http://lectures.uralbash.ru/en/latest/5.web.server/_checkpoint.html
 .. _dz4: http://lectures.uralbash.ru/en/latest/6.www.sync/2.codding/_checkpoint.html
