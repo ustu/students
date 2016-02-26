@@ -209,6 +209,7 @@
 .. GitHub
 
 .. _uralbash: https://github.com/uralbash
+.. _VAShibaev: https://github.com/VAShibaev
 
 
 .. Домашняя работа #1
