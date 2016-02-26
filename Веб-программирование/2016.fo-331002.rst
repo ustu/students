@@ -161,7 +161,7 @@
      -
    * - 14
      - Чухарев Константин Сергеевич
-     -
+     - ChukharevKS_
      -
      -
      -
@@ -209,6 +209,7 @@
 .. GitHub
 
 .. _uralbash: https://github.com/uralbash
+.. _ChukharevKS: https://github.com/ChukharevKS
 
 
 .. Домашняя работа #1
