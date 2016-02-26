@@ -181,17 +181,6 @@
      -
      -
      -
-   * - 0
-     - Пример
-     - uralbash_
-     - |0.dz1.1|_ |0.dz1.2-4|_
-     -
-     -
-     -
-     -
-     - отл.
-     - отл.
-     - |0.curs|_
 
 .. CheckPoints
 
@@ -208,7 +197,6 @@
 
 .. GitHub
 
-.. _uralbash: https://github.com/uralbash
 .. _ChukharevKS: https://github.com/ChukharevKS
 .. _FominaMasha: https://github.com/FominaMasha
 .. _VAShibaev: https://github.com/VAShibaev
