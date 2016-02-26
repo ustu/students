@@ -139,7 +139,7 @@
      -
    * - 12
      - Фомина Мария Георгиевна
-     -
+     - FominaMasha_
      -
      -
      -
@@ -209,6 +209,7 @@
 .. GitHub
 
 .. _uralbash: https://github.com/uralbash
+.. _FominaMasha: https://github.com/FominaMasha
 
 
 .. Домашняя работа #1
