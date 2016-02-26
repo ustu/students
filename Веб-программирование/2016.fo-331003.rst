@@ -117,7 +117,7 @@
      -
    * - 10
      - Симаков Юрий
-     -
+     - https://github.com/YuriySimakov/web
      -
      -
      -
