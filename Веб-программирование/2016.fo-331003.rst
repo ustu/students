@@ -197,7 +197,6 @@
 
 .. GitHub
 
-.. _uralbash: https://github.com/uralbash
 .. _YuriySimakov: https://github.com/YuriySimakov
 
 .. Домашняя работа #1
