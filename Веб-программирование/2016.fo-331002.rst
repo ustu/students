@@ -106,7 +106,7 @@
      -
    * - 9
      - Сарафанов Дмитрий Евгеньевич
-     -
+     - sarafanovde_
      -
      -
      -
@@ -201,6 +201,7 @@
 .. _FominaMasha: https://github.com/FominaMasha
 .. _VAShibaev: https://github.com/VAShibaev
 .. _mashaOtstavnova: https://github.com/mashaOtstavnova
+.. _sarafanovde: https://github.com/sarafanovde
 
 
 .. Домашняя работа #1
