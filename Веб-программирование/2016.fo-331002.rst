@@ -172,7 +172,7 @@
      -
    * - 15
      - Шибаев Вячеслав Алексеевич
-     -
+     - VAShibaev_
      -
      -
      -
@@ -211,6 +211,7 @@
 .. _uralbash: https://github.com/uralbash
 .. _ChukharevKS: https://github.com/ChukharevKS
 .. _FominaMasha: https://github.com/FominaMasha
+.. _VAShibaev: https://github.com/VAShibaev
 
 
 .. Домашняя работа #1
