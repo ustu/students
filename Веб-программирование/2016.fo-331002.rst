@@ -95,7 +95,7 @@
      -
    * - 8
      - Отставнова Мария Андреевна
-     -
+     - mashaOtstavnova_
      -
      -
      -
@@ -200,6 +200,7 @@
 .. _ChukharevKS: https://github.com/ChukharevKS
 .. _FominaMasha: https://github.com/FominaMasha
 .. _VAShibaev: https://github.com/VAShibaev
+.. _mashaOtstavnova: https://github.com/mashaOtstavnova
 
 
 .. Домашняя работа #1
