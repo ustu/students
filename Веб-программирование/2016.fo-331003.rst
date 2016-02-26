@@ -160,9 +160,9 @@
      -
      -
    * - 14
-     - Фирсов Евгений
-     -
-     -
+     - Фирсова Евгения
+     - `FirsovaJane <https://github.com/FirsovaJane>`_
+     - 
      -
      -
      -
