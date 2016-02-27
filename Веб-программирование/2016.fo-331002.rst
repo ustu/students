@@ -96,7 +96,7 @@
    * - 8
      - Отставнова Мария Андреевна
      - mashaOtstavnova_
-     -
+     - 2_
      -
      -
      -
@@ -216,6 +216,7 @@
 .. _0.dz1.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework1
 .. |0.dz1.2-4| replace:: 2-4
 .. _0.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
+.. _2: https://gist.github.com/mashaOtstavnova/e168f85d2c3c054e596e
 
 .. Домашняя работа #2
 
