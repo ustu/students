@@ -84,7 +84,7 @@
      -
    * - 7
      - Нищих Инна
-     -
+     - InnaNishchikh_
      -
      -
      -
@@ -200,6 +200,7 @@
 .. _YuriySimakov: https://github.com/YuriySimakov
 .. _jeka: https://github.com/jekaaa
 .. _ikanlol: https://github.com/ikanlol
+.. _InnaNishchikh: https://github.com/InnaNishchikh
 
 .. Домашняя работа #1
 
