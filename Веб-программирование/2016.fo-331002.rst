@@ -62,7 +62,7 @@
      -
    * - 5
      - Еремина Екатерина Константиновна
-     -
+     - ekaterem_
      -
      -
      -
@@ -203,7 +203,7 @@
 .. _mashaOtstavnova: https://github.com/mashaOtstavnova
 .. _sarafanovde: https://github.com/sarafanovde
 .. _maksimemelyanov: https://github.com/maksimemelyanov 
-
+.. _ekaterem: https://github.com/ekaterem
 .. Домашняя работа #1
 
 .. |0.dz1.1| replace:: 1
