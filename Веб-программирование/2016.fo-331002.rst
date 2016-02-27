@@ -84,7 +84,7 @@
      -
    * - 7
      - Куксовский Вадим Егорович
-     -
+     - Dizrax_
      -
      -
      -
@@ -202,7 +202,8 @@
 .. _VAShibaev: https://github.com/VAShibaev
 .. _mashaOtstavnova: https://github.com/mashaOtstavnova
 .. _sarafanovde: https://github.com/sarafanovde
-.. _maksimemelyanov: https://github.com/maksimemelyanov 
+.. _maksimemelyanov: https://github.com/maksimemelyanov
+.. _Dizrax: https://github.com/Dizrax
 
 .. Домашняя работа #1
 
