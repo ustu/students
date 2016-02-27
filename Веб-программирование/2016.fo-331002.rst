@@ -62,7 +62,7 @@
      -
    * - 5
      - Еремина Екатерина Константиновна
-     -
+     - ekaterem_
      -
      -
      -
@@ -206,6 +206,7 @@
 .. _Dizrax: https://github.com/Dizrax
 .. _Porader: https://github.com/Porader
 .. _dmitryduykin: https://github.com/dmitryduykin
+.. _ekaterem: https://github.com/ekaterem
 
 .. Домашняя работа #1
 
