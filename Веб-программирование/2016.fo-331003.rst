@@ -73,7 +73,7 @@
      -
    * - 6
      - Муратшин Тимур
-     -
+     - timxmur_
      -
      -
      -
@@ -150,7 +150,7 @@
      -
    * - 13
      - Табакова Кристина
-     -
+     - `TabakovaChristina <https://github.com/TabakovaChristina>`_
      -
      -
      -
@@ -198,6 +198,7 @@
 .. GitHub
 
 .. _YuriySimakov: https://github.com/YuriySimakov
+.. _timxmur: https://github.com/timxmur
 
 .. Домашняя работа #1
 
