@@ -40,12 +40,12 @@
      -
    * - 3
      - Гошкодеров Анатолий
-     -
-     - haha_
-     -
-     -
-     -
-     -
+     - BlameFlame_
+     - |3.dz1.1|_ |3.dz1.2-4|_
+     - 
+     - 
+     - 
+     - 
      -
      -
      -
@@ -198,10 +198,14 @@
 .. GitHub
 
 .. _uralbash: https://github.com/uralbash
-.. _haha: https://github.com/BlameFlame
+.. _BlameFlame: https://github.com/BlameFlame
 
 .. Домашняя работа #1
 
+.. |3.dz1.1| replace:: 1
+.. _3.dz1.1: https://github.com/BlameFlame/-1
+.. |3.dz1.2-4| replace:: 2-4
+.. _3.dz1.2-4: https://gist.github.com/BlameFlame
 
 .. Домашняя работа #2
 
