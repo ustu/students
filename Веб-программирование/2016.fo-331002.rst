@@ -40,7 +40,7 @@
      -
    * - 3
      - Дюкин Дмитрий Степанович
-     -
+     - dmitryduykin_
      -
      -
      -
@@ -203,6 +203,7 @@
 .. _mashaOtstavnova: https://github.com/mashaOtstavnova
 .. _sarafanovde: https://github.com/sarafanovde
 .. _maksimemelyanov: https://github.com/maksimemelyanov 
+.. _dmitryduykin: https://github.com/dmitryduykin
 
 .. Домашняя работа #1
 
