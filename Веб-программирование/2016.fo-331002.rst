@@ -18,7 +18,7 @@
      - тема курсовой
    * - 1
      - Белкина Екатерина Валерьевна
-     -
+     - KateBV_
      -
      -
      -
@@ -207,6 +207,7 @@
 .. _Porader: https://github.com/Porader
 .. _dmitryduykin: https://github.com/dmitryduykin
 .. _ekaterem: https://github.com/ekaterem
+.. _KateBV: https://github.com/KateDV
 
 .. Домашняя работа #1
 
