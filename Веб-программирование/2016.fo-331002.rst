@@ -73,7 +73,7 @@
      -
    * - 6
      - Корнилов Валентин Вадимович
-     -
+     - GiperFrukt_
      -
      -
      -
@@ -208,6 +208,7 @@
 .. _dmitryduykin: https://github.com/dmitryduykin
 .. _ekaterem: https://github.com/ekaterem
 .. _KateBV: https://github.com/KateDV
+.. _GiperFrukt: https://github.com/GiperFrukt
 
 .. Домашняя работа #1
 
