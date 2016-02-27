@@ -107,7 +107,7 @@
    * - 9
      - Сарафанов Дмитрий Евгеньевич
      - sarafanovde_
-     - |9.dz1.2|_
+     - |9.dz1.2|_ |9.dz1.3|_
      -
      -
      -
@@ -218,7 +218,8 @@
 .. _0.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
 .. |9.dz1.2| replace:: 2
 .. _9.dz1.2: https://gist.github.com/sarafanovde/93d0db993a1e5e3edb51
-
+.. |9.dz1.3| replace:: 3
+.. _9.dz1.3: https://gist.github.com/sarafanovde/0b92c98bdb4c9f179d36
 
 .. Домашняя работа #2
 
