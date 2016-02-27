@@ -52,7 +52,7 @@
    * - 4
      - Емельянов Максим Игоревич
      - maksimemelyanov_
-     -
+     - |4.dz1.2|_
      -
      -
      -
@@ -218,6 +218,8 @@
 .. _0.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
 .. |8.dz1.2| replace:: 2
 .. _8.dz1.2: https://gist.github.com/mashaOtstavnova/e168f85d2c3c054e596e
+.. |0.dz1.2| replace:: 2
+.. _0.dz1.2: https://gist.github.com/maksimemelyanov/b2fb3a6ba348620d18e1
 .. Домашняя работа #2
 
 
