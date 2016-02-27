@@ -29,7 +29,7 @@
      -
    * - 2
      - Гирко Евгений
-     -
+     - jeka_
      -
      -
      -
@@ -198,6 +198,7 @@
 .. GitHub
 
 .. _YuriySimakov: https://github.com/YuriySimakov
+.. _jeka: https://github.com/jekaaa
 
 .. Домашняя работа #1
 
