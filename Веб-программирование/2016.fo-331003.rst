@@ -51,7 +51,7 @@
      -
    * - 4
      - Каневский Иван
-     -
+     - ikanlol_
      -
      -
      -
@@ -199,6 +199,7 @@
 
 .. _YuriySimakov: https://github.com/YuriySimakov
 .. _jeka: https://github.com/jekaaa
+.. _ikanlol: https://github.com/ikanlol
 
 .. Домашняя работа #1
 
