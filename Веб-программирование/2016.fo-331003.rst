@@ -172,7 +172,7 @@
      -
    * - 15
      - Хорошун Альберт
-     -
+     - KhorAMus_
      -
      -
      -
@@ -198,6 +198,7 @@
 .. GitHub
 
 .. _YuriySimakov: https://github.com/YuriySimakov
+.. _KhorAMus: https://github.com/KhorAMus
 
 .. Домашняя работа #1
 
