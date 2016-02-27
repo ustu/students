@@ -18,7 +18,7 @@
      - тема курсовой
    * - 1
      - Белкина Екатерина Валерьевна
-     -
+     - KateBV_
      -
      -
      -
@@ -204,6 +204,7 @@
 .. _sarafanovde: https://github.com/sarafanovde
 .. _maksimemelyanov: https://github.com/maksimemelyanov
 .. _Dizrax: https://github.com/Dizrax
+.. _KateBV: https://github.com/settings/profile
 
 .. Домашняя работа #1
 
