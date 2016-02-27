@@ -40,7 +40,7 @@
      -
    * - 3
      - Дюкин Дмитрий Степанович
-     -
+     - dmitryduykin_
      -
      -
      -
@@ -205,6 +205,7 @@
 .. _maksimemelyanov: https://github.com/maksimemelyanov
 .. _Dizrax: https://github.com/Dizrax
 .. _Porader: https://github.com/Porader
+.. _dmitryduykin: https://github.com/dmitryduykin
 
 .. Домашняя работа #1
 
