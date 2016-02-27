@@ -118,7 +118,7 @@
    * - 10
      - Симаков Юрий
      - YuriySimakov_
-     -
+     - `2 <https://gist.github.com/YuriySimakov/af3eb4bb818cdf141e11>`_
      -
      -
      -
