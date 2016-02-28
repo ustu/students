@@ -140,8 +140,8 @@
    * - 12
      - Фомина Мария Георгиевна
      - FominaMasha_
-     - |12.dz1.2|_
-     -
+     - |12.dz1.1|_ |12.dz1.2|_
+     - 
      -
      -
      -
@@ -221,6 +221,8 @@
 
 .. |8.dz1.2| replace:: 2
 .. _8.dz1.2: https://gist.github.com/mashaOtstavnova/e168f85d2c3c054e596e
+.. |12.dz1.1| replace:: 1
+.. _12.dz1.1: https://github.com/FominaMasha/Web-HomeWork1
 .. |12.dz1.2| replace:: 2
 .. _12.dz1.2: https://gist.github.com/FominaMasha/e489d54fb25f65bafdd6
 .. |1.dz1.2| replace:: 2
