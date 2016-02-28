@@ -29,7 +29,7 @@
      -
    * - 2
      - Бердюгина Анастасия Олеговна
-     -
+     - BerdyuginaAnastasia_
      -
      -
      -
@@ -209,6 +209,7 @@
 .. _ekaterem: https://github.com/ekaterem
 .. _KateBV: https://github.com/KateDV
 .. _GiperFrukt: https://github.com/GiperFrukt
+.. _BerdyuginaAnastasia: https://github.com/BerdyuginaAnastasia
 
 .. Домашняя работа #1
 
