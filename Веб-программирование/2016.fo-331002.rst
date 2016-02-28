@@ -19,7 +19,7 @@
    * - 1
      - Белкина Екатерина Валерьевна
      - KateBV_
-     -
+     - |1.dz1.2|_
      -
      -
      -
@@ -220,6 +220,9 @@
 .. _8.dz1.2: https://gist.github.com/mashaOtstavnova/e168f85d2c3c054e596e
 .. |12.dz1.2| replace:: 2
 .. _12.dz1.2: https://gist.github.com/FominaMasha/e489d54fb25f65bafdd6
+.. |1.dz1.2| replace:: 2
+.. _1.dz1.2: https://gist.github.com/KateBV/2ed3f29d02cd4ab76d7a
+
 .. Домашняя работа #2
 
 
