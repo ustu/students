@@ -151,7 +151,7 @@
    * - 13
      - Табакова Кристина
      - `TabakovaChristina <https://github.com/TabakovaChristina>`_
-     -
+     - |13.dz1.2|_
      -
      -
      -
@@ -202,7 +202,8 @@
 .. _KhorAMus: https://github.com/KhorAMus
 
 .. Домашняя работа #1
-
+.. |13.dz1.2| replace:: 2
+.. _13.dz1.2: https://gist.github.com/TabakovaChristina/c7c0f6899cf1d27bfda5
 
 .. Домашняя работа #2
 
