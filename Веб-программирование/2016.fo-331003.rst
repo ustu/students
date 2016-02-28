@@ -173,7 +173,7 @@
    * - 15
      - Хорошун Альберт
      - KhorAMus_
-     -
+     - |15.dz1.2|_
      -
      -
      -
@@ -205,7 +205,8 @@
 .. Домашняя работа #1
 .. |13.dz1.2| replace:: 2
 .. _13.dz1.2: https://gist.github.com/TabakovaChristina/c7c0f6899cf1d27bfda5
-
+.. |15.dz1.2| replace:: 2
+.. _15.dz1.2: https://gist.github.com/KhorAMus/afacff7f350e25bebb57
 .. Домашняя работа #2
 
 
