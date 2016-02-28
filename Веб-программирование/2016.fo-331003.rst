@@ -29,7 +29,7 @@
      -
    * - 2
      - Гирко Евгений
-     -
+     - jeka_
      -
      -
      -
@@ -201,6 +201,7 @@
 .. _timxmur: https://github.com/timxmur
 .. _KhorAMus: https://github.com/KhorAMus
 .. _InnaNishchikh: https://github.com/InnaNishchikh
+.. _jeka: https://github.com/jekaaa
 
 .. Домашняя работа #1
 .. |13.dz1.2| replace:: 2
