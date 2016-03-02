@@ -118,7 +118,7 @@
    * - 10
      - Тесленко Наталья Олеговна
      - teslenkoNatasha_
-     -
+     - |10.dz1.1|_
      -
      -
      -
@@ -229,6 +229,8 @@
 .. _1.dz1.2: https://gist.github.com/KateBV/2ed3f29d02cd4ab76d7a
 .. |11.dz1.2| replace:: 2
 .. _11.dz1.2: https://gist.github.com/Porader/39f2e7876e1ac88ba303
+.. |10.dz1.1| replace:: 1
+.. _10.dz1.1: https://github.com/teslenkoNatasha/myproject
 
 .. Домашняя работа #2
 
