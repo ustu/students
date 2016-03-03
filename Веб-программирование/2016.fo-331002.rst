@@ -96,7 +96,7 @@
    * - 8
      - Отставнова Мария Андреевна
      - mashaOtstavnova_
-     - |8.dz1.2|_
+     - |8.dz1.1|_ |8.dz1.2|_
      -
      -
      -
@@ -219,7 +219,9 @@
 .. |0.dz1.2-4| replace:: 2-4
 .. _0.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
 
-.. |8.dz1.2| replace:: 2
+.. |8.dz1.1| replace:: 1
+.. _8.dz1.1: https://github.com/mashaOtstavnova/HomeWork1
+.. |8.dz1.2| replace:: 2-4
 .. _8.dz1.2: https://gist.github.com/mashaOtstavnova/e168f85d2c3c054e596e
 .. |12.dz1.1| replace:: 1
 .. _12.dz1.1: https://github.com/FominaMasha/Web-HomeWork1
