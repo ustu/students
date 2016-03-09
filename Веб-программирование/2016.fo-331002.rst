@@ -184,7 +184,7 @@
    * - 14
      - Чухарев Константин Сергеевич
      - ChukharevKS_
-     -
+     - |14.dz1.1|_ |14.dz1.2-4|_
      -
      -
      -
@@ -255,6 +255,10 @@
 .. _11.dz1.2: https://gist.github.com/Porader/39f2e7876e1ac88ba303
 .. |10.dz1.1| replace:: 1
 .. _10.dz1.1: https://github.com/teslenkoNatasha/myproject
+.. |14.dz1.1| replace:: 1
+.. _14.dz1.1: https://github.com/ChukharevKS/Task1
+.. |14.dz1.2-4| replace:: 2-4
+.. _14.dz1.2-4: https://gist.github.com/ChukharevKS/abb8b301400dbe4c6256
 
 .. Домашняя работа #2
 
