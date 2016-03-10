@@ -161,7 +161,7 @@
      -
    * - 12
      - Суворина Арина
-     -
+     - arinasuvorina_
      -
      -
      -
@@ -224,6 +224,7 @@
 .. _KhorAMus: https://github.com/KhorAMus
 .. _InnaNishchikh: https://github.com/InnaNishchikh
 .. _jekaaa: https://github.com/jekaaa
+.. _arinasuvorina: https://github.com/arinasuvorina
 
 .. Домашняя работа #1
 .. |13.dz1.2| replace:: 2
