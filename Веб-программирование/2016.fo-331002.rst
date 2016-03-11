@@ -107,7 +107,7 @@
    * - 7
      - Куксовский Вадим Егорович
      - Dizrax_
-     -
+     - |7.dz1.1|_  |7.dz1.2-4|_
      -
      -
      -
@@ -262,7 +262,10 @@
 .. _14.dz1.1: https://github.com/ChukharevKS/Task1
 .. |14.dz1.2-4| replace:: 2-4
 .. _14.dz1.2-4: https://gist.github.com/ChukharevKS/abb8b301400dbe4c6256
-
+.. |7.dz1.1| replace:: 1
+.. _7.dz1.1: https://github.com/Dizrax/myproject
+.. |7.dz1.2-4| replace:: 2-4
+.. _7.dz1.2-4: https://gist.github.com/Dizrax/aff13031c9b27f75b9cb
 
 .. Домашняя работа #2
 
