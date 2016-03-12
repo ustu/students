@@ -97,7 +97,7 @@
      - Корнилов Валентин Вадимович
      - GiperFrukt_
      - |6.dz1.1|_
-     -
+     - |6.dz1.2-3|_
      -
      -
      -
@@ -242,6 +242,8 @@
 .. _0.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
 .. |6.dz1.1| replace:: 1
 .. _6.dz1.1: https://github.com/GiperFrukt/myproject
+.. |6.dz1.2-3| replace:: 2-3
+.. _6.dz1.2-3: https://gist.github.com/GiperFrukt/ca370f79d774301fb227
 .. |8.dz1.1| replace:: 1
 .. _8.dz1.1: https://github.com/mashaOtstavnova/HomeWork1
 .. |8.dz1.2| replace:: 2-4
