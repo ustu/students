@@ -41,7 +41,7 @@
    * - 1
      - Белкина Екатерина Валерьевна
      - KateBV_
-     - |1.dz1.2-4|_ |1.dz1.1|_
+     - |1.dz1.1|_ |1.dz1.2-4|_ [**+5**]
      -
      -
      -
@@ -236,15 +236,10 @@
 
 .. Домашняя работа #1
 
-.. |0.dz1.1| replace:: 1
-.. _0.dz1.1: https://github.com/MrEqu/HomeWorks/releases/tag/homework1
-.. |0.dz1.2-4| replace:: 2-4
-.. _0.dz1.2-4: https://gist.github.com/MrEqu/5bdcae16620c09a46cc6
-
-.. |1.dz1.2-4| replace:: 2-4
-.. _1.dz1.2-4: https://gist.github.com/KateBV/2ed3f29d02cd4ab76d7a
 .. |1.dz1.1| replace:: 1
 .. _1.dz1.1: https://github.com/KateBV/-1.1
+.. |1.dz1.2-4| replace:: 2-4
+.. _1.dz1.2-4: https://gist.github.com/KateBV/2ed3f29d02cd4ab76d7a
 
 .. |4.dz1.1| replace:: 1
 .. _4.dz1.1: https://github.com/maksimemelyanov/WEB_1
