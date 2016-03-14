@@ -140,7 +140,7 @@
    * - 10
      - Симаков Юрий
      - YuriySimakov_
-     - `2 <https://gist.github.com/YuriySimakov/af3eb4bb818cdf141e11>`_
+     - |10.dz1.1|_ |10.dz1.2|_ |10.dz1.3|_ |10.dz1.4|_
      -
      -
      -
@@ -233,6 +233,14 @@
 .. _15.dz1.2: https://gist.github.com/KhorAMus/afacff7f350e25bebb57
 .. |2.dz1.2-3| replace:: 2-3
 .. _2.dz1.2-3: https://gist.github.com/jekaaa/d80ca8a949cc8322bd47
+.. |10.dz1.1| replace:: 1
+.. _10.dz1.1: https://github.com/YuriySimakov/1.1
+.. |10.dz1.2| replace:: 2
+.. _10.dz1.2: https://gist.github.com/YuriySimakov/af3eb4bb818cdf141e11
+.. |10.dz1.3| replace:: 3
+.. _10.dz1.3: https://gist.github.com/YuriySimakov/92628b1482de58c0c8b4
+.. |10.dz1.4| replace:: 4
+.. _10.dz1.4: https://gist.github.com/YuriySimakov/c81091908811a8684035
 .. Домашняя работа #2
 
 
