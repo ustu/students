@@ -195,7 +195,7 @@
    * - 15
      - Шибаев Вячеслав Алексеевич
      - VAShibaev_
-     -
+     - |15.dz1.1|_ |15.dz1.2-4|_
      -
      -
      -
@@ -278,6 +278,11 @@
 .. _14.dz1.1: https://github.com/ChukharevKS/Task1
 .. |14.dz1.2-4| replace:: 2-4
 .. _14.dz1.2-4: https://gist.github.com/ChukharevKS/abb8b301400dbe4c6256
+
+.. |15.dz1.1| replace:: 1
+.. _15.dz1.1: https://github.com/VAShibaev/myproject
+.. |15.dz1.2-4| replace:: 2-4
+.. _15.dz1.2-4: https://gist.github.com/VAShibaev/2f4bb3245e149d3dd737
 
 
 .. Домашняя работа #2
