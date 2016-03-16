@@ -162,7 +162,7 @@
    * - 12
      - Суворина Арина
      - arinasuvorina_
-     -
+     - |12.dz1.1|_ |12.dz1.2|_ |12.dz1.3|_ |12.dz1.4|_
      -
      -
      -
@@ -242,6 +242,14 @@
 .. _10.dz1.3: https://gist.github.com/YuriySimakov/92628b1482de58c0c8b4
 .. |10.dz1.4| replace:: 4
 .. _10.dz1.4: https://gist.github.com/YuriySimakov/c81091908811a8684035
+.. |12.dz1.1| replace:: 1
+.. _12.dz1.1: https://github.com/arinasuvorina/myproject
+.. |12.dz1.2| replace:: 2
+.. _12.dz1.2: https://gist.github.com/arinasuvorina/44f30538b6efa40d63b3
+.. |12.dz1.3| replace:: 3
+.. _12.dz1.3: https://gist.github.com/arinasuvorina/31346c90880f3340b7d2
+.. |12.dz1.4| replace:: 4
+.. _12.dz1.4: https://gist.github.com/arinasuvorina/4385550006110bbf834c
 .. Домашняя работа #2
 
 
