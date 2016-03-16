@@ -151,7 +151,7 @@
    * - 11
      - Соколов Михаил
      -
-     -
+     - |11.dz1.1|_ |11.dz1.2|_ |11.dz1.3|_ |11.dz1.4|_
      -
      -
      -
@@ -241,6 +241,15 @@
 .. _10.dz1.3: https://gist.github.com/YuriySimakov/92628b1482de58c0c8b4
 .. |10.dz1.4| replace:: 4
 .. _10.dz1.4: https://gist.github.com/YuriySimakov/c81091908811a8684035
+
+.. |11.dz1.1| replace:: 1
+.. _11.dz1.1: https://github.com/SokolovMikhail/myproject
+.. |11.dz1.2| replace:: 2
+.. _11.dz1.2: https://gist.github.com/SokolovMikhail/62928547b6c35843b60b
+.. |11.dz1.3| replace:: 3
+.. _11.dz1.3: https://gist.github.com/SokolovMikhail/085520b940d292327332
+.. |11.dz1.4| replace:: 4
+.. _11.dz1.4: https://gist.github.com/SokolovMikhail/d4ed15163c3c51bbff05
 .. Домашняя работа #2
 
 
