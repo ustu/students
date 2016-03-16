@@ -150,7 +150,7 @@
      -
    * - 11
      - Соколов Михаил
-     -
+     - SokolovMikhail_
      -
      -
      -
@@ -225,6 +225,7 @@
 .. _InnaNishchikh: https://github.com/InnaNishchikh
 .. _jekaaa: https://github.com/jekaaa
 .. _arinasuvorina: https://github.com/arinasuvorina
+.. _SokolovMikhail: https://github.com/SokolovMikhail
 
 .. Домашняя работа #1
 .. |13.dz1.2| replace:: 2
