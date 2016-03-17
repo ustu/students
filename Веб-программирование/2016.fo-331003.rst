@@ -52,7 +52,7 @@
    * - 2
      - Гирко Евгений
      - jekaaa_
-     - |2.dz1.2-3|_
+     - |2.dz1.1|_ |2.dz1.2-4|_
      -
      -
      -
@@ -228,8 +228,10 @@
 .. _SokolovMikhail: https://github.com/SokolovMikhail
 
 .. Домашняя работа #1
-.. |2.dz1.2-3| replace:: 2-3
-.. _2.dz1.2-3: https://gist.github.com/jekaaa/d80ca8a949cc8322bd47
+.. |2.dz1.1| replace:: 1
+.. _2.dz1.1: https://github.com/jekaaa/WEB
+.. |2.dz1.2-4| replace:: 2-4
+.. _2.dz1.2-4: https://gist.github.com/jekaaa/d80ca8a949cc8322bd47
 
 .. |10.dz1.1| replace:: 1
 .. _10.dz1.1: https://github.com/YuriySimakov/1.1
