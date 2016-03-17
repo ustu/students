@@ -162,7 +162,7 @@
    * - 12
      - Суворина Арина
      - arinasuvorina_
-     -
+     - |12.dz1.1|_ |12.dz1.2|_ |12.dz1.3|_ |12.dz1.4|_ [**+5**]
      -
      -
      -
@@ -248,6 +248,15 @@
 .. _11.dz1.3: https://gist.github.com/SokolovMikhail/085520b940d292327332
 .. |11.dz1.4| replace:: 4
 .. _11.dz1.4: https://gist.github.com/SokolovMikhail/d4ed15163c3c51bbff05
+
+.. |12.dz1.1| replace:: 1
+.. _12.dz1.1: https://github.com/arinasuvorina/myproject
+.. |12.dz1.2| replace:: 2
+.. _12.dz1.2: https://gist.github.com/arinasuvorina/44f30538b6efa40d63b3
+.. |12.dz1.3| replace:: 3
+.. _12.dz1.3: https://gist.github.com/arinasuvorina/31346c90880f3340b7d2
+.. |12.dz1.4| replace:: 4
+.. _12.dz1.4: https://gist.github.com/arinasuvorina/4385550006110bbf834c
 
 .. |13.dz1.2| replace:: 2
 .. _13.dz1.2: https://gist.github.com/TabakovaChristina/c7c0f6899cf1d27bfda5
