@@ -129,7 +129,7 @@
    * - 9
      - Сарафанов Дмитрий Евгеньевич
      - sarafanovde_
-     -
+     - |9.dz1.1|_ |9.dz1.2-4|_
      -
      -
      -
@@ -261,6 +261,11 @@
 .. _8.dz1.1: https://github.com/mashaOtstavnova/HomeWork1
 .. |8.dz1.2| replace:: 2-4
 .. _8.dz1.2: https://gist.github.com/mashaOtstavnova/e168f85d2c3c054e596e
+
+.. |9.dz1.1| replace:: 1
+.. _9.dz1.1: https://github.com/sarafanovde/myproject
+.. |9.dz1.2-4| replace:: 2-4
+.. _9.dz1.2-4: https://gist.github.com/sarafanovde/93d0db993a1e5e3edb51
 
 .. |10.dz1.1| replace:: 1
 .. _10.dz1.1: https://github.com/teslenkoNatasha/myproject
