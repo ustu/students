@@ -151,7 +151,7 @@
    * - 11
      - Соколов Михаил
      - SokolovMikhail_
-     -
+     - |11.dz1.1|_ |11.dz1.2|_ |11.dz1.3|_ |11.dz1.4|_ [**+5**]
      -
      -
      -
@@ -184,7 +184,7 @@
    * - 14
      - Фирсова Евгения
      - `FirsovaJane <https://github.com/FirsovaJane>`_
-     - 
+     -
      -
      -
      -
@@ -228,12 +228,9 @@
 .. _SokolovMikhail: https://github.com/SokolovMikhail
 
 .. Домашняя работа #1
-.. |13.dz1.2| replace:: 2
-.. _13.dz1.2: https://gist.github.com/TabakovaChristina/c7c0f6899cf1d27bfda5
-.. |15.dz1.2| replace:: 2
-.. _15.dz1.2: https://gist.github.com/KhorAMus/afacff7f350e25bebb57
 .. |2.dz1.2-3| replace:: 2-3
 .. _2.dz1.2-3: https://gist.github.com/jekaaa/d80ca8a949cc8322bd47
+
 .. |10.dz1.1| replace:: 1
 .. _10.dz1.1: https://github.com/YuriySimakov/1.1
 .. |10.dz1.2| replace:: 2
@@ -242,6 +239,22 @@
 .. _10.dz1.3: https://gist.github.com/YuriySimakov/92628b1482de58c0c8b4
 .. |10.dz1.4| replace:: 4
 .. _10.dz1.4: https://gist.github.com/YuriySimakov/c81091908811a8684035
+
+.. |11.dz1.1| replace:: 1
+.. _11.dz1.1: https://github.com/SokolovMikhail/myproject
+.. |11.dz1.2| replace:: 2
+.. _11.dz1.2: https://gist.github.com/SokolovMikhail/62928547b6c35843b60b
+.. |11.dz1.3| replace:: 3
+.. _11.dz1.3: https://gist.github.com/SokolovMikhail/085520b940d292327332
+.. |11.dz1.4| replace:: 4
+.. _11.dz1.4: https://gist.github.com/SokolovMikhail/d4ed15163c3c51bbff05
+
+.. |13.dz1.2| replace:: 2
+.. _13.dz1.2: https://gist.github.com/TabakovaChristina/c7c0f6899cf1d27bfda5
+
+.. |15.dz1.2| replace:: 2
+.. _15.dz1.2: https://gist.github.com/KhorAMus/afacff7f350e25bebb57
+
 .. Домашняя работа #2
 
 
