@@ -63,7 +63,7 @@
    * - 3
      - Дюкин Дмитрий Степанович
      - dmitryduykin_
-     -
+     - |3.dz1.1|_
      -
      -
      -
@@ -240,6 +240,9 @@
 .. _1.dz1.1: https://github.com/KateBV/-1.1
 .. |1.dz1.2-4| replace:: 2-4
 .. _1.dz1.2-4: https://gist.github.com/KateBV/2ed3f29d02cd4ab76d7a
+
+..|3.dz1.1| replace::1
+.._3.dz1.1:https://github.com/dmitryduykin/HomeWork-1
 
 .. |4.dz1.1| replace:: 1
 .. _4.dz1.1: https://github.com/maksimemelyanov/WEB_1
