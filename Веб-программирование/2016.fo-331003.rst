@@ -107,7 +107,7 @@
    * - 7
      - Нищих Инна
      - InnaNishchikh_
-     -
+     - |7.dz1.1|_ |7.dz1.2-3|_ |7.dz1.4|_ 
      -
      -
      -
@@ -232,6 +232,13 @@
 .. _2.dz1.1: https://github.com/jekaaa/WEB
 .. |2.dz1.2-4| replace:: 2-4
 .. _2.dz1.2-4: https://gist.github.com/jekaaa/d80ca8a949cc8322bd47
+
+.. |7.dz1.1| replace:: 1
+.. _7.dz1.1: https://github.com/InnaNishchikh/myproject
+.. |7.dz1.2-3| replace:: 2-3
+.. _7.dz1.2-3: https://gist.github.com/InnaNishchikh/41d2bb57d5e4955d7427
+.. |7.dz1.4| replace:: 4
+.. _7.dz1.4: https://gist.github.com/InnaNishchikh/b670fb4959c32c32bb6d
 
 .. |10.dz1.1| replace:: 1
 .. _10.dz1.1: https://github.com/YuriySimakov/1.1
