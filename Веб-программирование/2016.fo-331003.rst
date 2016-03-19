@@ -184,7 +184,7 @@
    * - 14
      - Фирсова Евгения
      - `FirsovaJane <https://github.com/FirsovaJane>`_
-     -
+     - |14.dz1.1|_
      -
      -
      -
@@ -280,12 +280,16 @@
 .. |13.dz1.2| replace:: 2
 .. _13.dz1.2: https://gist.github.com/TabakovaChristina/c7c0f6899cf1d27bfda5
 
+.. |14.dz1.1| replace:: 1
+.. _14.dz1.1: https://github.com/FirsovaJane/myProject
+
 .. |15.dz1.2| replace:: 2
 .. _15.dz1.2: https://gist.github.com/KhorAMus/afacff7f350e25bebb57
 .. |15.dz1.3-4| replace:: 3-4
 .. _15.dz1.3-4: https://gist.github.com/KhorAMus/b15f96b784fa4663a3fd
 .. |15.dz1.1| replace:: 1
 .. _15.dz1.1: https://github.com/KhorAMus/Exercise1-1
+
 .. Домашняя работа #2
 
 
