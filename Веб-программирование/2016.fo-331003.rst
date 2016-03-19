@@ -84,8 +84,8 @@
      -
    * - 5
      - Легаев Максим
-     - Gnatuk_
-     - |5.dz1.1|_ |5.dz1.2|_ |5.dz1.3|_ |5.dz1.4|_ [**+5**]
+     -
+     -
      -
      -
      -
@@ -173,7 +173,7 @@
    * - 13
      - Табакова Кристина
      - `TabakovaChristina <https://github.com/TabakovaChristina>`_
-     - |13.dz1.2|_
+     - |13.dz1.2|_ |13.dz1.1|_ |13.dz1.3|_ |13.dz1.4|_
      -
      -
      -
@@ -226,22 +226,12 @@
 .. _jekaaa: https://github.com/jekaaa
 .. _arinasuvorina: https://github.com/arinasuvorina
 .. _SokolovMikhail: https://github.com/SokolovMikhail
-.. _Gnatuk: https://github.com/Gnatuk
 
 .. Домашняя работа #1
 .. |2.dz1.1| replace:: 1
 .. _2.dz1.1: https://github.com/jekaaa/WEB
 .. |2.dz1.2-4| replace:: 2-4
 .. _2.dz1.2-4: https://gist.github.com/jekaaa/d80ca8a949cc8322bd47
-
-.. |5.dz1.1| replace:: 1
-.. _5.dz1.1: https://github.com/Gnatuk/myproject
-.. |5.dz1.2| replace:: 2
-.. _5.dz1.2: https://gist.github.com/Gnatuk/92df9e90cf32c265ca7f
-.. |5.dz1.3| replace:: 3
-.. _5.dz1.3: https://gist.github.com/Gnatuk/385b9c16529d4e3c4b61
-.. |5.dz1.4| replace:: 4
-.. _5.dz1.4: https://gist.github.com/Gnatuk/ef18615e05fda2c7c3de
 
 .. |7.dz1.1| replace:: 1
 .. _7.dz1.1: https://github.com/InnaNishchikh/myproject
@@ -279,6 +269,12 @@
 
 .. |13.dz1.2| replace:: 2
 .. _13.dz1.2: https://gist.github.com/TabakovaChristina/c7c0f6899cf1d27bfda5
+.. |13.dz1.1| relace:: 1
+.. _13.dz1.1: https://github.com/TabakovaChristina/HomeworkChristinaTabakova1.1
+.. |13.dz1.3| relace:: 3
+.. _13.dz1.3: https://gist.github.com/TabakovaChristina/b2bc5998e0bcd7f6b65a
+.. |13.dz1.4| relace:: 4
+.. _13.dz1.4: https://gist.github.com/TabakovaChristina/9750fee453547a4173b8
 
 .. |15.dz1.2| replace:: 2
 .. _15.dz1.2: https://gist.github.com/KhorAMus/afacff7f350e25bebb57
