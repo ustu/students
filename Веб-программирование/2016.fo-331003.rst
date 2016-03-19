@@ -62,8 +62,8 @@
      -
    * - 3
      - Гошкодеров Анатолий
-     -
-     -
+     - BlameFlame_
+     - |3.dz1.1|_ |3.dz1.2-4|_ [**+5**]
      -
      -
      -
@@ -173,7 +173,7 @@
    * - 13
      - Табакова Кристина
      - `TabakovaChristina <https://github.com/TabakovaChristina>`_
-     - |13.dz1.1|_ |13.dz1.2|_ |13.dz1.3|_ |13.dz1.4|_
+     - |13.dz1.1|_ |13.dz1.2|_ |13.dz1.3|_ |13.dz1.4|_ [**+5**]
      -
      -
      -
@@ -184,7 +184,7 @@
    * - 14
      - Фирсова Евгения
      - `FirsovaJane <https://github.com/FirsovaJane>`_
-     - |14.dz1.1|_ |14.dz1.2-4|_
+     - |14.dz1.1|_ |14.dz1.2-4|_ [**+5**]
      -
      -
      -
@@ -227,12 +227,19 @@
 .. _arinasuvorina: https://github.com/arinasuvorina
 .. _SokolovMikhail: https://github.com/SokolovMikhail
 .. _Gnatuk: https://github.com/Gnatuk
+.. _BlameFlame: https://github.com/BlameFlame
 
 .. Домашняя работа #1
+
 .. |2.dz1.1| replace:: 1
 .. _2.dz1.1: https://github.com/jekaaa/WEB
 .. |2.dz1.2-4| replace:: 2-4
 .. _2.dz1.2-4: https://gist.github.com/jekaaa/d80ca8a949cc8322bd47
+
+.. |3.dz1.1| replace:: 1
+.. _3.dz1.1: https://github.com/BlameFlame/-1
+.. |3.dz1.2-4| replace:: 2-4
+.. _3.dz1.2-4: https://gist.github.com/BlameFlame
 
 .. |5.dz1.1| replace:: 1
 .. _5.dz1.1: https://github.com/Gnatuk/myproject
@@ -286,17 +293,17 @@
 .. |13.dz1.4| replace:: 4
 .. _13.dz1.4: https://gist.github.com/TabakovaChristina/9750fee453547a4173b8
 
+.. |14.dz1.1| replace:: 1
+.. _14.dz1.1: https://github.com/FirsovaJane/myProject.git
+.. |14.dz1.2-4| replace:: 2-4
+.. _14.dz1.2-4: https://gist.github.com/FirsovaJane/4871a412536cd153301a
+
 .. |15.dz1.2| replace:: 2
 .. _15.dz1.2: https://gist.github.com/KhorAMus/afacff7f350e25bebb57
 .. |15.dz1.3-4| replace:: 3-4
 .. _15.dz1.3-4: https://gist.github.com/KhorAMus/b15f96b784fa4663a3fd
 .. |15.dz1.1| replace:: 1
 .. _15.dz1.1: https://github.com/KhorAMus/Exercise1-1
-
-.. |14.dz1.1| replace:: 1
-.. _14.dz1.1: https://github.com/FirsovaJane/myProject.git
-.. |14.dz1.2-4| replace:: 2-4
-.. _14.dz1.2-4: https://gist.github.com/FirsovaJane/4871a412536cd153301a
 
 .. Домашняя работа #2
 
