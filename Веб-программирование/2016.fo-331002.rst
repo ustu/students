@@ -52,7 +52,7 @@
    * - 2
      - Бердюгина Анастасия Олеговна
      - BerdyuginaAnastasia_
-     -
+     - |2.dz1.1|_ |2.dz1.2-4|_
      -
      -
      -
@@ -240,6 +240,11 @@
 .. _1.dz1.1: https://github.com/KateBV/-1.1
 .. |1.dz1.2-4| replace:: 2-4
 .. _1.dz1.2-4: https://gist.github.com/KateBV/2ed3f29d02cd4ab76d7a
+
+.. |2.dz1.1| replace:: 1
+.. _2.dz1.1: https://github.com/BerdyuginaAnastasia/myproject-1
+.. |2.dz1.2-4| replace:: 2-4
+.. _2.dz1.2-4: https://gist.github.com/BerdyuginaAnastasia/67196be76d12b58ccea6
 
 .. |3.dz1.1| replace:: 1
 .. _3.dz1.1: https://github.com/dmitryduykin/HomeWork-1
