@@ -40,8 +40,9 @@
      -
    * - 1
      - Анисимов Илья
-     -
-     -
+     - `sakuraido <https://github.com/sakuraido>`_
+     - `1 <https://github.com/sakuraido/first>`_ `2 <https://gist.github.com/sakuraido/8ac53f242e9859bf9de6>`_ `3 <https://gist.github.com/sakuraido/00b1ce56200e299a85a9>`_ `4 <https://gist.github.com/sakuraido/c3d7f5d2c0cf3b3e0527>`_ 
+     - `1 <https://github.com/sakuraido/first>`_ `2 <https://gist.github.com/sakuraido/7337357c70297d5a0039>`_ `3 <https://gist.github.com/sakuraido/a0e142e1001a4f99e25a>`_ `5 <https://gist.github.com/sakuraido/bc3e7488242751d279f6>`_
      -
      -
      -
