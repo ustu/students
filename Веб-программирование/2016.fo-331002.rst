@@ -85,7 +85,7 @@
    * - 5
      - Еремина Екатерина Константиновна
      - ekaterem_
-     -
+     - |5.dz1.1|_ |5.dz1.2-4|_
      -
      -
      -
@@ -255,6 +255,11 @@
 .. _4.dz1.1: https://github.com/maksimemelyanov/WEB_1
 .. |4.dz1.2-4| replace:: 2-4
 .. _4.dz1.2-4: https://gist.github.com/maksimemelyanov/b2fb3a6ba348620d18e1
+
+.. |5.dz1.1| replace:: 1
+.. _5.dz1.1: https://github.com/ekaterem/Homework1
+.. |5.dz1.2-4| replace:: 2-4
+.. _5.dz1.2-4: https://gist.github.com/ekaterem/d2656c8b0b90cb185038
 
 .. |6.dz1.1| replace:: 1
 .. _6.dz1.1: https://github.com/GiperFrukt/myproject
