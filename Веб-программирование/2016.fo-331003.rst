@@ -141,7 +141,7 @@
      - Симаков Юрий
      - YuriySimakov_
      - |10.dz1.1|_ |10.dz1.2|_ |10.dz1.3|_ |10.dz1.4|_ [**+5**]
-     -
+     - |10.dz2.1|_
      -
      -
      -
@@ -258,13 +258,15 @@
 .. _7.dz1.4: https://gist.github.com/InnaNishchikh/b670fb4959c32c32bb6d
 
 .. |10.dz1.1| replace:: 1
-.. _10.dz1.1: https://github.com/YuriySimakov/1.1
+.. _10.dz1.1: https://github.com/YuriySimakov/HomeWorks
 .. |10.dz1.2| replace:: 2
 .. _10.dz1.2: https://gist.github.com/YuriySimakov/af3eb4bb818cdf141e11
 .. |10.dz1.3| replace:: 3
 .. _10.dz1.3: https://gist.github.com/YuriySimakov/92628b1482de58c0c8b4
 .. |10.dz1.4| replace:: 4
 .. _10.dz1.4: https://gist.github.com/YuriySimakov/c81091908811a8684035
+.. |10.dz2.1| replace:: 1
+.. _10.dz2.1: https://github.com/YuriySimakov/HomeWorks
 
 .. |11.dz1.1| replace:: 1
 .. _11.dz1.1: https://github.com/SokolovMikhail/myproject
