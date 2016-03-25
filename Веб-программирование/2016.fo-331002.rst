@@ -152,7 +152,7 @@
      - Фаткуллин Рустам Русланович
      - Porader_
      - |11.dz1.1|_ |11.dz1.2-4|_ [**+5**]
-     -
+     - |11.dz2.1|_ |11.dz2.2-5|_
      -
      -
      -
@@ -308,6 +308,11 @@
 
 
 .. Домашняя работа #2
+.. |11.dz2.1| replace:: 1
+.. _11.dz2.1: https://github.com/Porader/repo
+.. |11.dz2.2-5| replace:: 2,3,5
+.. _11.dz2.2-5: https://gist.github.com/Porader/ff06cc44f9e97481e29f
+
 .. |15.dz2.1| replace:: 1
 .. _15.dz2.1: https://gist.github.com/VAShibaev/cc1c39825eda05bce2bb
 .. |15.dz2.2| replace:: 2
