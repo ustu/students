@@ -141,7 +141,7 @@
      - Тесленко Наталья Олеговна
      - teslenkoNatasha_
      - |10.dz1.1|_ |10.dz1.2-4|_ [**+5**]
-     -
+     - |10.dz2.5|_
      -
      -
      -
@@ -321,6 +321,9 @@
 .. _9.dz2.1: https://github.com/sarafanovde/HW-socket
 .. |9.dz2.2,3,5| replace:: 2,3,5
 .. _9.dz2.2,3,5: https://gist.github.com/sarafanovde/c5dc8aadb80cc2d3ed30
+
+.. |10.dz2.5| replace:: 5
+.. _10.dz2.5: https://gist.github.com/teslenkoNatasha/71aaa96b70526816698a
 
 .. Домашняя работа #3
 
