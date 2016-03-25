@@ -64,7 +64,7 @@
      - Дюкин Дмитрий Степанович
      - dmitryduykin_
      - |3.dz1.1|_ |3.dz1.2-4|_ [**+5**]
-     -
+     - |3.dz2.1|_ |3.dz2.2|_ |3.dz2.3|_ |3.dz2.5|_
      -
      -
      -
@@ -303,7 +303,14 @@
 
 
 .. Домашняя работа #2
-
+.. |3.dz2.1| replace:: 1
+.. _3.dz2.1: https://github.com/dmitryduykin/HomeWork-2
+.. |3.dz2.2| replace:: 2
+.. _3.dz2.2: https://gist.github.com/dmitryduykin/55939d2953503c0c443c
+.. |3.dz2.3| replace:: 3
+.. _3.dz2.3: https://gist.github.com/dmitryduykin/205bcf675415c89c3587
+.. |3.dz2.5| replace:: 5
+.. _3.dz2.5: https://gist.github.com/dmitryduykin/fc2163995698e6be6f15
 
 .. Домашняя работа #3
 
