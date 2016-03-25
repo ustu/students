@@ -163,7 +163,7 @@
      - Суворина Арина
      - arinasuvorina_
      - |12.dz1.1|_ |12.dz1.2|_ |12.dz1.3|_ |12.dz1.4|_ [**+5**]
-     -
+     - |12.dz2.1|_ |12.dz2.2|_ |12.dz2.3|_ |12.dz2.5|_
      -
      -
      -
@@ -307,6 +307,14 @@
 
 .. Домашняя работа #2
 
+.. |12.dz2.1| replace:: 1
+.. _12.dz2.1: https://github.com/arinasuvorina/myproject
+.. |12.dz2.2| replace:: 2
+.. _12.dz2.2: https://gist.github.com/arinasuvorina/9482874583e389830bc7
+.. |12.dz2.3| replace:: 3
+.. _12.dz2.3: https://gist.github.com/arinasuvorina/4b11711c302e7b3090ea
+.. |12.dz2.5| replace:: 5
+.. _12.dz2.5: https://gist.github.com/arinasuvorina/ba60a2721253179adebc
 
 .. Домашняя работа #3
 
