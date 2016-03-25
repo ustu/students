@@ -42,7 +42,7 @@
      - Белкина Екатерина Валерьевна
      - KateBV_
      - |1.dz1.1|_ |1.dz1.2-4|_ [**+5**]
-     -
+     - |1.dz2.1|_
      -
      -
      -
@@ -229,7 +229,7 @@
 .. _Porader: https://github.com/Porader
 .. _dmitryduykin: https://github.com/dmitryduykin
 .. _ekaterem: https://github.com/ekaterem
-.. _KateBV: https://github.com/KateDV
+.. _KateBV: https://github.com/KateBV
 .. _GiperFrukt: https://github.com/GiperFrukt
 .. _BerdyuginaAnastasia: https://github.com/BerdyuginaAnastasia
 .. _teslenkoNatasha: https://github.com/teslenkoNatasha
@@ -308,6 +308,9 @@
 
 
 .. Домашняя работа #2
+
+..|1.dz2.1| replace:: 1
+.. _1.dz2.1: https://github.com/KateBV/-1.1
 
 
 .. Домашняя работа #3
