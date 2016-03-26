@@ -185,7 +185,7 @@
      - Фирсова Евгения
      - `FirsovaJane <https://github.com/FirsovaJane>`_
      - |14.dz1.1|_ |14.dz1.2-4|_ [**+5**]
-     -
+     - |14.dz2.3|_
      -
      -
      -
@@ -308,7 +308,8 @@
 .. _15.dz1.1: https://github.com/KhorAMus/Exercise1-1
 
 .. Домашняя работа #2
-
+.. |14.dz2.3| replace:: 2
+.. _14.dz2.3: https://https://gist.github.com/FirsovaJane/93aa1cea284628163518
 
 .. Домашняя работа #3
 
