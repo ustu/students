@@ -141,7 +141,7 @@
      - Тесленко Наталья Олеговна
      - teslenkoNatasha_
      - |10.dz1.1|_ |10.dz1.2-4|_ [**+5**]
-     - |10.dz2.1|_ |10.dz2.2-3|_
+     - |10.dz2.1|_ |10.dz2.2-3|_ |10.dz1.2-3|_
      -
      -
      -
@@ -346,6 +346,8 @@
 .. _10.dz2.1: https://github.com/teslenkoNatasha/myproject
 .. |10.dz2.2-3|  replace:: 2-3
 .. _10.dz2.2-3: https://gist.github.com/teslenkoNatasha/05c571c51d1843d24848
+.. |10.dz1.2-3| replace:: 2-3
+.. _10.dz1.2-3: https://gist.github.com/teslenkoNatasha/05c571c51d1843d24848
 
 .. |11.dz2.1| replace:: 1
 .. _11.dz2.1: https://github.com/Porader/repo
