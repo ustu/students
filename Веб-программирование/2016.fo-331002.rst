@@ -42,7 +42,7 @@
      - Белкина Екатерина Валерьевна
      - KateBV_
      - |1.dz1.1|_ |1.dz1.2-4|_ [**+5**]
-     -
+     - |1.dz2.1|_ |1.dz2.2-5|_ [**+5**]
      -
      -
      -
@@ -308,6 +308,11 @@
 
 
 .. Домашняя работа #2
+
+.. |1.dz2.1| replace:: 1
+.. _1.dz2.1: https://github.com/KateBV/-1.1
+.. |1.dz2.2-5| replace:: 2,3,5
+.. _1.dz2.2-5: https://gist.github.com/KateBV/a91ff1b3504412b709fc
 
 .. |3.dz2.1| replace:: 1
 .. _3.dz2.1: https://github.com/dmitryduykin/HomeWork-2
