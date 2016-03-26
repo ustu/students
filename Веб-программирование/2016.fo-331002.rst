@@ -141,7 +141,7 @@
      - Тесленко Наталья Олеговна
      - teslenkoNatasha_
      - |10.dz1.1|_ |10.dz1.2-4|_ [**+5**]
-     -
+     - |10.dz2.1|_
      -
      -
      -
@@ -332,19 +332,13 @@
 .. |8.dz2.2| replace:: 2-5
 .. _8.dz2.2: https://gist.github.com/mashaOtstavnova/c71ad3b2dd056bf5e314
 
-.. |15.dz2.1| replace:: 1
-.. _15.dz2.1: https://gist.github.com/VAShibaev/cc1c39825eda05bce2bb
-.. |15.dz2.2| replace:: 2
-.. _15.dz2.2: https://gist.github.com/VAShibaev/2f8aa4206a5e937fab3d
-.. |15.dz2.3| replace:: 3
-.. _15.dz2.3: https://gist.github.com/VAShibaev/3df9776b3f55735cf915
-.. |15.dz2.5| replace:: 5
-.. _15.dz2.5: https://gist.github.com/VAShibaev/8749b019983b86fefc44
-
 .. |9.dz2.1| replace:: 1
 .. _9.dz2.1: https://github.com/sarafanovde/HW-socket
 .. |9.dz2.2,3,5| replace:: 2,3,5
 .. _9.dz2.2,3,5: https://gist.github.com/sarafanovde/c5dc8aadb80cc2d3ed30
+
+.. |10.dz2.1| replace:: 1
+.. _10.dz2.1: https://github.com/teslenkoNatasha/myproject
 
 .. |12.dz2.1-5| replace:: 1-5
 .. _12.dz2.1-5: https://gist.github.com/FominaMasha/9e5c1c87dbf384fb6f80
@@ -353,6 +347,15 @@
 .. _14.dz2.1: https://github.com/ChukharevKS/Homework2-Task1
 .. |14.dz2.2,3,5| replace:: 2,3,5
 .. _14.dz2.2,3,5: https://gist.github.com/ChukharevKS/93c33791eab10da439c3
+
+.. |15.dz2.1| replace:: 1
+.. _15.dz2.1: https://gist.github.com/VAShibaev/cc1c39825eda05bce2bb
+.. |15.dz2.2| replace:: 2
+.. _15.dz2.2: https://gist.github.com/VAShibaev/2f8aa4206a5e937fab3d
+.. |15.dz2.3| replace:: 3
+.. _15.dz2.3: https://gist.github.com/VAShibaev/3df9776b3f55735cf915
+.. |15.dz2.5| replace:: 5
+.. _15.dz2.5: https://gist.github.com/VAShibaev/8749b019983b86fefc44
 
 .. Домашняя работа #3
 
