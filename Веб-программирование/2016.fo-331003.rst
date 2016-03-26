@@ -141,7 +141,7 @@
      - Симаков Юрий
      - YuriySimakov_
      - |10.dz1.1|_ |10.dz1.2|_ |10.dz1.3|_ |10.dz1.4|_ [**+5**]
-     - |10.dz2.1|_
+     - |10.dz2.1|_ |10.dz2.2a|_ |10.dz2.2b|_ |10.dz2.3a|_ |10.dz2.3b|_ |10.dz2.5|_
      -
      -
      -
@@ -267,6 +267,16 @@
 .. _10.dz1.4: https://gist.github.com/YuriySimakov/c81091908811a8684035
 .. |10.dz2.1| replace:: 1
 .. _10.dz2.1: https://github.com/YuriySimakov/HomeWorks
+.. |10.dz2.2a| replace:: 2a
+.. _10.dz2.2a: https://gist.github.com/YuriySimakov/59c5beef775e0734d6be
+.. |10.dz2.2b| replace:: 2b
+.. _10.dz2.2b: https://gist.github.com/YuriySimakov/3a12074f2e741d9ce3d4
+.. |10.dz2.3a| replace:: 3a
+.. _10.dz2.3a: https://gist.github.com/YuriySimakov/b52efb45126eff7c1050
+.. |10.dz2.3b| replace:: 3b
+.. _10.dz2.3b: https://gist.github.com/YuriySimakov/ed08f48f386c1f5e148c
+.. |10.dz2.5| replace:: 5
+.. _10.dz2.5: https://gist.github.com/YuriySimakov/4740df761b733eb77d59
 
 .. |11.dz1.1| replace:: 1
 .. _11.dz1.1: https://github.com/SokolovMikhail/myproject
