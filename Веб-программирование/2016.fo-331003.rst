@@ -350,7 +350,7 @@
 .. Домашняя работа #3
 
 .. |1.dz3.1| replace:: 1
-.. 1.dz3.1: https://github.com/sakuraido/first/blob/master/myproject/WSGI.py
+.. _1.dz3.1: https://github.com/sakuraido/first/blob/master/myproject/WSGI.py
 
 .. Домашняя работа #4
 
