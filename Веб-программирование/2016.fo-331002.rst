@@ -163,7 +163,7 @@
      - Фомина Мария Георгиевна
      - FominaMasha_
      - |12.dz1.1|_ |12.dz1.2-4|_ [**+5**]
-     - 
+     - |12.dz2.1-5|_ 
      -
      -
      -
@@ -308,6 +308,7 @@
 
 
 .. Домашняя работа #2
+<<<<<<< HEAD
 
 .. |4.dz2.1| replace:: 1
 .. _4.dz2.1: https://github.com/maksimemelyanov/web_2
@@ -336,6 +337,9 @@
 .. _9.dz2.1: https://github.com/sarafanovde/HW-socket
 .. |9.dz2.2,3,5| replace:: 2,3,5
 .. _9.dz2.2,3,5: https://gist.github.com/sarafanovde/c5dc8aadb80cc2d3ed30
+
+.. |12.dz2.1-5| replace:: 1-5
+.. _12.dz2.1-5: https://gist.github.com/FominaMasha/9e5c1c87dbf384fb6f80
 
 .. Домашняя работа #3
 
