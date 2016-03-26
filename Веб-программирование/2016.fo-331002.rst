@@ -108,7 +108,7 @@
      - Куксовский Вадим Егорович
      - Dizrax_
      - |7.dz1.1|_ |7.dz1.2-4|_ [**+5**]
-     -
+     - |7.dz2.1|_ |7.dz2.2,3,5|_ 
      -
      -
      -
@@ -336,6 +336,11 @@
 .. _6.dz2.1: https://github.com/GiperFrukt/myproject
 .. |6.dz2.2,3,5| replace:: 2,3,5
 .. _6.dz2.2,3,5: https://gist.github.com/GiperFrukt/4c9d188b5c53fbf2ac7f
+
+.. |7.dz2.1| replace:: 1
+.. _7.dz2.1: https://github.com/Dizrax/myproject
+.. |7.dz2.2,3,5| replace:: 2,3,5
+.. _7.dz2.2,3,5: https://gist.github.com/Dizrax/c10aca339bda4983198d
 
 .. |8.dz2.1| replace:: 1
 .. _8.dz2.1: https://github.com/mashaOtstavnova/HomeWork2
