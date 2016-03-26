@@ -333,8 +333,8 @@
 .. _14.dz2.1: https://github.com/FirsovaJane/myProject
 .. |14.dz2.2| replace:: 2
 .. _14.dz2.2: https://gist.github.com/FirsovaJane/5e037fbac0041ea01a3e
-.. |14.dz2.3| replace:: 2
-.. _14.dz2.3: https://https://gist.github.com/FirsovaJane/93aa1cea284628163518
+.. |14.dz2.3| replace:: 3
+.. _14.dz2.3: https://gist.github.com/FirsovaJane/93aa1cea284628163518
 
 .. Домашняя работа #3
 
