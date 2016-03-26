@@ -119,7 +119,7 @@
      - Отставнова Мария Андреевна
      - mashaOtstavnova_
      - |8.dz1.1|_ |8.dz1.2|_ [**+5**]
-     -
+     - |8.dz2.1|_ |8.dz2.2|_
      -
      -
      -
@@ -316,6 +316,11 @@
 .. _15.dz2.3: https://gist.github.com/VAShibaev/3df9776b3f55735cf915
 .. |15.dz2.5| replace:: 5
 .. _15.dz2.5: https://gist.github.com/VAShibaev/8749b019983b86fefc44
+
+.. |8.dz2.1| replace:: 1
+.. _8.dz2.1: https://github.com/mashaOtstavnova/HomeWork2
+.. |8.dz2.2| replace:: 2-5
+.. _8.dz2.2: https://gist.github.com/mashaOtstavnova/c71ad3b2dd056bf5e314
 
 .. |9.dz2.1| replace:: 1
 .. _9.dz2.1: https://github.com/sarafanovde/HW-socket
