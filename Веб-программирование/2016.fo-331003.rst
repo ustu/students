@@ -196,7 +196,7 @@
      - Хорошун Альберт
      - KhorAMus_
      - |15.dz1.1|_ |15.dz1.2|_ |15.dz1.3-4|_ [**+5**]
-     -
+     - |15.dz2.1|_ |15.dz2.2|_ |15.dz2.3|_ |15.dz2.5|_ 
      -
      -
      -
@@ -321,7 +321,14 @@
 
 .. |14.dz2.1| replace:: 1
 .. _14.dz2.1: https://github.com/FirsovaJane/myProject
-
+.. |15.dz2.1| replace:: 1
+.. _15.dz2.1: https://github.com/KhorAMus/Exercise1-1/tree/master/myproject
+.. |15.dz2.2| replace:: 2
+.. _15.dz2.2: https://gist.github.com/KhorAMus/4d8e370d04b78a4e5fbf
+.. |15.dz2.3| replace:: 3
+.. _15.dz2.3: https://gist.github.com/KhorAMus/d3c13236eea6d530ba80
+.. |15.dz2.5| replace:: 5
+.. _15.dz2.5: https://gist.github.com/KhorAMus/b1dddc9a7b64faad44e2
 .. Домашняя работа #3
 
 
