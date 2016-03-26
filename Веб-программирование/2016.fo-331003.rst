@@ -228,6 +228,7 @@
 .. _SokolovMikhail: https://github.com/SokolovMikhail
 .. _Gnatuk: https://github.com/Gnatuk
 .. _BlameFlame: https://github.com/BlameFlame
+.. _lyubanksy: https://github.com/lyubanksy
 
 .. Домашняя работа #1
 
