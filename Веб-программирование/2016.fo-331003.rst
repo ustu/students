@@ -40,10 +40,10 @@
      -
    * - 1
      - Анисимов Илья
-     - `sakuraido <https://github.com/sakuraido>`_
+     - sakuraido_
      - `1 <https://github.com/sakuraido/first>`_ `2 <https://gist.github.com/sakuraido/8ac53f242e9859bf9de6>`_ `3 <https://gist.github.com/sakuraido/00b1ce56200e299a85a9>`_ `4 <https://gist.github.com/sakuraido/c3d7f5d2c0cf3b3e0527>`_  [**+4**]
      - `1 <https://github.com/sakuraido/first>`_ `2 <https://gist.github.com/sakuraido/7337357c70297d5a0039>`_ `3 <https://gist.github.com/sakuraido/a0e142e1001a4f99e25a>`_ `5 <https://gist.github.com/sakuraido/bc3e7488242751d279f6>`_ [**+5**]
-     -
+     - |1.dz3.1|_
      -
      -
      -
@@ -229,6 +229,7 @@
 .. _Gnatuk: https://github.com/Gnatuk
 .. _BlameFlame: https://github.com/BlameFlame
 .. _lyubanksy: https://github.com/lyubanksy
+.. _sakuraido: https://github.com/sakuraido
 
 .. Домашняя работа #1
 
@@ -350,6 +351,8 @@
 
 .. Домашняя работа #3
 
+.. |1.dz3.1| replace:: 1
+.. _1.dz3.1: https://github.com/sakuraido/first/blob/master/myproject/WSGI.py
 
 .. Домашняя работа #4
 
