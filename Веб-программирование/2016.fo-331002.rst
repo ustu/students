@@ -120,7 +120,7 @@
      - mashaOtstavnova_
      - |8.dz1.1|_ |8.dz1.2|_ [**+5**]
      - |8.dz2.1|_ |8.dz2.2|_ [**+5**]
-     - |8.dz3.1|_ 
+     - |8.dz3.1|_ [**+5**]
      -
      -
      -
@@ -164,7 +164,7 @@
      - FominaMasha_
      - |12.dz1.1|_ |12.dz1.2-4|_ [**+5**]
      - |12.dz2.1-5|_ [**+5**]
-     -
+     - |12.dz3.1|_ [**+5**]
      -
      -
      -
@@ -387,11 +387,15 @@
 .. _15.dz2.5: https://gist.github.com/VAShibaev/8749b019983b86fefc44
 
 .. Домашняя работа #3
+
 .. |8.dz3.1| replace:: 1
 .. _8.dz3.1: https://gist.github.com/mashaOtstavnova/db5ee2acc987bcbaa2b0
 
 .. |9.dz3.1| replace:: 1
 .. _9.dz3.1: https://github.com/sarafanovde/wsgi-serv
+
+.. |12.dz3.1| replace:: 1
+.. _12.dz3.1: https://gist.github.com/FominaMasha/0606effaa8766639d962
 
 .. Домашняя работа #4
 
