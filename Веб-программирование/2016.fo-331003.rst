@@ -118,7 +118,7 @@
    * - 8
      - Пермякова Любовь
      - lyubanksy_
-     -
+     - |8.dz1.1|_ |8.dz1.2-4|_
      -
      -
      -
@@ -258,6 +258,11 @@
 .. _7.dz1.2-3: https://gist.github.com/InnaNishchikh/41d2bb57d5e4955d7427
 .. |7.dz1.4| replace:: 4
 .. _7.dz1.4: https://gist.github.com/InnaNishchikh/b670fb4959c32c32bb6d
+
+.. |8.dz1.1| replace:: 1
+.. _8.dz1.1: https://github.com/lyubanksy/dz1
+.. |8.dz1.2-4| replace:: 2-4
+.. _8.dz1.2-4: https://gist.github.com/lyubanksy/49de2ba89743f63702d5
 
 .. |10.dz1.1| replace:: 1
 .. _10.dz1.1: https://github.com/YuriySimakov/HomeWorks
