@@ -197,7 +197,7 @@
      - VAShibaev_
      - |15.dz1.1|_ |15.dz1.2-4|_ [**+5**]
      - |15.dz2.1|_ |15.dz2.2|_ |15.dz2.3|_ |15.dz2.5|_ [**+5**]
-     -
+     - |15.dz3.1|_ [**+5**]
      -
      -
      -
@@ -396,6 +396,9 @@
 
 .. |12.dz3.1| replace:: 1
 .. _12.dz3.1: https://gist.github.com/FominaMasha/0606effaa8766639d962
+
+.. |15.dz3.1| replace:: 1
+.. _15.dz3.1: https://github.com/VAShibaev/myproject
 
 .. Домашняя работа #4
 
