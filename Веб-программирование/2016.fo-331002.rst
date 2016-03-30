@@ -186,7 +186,7 @@
      - ChukharevKS_
      - |14.dz1.1|_ |14.dz1.2-4|_ [**+5**]
      - |14.dz2.1|_ |14.dz2.2,3,5|_ [**+5**]
-     -
+     - |14.dz3.1|_
      -
      -
      -
@@ -398,6 +398,9 @@
 
 .. |12.dz3.1| replace:: 1
 .. _12.dz3.1: https://gist.github.com/FominaMasha/0606effaa8766639d962
+
+.. |14.dz3.1| replace:: 1
+.. _14.dz3.1: https://github.com/ChukharevKS/Task3-WSGI-Middleware
 
 .. |15.dz3.1| replace:: 1
 .. _15.dz3.1: https://github.com/VAShibaev/myproject
