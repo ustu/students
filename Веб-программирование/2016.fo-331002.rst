@@ -142,7 +142,7 @@
      - teslenkoNatasha_
      - |10.dz1.1|_ |10.dz1.2-4|_ [**+5**]
      - |10.dz2.1|_ |10.dz2.2-3|_ |10.dz2.5|_ [**+5**]
-     -
+     - |10.dz3.1|_
      -
      -
      -
@@ -404,6 +404,9 @@
 
 .. |15.dz3.1| replace:: 1
 .. _15.dz3.1: https://github.com/VAShibaev/myproject
+
+.. |10.dz3.1| replace:: 1
+.. _10.dz3.1: https://gist.github.com/teslenkoNatasha/8547c2b4ade324d4e342a7ae236fc2cd
 
 .. Домашняя работа #4
 
