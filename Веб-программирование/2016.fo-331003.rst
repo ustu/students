@@ -152,8 +152,8 @@
      - Соколов Михаил
      - SokolovMikhail_
      - |11.dz1.1|_ |11.dz1.2|_ |11.dz1.3|_ |11.dz1.4|_ [**+5**]
-     -
-     -
+     - |11.dz2.1|_ |11.dz2.2a|_ |11.dz2.2b|_ |11.dz2.3a|_ |11.dz2.3b|_ |11.dz2.5|_
+     - |11.dz3.1|_
      -
      -
      -
@@ -354,10 +354,26 @@
 .. |15.dz2.5| replace:: 5
 .. _15.dz2.5: https://gist.github.com/KhorAMus/b1dddc9a7b64faad44e2
 
+.. |11.dz2.1| replace:: 1
+.. _11.dz2.1: https://github.com/SokolovMikhail/myproject
+.. |11.dz2.2a| replace:: 2a
+.. _11.dz2.2a: https://gist.github.com/SokolovMikhail/16d9c80eeabf990fa9bd7dbd78a1c9ea
+.. |11.dz2.2b| replace:: 2b
+.. _11.dz2.2b: https://gist.github.com/SokolovMikhail/5d12097b5612cc1007e191cb0f33f275
+.. |11.dz2.3a| replace:: 3a
+.. _11.dz2.3a: https://gist.github.com/SokolovMikhail/4c9b0e7b560cc4b31c934d31c5181408
+.. |11.dz2.3b| replace:: 3b
+.. _11.dz2.3b: https://gist.github.com/SokolovMikhail/c6681ef1450ca4c2aaa6339731434d15
+.. |11.dz2.5| replace:: 5
+.. _11.dz2.5: https://gist.github.com/SokolovMikhail/5f6f7579803ff4b18d23a93fbe87a152
+
 .. Домашняя работа #3
 
 .. |1.dz3.1| replace:: 1
 .. _1.dz3.1: https://github.com/sakuraido/first/blob/master/myproject/WSGI.py
+
+.. |11.dz3.1| replace:: 1
+.. _11.dz3.1: https://github.com/SokolovMikhail/myproject
 
 .. Домашняя работа #4
 
