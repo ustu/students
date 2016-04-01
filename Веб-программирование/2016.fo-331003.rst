@@ -186,7 +186,7 @@
      - `FirsovaJane <https://github.com/FirsovaJane>`_
      - |14.dz1.1|_ |14.dz1.2-4|_ [**+5**]
      - |14.dz2.1|_ |14.dz2.2|_ |14.dz2.3|_ |14.dz2.5|_ [**+5**]
-     -
+     - |14.dz3.1|_
      -
      -
      -
@@ -359,6 +359,8 @@
 .. |1.dz3.1| replace:: 1
 .. _1.dz3.1: https://github.com/sakuraido/first/blob/master/myproject/WSGI.py
 
+.. |14.dz3.1| replace:: 1
+.. _14.dz3.1: https://github.com/FirsovaJane/myProject/blob/master/WSGIMiddleware.py
 .. Домашняя работа #4
 
 .. Домашняя работа #5
