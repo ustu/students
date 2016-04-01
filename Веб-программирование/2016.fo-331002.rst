@@ -153,7 +153,7 @@
      - Porader_
      - |11.dz1.1|_ |11.dz1.2-4|_ [**+5**]
      - |11.dz2.1|_ |11.dz2.2-5|_ [**+5**]
-     -
+     - |11.dz3.1|_
      -
      -
      -
@@ -389,6 +389,9 @@
 .. _15.dz2.5: https://gist.github.com/VAShibaev/8749b019983b86fefc44
 
 .. Домашняя работа #3
+
+.. |11.dz3.1| replace:: 1
+.. _11.dz3.1: https://gist.github.com/Porader/c41e76f7b373e28cbc3daee8be01aef9
 
 .. |8.dz3.1| replace:: 1
 .. _8.dz3.1: https://gist.github.com/mashaOtstavnova/db5ee2acc987bcbaa2b0
