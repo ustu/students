@@ -174,7 +174,7 @@
      - Табакова Кристина
      - `TabakovaChristina <https://github.com/TabakovaChristina>`_
      - |13.dz1.1|_ |13.dz1.2|_ |13.dz1.3|_ |13.dz1.4|_ [**+5**]
-     -
+     - |13.dz2.2.1|_ |13.dz2.2.2|_ |13.dz2.3.1|_ |13.dz2.3.2|_ |13.dz2.5|_
      -
      -
      -
@@ -335,6 +335,17 @@
 .. _12.dz2.3: https://gist.github.com/arinasuvorina/4b11711c302e7b3090ea
 .. |12.dz2.5| replace:: 5
 .. _12.dz2.5: https://gist.github.com/arinasuvorina/ba60a2721253179adebc
+
+.. |13.dz2.2.1| replace:: 2.1
+.. _13.dz2.2.1: https://gist.github.com/TabakovaChristina/19becdefc71945a594dc74cea4dfe447
+.. |13.dz2.2.2| replace:: 2.2
+.. _13.dz2.2.2: https://gist.github.com/TabakovaChristina/4b7761f6367361649c23978941894731
+.. |13.dz2.3.1| replace:: 3.1
+.. _13.dz2.3.1: https://gist.github.com/TabakovaChristina/bb4c637cf5d31d332355eb0459256b5f
+.. |13.dz2.3.2| replace:: 3.2
+.. _13.dz2.3.2: https://gist.github.com/TabakovaChristina/072549b9d1dfbd76dde3a941c8efffaa
+.. |13.dz2.5| replace:: 5
+.. _13.dz2.5: https://gist.github.com/TabakovaChristina/aee72005776aeb90b10970059a35175c
 
 .. |14.dz2.1| replace:: 1
 .. _14.dz2.1: https://github.com/FirsovaJane/myProject
