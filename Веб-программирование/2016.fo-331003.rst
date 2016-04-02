@@ -108,8 +108,8 @@
      - Нищих Инна
      - InnaNishchikh_
      - |7.dz1.1|_ |7.dz1.2-3|_ |7.dz1.4|_ [**+5**]
-     -
-     -
+     - |7.dz2.1|_ |7.dz2.2-5|_
+     - |7.dz3.1|_
      -
      -
      -
@@ -354,8 +354,14 @@
 .. |15.dz2.5| replace:: 5
 .. _15.dz2.5: https://gist.github.com/KhorAMus/b1dddc9a7b64faad44e2
 
+.. |7.dz2.1| replace:: 1
+.. _7.dz2.1: https://github.com/InnaNishchikh/myproject/blob/master/2.1.py
+.. |7.dz2.2-5| replace:: 2-5
+.. _7.dz2.2-5: https://gist.github.com/InnaNishchikh/3a079d6c528e7bc4ebdb2d5bcab0746c
 .. Домашняя работа #3
 
+.. |7.dz3.1| replace:: 1
+.. _7.dz3.1: https://github.com/InnaNishchikh/myproject/blob/master/3.1.py
 .. |1.dz3.1| replace:: 1
 .. _1.dz3.1: https://github.com/sakuraido/first/blob/master/myproject/WSGI.py
 
