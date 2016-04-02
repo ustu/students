@@ -54,7 +54,7 @@
      - jekaaa_
      - |2.dz1.1|_ |2.dz1.2-4|_ [**+5**]
      -
-     -
+     - |2.dz3.1|_
      -
      -
      -
@@ -358,6 +358,8 @@
 
 .. |1.dz3.1| replace:: 1
 .. _1.dz3.1: https://github.com/sakuraido/first/blob/master/myproject/WSGI.py
+.. |2.dz3.1| replace:: 1
+.. _2.dz3.1: https://github.com/jekaaa/WEB/blob/master/myproject/wsgiserv.py
 
 .. Домашняя работа #4
 
