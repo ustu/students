@@ -174,7 +174,7 @@
      - Табакова Кристина
      - `TabakovaChristina <https://github.com/TabakovaChristina>`_
      - |13.dz1.1|_ |13.dz1.2|_ |13.dz1.3|_ |13.dz1.4|_ [**+5**]
-     -
+     - |13.dz2.1|_
      -
      -
      -
@@ -335,6 +335,9 @@
 .. _12.dz2.3: https://gist.github.com/arinasuvorina/4b11711c302e7b3090ea
 .. |12.dz2.5| replace:: 5
 .. _12.dz2.5: https://gist.github.com/arinasuvorina/ba60a2721253179adebc
+
+.. |13.dz2.1| replace:: 1
+.. _13.dz2.1: https://github.com/TabakovaChristina/HomeWorkTabakovaChristina2.1
 
 .. |14.dz2.1| replace:: 1
 .. _14.dz2.1: https://github.com/FirsovaJane/myProject
