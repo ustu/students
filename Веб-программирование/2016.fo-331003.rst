@@ -65,7 +65,7 @@
      - BlameFlame_
      - |3.dz1.1|_ |3.dz1.2-4|_ [**+5**]
      -
-     -
+     - |3.dz3.0|_
      -
      -
      -
@@ -355,6 +355,9 @@
 .. _15.dz2.5: https://gist.github.com/KhorAMus/b1dddc9a7b64faad44e2
 
 .. Домашняя работа #3
+
+.. |3.dz3.0| replace:: 1
+.. _3.dz3.0: https://github.com/BlameFlame/myproject/blob/master/WSGI.py
 
 .. |1.dz3.1| replace:: 1
 .. _1.dz3.1: https://github.com/sakuraido/first/blob/master/myproject/WSGI.py
