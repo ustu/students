@@ -64,7 +64,7 @@
      - Гошкодеров Анатолий
      - BlameFlame_
      - |3.dz1.1|_ |3.dz1.2-4|_ [**+5**]
-     -
+     - |3.dz2.1|_ |3.dz2.2.1|_ |3.dz2.2.2|_ |3.dz2.3.1|_ |3.dz2.3.2|_
      -
      -
      -
@@ -313,6 +313,17 @@
 .. _15.dz1.1: https://github.com/KhorAMus/Exercise1-1
 
 .. Домашняя работа #2
+
+.. |3.dz2.1| replace:: 1
+.. _3.dz2.1: https://github.com/BlameFlame/myproject
+.. |3.dz2.2.1| replace:: 2.1
+.. _3.dz2.2.1: https://gist.github.com/BlameFlame/086cd42fef7c111d936cd2b84a13bfcc
+.. |3.dz2.2.2| replace:: 2.2
+.. _3.dz2.2.2: https://gist.github.com/BlameFlame/6de545a9527ce51120aa888f74bd3c69
+.. |3.dz2.3.1| replace:: 3.1
+.. _3.dz2.3.1: https://gist.github.com/BlameFlame/2d5bce8dff45b3d7f43089b79f8fc30c
+.. |3.dz2.3.2| replace:: 3.2
+.. _3.dz2.3.2: https://gist.github.com/BlameFlame/37820c4b3dec438691f2d6a60c9010bf
 
 .. |10.dz2.1| replace:: 1
 .. _10.dz2.1: https://github.com/YuriySimakov/HomeWorks
