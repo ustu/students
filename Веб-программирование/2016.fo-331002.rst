@@ -87,7 +87,7 @@
      - ekaterem_
      - |5.dz1.1|_ |5.dz1.2-4|_ [**+4**]
      -
-     -
+     - |5.dz3.1|_
      -
      -
      -
@@ -389,6 +389,9 @@
 .. _15.dz2.5: https://gist.github.com/VAShibaev/8749b019983b86fefc44
 
 .. Домашняя работа #3
+
+.. |5.dz3.1| replace:: 1
+.. _5.dz3.1: https://gist.github.com/ekaterem/ca3d64c2f480db0a5171dd4aa3fb05e9
 
 .. |8.dz3.1| replace:: 1
 .. _8.dz3.1: https://gist.github.com/mashaOtstavnova/db5ee2acc987bcbaa2b0
