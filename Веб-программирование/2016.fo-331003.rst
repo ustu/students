@@ -86,8 +86,8 @@
      - Легаев Максим
      - Gnatuk_
      - |5.dz1.1|_ |5.dz1.2|_ |5.dz1.3|_ |5.dz1.4|_ [**+5**]
-     -
-     -
+     - |5.dz2.1|_ |5.dz2.2|_ |5.dz2.3|_ |5.dz2.5|_
+     - |5.dz3.1|_
      -
      -
      -
@@ -314,6 +314,15 @@
 
 .. Домашняя работа #2
 
+.. |5.dz2.1| replace:: 1
+.. _5.dz2.1: https://github.com/Gnatuk/myproject
+.. |5.dz2.2| replace:: 2
+.. _5.dz2.2: https://gist.github.com/Gnatuk/408ebcbff8fd8ba42022eb7c9d9b849e
+.. |5.dz2.3| replace:: 3
+.. _5.dz2.3: https://gist.github.com/Gnatuk/f29117d946e2610c72520479de5695ea
+.. |5.dz2.5| replace:: 5
+.. _5.dz2.5: https://gist.github.com/Gnatuk/523b8817894f3d17a118174fb784ec24
+
 .. |10.dz2.1| replace:: 1
 .. _10.dz2.1: https://github.com/YuriySimakov/HomeWorks
 .. |10.dz2.2a| replace:: 2a
@@ -358,6 +367,9 @@
 
 .. |1.dz3.1| replace:: 1
 .. _1.dz3.1: https://github.com/sakuraido/first/blob/master/myproject/WSGI.py
+
+.. |5.dz3.1| replace:: 1
+.. _5.dz3.1: https://github.com/Gnatuk/myproject/blob/master/WSGI.py
 
 .. Домашняя работа #4
 
