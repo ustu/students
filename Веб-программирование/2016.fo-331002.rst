@@ -142,7 +142,7 @@
      - teslenkoNatasha_
      - |10.dz1.1|_ |10.dz1.2-4|_ [**+5**]
      - |10.dz2.1|_ |10.dz2.2-3|_ |10.dz2.5|_ [**+5**]
-     -
+     - |10.dz3.1|_
      -
      -
      -
@@ -390,6 +390,9 @@
 
 .. Домашняя работа #3
 
+.. |1.dz3.1| replace:: 1
+.. _1.dz3.1: https://github.com/KateBV/-1.1
+
 .. |2.dz3.1| replace:: 1
 .. _2.dz3.1: https://gist.github.com/BerdyuginaAnastasia/8ccff5196ec6d75411333103098bbca7
 
@@ -411,6 +414,9 @@
 .. |9.dz3.1| replace:: 1
 .. _9.dz3.1: https://github.com/sarafanovde/wsgi-serv
 
+.. |10.dz3.1| replace:: 1
+.. _10.dz3.1: https://gist.github.com/teslenkoNatasha/8547c2b4ade324d4e342a7ae236fc2cd
+
 .. |11.dz3.1| replace:: 1
 .. _11.dz3.1: https://gist.github.com/Porader/c41e76f7b373e28cbc3daee8be01aef9
 
@@ -422,9 +428,6 @@
 
 .. |15.dz3.1| replace:: 1
 .. _15.dz3.1: https://github.com/VAShibaev/myproject
-
-.. |1.dz3.1| replace:: 1
-.. _1.dz3.1: https://github.com/KateBV/-1.1
 
 .. Домашняя работа #4
 
