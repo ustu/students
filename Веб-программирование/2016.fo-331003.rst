@@ -175,7 +175,7 @@
      - `TabakovaChristina <https://github.com/TabakovaChristina>`_
      - |13.dz1.1|_ |13.dz1.2|_ |13.dz1.3|_ |13.dz1.4|_ [**+5**]
      -
-     -
+     - |13.dz3.1|_
      -
      -
      -
@@ -377,6 +377,9 @@
 
 .. |11.dz3.1| replace:: 1
 .. _11.dz3.1: https://github.com/SokolovMikhail/myproject
+
+.. |13.dz3.1| replace:: 1
+.. _13.dz3.1: https://github.com/TabakovaChristina/HomeWorkTabakovaChristina2.1
 
 .. |14.dz3.1| replace:: 1
 .. _14.dz3.1: https://github.com/FirsovaJane/myProject/blob/master/WSGIMiddleware.py
