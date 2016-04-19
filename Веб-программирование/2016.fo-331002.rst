@@ -76,7 +76,7 @@
      - maksimemelyanov_
      - |4.dz1.1|_ |4.dz1.2-4|_ [**+5**]
      - |4.dz2.1|_ |4.dz2.2|_ |4.dz2.3|_ |4.dz2.5|_ [**+5**]
-     -
+     - |4.dz3.1|_
      -
      -
      -
@@ -409,6 +409,8 @@
 .. |15.dz3.1| replace:: 1
 .. _15.dz3.1: https://github.com/VAShibaev/myproject
 
+.. |4.dz3.1| replace:: 1
+.. _4.dz3.1: https://github.com/maksimemelyanov/WEB_3
 .. Домашняя работа #4
 
 .. Домашняя работа #5
