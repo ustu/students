@@ -197,7 +197,7 @@
      - KhorAMus_
      - |15.dz1.1|_ |15.dz1.2|_ |15.dz1.3-4|_ [**+5**]
      - |15.dz2.1|_ |15.dz2.2|_ |15.dz2.3|_ |15.dz2.5|_ [**+5**]
-     -
+     - |15.dz3.1|_
      -
      -
      -
@@ -380,6 +380,9 @@
 
 .. |14.dz3.1| replace:: 1
 .. _14.dz3.1: https://github.com/FirsovaJane/myProject/blob/master/WSGIMiddleware.py
+
+.. |15.dz3.1| replace:: 1
+.. _15.dz3.1: https://github.com/KhorAMus/Exercise1-1/blob/master/myproject/simpleAppAndMiddleware.py
 
 .. Домашняя работа #4
 
