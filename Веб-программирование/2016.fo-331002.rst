@@ -65,7 +65,7 @@
      - dmitryduykin_
      - |3.dz1.1|_ |3.dz1.2-4|_ [**+5**]
      - |3.dz2.1|_ |3.dz2.2|_ |3.dz2.3|_ |3.dz2.5|_ [**+5**]
-     -
+     - |3.dz3.1|_
      -
      -
      -
@@ -390,9 +390,11 @@
 
 .. Домашняя работа #3
 
-
 .. |2.dz3.1| replace:: 1
 .. _2.dz3.1: https://gist.github.com/BerdyuginaAnastasia/8ccff5196ec6d75411333103098bbca7
+
+.. |3.dz3.1| replace:: 1
+.. _3.dz3.1: https://gist.github.com/dmitryduykin/27484494ab41376e884d36cefd709349
 
 .. |8.dz3.1| replace:: 1
 .. _8.dz3.1: https://gist.github.com/mashaOtstavnova/db5ee2acc987bcbaa2b0
@@ -411,6 +413,7 @@
 
 .. |4.dz3.1| replace:: 1
 .. _4.dz3.1: https://github.com/maksimemelyanov/WEB_3
+
 .. Домашняя работа #4
 
 .. Домашняя работа #5
