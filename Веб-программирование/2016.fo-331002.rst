@@ -109,7 +109,7 @@
      - Dizrax_
      - |7.dz1.1|_ |7.dz1.2-4|_ [**+5**]
      - |7.dz2.1|_ |7.dz2.2,3,5|_ [**+5**]
-     -
+     - |7.dz3.1|_
      -
      -
      -
@@ -398,6 +398,9 @@
 
 .. |4.dz3.1| replace:: 1
 .. _4.dz3.1: https://github.com/maksimemelyanov/WEB_3
+
+.. |7.dz3.1| replace:: 1
+.. _7.dz3.1: https://gist.github.com/Dizrax/b7be6373682081ce047849e0b9942709
 
 .. |8.dz3.1| replace:: 1
 .. _8.dz3.1: https://gist.github.com/mashaOtstavnova/db5ee2acc987bcbaa2b0
