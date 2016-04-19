@@ -43,7 +43,7 @@
      - KateBV_
      - |1.dz1.1|_ |1.dz1.2-4|_ [**+5**]
      - |1.dz2.1|_ |1.dz2.2-5|_ [**+5**]
-     -
+     - |1.dz3.1|_
      -
      -
      -
@@ -416,6 +416,9 @@
 
 .. |15.dz3.1| replace:: 1
 .. _15.dz3.1: https://github.com/VAShibaev/myproject
+
+.. |1.dz3.1| replace:: 1
+.. _1.dz3.1: https://github.com/KateBV/-1.1
 
 .. Домашняя работа #4
 
