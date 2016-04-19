@@ -142,7 +142,7 @@
      - YuriySimakov_
      - |10.dz1.1|_ |10.dz1.2|_ |10.dz1.3|_ |10.dz1.4|_ [**+5**]
      - |10.dz2.1|_ |10.dz2.2a|_ |10.dz2.2b|_ |10.dz2.3a|_ |10.dz2.3b|_ |10.dz2.5|_ [**+5**]
-     -
+     - |10.dz3.1|_
      -
      -
      -
@@ -359,8 +359,12 @@
 .. |1.dz3.1| replace:: 1
 .. _1.dz3.1: https://github.com/sakuraido/first/blob/master/myproject/WSGI.py
 
+.. |10.dz3.1| replace:: 1
+.. _10.dz3.1: https://github.com/YuriySimakov/HomeWorks/tree/master/myproject
+
 .. |14.dz3.1| replace:: 1
 .. _14.dz3.1: https://github.com/FirsovaJane/myProject/blob/master/WSGIMiddleware.py
+
 .. Домашняя работа #4
 
 .. Домашняя работа #5
