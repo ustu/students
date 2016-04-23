@@ -86,8 +86,8 @@
      - Легаев Максим
      - Gnatuk_
      - |5.dz1.1|_ |5.dz1.2|_ |5.dz1.3|_ |5.dz1.4|_ [**+5**]
-     -
-     -
+     - |5.dz2.1|_ |5.dz2.2|_ |5.dz2.3|_ |5.dz2.5|_
+     - |5.dz3.1|_
      -
      -
      -
@@ -325,6 +325,15 @@
 .. |3.dz2.3.2| replace:: 3.2
 .. _3.dz2.3.2: https://gist.github.com/BlameFlame/37820c4b3dec438691f2d6a60c9010bf
 
+.. |5.dz2.1| replace:: 1
+.. _5.dz2.1: https://github.com/Gnatuk/myproject
+.. |5.dz2.2| replace:: 2
+.. _5.dz2.2: https://gist.github.com/Gnatuk/408ebcbff8fd8ba42022eb7c9d9b849e
+.. |5.dz2.3| replace:: 3
+.. _5.dz2.3: https://gist.github.com/Gnatuk/f29117d946e2610c72520479de5695ea
+.. |5.dz2.5| replace:: 5
+.. _5.dz2.5: https://gist.github.com/Gnatuk/523b8817894f3d17a118174fb784ec24
+
 .. |10.dz2.1| replace:: 1
 .. _10.dz2.1: https://github.com/YuriySimakov/HomeWorks
 .. |10.dz2.2a| replace:: 2a
@@ -406,6 +415,9 @@
 
 .. |2.dz3.1| replace:: 1
 .. _2.dz3.1: https://github.com/jekaaa/WEB/blob/master/myproject/wsgiserv.py
+
+.. |5.dz3.1| replace:: 1
+.. _5.dz3.1: https://github.com/Gnatuk/myproject/blob/master/WSGI.py
 
 .. |7.dz3.1| replace:: 1
 .. _7.dz3.1: https://github.com/InnaNishchikh/myproject/blob/master/3.1.py
