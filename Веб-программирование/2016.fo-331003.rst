@@ -176,7 +176,7 @@
      - |13.dz1.1|_ |13.dz1.2|_ |13.dz1.3|_ |13.dz1.4|_ [**+5**]
      - |13.dz2.2.1|_ |13.dz2.2.2|_ |13.dz2.3.1|_ |13.dz2.3.2|_ |13.dz2.5|_ [**+5**]
      - |13.dz3.1|_ [**+5**]
-     -
+     - |13.dz4.2|_ |13.dz4.3|_ |13.dz4.4|_
      -
      -
      -
@@ -446,6 +446,13 @@
 .. _10.dz4.1: https://github.com/YuriySimakov/HomeWorks/tree/master/jinja2
 .. |10.dz4.2-4| replace:: 2-4
 .. _10.dz4.2-4: https://gist.github.com/YuriySimakov/07a0456840eb633176ef1f1eb0c48ad3
+
+.. |13.dz4.2| replace:: 2
+.. _13.dz4.2: https://gist.github.com/TabakovaChristina/036f182f667fb8457e4e34af2c4ba20f
+.. |13.dz4.3| replace:: 3
+.. _13.dz4.3: https://gist.github.com/TabakovaChristina/9742893f82889eb01f6d4bd3e485601e
+.. |13.dz4.4| replace:: 4
+.. _13.dz4.4: https://gist.github.com/TabakovaChristina/1e62ab13507224bc2e7a0f68659c279a
 
 .. Домашняя работа #5
 
