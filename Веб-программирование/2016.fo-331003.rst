@@ -455,7 +455,7 @@
 .. _13.dz4.3: https://gist.github.com/TabakovaChristina/9742893f82889eb01f6d4bd3e485601e
 .. |13.dz4.4| replace:: 4
 .. _13.dz4.4: https://gist.github.com/TabakovaChristina/1e62ab13507224bc2e7a0f68659c279a
-.. |15.dz4.1-4| replace:: sa[1-4]
+.. |15.dz4.1-4| replace:: zzzeek 1-4
 .. _15.dz4.1-4: https://gist.github.com/KhorAMus/d440ec39942cacfb429e64ef213ccdaa
 
 .. Домашняя работа #5
