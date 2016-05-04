@@ -55,7 +55,7 @@
      - |2.dz1.1|_ |2.dz1.2-4|_ [**+5**]
      -
      - |2.dz3.1|_ [**+5**]
-     -
+     - |2.dz4.1-4|_
      -
      -
      -
@@ -441,6 +441,9 @@
 .. _15.dz3.1: https://github.com/KhorAMus/Exercise1-1/blob/master/myproject/simpleAppAndMiddleware.py
 
 .. Домашняя работа #4
+
+.. |2.dz4.1-4| replace:: zzzeek
+.. _2.dz4.1-4: https://gist.github.com/jekaaa/ee7b613faaa76f479ff1b62d93853bc7
 
 .. |10.dz4.1| replace:: 1
 .. _10.dz4.1: https://github.com/YuriySimakov/HomeWorks/tree/master/jinja2
