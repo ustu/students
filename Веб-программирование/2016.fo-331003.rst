@@ -110,7 +110,7 @@
      - |7.dz1.1|_ |7.dz1.2-3|_ |7.dz1.4|_ [**+5**]
      - |7.dz2.1|_ |7.dz2.2-5|_ [**+5**]
      - |7.dz3.1|_ [**+5**]
-     -
+     - |7.dz4|_
      -
      -
      -
@@ -457,6 +457,9 @@
 .. _13.dz4.4: https://gist.github.com/TabakovaChristina/1e62ab13507224bc2e7a0f68659c279a
 .. |15.dz4.1-4| replace:: zzzeek 1-4
 .. _15.dz4.1-4: https://gist.github.com/KhorAMus/d440ec39942cacfb429e64ef213ccdaa
+
+.. |7.dz4| replace:: zzzeek
+.. _7.dz4: https://gist.github.com/InnaNishchikh/f121131af0444b475cf2d6e86b967931
 
 .. Домашняя работа #5
 
