@@ -143,7 +143,7 @@
      - |10.dz1.1|_ |10.dz1.2-4|_ [**+5**]
      - |10.dz2.1|_ |10.dz2.2-3|_ |10.dz2.5|_ [**+5**]
      - |10.dz3.1|_ [**+5**]
-     -
+     - |10.dz4.zzzeekTask|_
      -
      -
      -
@@ -442,6 +442,8 @@
 .. _15.dz3.1: https://github.com/VAShibaev/myproject
 
 .. Домашняя работа #4
+.. |10.dz4.zzzeekTask| replace:: zzzeekTask
+.. _10.dz4.zzzeekTask: https://gist.github.com/teslenkoNatasha/1284842d0f83a18b897d0048c98968d8
 
 .. Домашняя работа #5
 
