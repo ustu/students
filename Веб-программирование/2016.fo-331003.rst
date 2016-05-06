@@ -154,7 +154,7 @@
      - |11.dz1.1|_ |11.dz1.2|_ |11.dz1.3|_ |11.dz1.4|_ [**+5**]
      - |11.dz2.1|_ |11.dz2.2a|_ |11.dz2.2b|_ |11.dz2.3a|_ |11.dz2.3b|_ |11.dz2.5|_ [**+4**]
      - |11.dz3.1|_ [**+5**]
-     -
+     - |11.dz4.1|_ |11.dz4.2|_ 
      -
      -
      -
@@ -281,6 +281,7 @@
 .. _11.dz1.3: https://gist.github.com/SokolovMikhail/085520b940d292327332
 .. |11.dz1.4| replace:: 4
 .. _11.dz1.4: https://gist.github.com/SokolovMikhail/d4ed15163c3c51bbff05
+
 
 .. |12.dz1.1| replace:: 1
 .. _12.dz1.1: https://github.com/arinasuvorina/myproject
@@ -457,6 +458,11 @@
 .. _13.dz4.4: https://gist.github.com/TabakovaChristina/1e62ab13507224bc2e7a0f68659c279a
 .. |15.dz4.1-4| replace:: zzzeek 1-4
 .. _15.dz4.1-4: https://gist.github.com/KhorAMus/d440ec39942cacfb429e64ef213ccdaa
+
+.. |11.dz4.1| replace:: 2-4 
+.. _11.dz4.1: https://gist.github.com/SokolovMikhail/f2fa0b7480e98e927a37d19888c425ba
+.. |11.dz4.2| replace:: sql
+.. _11.dz4.2: https://gist.github.com/SokolovMikhail/e3cb67afaa8e7fd8405224b3cd7936c0
 
 .. Домашняя работа #5
 
