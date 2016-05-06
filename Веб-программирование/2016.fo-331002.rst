@@ -132,7 +132,7 @@
      - |9.dz1.1|_ |9.dz1.2-4|_ [**+5**]
      - |9.dz2.1|_ |9.dz2.2,3,5|_ [**+5**]
      - |9.dz3.1|_ [**+5**]
-     -
+     - |9.dz4.1|_ 
      -
      -
      -
@@ -442,6 +442,9 @@
 .. _15.dz3.1: https://github.com/VAShibaev/myproject
 
 .. Домашняя работа #4
+
+.. |9.dz4.1| replace:: 1
+.. _9.dz4.1: https://gist.github.com/sarafanovde/48768f9a28b626463e2d9e76c4cf13dd 
 
 .. Домашняя работа #5
 
