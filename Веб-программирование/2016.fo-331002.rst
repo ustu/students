@@ -77,7 +77,7 @@
      - |4.dz1.1|_ |4.dz1.2-4|_ [**+5**]
      - |4.dz2.1|_ |4.dz2.2|_ |4.dz2.3|_ |4.dz2.5|_ [**+5**]
      - |4.dz3.1|_ [**+5**]
-     -
+     - |4.dz4.5|_
      -
      -
      -
@@ -442,7 +442,8 @@
 .. _15.dz3.1: https://github.com/VAShibaev/myproject
 
 .. Домашняя работа #4
-
+.. |4.dz4.5| replace:: 5
+.. _4.dz4.5: https://gist.github.com/maksimemelyanov/4e9d40fdbd731751ed2534b6efc8bcd0
 .. Домашняя работа #5
 
 .. Курсовая работа
