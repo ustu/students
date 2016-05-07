@@ -44,7 +44,7 @@
      - `1 <https://github.com/sakuraido/first>`_ `2 <https://gist.github.com/sakuraido/8ac53f242e9859bf9de6>`_ `3 <https://gist.github.com/sakuraido/00b1ce56200e299a85a9>`_ `4 <https://gist.github.com/sakuraido/c3d7f5d2c0cf3b3e0527>`_  [**+4**]
      - `1 <https://github.com/sakuraido/first>`_ `2 <https://gist.github.com/sakuraido/7337357c70297d5a0039>`_ `3 <https://gist.github.com/sakuraido/a0e142e1001a4f99e25a>`_ `5 <https://gist.github.com/sakuraido/bc3e7488242751d279f6>`_ [**+5**]
      - |1.dz3.1|_ [**+5**]
-     -
+     - |1.dz4.zzzeek|_
      -
      -
      -
@@ -441,6 +441,9 @@
 .. _15.dz3.1: https://github.com/KhorAMus/Exercise1-1/blob/master/myproject/simpleAppAndMiddleware.py
 
 .. Домашняя работа #4
+
+.. |1.dz4.zzzeek| replace:: zzzeek
+.. _1.dz4.zzzeek: https://gist.github.com/sakuraido/1804f8af790231ca4a9014a34cd25b09
 
 .. |10.dz4.1| replace:: 1
 .. _10.dz4.1: https://github.com/YuriySimakov/HomeWorks/tree/master/jinja2
