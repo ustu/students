@@ -44,7 +44,7 @@
      - |1.dz1.1|_ |1.dz1.2-4|_ [**+5**]
      - |1.dz2.1|_ |1.dz2.2-5|_ [**+5**]
      - |1.dz3.1|_ [**+5**]
-     -
+     - |1.dz4.1|_
      -
      -
      -
@@ -229,7 +229,7 @@
 .. _Porader: https://github.com/Porader
 .. _dmitryduykin: https://github.com/dmitryduykin
 .. _ekaterem: https://github.com/ekaterem
-.. _KateBV: https://github.com/KateDV
+.. _KateBV: https://github.com/KateBV
 .. _GiperFrukt: https://github.com/GiperFrukt
 .. _BerdyuginaAnastasia: https://github.com/BerdyuginaAnastasia
 .. _teslenkoNatasha: https://github.com/teslenkoNatasha
@@ -442,6 +442,9 @@
 .. _15.dz3.1: https://github.com/VAShibaev/myproject
 
 .. Домашняя работа #4
+
+.. |1.dz4.1| replace:: 1
+.. _1.dz4.1: https://gist.github.com/KateBV/cf2ff7031e9c0409b3a07fb9fc45edf0
 
 .. Домашняя работа #5
 
