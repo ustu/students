@@ -88,8 +88,8 @@
      - |5.dz1.1|_ |5.dz1.2-4|_ [**+4**]
      - |5.dz2.1|_ |5.dz2.2|_ |5.dz2.3|_ |5.dz2.5|_ [**+4**]
      - |5.dz3.1|_ [**+5**]
-     -
-     -
+     - |5.dz4.5|_
+     - |5.dz5.1|_
      -
      -
      -
@@ -442,8 +442,12 @@
 .. _15.dz3.1: https://github.com/VAShibaev/myproject
 
 .. Домашняя работа #4
+.. |5.dz4.5| replace:: 5
+.. _5.dz4.5: https://gist.github.com/ekaterem/8ce6427f3e88034ca039912a14515626
 
 .. Домашняя работа #5
+.. |5.dz5.1| replace:: 1
+.. _5.dz5.1: https://github.com/ekaterem/Homework5
 
 .. Курсовая работа
 
