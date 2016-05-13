@@ -177,7 +177,7 @@
      - |13.dz2.2.1|_ |13.dz2.2.2|_ |13.dz2.3.1|_ |13.dz2.3.2|_ |13.dz2.5|_ [**+5**]
      - |13.dz3.1|_ [**+5**]
      - |13.dz4.2|_ |13.dz4.3|_ |13.dz4.4|_
-     -
+     - |13.dz5|_
      -
      -
      -
@@ -459,6 +459,7 @@
 .. _15.dz4.1-4: https://gist.github.com/KhorAMus/d440ec39942cacfb429e64ef213ccdaa
 
 .. Домашняя работа #5
-
+.. |13.dz5| replace:: 1
+.. _13.dz5: https://github.com/TabakovaChristina/HomeWorkTabakovaChristina2.1/tree/master/Homework5
 
 .. Курсовая работа
