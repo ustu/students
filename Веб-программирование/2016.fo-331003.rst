@@ -88,7 +88,7 @@
      - |5.dz1.1|_ |5.dz1.2|_ |5.dz1.3|_ |5.dz1.4|_ [**+5**]
      - |5.dz2.1|_ |5.dz2.2|_ |5.dz2.3|_ |5.dz2.5|_ [**+3**]
      - |5.dz3.1|_ [**+3**]
-     -
+     - |5.dz4.1-4|_
      -
      -
      -
@@ -441,6 +441,9 @@
 .. _15.dz3.1: https://github.com/KhorAMus/Exercise1-1/blob/master/myproject/simpleAppAndMiddleware.py
 
 .. Домашняя работа #4
+
+.. |5.dz4.1-4| replace:: zzzeek 1-4
+.. _5.dz4.1-4: https://gist.github.com/Gnatuk/73ceaa89e921bfcd226fbe23b2fc651d
 
 .. |10.dz4.1| replace:: 1
 .. _10.dz4.1: https://github.com/YuriySimakov/HomeWorks/tree/master/jinja2
