@@ -111,7 +111,7 @@
      - |7.dz2.1|_ |7.dz2.2-5|_ [**+5**]
      - |7.dz3.1|_ [**+5**]
      -
-     -
+     - |7.dz5|_
      -
      -
      -
@@ -459,6 +459,7 @@
 .. _15.dz4.1-4: https://gist.github.com/KhorAMus/d440ec39942cacfb429e64ef213ccdaa
 
 .. Домашняя работа #5
-
+.. |7.dz5| replace:: 1
+.. _7.dz5: https://github.com/InnaNishchikh/myproject
 
 .. Курсовая работа
