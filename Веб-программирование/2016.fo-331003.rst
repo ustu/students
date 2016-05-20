@@ -55,7 +55,7 @@
      - |2.dz1.1|_ |2.dz1.2-4|_ [**+5**]
      -
      - |2.dz3.1|_ [**+5**]
-     -
+     - |2.dz5.1|_
      -
      -
      -
@@ -459,6 +459,7 @@
 .. _15.dz4.1-4: https://gist.github.com/KhorAMus/d440ec39942cacfb429e64ef213ccdaa
 
 .. Домашняя работа #5
-
+.. |2.dz5.1| replace:: pyramidServer
+.. _2.dz5.1: https://github.com/jekaaa/WEB/blob/master/myproject/pyramidserv.py
 
 .. Курсовая работа
