@@ -165,8 +165,8 @@
      - |12.dz1.1|_ |12.dz1.2-4|_ [**+5**]
      - |12.dz2.1-5|_ [**+5**]
      - |12.dz3.1|_ [**+5**]
-     -
-     -
+     - |12.dz4.5|_ [**+5**]
+     - |12.dz5.1|_ [**+5**]
      -
      -
      -
@@ -451,11 +451,16 @@
 .. |14.dz4.5| replace:: 5
 .. _14.dz4.5: https://gist.github.com/ChukharevKS/56cc697ed0634fab55bbacb0ef3a5c8c
 
+.. |12.dz4.5| replace:: 5
+.. _12.dz4.5: https://gist.github.com/FominaMasha/e023c9caa6ec7190c8ebd433771d1b83
+
 .. |15.dz4.5| replace:: 5
 .. _15.dz4.5: https://gist.github.com/VAShibaev/f8432d81ce71d53e637caf275d179184
 
 .. Домашняя работа #5
 
+.. |12.dz5.1| replace:: 1
+.. _12.dz5.1: https://gist.github.com/FominaMasha/c965e76c8b7798b32b03bbb3f3d65770
 .. Курсовая работа
 
 .. |0.curs| replace:: "Интерактивная библиотека жанров музыки"
