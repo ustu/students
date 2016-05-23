@@ -198,7 +198,7 @@
      - |15.dz1.1|_ |15.dz1.2-4|_ [**+5**]
      - |15.dz2.1|_ |15.dz2.2|_ |15.dz2.3|_ |15.dz2.5|_ [**+5**]
      - |15.dz3.1|_ [**+5**]
-     -
+     - |15.dz4.5|_ [**+5**]
      -
      -
      -
@@ -450,6 +450,9 @@
 
 .. |14.dz4.5| replace:: 5
 .. _14.dz4.5: https://gist.github.com/ChukharevKS/56cc697ed0634fab55bbacb0ef3a5c8c
+
+.. |15.dz4.5| replace:: 5
+.. _15.dz4.5: https://gist.github.com/VAShibaev/f8432d81ce71d53e637caf275d179184
 
 .. Домашняя работа #5
 
