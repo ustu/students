@@ -66,7 +66,7 @@
      - |3.dz1.1|_ |3.dz1.2-4|_ [**+5**]
      - |3.dz2.1|_ |3.dz2.2.1|_ |3.dz2.2.2|_ |3.dz2.3.1|_ |3.dz2.3.2|_ [**+5**]
      - |3.dz3.0|_ [**+5**]
-     -
+     - |3.dz4.1|_ |3.dz4.2|_ |3.dz4.3|_ |3.dz4.4|_ [**+5**]
      -
      -
      -
@@ -448,6 +448,15 @@
 
 .. |2.dz4.1-4| replace:: zzzeek
 .. _2.dz4.1-4: https://gist.github.com/jekaaa/ee7b613faaa76f479ff1b62d93853bc7
+
+.. |3.dz4.1| replace:: 1
+.. _3.dz4.1: https://gist.github.com/BlameFlame/bee439169fd6633d7d772a710afcd5df
+.. |3.dz4.2| replace:: 2
+.. _3.dz4.2: https://gist.github.com/BlameFlame/28c36c5db6c1f751727e823551a5bcef
+.. |3.dz4.3| replace:: 3
+.. _3.dz4.3: https://gist.github.com/BlameFlame/6a1741ab8e0ed0001df748b1041e221d
+.. |3.dz4.4| replace:: 4
+.. _3.dz4.4: https://gist.github.com/BlameFlame/be67b49b3da099529916c0c35f4adc9b
 
 .. |10.dz4.1| replace:: 1
 .. _10.dz4.1: https://github.com/YuriySimakov/HomeWorks/tree/master/jinja2

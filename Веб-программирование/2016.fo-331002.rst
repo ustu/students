@@ -99,7 +99,7 @@
      - |6.dz1.1|_ |6.dz1.2-4|_ [**+5**]
      - |6.dz2.1|_ |6.dz2.2,3,5|_ [**+5**]
      - |6.dz3.1|_ [**+5**]
-     -
+     - |6.dz4.5|_ [**+5**]
      -
      -
      -
@@ -187,7 +187,7 @@
      - |14.dz1.1|_ |14.dz1.2-4|_ [**+5**]
      - |14.dz2.1|_ |14.dz2.2,3,5|_ [**+5**]
      - |14.dz3.1|_ [**+5**]
-     -
+     - |14.dz4.5|_ [**+5**]
      -
      -
      -
@@ -265,6 +265,8 @@
 .. _6.dz1.1: https://github.com/GiperFrukt/myproject
 .. |6.dz1.2-4| replace:: 2-4
 .. _6.dz1.2-4: https://gist.github.com/GiperFrukt/ca370f79d774301fb227
+.. |6.dz4.5| replace:: 5
+.. _6.dz4.5: https://gist.github.com/GiperFrukt/f0d01c6aca7a41c0a4f194cd3ce6ddb6
 
 .. |7.dz1.1| replace:: 1
 .. _7.dz1.1: https://github.com/Dizrax/myproject
@@ -442,6 +444,9 @@
 .. _15.dz3.1: https://github.com/VAShibaev/myproject
 
 .. Домашняя работа #4
+
+.. |14.dz4.5| replace:: 5
+.. _14.dz4.5: https://gist.github.com/ChukharevKS/56cc697ed0634fab55bbacb0ef3a5c8c
 
 .. Домашняя работа #5
 
