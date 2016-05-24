@@ -176,7 +176,7 @@
      - |13.dz1.1|_ |13.dz1.2|_ |13.dz1.3|_ |13.dz1.4|_ [**+5**]
      - |13.dz2.2.1|_ |13.dz2.2.2|_ |13.dz2.3.1|_ |13.dz2.3.2|_ |13.dz2.5|_ [**+5**]
      - |13.dz3.1|_ [**+5**]
-     - |13.dz4.2|_ |13.dz4.3|_ |13.dz4.4|_
+     - |13.dz4.2|_ |13.dz4.3|_ |13.dz4.4|_ |13.dzZ.1|_ |13.dzZ.2|_ |13.dzZ.3|_ |13.dzZ.4|_ [**+5**]
      -
      -
      -
@@ -475,18 +475,26 @@
 .. |11.dz4.2| replace:: sql
 .. _11.dz4.2: https://gist.github.com/SokolovMikhail/e3cb67afaa8e7fd8405224b3cd7936c0
 
+.. |12.dz4.1-4| replace:: zzzeek 1-4
+.. _12.dz4.1-4: https://gist.github.com/arinasuvorina/4806962144ea42bf16bf562160560ac6
+
 .. |13.dz4.2| replace:: 2
 .. _13.dz4.2: https://gist.github.com/TabakovaChristina/036f182f667fb8457e4e34af2c4ba20f
 .. |13.dz4.3| replace:: 3
 .. _13.dz4.3: https://gist.github.com/TabakovaChristina/9742893f82889eb01f6d4bd3e485601e
 .. |13.dz4.4| replace:: 4
 .. _13.dz4.4: https://gist.github.com/TabakovaChristina/1e62ab13507224bc2e7a0f68659c279a
+.. |13.dzZ.1| replace:: Z.1
+.. _13.dzZ.1: https://gist.github.com/TabakovaChristina/c49e7f421ff3678d95fad25c82ec7b6f
+.. |13.dzZ.2| replace:: Z.2
+.. _13.dzZ.2: https://gist.github.com/TabakovaChristina/89d6d6d3d29a5d7eeee663b504c0d831
+.. |13.dzZ.3| replace:: Z.3
+.. _13.dzZ.3: https://gist.github.com/TabakovaChristina/3eef3840215ac8e7f9ca2d8c7ca61f73
+.. |13.dzZ.4| replace:: Z.4
+.. _13.dzZ.4: https://gist.github.com/TabakovaChristina/74b8237b5925d26daf99677102e22a4b
 
 .. |15.dz4.1-4| replace:: zzzeek 1-4
 .. _15.dz4.1-4: https://gist.github.com/KhorAMus/d440ec39942cacfb429e64ef213ccdaa
-
-.. |12.dz4.1-4| replace:: zzzeek 1-4
-.. _12.dz4.1-4: https://gist.github.com/arinasuvorina/4806962144ea42bf16bf562160560ac6
 
 .. Домашняя работа #5
 
