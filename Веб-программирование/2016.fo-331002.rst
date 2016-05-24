@@ -143,7 +143,7 @@
      - |10.dz1.1|_ |10.dz1.2-4|_ [**+5**]
      - |10.dz2.1|_ |10.dz2.2-3|_ |10.dz2.5|_ [**+5**]
      - |10.dz3.1|_ [**+5**]
-     - |10.dz4.zzzeekTask|_
+     - |10.dz4.zzzeekTask|_ [**+5**]
      -
      -
      -
@@ -444,8 +444,6 @@
 .. _15.dz3.1: https://github.com/VAShibaev/myproject
 
 .. Домашняя работа #4
-.. |10.dz4.zzzeekTask| replace:: zzzeekTask
-.. _10.dz4.zzzeekTask: https://gist.github.com/teslenkoNatasha/1284842d0f83a18b897d0048c98968d8
 
 .. |8.dz4.5| replace:: 5
 .. _8.dz4.5: https://gist.github.com/mashaOtstavnova/ab72f7f4dac05ecd939d9e1b16137f0e
@@ -453,11 +451,14 @@
 .. |9.dz4.5| replace:: 5
 .. _9.dz4.5: https://gist.github.com/sarafanovde/48768f9a28b626463e2d9e76c4cf13dd
 
-.. |14.dz4.5| replace:: 5
-.. _14.dz4.5: https://gist.github.com/ChukharevKS/56cc697ed0634fab55bbacb0ef3a5c8c
+.. |10.dz4.zzzeekTask| replace:: zzzeekTask
+.. _10.dz4.zzzeekTask: https://gist.github.com/teslenkoNatasha/1284842d0f83a18b897d0048c98968d8
 
 .. |12.dz4.5| replace:: 5
 .. _12.dz4.5: https://gist.github.com/FominaMasha/e023c9caa6ec7190c8ebd433771d1b83
+
+.. |14.dz4.5| replace:: 5
+.. _14.dz4.5: https://gist.github.com/ChukharevKS/56cc697ed0634fab55bbacb0ef3a5c8c
 
 .. |15.dz4.5| replace:: 5
 .. _15.dz4.5: https://gist.github.com/VAShibaev/f8432d81ce71d53e637caf275d179184
@@ -466,6 +467,7 @@
 
 .. |12.dz5.1| replace:: 1
 .. _12.dz5.1: https://gist.github.com/FominaMasha/c965e76c8b7798b32b03bbb3f3d65770
+
 .. Курсовая работа
 
 .. |0.curs| replace:: "Интерактивная библиотека жанров музыки"
