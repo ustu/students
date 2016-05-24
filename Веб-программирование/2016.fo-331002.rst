@@ -110,7 +110,7 @@
      - |7.dz1.1|_ |7.dz1.2-4|_ [**+5**]
      - |7.dz2.1|_ |7.dz2.2,3,5|_ [**+5**]
      - |7.dz3.1|_ [**+5**]
-     -
+     - |7.dz4.1-4|_
      -
      -
      -
@@ -444,6 +444,8 @@
 .. _15.dz3.1: https://github.com/VAShibaev/myproject
 
 .. Домашняя работа #4
+.. |7.dz4.1-4| replace:: 1-4
+.. _7.dz4.1-4: https://gist.github.com/Dizrax/0799815bb4b4ede23ac6f063ea1a1ef1
 
 .. |8.dz4.5| replace:: 5
 .. _8.dz4.5: https://gist.github.com/mashaOtstavnova/ab72f7f4dac05ecd939d9e1b16137f0e
