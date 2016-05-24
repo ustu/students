@@ -66,7 +66,7 @@
      - |3.dz1.1|_ |3.dz1.2-4|_ [**+5**]
      - |3.dz2.1|_ |3.dz2.2|_ |3.dz2.3|_ |3.dz2.5|_ [**+5**]
      - |3.dz3.1|_ [**+5**]
-     -
+     - |3.dz4.1|_ 
      -
      -
      -
@@ -464,6 +464,9 @@
 
 .. |15.dz4.5| replace:: 5
 .. _15.dz4.5: https://gist.github.com/VAShibaev/f8432d81ce71d53e637caf275d179184
+
+.. |3.dz4.1| replace:: 1
+.. _3.dz4.1: https://gist.github.com/dmitryduykin/c3d4c18264f9003f6fabbae006ccf110
 
 .. Домашняя работа #5
 
