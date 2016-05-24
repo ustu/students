@@ -133,7 +133,7 @@
      - |9.dz2.1|_ |9.dz2.2,3,5|_ [**+5**]
      - |9.dz3.1|_ [**+5**]
      - |9.dz4.5|_ [**+5**]
-     -
+     - |9.dz5.1|_ [**+5**]
      -
      -
      -
@@ -487,6 +487,9 @@
 
 .. |8.dz5.1| replace:: 1
 .. _8.dz5.1: https://gist.github.com/mashaOtstavnova/c8dde637f50c7c9902e0892945e6a143
+
+.. |9.dz5.1| replace:: 1
+.. _9.dz5.1: https://github.com/sarafanovde/pyramid-framework
 
 .. |12.dz5.1| replace:: 1
 .. _12.dz5.1: https://gist.github.com/FominaMasha/c965e76c8b7798b32b03bbb3f3d65770
