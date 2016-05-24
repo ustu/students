@@ -144,7 +144,7 @@
      - |10.dz2.1|_ |10.dz2.2a|_ |10.dz2.2b|_ |10.dz2.3a|_ |10.dz2.3b|_ |10.dz2.5|_ [**+5**]
      - |10.dz3.1|_ [**+5**]
      - |10.dz4.1|_ |10.dz4.2-4|_ |10.dz4.zzzeek.1-4|_ [**+5**]
-     -
+     - |10.dz5.1|_
      -
      -
      -
@@ -504,6 +504,8 @@
 
 .. Домашняя работа #5
 
+.. |10.dz5.1| replace:: 1
+.. _10.dz5.1: https://github.com/YuriySimakov/HomeWorks/tree/master/ThePyramid
 
 
 
