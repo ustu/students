@@ -165,7 +165,7 @@
      - |12.dz1.1|_ |12.dz1.2|_ |12.dz1.3|_ |12.dz1.4|_ [**+5**]
      - |12.dz2.1|_ |12.dz2.2|_ |12.dz2.3|_ |12.dz2.5|_ [**+5**]
      - |12.dz3.1|_ [**+5**]
-     -
+     - |12.dz4.1-4|_
      -
      -
      -
@@ -484,6 +484,9 @@
 
 .. |15.dz4.1-4| replace:: zzzeek 1-4
 .. _15.dz4.1-4: https://gist.github.com/KhorAMus/d440ec39942cacfb429e64ef213ccdaa
+
+.. |12.dz4.1-4| replace:: zzzeek 1-4
+.. _12.dz4.1-4: https://gist.github.com/arinasuvorina/4806962144ea42bf16bf562160560ac6
 
 .. Домашняя работа #5
 
