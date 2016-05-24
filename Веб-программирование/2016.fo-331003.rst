@@ -177,7 +177,7 @@
      - |13.dz2.2.1|_ |13.dz2.2.2|_ |13.dz2.3.1|_ |13.dz2.3.2|_ |13.dz2.5|_ [**+5**]
      - |13.dz3.1|_ [**+5**]
      - |13.dz4.2|_ |13.dz4.3|_ |13.dz4.4|_ |13.dzZ.1|_ |13.dzZ.2|_ |13.dzZ.3|_ |13.dzZ.4|_ [**+5**]
-     -
+     - |13.dz5|_ [**+5**]
      -
      -
      -
@@ -507,6 +507,7 @@
 .. |10.dz5.1| replace:: 1
 .. _10.dz5.1: https://github.com/YuriySimakov/HomeWorks/tree/master/ThePyramid
 
-
+.. |13.dz5| replace:: 1
+.. _13.dz5: https://github.com/TabakovaChristina/HomeWorkTabakovaChristina2.1/tree/master/Homework5
 
 .. Курсовая работа
