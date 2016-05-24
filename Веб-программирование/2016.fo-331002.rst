@@ -55,7 +55,7 @@
      - |2.dz1.1|_ |2.dz1.2-4|_ [**+5**]
      - |2.dz2.1|_ |2.dz2.2-3|_ |2.dz2.5|_ [**+5**]
      - |2.dz3.1|_ [**+5**]
-     -
+     - |2.dz4.1|_
      -
      -
      -
@@ -468,6 +468,8 @@
 .. |3.dz4.1| replace:: 1
 .. _3.dz4.1: https://gist.github.com/dmitryduykin/c3d4c18264f9003f6fabbae006ccf110
 
+.. |2.dz4.1| replace:: 1
+.. _2.dz4.1: https://gist.github.com/BerdyuginaAnastasia/3689f3f5242a5a18c97047d51397e058
 .. Домашняя работа #5
 
 .. |12.dz5.1| replace:: 1
