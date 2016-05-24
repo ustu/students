@@ -100,7 +100,7 @@
      - |6.dz2.1|_ |6.dz2.2,3,5|_ [**+5**]
      - |6.dz3.1|_ [**+5**]
      - |6.dz4.5|_ [**+5**]
-     -
+     - |6.dz5.1|_ [**+5**]
      -
      -
      -
@@ -481,6 +481,9 @@
 .. _15.dz4.5: https://gist.github.com/VAShibaev/f8432d81ce71d53e637caf275d179184
 
 .. Домашняя работа #5
+
+.. |6.dz5.1| replace:: 1
+.. _6.dz5.1: https://github.com/GiperFrukt/myproject
 
 .. |8.dz5.1| replace:: 1
 .. _8.dz5.1: https://gist.github.com/mashaOtstavnova/c8dde637f50c7c9902e0892945e6a143
