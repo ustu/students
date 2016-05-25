@@ -78,7 +78,7 @@
      - |4.dz2.1|_ |4.dz2.2|_ |4.dz2.3|_ |4.dz2.5|_ [**+5**]
      - |4.dz3.1|_ [**+5**]
      - |4.dz4.5|_ [**+5**]
-     -
+     - |4.dz5.1|_ [**+5**]
      -
      -
      -
@@ -484,6 +484,9 @@
 
 .. |3.dz5.1| replace:: 1
 .. _3.dz5.1: https://github.com/dmitryduykin/pyramid
+
+.. |4.dz5.1| replace:: 1
+.. _4.dz5.1: https://github.com/maksimemelyanov/WEB_3
 
 .. |6.dz5.1| replace:: 1
 .. _6.dz5.1: https://github.com/GiperFrukt/myproject
