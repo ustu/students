@@ -56,7 +56,7 @@
      - |2.dz2.1|_ |2.dz2.2-5|_ [**+5**]
      - |2.dz3.1|_ [**+5**]
      - |2.dz4.1-4|_ [**+5**]
-     -
+     - |2.dz5.1|_ [**+4**]
      -
      -
      -
@@ -509,6 +509,9 @@
 
 .. |1.dz5.1| replace:: 1
 .. _1.dz5.1: https://github.com/sakuraido/first/blob/master/myproject/pyramid_framework.py
+
+.. |2.dz5.1| replace:: pyramidServer
+.. _2.dz5.1: https://github.com/jekaaa/WEB/blob/master/myproject/pyramidserv.py
 
 .. |7.dz5| replace:: 1
 .. _7.dz5: https://github.com/InnaNishchikh/myproject
