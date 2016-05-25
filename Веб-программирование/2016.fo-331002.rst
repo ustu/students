@@ -155,7 +155,7 @@
      - |11.dz2.1|_ |11.dz2.2-5|_ [**+5**]
      - |11.dz3.1|_ [**+5**]
      - |11.dz4.5|_ [**+5**]
-     -
+     - |11.dz5.1|_ [**+4**]
      -
      -
      -
@@ -512,6 +512,9 @@
 
 .. |15.dz5.1| replace:: 1
 .. _15.dz5.1: https://github.com/VAShibaev/Pyramid
+
+.. |11.dz5.1| replace:: 1
+.. _11.dz5.1: https://github.com/Porader/Pyramid
 
 .. Курсовая работа
 
