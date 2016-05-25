@@ -144,7 +144,7 @@
      - |10.dz2.1|_ |10.dz2.2-3|_ |10.dz2.5|_ [**+5**]
      - |10.dz3.1|_ [**+5**]
      - |10.dz4.zzzeekTask|_ [**+5**]
-     -
+     - |10.dz5.1|_ [**+4**]
      -
      -
      -
@@ -508,6 +508,9 @@
 
 .. |9.dz5.1| replace:: 1
 .. _9.dz5.1: https://github.com/sarafanovde/pyramid-framework
+
+.. |10.dz5.1| replace:: 1
+.. _10.dz5.1: https://github.com/teslenkoNatasha/myproject
 
 .. |11.dz5.1| replace:: 1
 .. _11.dz5.1: https://github.com/Porader/Pyramid
