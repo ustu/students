@@ -166,7 +166,7 @@
      - |12.dz2.1|_ |12.dz2.2|_ |12.dz2.3|_ |12.dz2.5|_ [**+5**]
      - |12.dz3.1|_ [**+5**]
      - |12.dz4.1-4|_ [**+5**]
-     -
+     - |12.dz5.1|_ [**+5**]
      -
      -
      -
@@ -512,6 +512,9 @@
 
 .. |10.dz5.1| replace:: 1
 .. _10.dz5.1: https://github.com/YuriySimakov/HomeWorks/tree/master/ThePyramid
+
+.. |12.dz5.1| replace:: 1
+.. _12.dz5.1: https://github.com/arinasuvorina/myproject
 
 .. |13.dz5| replace:: 1
 .. _13.dz5: https://github.com/TabakovaChristina/HomeWorkTabakovaChristina2.1/tree/master/Homework5
