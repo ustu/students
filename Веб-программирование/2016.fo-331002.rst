@@ -45,7 +45,7 @@
      - |1.dz2.1|_ |1.dz2.2-5|_ [**+5**]
      - |1.dz3.1|_ [**+5**]
      - |1.dz4.1|_ [**+5**]
-     -
+     - |1.dz5.1|_ [**+5**]
      -
      -
      -
@@ -481,6 +481,9 @@
 .. _15.dz4.5: https://gist.github.com/VAShibaev/f8432d81ce71d53e637caf275d179184
 
 .. Домашняя работа #5
+
+.. |1.dz5.1| replace:: 1
+.. _1.dz5.1: https://github.com/KateBV/Lab5
 
 .. |3.dz5.1| replace:: 1
 .. _3.dz5.1: https://github.com/dmitryduykin/pyramid
