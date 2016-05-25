@@ -88,7 +88,7 @@
      - |5.dz1.1|_ |5.dz1.2|_ |5.dz1.3|_ |5.dz1.4|_ [**+5**]
      - |5.dz2.1|_ |5.dz2.2|_ |5.dz2.3|_ |5.dz2.5|_ [**+3**]
      - |5.dz3.1|_ [**+3**]
-     -
+     - |5.dz4.1-4|_ [**+3**]
      -
      -
      -
@@ -462,6 +462,9 @@
 .. _3.dz4.3: https://gist.github.com/BlameFlame/6a1741ab8e0ed0001df748b1041e221d
 .. |3.dz4.4| replace:: 4
 .. _3.dz4.4: https://gist.github.com/BlameFlame/be67b49b3da099529916c0c35f4adc9b
+
+.. |5.dz4.1-4| replace:: zzzeek 1-4
+.. _5.dz4.1-4: https://gist.github.com/Gnatuk/73ceaa89e921bfcd226fbe23b2fc651d
 
 .. |7.dz4| replace:: zzzeek
 .. _7.dz4: https://gist.github.com/InnaNishchikh/f121131af0444b475cf2d6e86b967931
