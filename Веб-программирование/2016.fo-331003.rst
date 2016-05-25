@@ -45,7 +45,7 @@
      - `1 <https://github.com/sakuraido/first>`_ `2 <https://gist.github.com/sakuraido/7337357c70297d5a0039>`_ `3 <https://gist.github.com/sakuraido/a0e142e1001a4f99e25a>`_ `5 <https://gist.github.com/sakuraido/bc3e7488242751d279f6>`_ [**+5**]
      - |1.dz3.1|_ [**+5**]
      - |1.dz4.zzzeek|_ [**+5**]
-     -
+     - |1.dz5.1|_ [**+4**]
      -
      -
      -
@@ -506,6 +506,9 @@
 .. _14.dz4.1-4: https://gist.github.com/FirsovaJane/f4f36611845ca34b4ef281915995243a
 
 .. Домашняя работа #5
+
+.. |1.dz5.1| replace:: 1
+.. _1.dz5.1: https://github.com/sakuraido/first/blob/master/myproject/pyramid_framework.py
 
 .. |10.dz5.1| replace:: 1
 .. _10.dz5.1: https://github.com/YuriySimakov/HomeWorks/tree/master/ThePyramid
