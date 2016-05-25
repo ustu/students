@@ -111,7 +111,7 @@
      - |7.dz2.1|_ |7.dz2.2-5|_ [**+5**]
      - |7.dz3.1|_ [**+5**]
      - |7.dz4|_ [**+5**]
-     -
+     - |7.dz5|_ [**+4**]
      -
      -
      -
@@ -509,6 +509,9 @@
 
 .. |1.dz5.1| replace:: 1
 .. _1.dz5.1: https://github.com/sakuraido/first/blob/master/myproject/pyramid_framework.py
+
+.. |7.dz5| replace:: 1
+.. _7.dz5: https://github.com/InnaNishchikh/myproject
 
 .. |10.dz5.1| replace:: 1
 .. _10.dz5.1: https://github.com/YuriySimakov/HomeWorks/tree/master/ThePyramid
