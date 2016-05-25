@@ -56,7 +56,7 @@
      - |2.dz2.1|_ |2.dz2.2-3|_ |2.dz2.5|_ [**+5**]
      - |2.dz3.1|_ [**+5**]
      - |2.dz4.1|_ [**+5**]
-     -
+     - |2.dz5.1|_ [**+4**]
      -
      -
      -
@@ -487,6 +487,9 @@
 
 .. |1.dz5.1| replace:: 1
 .. _1.dz5.1: https://github.com/KateBV/Lab5
+
+.. |2.dz5.1| replace:: 1
+.. _2.dz5.1: https://github.com/BerdyuginaAnastasia/Dz5
 
 .. |3.dz5.1| replace:: 1
 .. _3.dz5.1: https://github.com/dmitryduykin/pyramid
