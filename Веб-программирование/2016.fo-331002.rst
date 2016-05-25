@@ -111,7 +111,7 @@
      - |7.dz2.1|_ |7.dz2.2,3,5|_ [**+5**]
      - |7.dz3.1|_ [**+5**]
      - |7.dz4.1-4|_ [**+5**]
-     -
+     - |7.dz5.1|_ [**+4**]
      -
      -
      -
@@ -443,8 +443,6 @@
 .. _15.dz3.1: https://github.com/VAShibaev/myproject
 
 .. Домашняя работа #4
-.. |5.dz4.5| replace:: 5
-.. _5.dz4.5: https://gist.github.com/ekaterem/8ce6427f3e88034ca039912a14515626
 
 .. |1.dz4.1| replace:: 1
 .. _1.dz4.1: https://gist.github.com/KateBV/cf2ff7031e9c0409b3a07fb9fc45edf0
@@ -457,6 +455,9 @@
 
 .. |4.dz4.5| replace:: 5
 .. _4.dz4.5: https://gist.github.com/maksimemelyanov/4e9d40fdbd731751ed2534b6efc8bcd0
+
+.. |5.dz4.5| replace:: 5
+.. _5.dz4.5: https://gist.github.com/ekaterem/8ce6427f3e88034ca039912a14515626
 
 .. |7.dz4.1-4| replace:: 1-4
 .. _7.dz4.1-4: https://gist.github.com/Dizrax/0799815bb4b4ede23ac6f063ea1a1ef1
@@ -483,8 +484,6 @@
 .. _15.dz4.5: https://gist.github.com/VAShibaev/f8432d81ce71d53e637caf275d179184
 
 .. Домашняя работа #5
-.. |5.dz5.1| replace:: 1
-.. _5.dz5.1: https://github.com/ekaterem/Homework5
 
 .. |1.dz5.1| replace:: 1
 .. _1.dz5.1: https://github.com/KateBV/Lab5
@@ -495,14 +494,23 @@
 .. |4.dz5.1| replace:: 1
 .. _4.dz5.1: https://github.com/maksimemelyanov/WEB_3
 
+.. |5.dz5.1| replace:: 1
+.. _5.dz5.1: https://github.com/ekaterem/Homework5
+
 .. |6.dz5.1| replace:: 1
 .. _6.dz5.1: https://github.com/GiperFrukt/myproject
+
+.. |7.dz5.1| replace:: 1
+.. _7.dz5.1: https://github.com/Dizrax/myproject
 
 .. |8.dz5.1| replace:: 1
 .. _8.dz5.1: https://gist.github.com/mashaOtstavnova/c8dde637f50c7c9902e0892945e6a143
 
 .. |9.dz5.1| replace:: 1
 .. _9.dz5.1: https://github.com/sarafanovde/pyramid-framework
+
+.. |11.dz5.1| replace:: 1
+.. _11.dz5.1: https://github.com/Porader/Pyramid
 
 .. |12.dz5.1| replace:: 1
 .. _12.dz5.1: https://gist.github.com/FominaMasha/c965e76c8b7798b32b03bbb3f3d65770
@@ -512,9 +520,6 @@
 
 .. |15.dz5.1| replace:: 1
 .. _15.dz5.1: https://github.com/VAShibaev/Pyramid
-
-.. |11.dz5.1| replace:: 1
-.. _11.dz5.1: https://github.com/Porader/Pyramid
 
 .. Курсовая работа
 
