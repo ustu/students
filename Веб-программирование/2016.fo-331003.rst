@@ -155,7 +155,7 @@
      - |11.dz2.1|_ |11.dz2.2a|_ |11.dz2.2b|_ |11.dz2.3a|_ |11.dz2.3b|_ |11.dz2.5|_ [**+4**]
      - |11.dz3.1|_ [**+5**]
      - |11.dz4.1|_ |11.dz4.2|_  [**+5**]
-     -
+     - |11.dz5.1|_
      -
      -
      -
@@ -281,7 +281,8 @@
 .. _11.dz1.3: https://gist.github.com/SokolovMikhail/085520b940d292327332
 .. |11.dz1.4| replace:: 4
 .. _11.dz1.4: https://gist.github.com/SokolovMikhail/d4ed15163c3c51bbff05
-
+.. |11.dz5.1| replace:: 1
+.. _11.dz5.1: https://gist.github.com/SokolovMikhail/4f0a9f413e80d45452e4e82ba9c32f46
 
 .. |12.dz1.1| replace:: 1
 .. _12.dz1.1: https://github.com/arinasuvorina/myproject
