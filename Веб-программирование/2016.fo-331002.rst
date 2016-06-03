@@ -533,7 +533,7 @@
 .. _0.curs: https://github.com/LZIM-94/Web-Music-Library
 
 .. |3.curs| replace:: "Разработка интернет магазина автозапчастей."
-.. _3.curs: 
+.. _3.curs: https://github.com/dmitryduykin/Auto_Parts
 
 .. |14.curs| replace:: "Разработка веб-приложения Мессенджер"
 .. _14.curs: 
