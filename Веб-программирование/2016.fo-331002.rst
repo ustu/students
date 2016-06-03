@@ -202,7 +202,7 @@
      - |15.dz5.1|_ [**+5**]
      -
      -
-     -
+     - |15.curs|_
 
 .. CheckPoints
 
@@ -540,3 +540,6 @@
 
 .. |9.curs| replace:: "Создание новостного мультимедийного портала"
 .. _9.curs: https://github.com/sarafanovde/WebNews
+
+.. |15.curs| replace:: "Онлайн библиотека научной литературы"
+.. _15.curs: https://github.com/VAShibaev/CourseWork
