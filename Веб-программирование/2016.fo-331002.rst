@@ -81,7 +81,7 @@
      - |4.dz5.1|_ [**+5**]
      -
      -
-     -
+     - |4.curs|_
    * - 5
      - Еремина Екатерина Константиновна
      - ekaterem_
@@ -534,6 +534,9 @@
 
 .. |3.curs| replace:: "Разработка интернет магазина автозапчастей."
 .. _3.curs: https://github.com/dmitryduykin/Auto_Parts
+
+.. |4.curs| replace:: "Разработка системы онлайн-бронирования авиабилетов"
+.. _4.curs: https://github.com/maksimemelyanov/AirlineBooking
 
 .. |14.curs| replace:: "Разработка веб-приложения Мессенджер"
 .. _14.curs: 
