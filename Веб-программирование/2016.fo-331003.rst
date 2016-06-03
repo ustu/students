@@ -120,7 +120,7 @@
      - lyubanksy_
      - |8.dz1.1|_ |8.dz1.2-4|_ [**+3**]
      -
-     -
+     - |8.dz4|_
      -
      -
      -
@@ -469,6 +469,9 @@
 
 .. |7.dz4| replace:: zzzeek
 .. _7.dz4: https://gist.github.com/InnaNishchikh/f121131af0444b475cf2d6e86b967931
+
+.. |8.dz4.1| replace:: 1
+.. _8.dz4.1: https://gist.github.com/lyubanksy/7346500e1a8979b6a70889f4ef51a704
 
 .. |10.dz4.1| replace:: 1
 .. _10.dz4.1: https://github.com/YuriySimakov/HomeWorks/tree/master/jinja2
