@@ -92,7 +92,7 @@
      - |5.dz5.1|_ [**+5**]
      -
      -
-     -
+     - |5.curs|_
    * - 6
      - Корнилов Валентин Вадимович
      - GiperFrukt_
@@ -538,8 +538,11 @@
 .. |4.curs| replace:: "Разработка системы онлайн-бронирования авиабилетов"
 .. _4.curs: https://github.com/maksimemelyanov/AirlineBooking
 
+.. |5.curs| replace:: "Онлайн регистратура"
+.. _5.curs: https://github.com/ekaterem/Registry
+
 .. |14.curs| replace:: "Разработка веб-приложения Мессенджер"
-.. _14.curs: 
+.. _14.curs:
 
 .. |9.curs| replace:: "Создание новостного мультимедийного портала"
 .. _9.curs: https://github.com/sarafanovde/WebNews
