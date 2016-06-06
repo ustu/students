@@ -123,7 +123,7 @@
      - |8.dz3.1|_ [**+3**]
      - |8.dz4|_
      -
-     -
+     - |8.dz5.1|_
      -
      -
      -
@@ -531,6 +531,9 @@
 
 .. |7.dz5| replace:: 1
 .. _7.dz5: https://github.com/InnaNishchikh/myproject
+
+.. |8.dz5| replace:: 1
+.. _8.dz5: https://github.com/lyubanksy/dz5
 
 .. |10.dz5.1| replace:: 1
 .. _10.dz5.1: https://github.com/YuriySimakov/HomeWorks/tree/master/ThePyramid
