@@ -119,8 +119,8 @@
      - Пермякова Любовь
      - lyubanksy_
      - |8.dz1.1|_ |8.dz1.2-4|_ [**+3**]
-     - |8.dz2.1|_ |8.dz2.2|_ |8.dz2.3|_ |8.dz2.5|_
-     -
+     - |8.dz2.1|_ |8.dz2.2|_ |8.dz2.3|_ |8.dz2.5|_ [**+3**]
+     - |8.dz3.1|_ [**+3**]
      -
      -
      -
@@ -424,6 +424,7 @@
 .. |7.dz2.2-5| replace:: 2-5
 .. _7.dz2.2-5: https://gist.github.com/InnaNishchikh/3a079d6c528e7bc4ebdb2d5bcab0746c
 
+
 .. Домашняя работа #3
 
 .. |1.dz3.1| replace:: 1
@@ -438,8 +439,12 @@
 .. |7.dz3.1| replace:: 1
 .. _7.dz3.1: https://github.com/InnaNishchikh/myproject/blob/master/3.1.py
 
+.. |8.dz3.1| replace:: 1
+.. _8.dz3.1: https://gist.github.com/lyubanksy/a7b0119690e03d23fc8b221b09dd5ce0
+
 .. |10.dz3.1| replace:: 1
 .. _10.dz3.1: https://github.com/YuriySimakov/HomeWorks/tree/master/myproject
+
 
 .. |11.dz3.1| replace:: 1
 .. _11.dz3.1: https://github.com/SokolovMikhail/myproject
@@ -455,6 +460,7 @@
 
 .. |15.dz3.1| replace:: 1
 .. _15.dz3.1: https://github.com/KhorAMus/Exercise1-1/blob/master/myproject/simpleAppAndMiddleware.py
+
 
 .. Домашняя работа #4
 
