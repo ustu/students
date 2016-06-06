@@ -119,7 +119,7 @@
      - Пермякова Любовь
      - lyubanksy_
      - |8.dz1.1|_ |8.dz1.2-4|_ [**+3**]
-     -
+     - |8.dz2.1|_ |8.dz2.2|_ |8.dz2.3|_ |8.dz2.5|_
      -
      -
      -
@@ -340,6 +340,15 @@
 .. _5.dz2.3: https://gist.github.com/Gnatuk/f29117d946e2610c72520479de5695ea
 .. |5.dz2.5| replace:: 5
 .. _5.dz2.5: https://gist.github.com/Gnatuk/523b8817894f3d17a118174fb784ec24
+
+.. |8.dz2.1| replace:: 1
+.. _8.dz2.1: https://github.com/lyubanksy/dz2
+.. |8.dz2.2| replace:: 2
+.. _8.dz2.2: https://gist.github.com/lyubanksy/e0932ccd234d27161fa4eb8b9a628b8f
+.. |8.dz2.3| replace:: 3
+.. _8.dz2.3: https://gist.github.com/lyubanksy/ece1c057de5cc1148efff66c2aebd973
+.. |8.dz2.5| replace:: 5
+.. _8.dz2.5: https://gist.github.com/lyubanksy/d810092e2776db06b77b12845961577f
 
 .. |10.dz2.1| replace:: 1
 .. _10.dz2.1: https://github.com/YuriySimakov/HomeWorks
