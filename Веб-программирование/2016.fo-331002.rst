@@ -542,7 +542,7 @@
 .. _5.curs: https://github.com/ekaterem/Registry
 
 .. |14.curs| replace:: "Разработка веб-приложения Мессенджер"
-.. _14.curs:
+.. _14.curs: https://github.com/ChukharevKS/MessengerOnPyramid
 
 .. |9.curs| replace:: "Создание новостного мультимедийного портала"
 .. _9.curs: https://github.com/sarafanovde/WebNews
