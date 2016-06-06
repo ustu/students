@@ -121,6 +121,7 @@
      - |8.dz1.1|_ |8.dz1.2-4|_ [**+3**]
      - |8.dz2.1|_ |8.dz2.2|_ |8.dz2.3|_ |8.dz2.5|_ [**+3**]
      - |8.dz3.1|_ [**+3**]
+     - |8.dz4|_
      -
      -
      -
@@ -341,6 +342,11 @@
 .. |5.dz2.5| replace:: 5
 .. _5.dz2.5: https://gist.github.com/Gnatuk/523b8817894f3d17a118174fb784ec24
 
+.. |7.dz2.1| replace:: 1
+.. _7.dz2.1: https://github.com/InnaNishchikh/myproject/blob/master/2.1.py
+.. |7.dz2.2-5| replace:: 2-5
+.. _7.dz2.2-5: https://gist.github.com/InnaNishchikh/3a079d6c528e7bc4ebdb2d5bcab0746c
+
 .. |8.dz2.1| replace:: 1
 .. _8.dz2.1: https://github.com/lyubanksy/dz2
 .. |8.dz2.2| replace:: 2
@@ -416,22 +422,14 @@
 
 .. Домашняя работа #3
 
-.. |3.dz3.0| replace:: 1
-.. _3.dz3.0: https://github.com/BlameFlame/myproject/blob/master/WSGI.py
-
-.. |7.dz2.1| replace:: 1
-.. _7.dz2.1: https://github.com/InnaNishchikh/myproject/blob/master/2.1.py
-.. |7.dz2.2-5| replace:: 2-5
-.. _7.dz2.2-5: https://gist.github.com/InnaNishchikh/3a079d6c528e7bc4ebdb2d5bcab0746c
-
-
-.. Домашняя работа #3
-
 .. |1.dz3.1| replace:: 1
 .. _1.dz3.1: https://github.com/sakuraido/first/blob/master/myproject/WSGI.py
 
 .. |2.dz3.1| replace:: 1
 .. _2.dz3.1: https://github.com/jekaaa/WEB/blob/master/myproject/wsgiserv.py
+
+.. |3.dz3.0| replace:: 1
+.. _3.dz3.0: https://github.com/BlameFlame/myproject/blob/master/WSGI.py
 
 .. |5.dz3.1| replace:: 1
 .. _5.dz3.1: https://github.com/Gnatuk/myproject/blob/master/WSGI.py
@@ -444,7 +442,6 @@
 
 .. |10.dz3.1| replace:: 1
 .. _10.dz3.1: https://github.com/YuriySimakov/HomeWorks/tree/master/myproject
-
 
 .. |11.dz3.1| replace:: 1
 .. _11.dz3.1: https://github.com/SokolovMikhail/myproject
@@ -484,6 +481,9 @@
 
 .. |7.dz4| replace:: zzzeek
 .. _7.dz4: https://gist.github.com/InnaNishchikh/f121131af0444b475cf2d6e86b967931
+
+.. |8.dz4.1| replace:: 1
+.. _8.dz4.1: https://gist.github.com/lyubanksy/7346500e1a8979b6a70889f4ef51a704
 
 .. |10.dz4.1| replace:: 1
 .. _10.dz4.1: https://github.com/YuriySimakov/HomeWorks/tree/master/jinja2
