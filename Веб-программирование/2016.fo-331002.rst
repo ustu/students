@@ -533,7 +533,7 @@
 .. _0.curs: https://github.com/LZIM-94/Web-Music-Library
 
 .. |6.curs| replace:: "Веб-сайт музыкальной группы"
-.. _6.curs: 
+.. _6.curs: https://github.com/GiperFrukt/web-site
 
 .. |14.curs| replace:: "Разработка веб-приложения Мессенджер"
 .. _14.curs: 
