@@ -104,6 +104,7 @@
      -
      - хор.
      -
+     - |6.curs|_
    * - 7
      - Куксовский Вадим Егорович
      - Dizrax_
@@ -540,6 +541,9 @@
 
 .. |5.curs| replace:: "Онлайн регистратура"
 .. _5.curs: https://github.com/ekaterem/Registry
+
+.. |6.curs| replace:: "Веб-сайт музыкальной группы"
+.. _6.curs: https://github.com/GiperFrukt/web-site
 
 .. |14.curs| replace:: "Разработка веб-приложения Мессенджер"
 .. _14.curs: https://github.com/ChukharevKS/MessengerOnPyramid
