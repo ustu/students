@@ -169,7 +169,7 @@
      - |12.dz5.1|_ [**+5**]
      -
      - отл.
-     -
+     - |12.curs|_
    * - 13
      - Хайруллоев Додулло Додарбегович
      -
@@ -552,6 +552,9 @@
 
 .. |9.curs| replace:: "Создание новостного мультимедийного портала"
 .. _9.curs: https://github.com/sarafanovde/WebNews
+
+.. |12.curs| replace:: "Разработка сайта для проекта 'Hello+'"
+.. _12.curs: https://github.com/FominaMasha/Hello-site
 
 .. |15.curs| replace:: "Онлайн библиотека научной литературы"
 .. _15.curs: https://github.com/VAShibaev/CourseWork
