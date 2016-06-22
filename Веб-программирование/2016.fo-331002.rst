@@ -533,7 +533,7 @@
 .. _0.curs: https://github.com/LZIM-94/Web-Music-Library
 
 .. |2.curs| replace:: "Разработка сайта с фэнтезийным контентом"
-.. _2.curs:https://github.com/BerdyuginaAnastasia/Web
+.. _2.curs: https://github.com/BerdyuginaAnastasia/Web
 
 .. |3.curs| replace:: "Разработка интернет магазина автозапчастей."
 .. _3.curs: https://github.com/dmitryduykin/Auto_Parts
