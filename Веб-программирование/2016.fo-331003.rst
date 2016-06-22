@@ -145,9 +145,9 @@
      - |10.dz3.1|_ [**+5**]
      - |10.dz4.1|_ |10.dz4.2-4|_ |10.dz4.zzzeek.1-4|_ [**+5**]
      - |10.dz5.1|_ [**+5**]
-     -
+     - 
      - хор.
-     -
+     - |10.course|_ 
    * - 11
      - Соколов Михаил
      - SokolovMikhail_
@@ -550,3 +550,6 @@
 .. _15.dz5.1: https://github.com/KhorAMus/Exercise-5-1/tree/master/myproject
 
 .. Курсовая работа
+
+.. |10.course| replace:: "Сайт кулинарных рецептов"
+.. _10.course: https://github.com/YuriySimakov/CourseWork
