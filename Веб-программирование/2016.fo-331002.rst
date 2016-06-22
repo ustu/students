@@ -539,4 +539,4 @@
 .. _9.curs: https://github.com/sarafanovde/WebNews
 
 .. |12.curs| replace:: "Разработка сайта для проекта 'Hello+'"
-.. _12.curs: 
+.. _12.curs: https://github.com/FominaMasha/Hello-site
