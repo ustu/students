@@ -112,9 +112,9 @@
      - |7.dz3.1|_ [**+5**]
      - |7.dz4|_ [**+5**]
      - |7.dz5|_ [**+4**]
-     -
+     - 
      - отл.
-     -
+     - |7.project|_
    * - 8
      - Пермякова Любовь
      - lyubanksy_
@@ -167,9 +167,9 @@
      - |12.dz3.1|_ [**+5**]
      - |12.dz4.1-4|_ [**+5**]
      - |12.dz5.1|_ [**+5**]
-     -
+     - 
      - отл.
-     -
+     - |12.project|_
    * - 13
      - Табакова Кристина
      - `TabakovaChristina <https://github.com/TabakovaChristina>`_
@@ -550,3 +550,7 @@
 .. _15.dz5.1: https://github.com/KhorAMus/Exercise-5-1/tree/master/myproject
 
 .. Курсовая работа
+.. |12.project| replace:: Создание электронного дневника
+.. _12.project: https://github.com/arinasuvorina/Diary
+.. |7.project| replace:: Создание электронного дневника
+.. _7.project: https://github.com/arinasuvorina/Diary
