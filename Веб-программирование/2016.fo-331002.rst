@@ -158,7 +158,7 @@
      - |11.dz5.1|_ [**+5**]
      -
      - отл.
-     -
+     - |11.curs|_
    * - 12
      - Фомина Мария Георгиевна
      - FominaMasha_
@@ -552,6 +552,9 @@
 
 .. |9.curs| replace:: "Создание новостного мультимедийного портала"
 .. _9.curs: https://github.com/sarafanovde/WebNews
+
+.. |11.curs| replace:: "Разработка базы знаний по созданию предметов в игре «Divinity»"
+.. _11.curs: https://github.com/Porader/Pyramid_Divinity
 
 .. |12.curs| replace:: "Разработка сайта для проекта 'Hello+'"
 .. _12.curs: https://github.com/FominaMasha/Hello-site
