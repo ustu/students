@@ -180,7 +180,7 @@
      - |13.dz5|_ [**+5**]
      -
      - отл.
-     -
+     - |13.curs|_
    * - 14
      - Фирсова Евгения
      - `FirsovaJane <https://github.com/FirsovaJane>`_
@@ -550,3 +550,6 @@
 .. _15.dz5.1: https://github.com/KhorAMus/Exercise-5-1/tree/master/myproject
 
 .. Курсовая работа
+
+.. |13.curs| replace:: "Сайт кулинарных рецептов"
+.. _13.curs: https://github.com/YuriySimakov/CourseWork
