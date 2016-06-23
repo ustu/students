@@ -147,7 +147,7 @@
      - |10.dz5.1|_ [**+5**]
      -
      - хор.
-     -
+     - |10.course|_
    * - 11
      - Соколов Михаил
      - SokolovMikhail_
@@ -553,6 +553,9 @@
 
 .. |7.project| replace:: Создание электронного дневника
 .. _7.project: https://github.com/arinasuvorina/Diary
+
+.. |10.course| replace:: "Сайт кулинарных рецептов"
+.. _10.course: https://github.com/YuriySimakov/CourseWork
 
 .. |12.project| replace:: Создание электронного дневника
 .. _12.project: https://github.com/arinasuvorina/Diary
