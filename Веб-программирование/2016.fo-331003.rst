@@ -202,7 +202,7 @@
      - |15.dz5.1|_ [**+5**]
      -
      - хор.
-     -
+     - |15.curs|_
 
 .. CheckPoints
 
@@ -550,3 +550,5 @@
 .. _15.dz5.1: https://github.com/KhorAMus/Exercise-5-1/tree/master/myproject
 
 .. Курсовая работа
+.. |15.curs| replace:: "Разработка браузерной онлайн-игры"
+.. _15.curs: https://github.com/KhorAMus/course-project
