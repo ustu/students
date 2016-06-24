@@ -554,6 +554,9 @@
 .. |7.project| replace:: Создание электронного дневника
 .. _7.project: https://github.com/arinasuvorina/Diary
 
+.. |8.curs| replace:: CRM-система в сфере сетевого маркетинга
+.. _8.curs: https://github.com/lyubanksy/templates
+
 .. |10.course| replace:: "Сайт кулинарных рецептов"
 .. _10.course: https://github.com/YuriySimakov/CourseWork
 
