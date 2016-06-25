@@ -114,7 +114,7 @@
      - |7.dz5.1|_ [**+4**]
      -
      - отл.
-     -
+     - |7.curs|_
    * - 8
      - Отставнова Мария Андреевна
      - mashaOtstavnova_
@@ -546,6 +546,9 @@
 
 .. |6.curs| replace:: "Веб-сайт музыкальной группы"
 .. _6.curs: https://github.com/GiperFrukt/web-site
+
+.. |7.curs| replace:: "Небольшая социальная сеть"
+.. _7.curs: https://github.com/Dizrax/SocialNetwork
 
 .. |14.curs| replace:: "Разработка веб-приложения Мессенджер"
 .. _14.curs: https://github.com/ChukharevKS/MessengerOnPyramid
