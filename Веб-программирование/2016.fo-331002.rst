@@ -48,7 +48,7 @@
      - |1.dz5.1|_ [**+5**]
      - отл.
      - отл.
-     - Создание портала для размещения постов
+     - |1.curs|_
    * - 2
      - Бердюгина Анастасия Олеговна
      - BerdyuginaAnastasia_
@@ -531,6 +531,9 @@
 
 .. |0.curs| replace:: Интерактивная библиотека жанров музыки
 .. _0.curs: https://github.com/LZIM-94/Web-Music-Library
+
+.. |1.curs| replace:: Создание портала для размещения постов
+.. _1.curs: https://github.com/KateBV/-Web
 
 .. |2.curs| replace:: Разработка сайта с фэнтезийным контентом
 .. _2.curs: https://github.com/BerdyuginaAnastasia/Web
