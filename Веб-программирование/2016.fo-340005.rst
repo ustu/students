@@ -1,0 +1,348 @@
+ФО-340005
+=========
+
+.. list-table:: Успеваемость
+   :header-rows: 1
+   :stub-columns: 1
+
+   * -
+     - ФИО
+     - github
+     - |dz1|_ 03/09/2016
+     - |dz2|_ ??/??/2016
+     - |dz3|_ ??/??/2016
+     - |dz4|_ ??/??/2016
+     - |dz5|_ ??/??/2016
+     - курсовая (??/??/2017)
+     - зачет (??/??/2017)
+     - тема курсовой
+   * -
+     -
+     - 5 баллов
+     - до 10/09/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     -
+     -
+     -
+   * -
+     -
+     - 4 балла
+     - до 17/09/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     -
+     -
+     -
+   * - 1
+     - Бейшенова Замира
+     - zamekb_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 2
+     - Галимзянов Александр
+     - anonimD08_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 3
+     - Глушкова Виктория
+     - VikiLural_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 4
+     - Дымшаков Владислав
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 5
+     - Зарембо Екатерина
+     - Masun_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 6
+     - Захарова Валерия
+     - yuuyuu04_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 7
+     - Ильбарисова Элина
+     - Kotnyam_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 8
+     - Казаков Роман
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 9
+     - Кожевников Иван
+     - kuroko-tetsuya_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 10
+     - Колесников Сергей
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 11
+     - Криво Алексей
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 12
+     - Кузнецов Ярослав
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 13
+     - Нежданов Александр
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 14
+     - Овчинникова Анастасия
+     - Ovchinnickova2016_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 15
+     - Пак Эдуард
+     - eduardpak96_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 16
+     - Руднов Данил
+     - Hyuugo_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 17
+     - Санников Максим
+     - Zixs_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 18
+     - Тараненко Анастасия
+     - artofmind_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 19
+     - Усталов Никита
+     - NIKITORS_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 20
+     - Фарахутдинова Эльвина
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 21
+     - Цветков Василий
+     - Vasyaga_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 22
+     - Шилак Андрей
+     - Shilak96_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 23
+     - Шимановская Каролина
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 24
+     - Щербакова Анастасия
+     - anas2siya_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+
+.. CheckPoints
+
+.. |dz1| replace:: дз #1 (HTTP)
+.. |dz2| replace:: дз #2 (Socket)
+.. |dz3| replace:: дз #3 (WSGI)
+.. |dz4| replace:: дз #4 (Web)
+.. |dz5| replace:: дз #5 (Pyramid)
+.. _dz1: http://lectureskpd.readthedocs.org/kpd/_checkpoint.html
+.. _dz2: http://lecturesnet.readthedocs.org/net/_checkpoint.html
+.. _dz3: http://lectures.uralbash.ru/en/latest/5.web.server/_checkpoint.html
+.. _dz4: http://lectures.uralbash.ru/en/latest/6.www.sync/2.codding/_checkpoint.html
+.. _dz5: http://lectures.uralbash.ru/en/latest/6.www.sync/3.framework/pyramid/_checkpoint.html
+
+.. GitHub
+
+.. _zamekb:             https://github.com/zamekb
+.. _anonimD08:          https://github.com/anonimD08
+.. _VikiLural:          https://github.com/VikiLural
+.. _Masun:              https://github.com/Masun
+.. _yuuyuu04:           https://github.com/yuuyuu04
+.. _Kotnyam:            https://github.com/Kotnyam
+.. _kuroko-tetsuya:     https://github.com/kuroko-tetsuya
+.. _Ovchinnickova2016:  https://github.com/Ovchinnickova2016
+.. _eduardpak96:        https://github.com/eduardpak96
+.. _Hyuugo:             https://github.com/Hyuugo
+.. _Zixs:               https://github.com/Zixs
+.. _artofmind:          https://github.com/artofmind
+.. _NIKITORS:           https://github.com/NIKITORS
+.. _Vasyaga:            https://github.com/Vasyaga
+.. _Shilak96:           https://github.com/Shilak96
+.. _anas2siya:          https://github.com/anas2siya
+
+.. Домашняя работа #1
+
+.. Домашняя работа #2
+
+.. Домашняя работа #3
+
+.. Домашняя работа #4
+
+.. Домашняя работа #5
+
+.. Курсовая работа
