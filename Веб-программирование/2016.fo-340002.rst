@@ -1,0 +1,256 @@
+ФО-340002
+=========
+
+.. list-table:: Успеваемость
+   :header-rows: 1
+   :stub-columns: 1
+
+   * -
+     - ФИО
+     - github
+     - |dz1|_ 03/09/2016
+     - |dz2|_ ??/??/2016
+     - |dz3|_ ??/??/2016
+     - |dz4|_ ??/??/2016
+     - |dz5|_ ??/??/2016
+     - курсовая (??/??/2017)
+     - зачет (??/??/2017)
+     - тема курсовой
+   * -
+     -
+     - 5 баллов
+     - до 10/09/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     -
+     -
+     -
+   * -
+     -
+     - 4 балла
+     - до 17/09/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     -
+     -
+     -
+   * - 1
+     - Бабкин Александр Анатольевич
+     - Ducage_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 2
+     - Базанов Александр Сергеевич
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 3
+     - Исаев Георгий Маратович
+     - Kshut_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 4
+     - Колобова Луиза Владимировна
+     - LuizaKolobova_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 5
+     - Малков Матвей Владимирович
+     - mMatvey_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 6
+     - Марков Евгений Вячеславович
+     - evgenymarkov_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 7
+     - Михалева Людмила Андреевна
+     - LydmilaMihaleva_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 8
+     - Мищенко Алексей Сергеевич
+     - WhileTrueDoSex_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 9
+     - Мулыгина Александра Евгеньевна
+     - hellroot_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 10
+     - Нуйкин Никита Владимирович
+     - NickVernal_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 11
+     - Прасолов Семен Викторович
+     - pivasik228_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 12
+     - Рубцов Илья Алексеевич
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 13
+     - Сычева Анастасия Сергеевна
+     - zasycha_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 14
+     - Тетюцких Евгений
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 15
+     - Чупраков Вадим Владимирович
+     - veyroter_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 16
+     - Яптик Янко Владимирович
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+
+.. CheckPoints
+
+.. |dz1| replace:: дз #1 (HTTP)
+.. |dz2| replace:: дз #2 (Socket)
+.. |dz3| replace:: дз #3 (WSGI)
+.. |dz4| replace:: дз #4 (Web)
+.. |dz5| replace:: дз #5 (Pyramid)
+.. _dz1: http://lectureskpd.readthedocs.org/kpd/_checkpoint.html
+.. _dz2: http://lecturesnet.readthedocs.org/net/_checkpoint.html
+.. _dz3: http://lectures.uralbash.ru/en/latest/5.web.server/_checkpoint.html
+.. _dz4: http://lectures.uralbash.ru/en/latest/6.www.sync/2.codding/_checkpoint.html
+.. _dz5: http://lectures.uralbash.ru/en/latest/6.www.sync/3.framework/pyramid/_checkpoint.html
+
+.. GitHub
+
+.. _Ducage:             https://github.com/Ducage
+.. _Kshut:              https://github.com/Kshut
+.. _LuizaKolobova:      https://github.com/LuizaKolobova
+.. _mMatvey:            https://github.com/mMatvey
+.. _evgenymarkov:       https://github.com/evgenymarkov
+.. _LydmilaMihaleva:    https://github.com/LydmilaMihaleva
+.. _WhileTrueDoSex:     https://github.com/WhileTrueDoSex
+.. _hellroot:           https://github.com/hellroot
+.. _NickVernal:         https://github.com/NickVernal
+.. _pivasik228:         https://github.com/pivasik228
+.. _zasycha:            https://github.com/zasycha
+.. _veyroter:           https://github.com/veyroter
+
+.. Домашняя работа #1
+
+.. Домашняя работа #2
+
+.. Домашняя работа #3
+
+.. Домашняя работа #4
+
+.. Домашняя работа #5
+
+.. Курсовая работа

@@ -1,0 +1,293 @@
+ФО-340001
+=========
+
+.. list-table:: Успеваемость
+   :header-rows: 1
+   :stub-columns: 1
+
+   * -
+     - ФИО
+     - github
+     - |dz1|_ 03/09/2016
+     - |dz2|_ ??/??/2016
+     - |dz3|_ ??/??/2016
+     - |dz4|_ ??/??/2016
+     - |dz5|_ ??/??/2016
+     - курсовая (??/??/2017)
+     - зачет (??/??/2017)
+     - тема курсовой
+   * -
+     -
+     - 5 баллов
+     - до 10/09/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     -
+     -
+     -
+   * -
+     -
+     - 4 балла
+     - до 17/09/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     - до ??/??/2016
+     -
+     -
+     -
+   * - 1
+     - Аристов Константин Ильич
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 2
+     - Бушланов Александр Андреевич
+     - SBRhen_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 3
+     - Вахтин Александр Николаевич
+     - BallOfDestruction_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 4
+     - Девятериков Илья Александрович
+     - SckottJackson_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 5
+     - Девятияров Артем Сергеевич
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 6
+     - Есаулков Николай Сергеевич
+     - EsaulkovNikolay_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 7
+     - Заитов Павел Игоревич
+     - zaitov-pavel_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 8
+     - Колмакова Дарья Андреевна
+     - hallsands_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 9
+     - Краглик Игорь Дмитриевич
+     - TacticKrieg_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 10
+     - Леконцев Александр Алексеевич
+     - ShatteredMind_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 11
+     - Малахов Константин Денисович
+     - g196et_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 12
+     - Малышева Алена Ивановна
+     - MalyshevaAlena_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 13
+     - Рагозин Никита Александрович
+     - ragozin-n_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 14
+     - Рябов Максим Сергеевич
+     - coderator3000_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 15
+     - Салимгареев Максим Рафикович
+     - vebsjer123_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 16
+     - Терентьев Никита Александрович
+     - StXaver_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 17
+     - Усов Максим Александрович
+     - MaxUsov_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 18
+     - Чертов Семен Ильич
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 19
+     - Шульц Михаил Андреевич
+     - kolalola_
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+
+.. CheckPoints
+
+.. |dz1| replace:: дз #1 (HTTP)
+.. |dz2| replace:: дз #2 (Socket)
+.. |dz3| replace:: дз #3 (WSGI)
+.. |dz4| replace:: дз #4 (Web)
+.. |dz5| replace:: дз #5 (Pyramid)
+.. _dz1: http://lectureskpd.readthedocs.org/kpd/_checkpoint.html
+.. _dz2: http://lecturesnet.readthedocs.org/net/_checkpoint.html
+.. _dz3: http://lectures.uralbash.ru/en/latest/5.web.server/_checkpoint.html
+.. _dz4: http://lectures.uralbash.ru/en/latest/6.www.sync/2.codding/_checkpoint.html
+.. _dz5: http://lectures.uralbash.ru/en/latest/6.www.sync/3.framework/pyramid/_checkpoint.html
+
+.. GitHub
+
+.. _hallsands:          https://github.com/hallsands
+.. _BallOfDestruction:  https://github.com/BallOfDestruction
+.. _SckottJackson:      https://github.com/SckottJackson
+.. _ragozin-n:          https://github.com/ragozin-n
+.. _coderator3000:      https://github.com/coderator3000
+.. _vebsjer123:         https://github.com/vebsjer123
+.. _EsaulkovNikolay:    https://github.com/EsaulkovNikolay
+.. _kolalola:           https://github.com/kolalola
+.. _MaxUsov:            https://github.com/MaxUsov
+.. _StXaver:            https://github.com/StXaver
+.. _g196et:             https://github.com/g196et
+.. _ShatteredMind:      https://github.com/ShatteredMind
+.. _SBRhen:             https://github.com/SBRhen
+.. _MalyshevaAlena:     https://github.com/MalyshevaAlena
+.. _zaitov-pavel:       https://github.com/zaitov-pavel
+.. _TacticKrieg:        https://github.com/TacticKrieg
+
+.. Домашняя работа #1
+
+.. Домашняя работа #2
+
+.. Домашняя работа #3
+
+.. Домашняя работа #4
+
+.. Домашняя работа #5
+
+.. Курсовая работа
