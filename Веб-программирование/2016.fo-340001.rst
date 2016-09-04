@@ -173,7 +173,7 @@
    * - 13
      - Рагозин Никита Александрович
      - ragozin-n_
-     -
+     - |1.dz1.1|_
      -
      -
      -
@@ -281,6 +281,8 @@
 .. _TacticKrieg:        https://github.com/TacticKrieg
 
 .. Домашняя работа #1
+.. |1.dz1.1| replace:: 1
+.. _1.dz1.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-1
 
 .. Домашняя работа #2
 
