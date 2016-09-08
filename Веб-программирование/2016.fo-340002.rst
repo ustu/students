@@ -41,7 +41,7 @@
    * - 1
      - Бабкин Александр Анатольевич
      - Ducage_
-     -
+     - |1.dz1.1|_ |1.dz1.2-4|_
      -
      -
      -
@@ -244,6 +244,10 @@
 .. _veyroter:           https://github.com/veyroter
 
 .. Домашняя работа #1
+.. |1.dz1.1| replace:: 1
+.. _1.dz1.1: https://github.com/Ducage/myproject
+.. |1.dz1.2-4| replace:: 2-4
+.. _1.dz1.2-4: https://gist.github.com/Ducage/cfc6b747bc8a8cb5ea553a92e06f5c94
 
 .. Домашняя работа #2
 
