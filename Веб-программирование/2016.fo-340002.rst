@@ -74,7 +74,7 @@
    * - 4
      - Колобова Луиза Владимировна
      - LuizaKolobova_
-     -
+     - |4.dz1.1|_ |4.dz1.2-4|_
      -
      -
      -
@@ -248,6 +248,10 @@
 .. _1.dz1.1: https://github.com/Ducage/myproject
 .. |1.dz1.2-4| replace:: 2-4
 .. _1.dz1.2-4: https://gist.github.com/Ducage/cfc6b747bc8a8cb5ea553a92e06f5c94
+.. |4.dz1.1| replace:: 1
+.. _4.dz1.1: https://github.com/LuizaKolobova/myproject
+.. |4.dz1.2-4| replace:: 2-4
+.. _4.dz1.2-4: https://gist.github.com/LuizaKolobova/d78690e20c412dd3dad4aa6d27f1a6a1
 .. |10.dz1.1| replace:: 1
 .. _10.dz1.1: https://github.com/NickVernal/myproject
 .. |10.dz1.2-4| replace:: 2-4
