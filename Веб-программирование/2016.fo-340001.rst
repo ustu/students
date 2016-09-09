@@ -118,7 +118,7 @@
    * - 8
      - Колмакова Дарья Андреевна
      - hallsands_
-     -
+     - |8.dz1.1|_ |8.dz1.2-4|_
      -
      -
      -
@@ -292,6 +292,11 @@
 .. _11.dz1.1: https://github.com/g196et/WebProg
 .. |11.dz1.2-4| replace:: 2-4
 .. _11.dz1.2-4: https://gist.github.com/g196et/db7bc7ee93b0402a2b664c07416aea68
+
+.. |8.dz1.1| replace:: 1
+.. _8.dz1.1: https://github.com/hallsands/web-homework
+.. |8.dz1.2-4| replace:: 2-4
+.. _8.dz1.2-4: https://gist.github.com/hallsands/f380d388bb14784f3fcf988d75aaaec4
 
 .. |13.dz1.1| replace:: 1
 .. _13.dz1.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-1
