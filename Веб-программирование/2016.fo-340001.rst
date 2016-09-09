@@ -63,7 +63,7 @@
    * - 3
      - Вахтин Александр Николаевич
      - BallOfDestruction_
-     -
+     - |3.dz1.1|_ |3.dz1.2-4|_ 
      -
      -
      -
@@ -281,6 +281,10 @@
 .. _TacticKrieg:        https://github.com/TacticKrieg
 
 .. Домашняя работа #1
+.. |3.dz1.1| replace:: 1
+.. _3.dz1.1: https://github.com/BallOfDestruction/Task-For-Web/tree/master/myproject
+.. |3.dz1.2-4| replace:: 2-4
+.. _3.dz1.2-4: https://gist.github.com/BallOfDestruction/baadd072f82cf77844179acd86de9b75
 .. |13.dz1.1| replace:: 1
 .. _13.dz1.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-1
 .. |13.dz1.2-4| replace:: 2-4
