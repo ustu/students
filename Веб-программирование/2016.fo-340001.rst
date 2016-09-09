@@ -217,7 +217,7 @@
    * - 17
      - Усов Максим Александрович
      - MaxUsov_
-     -
+     - |17.dz1.1|_ |17.dz1.2-4|_
      -
      -
      -
@@ -302,6 +302,11 @@
 .. _16.dz1.1: https://github.com/StXaver/myproject
 .. |16.dz1.2-4| replace:: 2-4
 .. _16.dz1.2-4: https://gist.github.com/StXaver/b38c7e9d605ac8832762e9b1f14a2bd0
+
+.. |17.dz1.1| replace:: 1
+.. _17.dz1.1: https://github.com/MaxUsov/web_programming
+.. |17.dz1.2-4| replace:: 2-4
+.. _17.dz1.2-4: https://gist.github.com/MaxUsov/ebb07783c1acb98fd49d61eb6b5a4c46
 
 .. |19.dz1.1| replace:: 1
 .. _19.dz1.1: https://github.com/kolalola/WebHomework1
