@@ -262,6 +262,11 @@
 .. |8.dz1.2-4| replace:: 2-4
 .. _8.dz1.2-4: https://gist.github.com/WhileTrueDoSex
 
+.. |7.dz1.1| replace:: 2-3
+.. _7.dz1.1: https://gist.github.com/Lydmilamihaleva/f8b0b384df6b64fe7b0a1890afbddf7b
+.. |7.dz1.1| replace:: 4
+.. _7.dz1.1: https://gist.github.com/Lydmilamihaleva/bcda09440efc6aef842b13b3f82ce7c5
+
 .. Домашняя работа #2
 
 .. Домашняя работа #3
