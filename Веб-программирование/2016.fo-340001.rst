@@ -96,7 +96,7 @@
    * - 6
      - Есаулков Николай Сергеевич
      - EsaulkovNikolay_
-     -
+     -|6.dz1.1|_ |6.dz1.2-4|_
      -
      -
      -
@@ -292,10 +292,10 @@
 .. |13.dz1.2-4| replace:: 2-4
 .. _13.dz1.2-4: https://gist.github.com/ragozin-n/821c243ff73e77426ae56e345ce5d7da
 
-.. |13.dz1.1| replace:: 1
-.. _13.dz1.1: https://github.com/EsaulkovNikolay/web-programming/tree/master/http1
-.. |13.dz1.2-4| replace:: 2-4
-.. _13.dz1.2-4: https://gist.github.com/EsaulkovNikolay/d673d4bcc1362d555e1f60a4a5e4b7ac
+.. |6.dz1.1| replace:: 1
+.. _6.dz1.1: https://github.com/EsaulkovNikolay/web-programming
+.. |6.dz1.2-4| replace:: 2-4
+.. _6.dz1.2-4: https://gist.github.com/EsaulkovNikolay/d673d4bcc1362d555e1f60a4a5e4b7ac
 
 .. Домашняя работа #2
 
