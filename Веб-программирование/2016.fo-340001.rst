@@ -173,7 +173,7 @@
    * - 13
      - Рагозин Никита Александрович
      - ragozin-n_
-     - |13.dz1.1|_ |13.dz1.2-4|_ [**+5**]
+     - 
      -
      -
      -
@@ -284,7 +284,7 @@
 .. |10.dz1.1| replace:: 1
 .. _10.dz1.1: https://github.com/ShatteredMind/myproject
 .. |10.dz1.2-4| replace:: 2-4
-.. _10.dz1.2-4: https://gist.github.com/ShatteredMind
+.. 10.dz1.2-4: https://gist.github.com/ShatteredMind
 
 .. Домашняя работа #2
 
