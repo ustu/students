@@ -118,7 +118,7 @@
    * - 8
      - Мищенко Алексей Сергеевич
      - WhileTrueDoSex_
-     -
+     - |8.dz1.1|_ |8.dz1.2-4|_
      -
      -
      -
@@ -252,6 +252,11 @@
 .. _10.dz1.1: https://github.com/NickVernal/myproject
 .. |10.dz1.2-4| replace:: 2-4
 .. _10.dz1.2-4: https://gist.github.com/NickVernal
+
+.. |8.dz1.1|   replace:: 1
+.. _8.dz1.1:   https://github.com/WhileTrueDoSex/WebHomeWork
+.. |8.dz1.2-4| replace:: 2-4
+.. _8.dz1.2-4: https://gist.github.com/WhileTrueDoSex
 
 .. Домашняя работа #2
 
