@@ -40,8 +40,8 @@
      -
    * - 1
      - Аристов Константин Ильич
-     -
-     -
+     - Kostya174_
+     - |1.dz1.1|_ |1.dz1.2-4|_
      -
      -
      -
@@ -206,7 +206,7 @@
    * - 16
      - Терентьев Никита Александрович
      - StXaver_
-     -
+     - |16.dz1.1|_ |16.dz1.2-4|_ [**+5**]
      -
      -
      -
@@ -239,7 +239,7 @@
    * - 19
      - Шульц Михаил Андреевич
      - kolalola_
-     -
+     - |19.dz1.1|_ |19.dz1.2|_ |19.dz1.3|_ |19.dz1.4|_ [**+5**]
      -
      -
      -
@@ -279,8 +279,14 @@
 .. _MalyshevaAlena:     https://github.com/MalyshevaAlena
 .. _zaitov-pavel:       https://github.com/zaitov-pavel
 .. _TacticKrieg:        https://github.com/TacticKrieg
+.. _Kostya174:          https://github.com/Kostya174
 
 .. Домашняя работа #1
+
+.. |6.dz1.1| replace:: 1
+.. _6.dz1.1: https://github.com/EsaulkovNikolay/web-programming
+.. |6.dz1.2-4| replace:: 2-4
+.. _6.dz1.2-4: https://gist.github.com/EsaulkovNikolay/d673d4bcc1362d555e1f60a4a5e4b7ac
 
 .. |11.dz1.1| replace:: 1
 .. _11.dz1.1: https://github.com/g196et/WebProg
@@ -292,10 +298,24 @@
 .. |13.dz1.2-4| replace:: 2-4
 .. _13.dz1.2-4: https://gist.github.com/ragozin-n/821c243ff73e77426ae56e345ce5d7da
 
-.. |6.dz1.1| replace:: 1
-.. _6.dz1.1: https://github.com/EsaulkovNikolay/web-programming
-.. |6.dz1.2-4| replace:: 2-4
-.. _6.dz1.2-4: https://gist.github.com/EsaulkovNikolay/d673d4bcc1362d555e1f60a4a5e4b7ac
+.. |16.dz1.1| replace:: 1
+.. _16.dz1.1: https://github.com/StXaver/myproject
+.. |16.dz1.2-4| replace:: 2-4
+.. _16.dz1.2-4: https://gist.github.com/StXaver/b38c7e9d605ac8832762e9b1f14a2bd0
+
+.. |19.dz1.1| replace:: 1
+.. _19.dz1.1: https://github.com/kolalola/WebHomework1
+.. |19.dz1.2| replace:: 2
+.. _19.dz1.2: https://gist.github.com/kolalola/53b385d53c4d69df04f87ff16277a7fc
+.. |19.dz1.3| replace:: 3
+.. _19.dz1.3: https://gist.github.com/kolalola/366d37ad75bfe7018edcf8678fee5c72
+.. |19.dz1.4| replace:: 4
+.. _19.dz1.4: https://gist.github.com/kolalola/2bbf08e520469312c5f61f604f34bf3f
+
+.. |1.dz1.1| replace:: 1
+.. _1.dz1.1: https://github.com/Kostya174/WebProgrammingUniversity
+.. |1.dz1.2-4| replace:: 2-4
+.. _1.dz1.2-4: https://gist.github.com/Kostya174/7dcf62d15fd46c4441b8ac945c4386b3
 
 .. Домашняя работа #2
 
