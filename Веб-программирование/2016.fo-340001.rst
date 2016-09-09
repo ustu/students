@@ -194,8 +194,8 @@
      -
    * - 15
      - Салимгареев Максим Рафикович
-     - vebsjer123_
-     -
+     - vebster123_
+     -|15.dz1.1|_
      -
      -
      -
@@ -311,6 +311,9 @@
 .. _19.dz1.3: https://gist.github.com/kolalola/366d37ad75bfe7018edcf8678fee5c72
 .. |19.dz1.4| replace:: 4
 .. _19.dz1.4: https://gist.github.com/kolalola/2bbf08e520469312c5f61f604f34bf3f
+
+.. |15.dz1.1| replace:: 1
+.. _15.dz1.1: https://github.com/vebster123/myproject
 
 .. Домашняя работа #2
 
