@@ -239,7 +239,7 @@
    * - 19
      - Шульц Михаил Андреевич
      - kolalola_
-     -
+     - |19.dz1.1|_ |19.dz1.2|_ |6.dz1.3|_ |6.dz1.4|_
      -
      -
      -
@@ -296,6 +296,15 @@
 .. _6.dz1.1: https://github.com/EsaulkovNikolay/web-programming
 .. |6.dz1.2-4| replace:: 2-4
 .. _6.dz1.2-4: https://gist.github.com/EsaulkovNikolay/d673d4bcc1362d555e1f60a4a5e4b7ac
+
+.. |19.dz1.1| replace:: 1
+.. _19.dz1.1: https://github.com/kolalola/WebHomework1
+.. |19.dz1.2| replace:: 2
+.. _19.dz1.2: https://gist.github.com/kolalola/53b385d53c4d69df04f87ff16277a7fc
+.. |19.dz1.3| replace:: 3
+.. _19.dz1.3: https://gist.github.com/kolalola/366d37ad75bfe7018edcf8678fee5c72
+.. |19.dz1.4| replace:: 4
+.. _19.dz1.4: https://gist.github.com/kolalola/2bbf08e520469312c5f61f604f34bf3f
 
 .. Домашняя работа #2
 
