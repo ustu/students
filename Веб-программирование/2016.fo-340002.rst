@@ -107,7 +107,7 @@
    * - 7
      - Михалева Людмила Андреевна
      - LydmilaMihaleva_
-     -
+     -|7.dz1.1|_ |7.dz1.2-4|_ 
      -
      -
      -
@@ -256,6 +256,8 @@
 .. _10.dz1.1: https://github.com/NickVernal/myproject
 .. |10.dz1.2-4| replace:: 2-4
 .. _10.dz1.2-4: https://gist.github.com/NickVernal
+..|7.dz1.1| replace:: 1
+.. _7.dz1.1: https://github.com/Lydmilamihaleva/my
 
 .. |8.dz1.1|   replace:: 1
 .. _8.dz1.1:   https://github.com/WhileTrueDoSex/WebHomeWork
