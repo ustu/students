@@ -151,7 +151,7 @@
    * - 11
      - Малахов Константин Денисович
      - g196et_
-     -
+     -|11.dz1.1|_ |11.dz1.2-4|_
      -
      -
      -
@@ -281,6 +281,10 @@
 .. _TacticKrieg:        https://github.com/TacticKrieg
 
 .. Домашняя работа #1
+.. |11.dz1.1| replace::1
+.. _11.dz1.1: https://github.com/g196et/WebProg
+.. |11.dz1.2-4| replace:: 2-4
+.. _11.dz1.2-4: https://gist.github.com/g196et/db7bc7ee93b0402a2b664c07416aea68
 .. |13.dz1.1| replace:: 1
 .. _13.dz1.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-1
 .. |13.dz1.2-4| replace:: 2-4
