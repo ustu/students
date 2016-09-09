@@ -140,7 +140,7 @@
    * - 10
      - Леконцев Александр Алексеевич
      - ShatteredMind_
-     -
+     - |10.dz1.1|_ |10.dz1.2-4|_
      -
      -
      -
@@ -321,6 +321,11 @@
 .. _1.dz1.1: https://github.com/Kostya174/WebProgrammingUniversity
 .. |1.dz1.2-4| replace:: 2-4
 .. _1.dz1.2-4: https://gist.github.com/Kostya174/7dcf62d15fd46c4441b8ac945c4386b3
+
+.. |10.dz1.1| replace:: 1
+.. _10.dz1.1: https://github.com/ShatteredMind/Webprogramming
+.. |10.dz1.2-4| replace:: 2-4
+.. _10.dz1.2-4: https://gist.github.com/ShatteredMind
 
 .. Домашняя работа #2
 
