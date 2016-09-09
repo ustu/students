@@ -140,7 +140,7 @@
    * - 10
      - Нуйкин Никита Владимирович
      - NickVernal_
-     -
+     - |10.dz1.1|_ |10.dz1.2-4|_
      -
      -
      -
@@ -248,6 +248,10 @@
 .. _1.dz1.1: https://github.com/Ducage/myproject
 .. |1.dz1.2-4| replace:: 2-4
 .. _1.dz1.2-4: https://gist.github.com/Ducage/cfc6b747bc8a8cb5ea553a92e06f5c94
+.. |10.dz1.1| replace:: 1
+.. _10.dz1.1: https://github.com/NickVernal/myproject
+.. |10.dz1.2-4| replace:: 2-4
+.. _10.dz1.2-4: https://gist.github.com/NickVernal
 
 .. Домашняя работа #2
 
