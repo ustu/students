@@ -140,7 +140,7 @@
    * - 10
      - Леконцев Александр Алексеевич
      - ShatteredMind_
-     -
+     - |10.dz1.1|_ |10.dz1.2-4|_ [**+5**]
      -
      -
      -
@@ -281,10 +281,10 @@
 .. _TacticKrieg:        https://github.com/TacticKrieg
 
 .. Домашняя работа #1
-.. |13.dz1.1| replace:: 1
-.. _13.dz1.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-1
-.. |13.dz1.2-4| replace:: 2-4
-.. _13.dz1.2-4: https://gist.github.com/ragozin-n/821c243ff73e77426ae56e345ce5d7da
+.. |10.dz1.1| replace:: 1
+.. _10.dz1.1: https://github.com/ShatteredMind/myproject
+.. |10.dz1.2-4| replace:: 2-4
+.. _10.dz1.2-4 https://gist.github.com/ShatteredMind
 
 .. Домашняя работа #2
 
