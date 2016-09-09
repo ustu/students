@@ -40,7 +40,7 @@
      -
    * - 1
      - Аристов Константин Ильич
-     -
+     - Kostya174_
      -
      -
      -
@@ -279,6 +279,7 @@
 .. _MalyshevaAlena:     https://github.com/MalyshevaAlena
 .. _zaitov-pavel:       https://github.com/zaitov-pavel
 .. _TacticKrieg:        https://github.com/TacticKrieg
+.. _Kostya174:          https://github.com/Kostya174
 
 .. Домашняя работа #1
 
