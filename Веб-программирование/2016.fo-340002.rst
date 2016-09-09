@@ -107,7 +107,7 @@
    * - 7
      - Михалева Людмила Андреевна
      - LydmilaMihaleva_
-     -|7.dz1.1|_ |7.dz1.2-4|_ 
+     - |7.dz1.1|_ |7.dz1.2-3|_ |7.dz1.4|_ [**+5**]
      -
      -
      -
@@ -248,26 +248,30 @@
 .. _1.dz1.1: https://github.com/Ducage/myproject
 .. |1.dz1.2-4| replace:: 2-4
 .. _1.dz1.2-4: https://gist.github.com/Ducage/cfc6b747bc8a8cb5ea553a92e06f5c94
+
 .. |4.dz1.1| replace:: 1
 .. _4.dz1.1: https://github.com/LuizaKolobova/myproject
 .. |4.dz1.2-4| replace:: 2-4
 .. _4.dz1.2-4: https://gist.github.com/LuizaKolobova/d78690e20c412dd3dad4aa6d27f1a6a1
-.. |10.dz1.1| replace:: 1
-.. _10.dz1.1: https://github.com/NickVernal/myproject
-.. |10.dz1.2-4| replace:: 2-4
-.. _10.dz1.2-4: https://gist.github.com/NickVernal
-..|7.dz1.1| replace:: 1
+
+.. |7.dz1.1| replace:: 1
 .. _7.dz1.1: https://github.com/Lydmilamihaleva/my
+
+.. |7.dz1.2-3| replace:: 2-3
+.. _7.dz1.2-3: https://gist.github.com/Lydmilamihaleva/f8b0b384df6b64fe7b0a1890afbddf7b
+.. |7.dz1.4| replace:: 4
+.. _7.dz1.4: https://gist.github.com/Lydmilamihaleva/bcda09440efc6aef842b13b3f82ce7c5
 
 .. |8.dz1.1|   replace:: 1
 .. _8.dz1.1:   https://github.com/WhileTrueDoSex/WebHomeWork
 .. |8.dz1.2-4| replace:: 2-4
 .. _8.dz1.2-4: https://gist.github.com/WhileTrueDoSex
 
-.. |7.dz1.1| replace:: 2-3
-.. _7.dz1.1: https://gist.github.com/Lydmilamihaleva/f8b0b384df6b64fe7b0a1890afbddf7b
-.. |7.dz1.1| replace:: 4
-.. _7.dz1.1: https://gist.github.com/Lydmilamihaleva/bcda09440efc6aef842b13b3f82ce7c5
+.. |10.dz1.1| replace:: 1
+.. _10.dz1.1: https://github.com/NickVernal/myproject
+.. |10.dz1.2-4| replace:: 2-4
+.. _10.dz1.2-4: https://gist.github.com/NickVernal
+
 
 .. Домашняя работа #2
 
