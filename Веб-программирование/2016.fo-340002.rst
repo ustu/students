@@ -129,7 +129,7 @@
    * - 9
      - Мулыгина Александра Евгеньевна
      - hellroot_
-     -
+     - |9.dz1.1|_ |9.dz1.2|_|9.dz1.3|_ |9.dz1.4|_ [**+5**]
      -
      -
      -
@@ -266,6 +266,15 @@
 .. _8.dz1.1:   https://github.com/WhileTrueDoSex/WebHomeWork
 .. |8.dz1.2-4| replace:: 2-4
 .. _8.dz1.2-4: https://gist.github.com/WhileTrueDoSex
+
+.. |9.dz1.1|   replace:: 1
+.. _9.dz1.1:   https://github.com/hellroot/myproject
+.. |9.dz1.2|   replace:: 2
+.. _9.dz1.2:   https://gist.github.com/hellroot/a5695d27b43095e650447c0a8418cc9d
+.. |9.dz1.3|   replace:: 3
+.. _9.dz1.3:   https://gist.github.com/hellroot/62c03cfff5eac71d26cfe5b8dac57ef3
+.. |9.dz1.4|   replace:: 4
+.. _9.dz1.4:   https://gist.github.com/hellroot/60e92c2540730972117d2b0804363a22
 
 .. |10.dz1.1| replace:: 1
 .. _10.dz1.1: https://github.com/NickVernal/myproject
