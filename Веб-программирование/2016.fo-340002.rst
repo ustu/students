@@ -96,7 +96,7 @@
    * - 6
      - Марков Евгений Вячеславович
      - evgenymarkov_
-     -
+     - |6.dz1.1|_ |6.dz1.2|_ |6.dz1.3|_ |6.dz1.4|_ [**+5**]
      -
      -
      -
@@ -244,6 +244,7 @@
 .. _veyroter:           https://github.com/veyroter
 
 .. Домашняя работа #1
+
 .. |1.dz1.1| replace:: 1
 .. _1.dz1.1: https://github.com/Ducage/myproject
 .. |1.dz1.2-4| replace:: 2-4
@@ -254,9 +255,17 @@
 .. |4.dz1.2-4| replace:: 2-4
 .. _4.dz1.2-4: https://gist.github.com/LuizaKolobova/d78690e20c412dd3dad4aa6d27f1a6a1
 
+.. |6.dz1.1| replace:: 1
+.. _6.dz1.1: https://github.com/evgenymarkov/web_homework1
+.. |6.dz1.2| replace:: 2
+.. _6.dz1.2: https://gist.github.com/evgenymarkov/c3b62d706445d5b20ef2229630f3ed5e
+.. |6.dz1.3| replace:: 3
+.. _6.dz1.3: https://gist.github.com/evgenymarkov/2bfa3539d2156bb0122b015bcaeb3f1f
+.. |6.dz1.4| replace:: 4
+.. _6.dz1.4: https://gist.github.com/evgenymarkov/c6e82c8eb7ef67c2487ff8560e0bcf8a
+
 .. |7.dz1.1| replace:: 1
 .. _7.dz1.1: https://github.com/Lydmilamihaleva/my
-
 .. |7.dz1.2-3| replace:: 2-3
 .. _7.dz1.2-3: https://gist.github.com/Lydmilamihaleva/f8b0b384df6b64fe7b0a1890afbddf7b
 .. |7.dz1.4| replace:: 4
