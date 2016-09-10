@@ -42,7 +42,7 @@
      - Бабкин Александр Анатольевич
      - Ducage_
      - |1.dz1.1|_ |1.dz1.2-4|_ [**+5**]
-     -
+     - |1.dz2.1|_ |1.dz2.2|_ |1.dz2.3|_ |1.dz2.4|_
      -
      -
      -
@@ -250,6 +250,14 @@
 .. _1.dz1.1: https://github.com/Ducage/myproject
 .. |1.dz1.2-4| replace:: 2-4
 .. _1.dz1.2-4: https://gist.github.com/Ducage/cfc6b747bc8a8cb5ea553a92e06f5c94
+.. |1.dz2.1| replace:: 1
+.. _1.dz2.1: https://gist.github.com/Ducage/a2b5af096677489afd5f766f0dd6e40f
+.. |1.dz2.2| replace:: 2
+.. _1.dz2.2: https://gist.github.com/Ducage/7fb6b75994a03aa6ca05777af5225f92
+.. |1.dz2.3| replace:: 3
+.. _1.dz2.3: https://gist.github.com/Ducage/f78b0f22a6bbdba9d34fa5d93d506f97
+.. |1.dz2.4| replace:: 4
+.. _1.dz2.4: https://gist.github.com/Ducage/eff4a808d76cba1a5004aab25a571789
 
 .. |4.dz1.1| replace:: 1
 .. _4.dz1.1: https://github.com/LuizaKolobova/myproject
