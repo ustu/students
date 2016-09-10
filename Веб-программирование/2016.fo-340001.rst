@@ -63,7 +63,7 @@
    * - 3
      - Вахтин Александр Николаевич
      - BallOfDestruction_
-     -
+     - |3.dz1.1|_ |3.dz1.2-4|_ [**+5**]
      -
      -
      -
@@ -282,6 +282,11 @@
 .. _Kostya174:          https://github.com/Kostya174
 
 .. Домашняя работа #1
+
+.. |3.dz1.1| replace:: 1
+.. _3.dz1.1: https://github.com/BallOfDestruction/Task-For-Web/tree/master/myproject
+.. |3.dz1.2-4| replace:: 2-4
+.. _3.dz1.2-4: https://gist.github.com/BallOfDestruction/baadd072f82cf77844179acd86de9b75
 
 .. |6.dz1.1| replace:: 1
 .. _6.dz1.1: https://github.com/EsaulkovNikolay/web-programming
