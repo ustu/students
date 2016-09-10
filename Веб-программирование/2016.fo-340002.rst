@@ -161,8 +161,8 @@
      -
    * - 12
      - Рубцов Илья Алексеевич
-     -
-     -
+     - Lixa141_
+     - |12.dz1.1|_ |12.dz1.2|_ |12.dz1.3|_ |12.dz1.4|_ [**+5**]
      -
      -
      -
@@ -272,6 +272,14 @@
 .. |10.dz1.2-4| replace:: 2-4
 .. _10.dz1.2-4: https://gist.github.com/NickVernal
 
+.. |12.dz1.1| replace:: 1
+.. _12.dz1.1: https://github.com/Lixa141/myproject
+.. |12.dz1.2| replace:: 2
+.. _12.dz1.2: https://gist.github.com/Lixa141/8768e20c5ca50ab5455e365b57b31144
+.. |12.dz1.3| replace:: 3
+.. _12.dz1.3: https://gist.github.com/Lixa141/cd7ca65e727bce4f2eb829cc2720e9b3
+.. |12.dz1.4| replace:: 4
+.. _12.dz1.4: https://gist.github.com/Lixa141/2b301ded1f3d0c9f4abb5ca9d10819e2
 
 .. Домашняя работа #2
 
