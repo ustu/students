@@ -195,7 +195,7 @@
    * - 15
      - Чупраков Вадим Владимирович
      - veyroter_
-     -
+     - |15.dz1.1|_
      -
      -
      -
@@ -290,6 +290,9 @@
 .. _12.dz1.3: https://gist.github.com/Lixa141/cd7ca65e727bce4f2eb829cc2720e9b3
 .. |12.dz1.4| replace:: 4
 .. _12.dz1.4: https://gist.github.com/Lixa141/2b301ded1f3d0c9f4abb5ca9d10819e2
+
+.. |15.dz1.1| replace:: 1
+.. _15.dz1.1: https://github.com/veyroter/web-task-01
 
 .. Домашняя работа #2
 
