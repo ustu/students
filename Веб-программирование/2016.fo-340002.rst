@@ -96,7 +96,7 @@
    * - 6
      - Марков Евгений Вячеславович
      - evgenymarkov_
-     -
+     - |6.dz1.1|_ |6.dz1.2|_ |6.dz1.3|_ |6.dz1.4|_
      -
      -
      -
@@ -271,6 +271,15 @@
 .. _10.dz1.1: https://github.com/NickVernal/myproject
 .. |10.dz1.2-4| replace:: 2-4
 .. _10.dz1.2-4: https://gist.github.com/NickVernal
+
+.. |6.dz1.1| replace:: 1
+.. _6.dz1.1: https://github.com/evgenymarkov/web_homework1
+.. |6.dz1.2| replace:: 2
+.. _6.dz1.2: https://gist.github.com/evgenymarkov/c3b62d706445d5b20ef2229630f3ed5e
+.. |6.dz1.3| replace:: 3
+.. _6.dz1.3: https://gist.github.com/evgenymarkov/2bfa3539d2156bb0122b015bcaeb3f1f
+.. |6.dz1.4| replace:: 4
+.. _6.dz1.4: https://gist.github.com/evgenymarkov/c6e82c8eb7ef67c2487ff8560e0bcf8a
 
 
 .. Домашняя работа #2
