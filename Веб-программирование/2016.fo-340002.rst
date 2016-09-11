@@ -249,6 +249,11 @@
 .. |1.dz1.2-4| replace:: 2-4
 .. _1.dz1.2-4: https://gist.github.com/Ducage/cfc6b747bc8a8cb5ea553a92e06f5c94
 
+.. |5.dz1.1| replace:: 1
+.. _5.dz1.1: https://github.com/mMatvey/myProject
+.. |5.dz1.2-4| replace:: 2-4
+.. _5.dz1.2-4: https://gist.github.com/mMatvey
+
 .. Домашняя работа #2
 
 .. Домашняя работа #3
