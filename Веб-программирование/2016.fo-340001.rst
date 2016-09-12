@@ -249,7 +249,7 @@
      - Рагозин Никита Александрович
      - ragozin-n_
      - |13.dz1.1|_ |13.dz1.2-4|_ [**+5**]
-     -
+     - |13.dz2.1|_ 
      -
      -
      -
@@ -471,7 +471,8 @@
 .. _15.dz1.2-4: https://gist.github.com/vebster123/cc76c362fd445c385e4e8fbde5bce039
 
 .. Домашняя работа #2
-
+.. |13.dz2.2-4| replace:: 1
+.. _13.dz1.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-2
 .. Домашняя работа #3
 
 .. Домашняя работа #4
