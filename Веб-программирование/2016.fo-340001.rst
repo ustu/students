@@ -232,7 +232,7 @@
    * - 12
      - Малышева Алена Ивановна
      - MalyshevaAlena_
-     -
+     - |12.dz1.1|_ |12.dz1.2-4|_ [**+4**]
      -
      -
      -
@@ -469,6 +469,11 @@
 .. _15.dz1.1: https://github.com/vebster123/myproject
 .. |15.dz1.2-4| replace:: 2-4
 .. _15.dz1.2-4: https://gist.github.com/vebster123/cc76c362fd445c385e4e8fbde5bce039
+
+.. |12.dz1.1| replace:: 1
+.. _12.dz1.1: https://github.com/MalyshevaAlena/webProgramming
+.. |12.dz1.2-4| replace:: 2-4
+.. _12.dz1.2-4: https://gist.github.com/MalyshevaAlena/ecb67db549fd4dbccab0906283438f46
 
 .. Домашняя работа #2
 
