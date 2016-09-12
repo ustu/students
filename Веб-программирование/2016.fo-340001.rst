@@ -378,11 +378,11 @@
 .. |kr3| replace:: к/р #3
 .. |kr4| replace:: к/р #4
 .. |kr5| replace:: к/р #5
-.. _kr1:
-.. _kr2:
-.. _kr3:
-.. _kr4:
-.. _kr5:
+.. _kr1: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst
+.. _kr2: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst
+.. _kr3: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst
+.. _kr4: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst
+.. _kr5: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst
 
 .. GitHub
 
