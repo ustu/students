@@ -194,8 +194,8 @@
      -
    * - 15
      - Салимгареев Максим Рафикович
-     - vebsjer123_
-     -
+     - vebster123_
+     - |15.dz1.1|_ |15.dz1.2-4|_
      -
      -
      -
@@ -268,7 +268,7 @@
 .. _SckottJackson:      https://github.com/SckottJackson
 .. _ragozin-n:          https://github.com/ragozin-n
 .. _coderator3000:      https://github.com/coderator3000
-.. _vebsjer123:         https://github.com/vebsjer123
+.. _vebster123:         https://github.com/vebster123
 .. _EsaulkovNikolay:    https://github.com/EsaulkovNikolay
 .. _kolalola:           https://github.com/kolalola
 .. _MaxUsov:            https://github.com/MaxUsov
@@ -341,6 +341,11 @@
 .. _10.dz1.1: https://github.com/ShatteredMind/Webprogramming
 .. |10.dz1.2-4| replace:: 2-4
 .. _10.dz1.2-4: https://gist.github.com/ShatteredMind
+
+.. |15.dz1.1| replace:: 1
+.. _15.dz1.1: https://github.com/vebster123/myproject
+.. |15.dz1.2-4| replace:: 2-4
+.. _15.dz1.2-4: https://gist.github.com/vebster123/cc76c362fd445c385e4e8fbde5bce039
 
 .. Домашняя работа #2
 
