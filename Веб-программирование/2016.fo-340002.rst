@@ -85,7 +85,7 @@
    * - 5
      - Малков Матвей Владимирович
      - mMatvey_
-     -
+     - |5.dz1.1|_ |5.dz1.2-4|_ [**+4**]
      -
      -
      -
@@ -312,6 +312,11 @@
 .. _11.dz1.1: https://github.com/pivasik228/myproject
 .. |11.dz1.2-4| replace:: 2-4
 .. _11.dz1.2-4: https://gist.github.com/pivasik228
+
+.. |5.dz1.1| replace:: 1
+.. _5.dz1.1: https://github.com/mMatvey/myProject
+.. |5.dz1.2-4| replace:: 2-4
+.. _5.dz1.2-4: https://gist.github.com/mMatvey
 
 .. Домашняя работа #2
 
