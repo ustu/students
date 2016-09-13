@@ -104,7 +104,7 @@
    * - 4
      - Девятериков Илья Александрович
      - SckottJackson_
-     -
+     - |4.dz1.1|_ |4.dz1.2-4|_ [**+4**]
      -
      -
      -
@@ -474,6 +474,11 @@
 .. _12.dz1.1: https://github.com/MalyshevaAlena/webProgramming
 .. |12.dz1.2-4| replace:: 2-4
 .. _12.dz1.2-4: https://gist.github.com/MalyshevaAlena/ecb67db549fd4dbccab0906283438f46
+
+.. |4.dz1.1| replace:: 1
+.. _4.dz1.1: https://github.com/SckottJackson/Web-programming-first-homework
+.. |4.dz1.2-4| replace:: 2-4
+.. _4.dz1.2-4: https://gist.github.com/SckottJackson/c031229b7664d8063b1e1b1dfd7c89d9/2c56bcdd62f5390470ee2a237258a82f705bbba5
 
 .. Домашняя работа #2
 
