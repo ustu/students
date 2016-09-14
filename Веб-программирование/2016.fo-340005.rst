@@ -312,7 +312,7 @@
    * - 17
      - Санников Максим
      - Zixs_
-     -
+     - |17.dz1.1|_ |17.dz1.2-4|_ [**+4**]
      -
      -
      -
@@ -489,6 +489,11 @@
 .. _16.dz1.1: https://github.com/Hyuugo/myproject
 .. |16.dz1.2-4| replace:: 2-4
 .. _16.dz1.2-4: https://gist.github.com/Hyuugo/eaeca98cf2eeda8b2f9c2959d0ac7ec9
+
+.. |17.dz1.1| replace:: 1
+.. _17.dz1.1: https://github.com/Zixs/myproject
+.. |17.dz1.2-4| replace:: 2-4
+.. _17.dz1.2-4: https://gist.github.com/Zixs/1dd5d103f0308b4ac69a56b5b0d44616
 
 .. Домашняя работа #2
 
