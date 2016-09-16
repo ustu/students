@@ -469,7 +469,7 @@
 .. _zamekb:             https://github.com/zamekb
 .. _anonimD08:          https://github.com/anonimD08
 .. _VikiLural:          https://github.com/VikiLural
-.. _Masun:              https://github.com/Masun
+.. _Hasuni:              https://github.com/Hasuni
 .. _yuuyuu04:           https://github.com/yuuyuu04
 .. _Kotnyam:            https://github.com/Kotnyam
 .. _kuroko-tetsuya:     https://github.com/kuroko-tetsuya
