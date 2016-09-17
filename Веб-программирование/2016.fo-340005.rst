@@ -264,7 +264,7 @@
    * - 14
      - Овчинникова Анастасия
      - Ovchinnickova2016_
-     -
+     - |14.dz1.1|_ |14.dz1.2-4|_
      -
      -
      -
@@ -485,6 +485,11 @@
 .. _Farakhutdinova:     https://github.com/Farakhutdinova
 
 .. Домашняя работа #1
+
+.. |14.dz1.1| replace:: 1
+.. _14.dz1.1: https://github.com/Ovchinnickova2016/myproject
+.. |14.dz1.2-4| replace:: 2-4
+.. _14.dz1.2-4: https://gist.github.com/Ovchinnickova2016/a7024dc0a28c6209b81993e177d6ba4b
 
 .. |16.dz1.1| replace:: 1
 .. _16.dz1.1: https://github.com/Hyuugo/myproject
