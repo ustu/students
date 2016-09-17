@@ -489,7 +489,7 @@
 .. Домашняя работа #2
 .. |3.dz2.1| replace:: 1
 .. _3.dz2.1: https://github.com/BallOfDestruction/Task-For-Web
-.. |3.dz2.2-5| replace :: 2-5
+.. |3.dz2.2-5| replace:: 2-5
 .. _3.dz2.2-5: https://gist.github.com/BallOfDestruction/e72e982a2eadee8a88861260b1b31e6a
 
 .. |13.dz2.1| replace:: 1
