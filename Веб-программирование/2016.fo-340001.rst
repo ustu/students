@@ -119,8 +119,8 @@
      -
    * - 5
      - Девятияров Артем Сергеевич
-     -
-     -
+     - Ouroborochi_
+     - |5.dz1.1|_ |5.dz1.2-4|_ [**+4**]
      -
      -
      -
@@ -403,6 +403,7 @@
 .. _zaitov-pavel:       https://github.com/zaitov-pavel
 .. _TacticKrieg:        https://github.com/TacticKrieg
 .. _Kostya174:          https://github.com/Kostya174
+.. _Ouroborochi:        https://github.com/Ouroborochi
 
 .. Домашняя работа #1
 
@@ -479,6 +480,11 @@
 .. _4.dz1.1: https://github.com/SckottJackson/Web-programming-first-homework
 .. |4.dz1.2-4| replace:: 2-4
 .. _4.dz1.2-4: https://gist.github.com/SckottJackson/c031229b7664d8063b1e1b1dfd7c89d9/2c56bcdd62f5390470ee2a237258a82f705bbba5
+
+.. |5.dz1.1| replace:: 1
+.. _5.dz1.1: https://github.com/Ouroborochi/HomeWork1
+.. |5.dz1.2-4| replace:: 2-4
+.. _5.dz1.2-4: https://gist.github.com/Ouroborochi/7851560e6f8b6983480d3936bbc3185d
 
 .. Домашняя работа #2
 .. |13.dz2.1| replace:: 1
