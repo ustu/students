@@ -359,7 +359,7 @@
      -
    * - 20
      - Фарахутдинова Эльвина
-     -
+     - Farakhutdinova
      -
      -
      -
@@ -482,6 +482,7 @@
 .. _Vasyaga:            https://github.com/Vasyaga
 .. _Shilak96:           https://github.com/Shilak96
 .. _anas2siya:          https://github.com/anas2siya
+.. _Farakhutdinova:     https://github.com/Farakhutdinova
 
 .. Домашняя работа #1
 
