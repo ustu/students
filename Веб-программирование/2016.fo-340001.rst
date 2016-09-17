@@ -89,7 +89,7 @@
      - Вахтин Александр Николаевич
      - BallOfDestruction_
      - |3.dz1.1|_ |3.dz1.2-4|_ [**+5**]
-     -
+     - |3.dz2.1|_ |3.dz2.2-5|_ 
      -
      -
      -
@@ -487,6 +487,11 @@
 .. _5.dz1.2-4: https://gist.github.com/Ouroborochi/7851560e6f8b6983480d3936bbc3185d
 
 .. Домашняя работа #2
+.. |3.dz2.1| replace:: 1
+.. _3.dz2.1: https://github.com/BallOfDestruction/Task-For-Web
+.. |3.dz2.2-5| replace :: 2-5
+.. _3.dz2.2-5: https://gist.github.com/BallOfDestruction/e72e982a2eadee8a88861260b1b31e6a
+
 .. |13.dz2.1| replace:: 1
 .. _13.dz2.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-2
 .. |13.dz2.2-5| replace:: 2-5
