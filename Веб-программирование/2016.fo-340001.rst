@@ -152,7 +152,7 @@
    * - 7
      - Заитов Павел Игоревич
      - zaitov-pavel_
-     -
+     - |7.dz1.1|_ |7.dz1.2-4|_
      -
      -
      -
@@ -485,6 +485,11 @@
 .. _5.dz1.1: https://github.com/Ouroborochi/HomeWork1
 .. |5.dz1.2-4| replace:: 2-4
 .. _5.dz1.2-4: https://gist.github.com/Ouroborochi/7851560e6f8b6983480d3936bbc3185d
+
+.. |7.dz1.1| replace:: 1
+.. _7.dz1.1: https://github.com/zaitov-pavel/webProgramming
+.. |7.dz1.2-4| replace:: 2-4
+.. _7.dz1.2-4: https://gist.github.com/zaitov-pavel/875a94e59928edd469eb11d671be0d47
 
 .. Домашняя работа #2
 .. |13.dz2.1| replace:: 1
