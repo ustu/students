@@ -328,7 +328,7 @@
    * - 18
      - Тараненко Анастасия
      - artofmind_
-     -
+     - |18.dz1.1|_ |18.dz1.2-4|_
      -
      -
      -
@@ -501,6 +501,10 @@
 .. |22.dz1.2-4| replace:: 2-4
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
     
+.. |18.dz1.1| replace:: 1
+.. _18.dz1.1: https://github.com/artofmind/myproject
+.. |18.dz1.2-4| replace:: 2-4
+.. _18.dz1.2-4: https://gist.github.com/artofmind
 .. Домашняя работа #2
 
 .. Домашняя работа #3
