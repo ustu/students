@@ -345,7 +345,7 @@
      - Шульц Михаил Андреевич
      - kolalola_
      - |19.dz1.1|_ |19.dz1.2|_ |19.dz1.3|_ |19.dz1.4|_ [**+5**]
-     -
+     - |19.dz2.1|_ |19.dz2.2|_ |19.dz2.3|_ |19.dz2.5|_
      -
      -
      -
@@ -491,6 +491,15 @@
 .. _13.dz2.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-2
 .. |13.dz2.2-5| replace:: 2-5
 .. _13.dz2.2-5: https://gist.github.com/ragozin-n/d70db5fe1cf2e95563e650c3dea77284
+
+.. |19.dz2.1| replace:: 1
+.. _19.dz2.1: https://github.com/kolalola/WebHomework1
+.. |19.dz2.2| replace:: 2
+.. _19.dz2.2: https://gist.github.com/kolalola/ffe8ff5722ee494b3f711340634b7ca0
+.. |19.dz2.3| replace:: 3
+.. _19.dz2.3: https://github.com/kolalola/RequestFromHTTPClient
+.. |19.dz2.5| replace:: 5
+.. _19.dz2.5: https://gist.github.com/kolalola/4e206b78e0665fc1e8463f1ffd077a4f
 .. Домашняя работа #3
 
 .. Домашняя работа #4
