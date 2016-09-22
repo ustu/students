@@ -297,7 +297,7 @@
      - Руднов Данил
      - Hyuugo_
      - |16.dz1.1|_ |16.dz1.2-4|_ [**+5**]
-     -
+     - |16.dz2.2|_ |16.dz2.2-5|_
      -
      -
      -
@@ -502,6 +502,11 @@
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
     
 .. Домашняя работа #2
+
+.. |16.dz2.2| replace:: 1
+.. _16.dz2.2: https://github.com/Hyuugo/myproject
+.. |16.dz2.2-5| replace:: 2-5
+.. _16.dz2.2-5: https://gist.github.com/Hyuugo/edae71951ee56f9b4af4a4c8ad6e3e29
 
 .. Домашняя работа #3
 
