@@ -137,7 +137,7 @@
      - Марков Евгений Вячеславович
      - evgenymarkov_
      - |6.dz1.1|_ |6.dz1.2|_ |6.dz1.3|_ |6.dz1.4|_ [**+5**]
-     -
+     - |6.dz2.1|_ |6.dz2.2.1|_ |6.dz2.2.2|_ |6.dz2.3.1|_ |6.dz2.3.2|_ |6.dz2.5|_
      -
      -
      -
@@ -427,6 +427,18 @@
 .. _5.dz1.2-4: https://gist.github.com/mMatvey
 
 .. Домашняя работа #2
+.. |6.dz2.1| replace:: 1
+.. _6.dz2.1: https://github.com/evgenymarkov/web_homework2
+.. |6.dz2.2.1| replace:: 2.1
+.. _6.dz2.2.1: https://gist.github.com/evgenymarkov/91b87257f507602d46bfcdfdbdc487b8
+.. |6.dz2.2.2| replace:: 2.2
+.. _6.dz2.2.2: https://gist.github.com/evgenymarkov/17f70932cdb2b4f918ff43d212d0d0e1
+.. |6.dz2.3.1| replace:: 3.1
+.. _6.dz2.3.1: https://gist.github.com/evgenymarkov/a2754ec918d310256d44676b5a660606
+.. |6.dz2.3.2| replace:: 3.2
+.. _6.dz2.3.2: https://gist.github.com/evgenymarkov/f18defb54b59ae82e8a1628dfdeff61b
+.. |6.dz2.5| replace:: 5
+.. _6.dz2.5: https://gist.github.com/evgenymarkov/bd496c6e7c5a57abebff4b33a12166a6
 
 .. Домашняя работа #3
 
