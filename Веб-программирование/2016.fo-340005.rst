@@ -215,8 +215,8 @@
      -
    * - 11
      - Криво Алексей
-     -
-     -
+     - AlekseiKrivo
+     - |11.dz1.1|_ |11.dz1.2-4|_
      -
      -
      -
@@ -500,6 +500,11 @@
 .. _22.dz1.1: https://github.com/shilak96/myproject
 .. |22.dz1.2-4| replace:: 2-4
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
+
+.. |11.dz1.1| replace:: 1
+.. _11.dz1.1: https://github.com/AlekseiKrivo/myproject
+.. |11.dz1.2-4| replace:: 2-4
+.. _11.dz1.2-4: https://gist.github.com/AlekseiKrivo/44273cba9e05fad062f49a382ac512ce
     
 .. Домашняя работа #2
 
