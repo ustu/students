@@ -233,7 +233,7 @@
      - Рубцов Илья Алексеевич
      - Lixa141_
      - |12.dz1.1|_ |12.dz1.2|_ |12.dz1.3|_ |12.dz1.4|_ [**+5**]
-     -
+     - |12.dz2.1|_ |12.dz2.2|_ |12.dz2.3|_ |12.dz2.5|_
      -
      -
      -
@@ -427,6 +427,15 @@
 .. _5.dz1.2-4: https://gist.github.com/mMatvey
 
 .. Домашняя работа #2
+
+.. |12.dz2.1| replace:: 1
+.. _12.dz2.1: https://github.com/Lixa141/myproject
+.. |12.dz2.2| replace:: 2
+.. _12.dz2.2: https://gist.github.com/Lixa141/95de8affa751b3dde978d22c968d5a50
+.. |12.dz2.3| replace:: 3
+.. _12.dz2.3: https://gist.github.com/Lixa141/3ec31cb37a2289479d21b9ecd9a472a9
+.. |12.dz2.5| replace:: 5
+.. _12.dz2.5: https://gist.github.com/Lixa141/e0cd0ef42cd2d934b344ebd4d24ed888
 
 .. Домашняя работа #3
 
