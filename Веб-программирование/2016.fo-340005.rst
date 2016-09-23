@@ -393,7 +393,7 @@
      - Шилак Андрей
      - Shilak96_
      - |22.dz1.1|_ |22.dz1.2-4|_ [**+4**]
-     -
+     - |22.dz2.1|_ |22.dz2.2-5|_ 
      -
      -
      -
@@ -502,6 +502,11 @@
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
     
 .. Домашняя работа #2
+
+.. |22.dz2.1| replace:: 1
+.. _22.dz2.1: https://github.com/shilak96/myproject
+.. |22.dz2.2-5| replace:: 2-5
+.. _22.dz2.2-5: https://gist.github.com/shilak96/6c3ea7c81ab836512f96e35e4ea5c2d2
 
 .. Домашняя работа #3
 
