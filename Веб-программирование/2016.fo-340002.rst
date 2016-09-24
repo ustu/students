@@ -153,7 +153,7 @@
      - Михалева Людмила Андреевна
      - LydmilaMihaleva_
      - |7.dz1.1|_ |7.dz1.2-3|_ |7.dz1.4|_ [**+5**]
-     -
+     - |7.dz2.5|_ [**+5**]
      -
      -
      -
@@ -459,6 +459,9 @@
 .. _12.dz2.3: https://gist.github.com/Lixa141/3ec31cb37a2289479d21b9ecd9a472a9
 .. |12.dz2.5| replace:: 5
 .. _12.dz2.5: https://gist.github.com/Lixa141/e0cd0ef42cd2d934b344ebd4d24ed888
+
+.. |7.dz2.5| replace:: 1-5
+.. _7.dz2.5: https://gist.github.com/Lydmilamihaleva/3ae05e5e7b85ce66c94fc9ae50774b23
 
 .. Домашняя работа #3
 
