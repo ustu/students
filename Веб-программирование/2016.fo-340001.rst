@@ -105,7 +105,7 @@
      - Девятериков Илья Александрович
      - SckottJackson_
      - |4.dz1.1|_ |4.dz1.2-4|_ [**+4**]
-     -
+     - |4.dz2.1|_ |4.dz2.2-5|_ [**+5**]
      -
      -
      -
@@ -497,6 +497,15 @@
 .. _3.dz2.1: https://github.com/BallOfDestruction/Task-For-Web
 .. |3.dz2.2-5| replace:: 2-5
 .. _3.dz2.2-5: https://gist.github.com/BallOfDestruction/e72e982a2eadee8a88861260b1b31e6a
+
+.. |4.dz2.1| replace:: 1
+.. _4.dz2.1: https://github.com/SckottJackson/Web-programming-first-homework
+.. |4.dz2.2| replace:: 2
+.. _4.dz2.2: https://gist.github.com/SckottJackson/bd09233331f6b85bc5d5d84da3a5c9ed
+.. |4.dz2.3| replace:: 3
+.. _4.dz2.3: https://gist.github.com/SckottJackson/c9dbc5d06623a9b1fe009597bb9f56d4
+.. |4.dz2.5| replace:: 5
+.. _4.dz2.5: https://gist.github.com/SckottJackson/4cf096691effe8be55054e39aba6254c
 
 .. |6.dz2.1| replace:: 1
 .. _6.dz2.1: https://github.com/EsaulkovNikolay/web-programming
