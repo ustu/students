@@ -215,8 +215,8 @@
      -
    * - 11
      - Криво Алексей
-     -
-     -
+     - AlekseiKrivo_
+     - |11.dz1.1|_ |11.dz1.2-4|_ [**+4**]
      -
      -
      -
@@ -484,6 +484,7 @@
 .. _anas2siya:          https://github.com/anas2siya
 .. _Farakhutdinova:     https://github.com/Farakhutdinova
 .. _Azdum:              https://github.com/Azdum
+.. _AlekseiKrivo:       https://github.com/AlekseiKrivo
 
 .. Домашняя работа #1
 
@@ -496,6 +497,11 @@
 .. _6.dz1.1: https://github.com/yuuyuu04/yuuyuu.git
 .. |6.dz1.2-4| replace:: 2-4
 .. _6.dz1.2-4: https://gist.github.com/yuuyuu04/825b8cc4ea948ed2f5842bb22ddb6b6a
+
+.. |11.dz1.1| replace:: 1
+.. _11.dz1.1: https://github.com/AlekseiKrivo/myproject
+.. |11.dz1.2-4| replace:: 2-4
+.. _11.dz1.2-4: https://gist.github.com/AlekseiKrivo/44273cba9e05fad062f49a382ac512ce
 
 .. |14.dz1.1| replace:: 1
 .. _14.dz1.1: https://github.com/Ovchinnickova2016/myproject
