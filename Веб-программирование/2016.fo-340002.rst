@@ -105,7 +105,7 @@
      - Колобова Луиза Владимировна
      - LuizaKolobova_
      - |4.dz1.1|_ |4.dz1.2-4|_ [**+5**]
-     -
+     - |4.dz2.1|_ |4.dz2.2|_ |4.dz2.3|_ |4.dz2.4|_ [**+5**]
      -
      -
      -
@@ -429,6 +429,15 @@
 .. |1.dz2.4| replace:: 4
 .. _1.dz2.4: https://gist.github.com/Ducage/eff4a808d76cba1a5004aab25a571789
 
+.. |4.dz2.1| replace:: 1
+.. _4.dz2.1: https://gist.github.com/LuizaKolobova/d40efed7dfabdf0f4da71b2990837678
+.. |4.dz2.2| replace:: 2
+.. _4.dz2.2: https://gist.github.com/LuizaKolobova/0865c4472469d2560627a7cb380f4470
+.. |4.dz2.3| replace:: 3
+.. _4.dz2.3: https://gist.github.com/LuizaKolobova/e468dae9d889a6cb9e119afd26d4d39c
+.. |4.dz2.5| replace:: 5
+.. _4.dz2.5: https://gist.github.com/LuizaKolobova/8f5379f411c6b0429012625348c771b4
+
 .. |6.dz2.1| replace:: 1
 .. _6.dz2.1: https://github.com/evgenymarkov/web_homework2
 .. |6.dz2.2.1| replace:: 2.1
@@ -441,6 +450,9 @@
 .. _6.dz2.3.2: https://gist.github.com/evgenymarkov/f18defb54b59ae82e8a1628dfdeff61b
 .. |6.dz2.5| replace:: 5
 .. _6.dz2.5: https://gist.github.com/evgenymarkov/bd496c6e7c5a57abebff4b33a12166a6
+
+.. |7.dz2.5| replace:: 1-5
+.. _7.dz2.5: https://gist.github.com/Lydmilamihaleva/3ae05e5e7b85ce66c94fc9ae50774b23
 
 .. |10.dz2.1| replace:: 1
 .. _10.dz2.1: https://gist.github.com/NickVernal/5ab8bd1032a527768f5dd2cddda158bc
@@ -459,9 +471,6 @@
 .. _12.dz2.3: https://gist.github.com/Lixa141/3ec31cb37a2289479d21b9ecd9a472a9
 .. |12.dz2.5| replace:: 5
 .. _12.dz2.5: https://gist.github.com/Lixa141/e0cd0ef42cd2d934b344ebd4d24ed888
-
-.. |7.dz2.5| replace:: 1-5
-.. _7.dz2.5: https://gist.github.com/Lydmilamihaleva/3ae05e5e7b85ce66c94fc9ae50774b23
 
 .. Домашняя работа #3
 
