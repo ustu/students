@@ -360,7 +360,7 @@
    * - 20
      - Фарахутдинова Эльвина
      - Farakhutdinova_
-     -
+     - |20.dz1.1|_ |20.dz1.2-4|_ [**+4**]
      -
      -
      -
@@ -513,6 +513,11 @@
 .. |14.dz1.2-4| replace:: 2-4
 .. _14.dz1.2-4: https://gist.github.com/Ovchinnickova2016/a7024dc0a28c6209b81993e177d6ba4b
 
+.. |15.dz1.1| replace:: 1
+.. _15.dz1.1: https://github.com/eduardpak96/myproject
+.. |15.dz1.2-4| replace:: 2-4
+.. _15.dz1.2-4: https://gist.github.com/eduardpak96/b8bdbfbd033c8e72fff8206ca782ffd5
+
 .. |16.dz1.1| replace:: 1
 .. _16.dz1.1: https://github.com/Hyuugo/myproject
 .. |16.dz1.2-4| replace:: 2-4
@@ -528,15 +533,15 @@
 .. |18.dz1.2-4| replace:: 2-4
 .. _18.dz1.2-4: https://gist.github.com/artofmind
 
+.. |20.dz1.1| replace:: 1
+.. _20.dz1.1: https://github.com/Farakhutdinova/myProject
+.. |20.dz1.2-4| replace:: 2-4
+.. _20.dz1.2-4: https://gist.github.com/Farakhutdinova/e5dbfc58f0051d30e6f65407f0222da7
+
 .. |22.dz1.1| replace:: 1
 .. _22.dz1.1: https://github.com/shilak96/myproject
 .. |22.dz1.2-4| replace:: 2-4
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
-
-.. |15.dz1.1| replace:: 1
-.. _15.dz1.1: https://github.com/eduardpak96/myproject
-.. |15.dz1.2-4| replace:: 2-4
-.. _15.dz1.2-4: https://gist.github.com/eduardpak96/b8bdbfbd033c8e72fff8206ca782ffd5
 
 .. Домашняя работа #2
 
