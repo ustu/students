@@ -281,7 +281,7 @@
      - Салимгареев Максим Рафикович
      - vebster123_
      - |15.dz1.1|_ |15.dz1.2-4|_ [**+5**]
-     -
+     - |15.dz2.1|_ |15.dz2.2-5|_ 
      -
      -
      -
@@ -538,6 +538,11 @@
 .. _19.dz2.3: https://github.com/kolalola/RequestFromHTTPClient
 .. |19.dz2.5| replace:: 5
 .. _19.dz2.5: https://gist.github.com/kolalola/4e206b78e0665fc1e8463f1ffd077a4f
+
+.. |15.dz2.2-5| replace::2-5
+.. _15.dz2.2-5: https://gist.github.com/vebster123/f127f1fabeac89f9ec9d688f65e176ff
+.. |15.dz2.1| replace::1
+.. _15.dz2.1| https://github.com/vebster123/myproject/blob/master/server.py
 
 .. Домашняя работа #3
 
