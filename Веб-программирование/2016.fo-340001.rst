@@ -488,8 +488,8 @@
 
 .. Домашняя работа #2
 
-.. |8.dz1.1-5| replace:: 1-5
-.. _8.dz1.1-5: https://gist.github.com/hallsands/70b39e3c71b5b339d10bbdbb71ade93d
+.. |8.dz2.1-5| replace:: 1-5
+.. _8.dz2.1-5: https://gist.github.com/hallsands/70b39e3c71b5b339d10bbdbb71ade93d
 
 .. |13.dz2.1| replace:: 1
 .. _13.dz2.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-2
