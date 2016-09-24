@@ -264,7 +264,7 @@
    * - 14
      - Овчинникова Анастасия
      - Ovchinnickova2016_
-     -
+     - |14.dz1.1|_ |14.dz1.2-4|_
      -
      -
      -
@@ -486,10 +486,20 @@
 
 .. Домашняя работа #1
 
+.. |05.dz1.1| replace:: 1
+.. _05.dz1.1: https://github.com/Hasuni/HW1
+.. |05.dz1.2-4| replace:: 2-4
+.. _05.dz1.2-4: https://gist.github.com/Hasuni/49a47769fa104b5550f8e586db65d456
+
 .. |6.dz1.1| replace:: 1
 .. _6.dz1.1: https://github.com/yuuyuu04/yuuyuu.git
 .. |6.dz1.2-4| replace:: 2-4
 .. _6.dz1.2-4: https://gist.github.com/yuuyuu04/825b8cc4ea948ed2f5842bb22ddb6b6a
+
+.. |14.dz1.1| replace:: 1
+.. _14.dz1.1: https://github.com/Ovchinnickova2016/myproject
+.. |14.dz1.2-4| replace:: 2-4
+.. _14.dz1.2-4: https://gist.github.com/Ovchinnickova2016/a7024dc0a28c6209b81993e177d6ba4b
 
 .. |16.dz1.1| replace:: 1
 .. _16.dz1.1: https://github.com/Hyuugo/myproject
@@ -506,12 +516,6 @@
 .. |22.dz1.2-4| replace:: 2-4
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
 
-
-    
-.. |05.dz1.1| replace:: 1
-.. _05.dz1.1: https://github.com/Hasuni/HW1
-.. |05.dz1.2-4| replace:: 2-4
-.. _05.dz1.2-4: https://gist.github.com/Hasuni/49a47769fa104b5550f8e586db65d456
 .. Домашняя работа #2
 
 .. Домашняя работа #3
