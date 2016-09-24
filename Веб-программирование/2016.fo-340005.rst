@@ -280,7 +280,7 @@
    * - 15
      - Пак Эдуард
      - eduardpak96_
-     -
+     - |15.dz1.1|_ |15.dz1.2-4|_ [**+4**]
      -
      -
      -
@@ -532,6 +532,11 @@
 .. _22.dz1.1: https://github.com/shilak96/myproject
 .. |22.dz1.2-4| replace:: 2-4
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
+
+.. |15.dz1.1| replace:: 1
+.. _15.dz1.1: https://github.com/eduardpak96/myproject
+.. |15.dz1.2-4| replace:: 2-4
+.. _15.dz1.2-4: https://gist.github.com/eduardpak96/b8bdbfbd033c8e72fff8206ca782ffd5
 
 .. Домашняя работа #2
 
