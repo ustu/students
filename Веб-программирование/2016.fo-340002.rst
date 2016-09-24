@@ -141,7 +141,7 @@
      - Нуйкин Никита Владимирович
      - NickVernal_
      - |10.dz1.1|_ |10.dz1.2-4|_
-     -
+     - |10.dz2.1|_ |10.dz2.2|_ |10.dz2.3|_ |10.dz2.5|_
      -
      -
      -
@@ -254,6 +254,14 @@
 .. _10.dz1.2-4: https://gist.github.com/NickVernal
 
 .. Домашняя работа #2
+.. |10.dz2.1| replace:: 1
+.. _10.dz2.1: https://gist.github.com/NickVernal/5ab8bd1032a527768f5dd2cddda158bc
+.. |10.dz2.2| replace:: 2
+.. _10.dz2.2: https://gist.github.com/NickVernal/0183f5708c2bd743d49521da4b79be8e
+.. |10.dz2.3| replace:: 3
+.. _10.dz2.3: https://gist.github.com/NickVernal/688545e1982108e96e093190c3b01802
+.. |10.dz2.5| replace:: 5
+.. _10.dz2.5: https://gist.github.com/NickVernal/bfa03f70893f02b02ffb6d8cc8244dfb
 
 .. Домашняя работа #3
 
