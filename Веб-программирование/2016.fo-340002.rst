@@ -460,6 +460,9 @@
 .. |12.dz2.5| replace:: 5
 .. _12.dz2.5: https://gist.github.com/Lixa141/e0cd0ef42cd2d934b344ebd4d24ed888
 
+.. |7.dz2.5| replace:: 1-5
+.. _7.dz2.5:https://gist.github.com/Lydmilamihaleva/3ae05e5e7b85ce66c94fc9ae50774b23
+
 .. Домашняя работа #3
 
 .. |1.dz3.1| replace:: 1
