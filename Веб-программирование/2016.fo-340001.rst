@@ -57,7 +57,7 @@
      - Аристов Константин Ильич
      - Kostya174_
      - |1.dz1.1|_ |1.dz1.2-4|_ [**+5**]
-     -
+     - |1.dz2.1|_ |1.dz2.2-5|_ [**+5**]
      -
      -
      -
@@ -492,6 +492,11 @@
 .. _19.dz1.4: https://gist.github.com/kolalola/2bbf08e520469312c5f61f604f34bf3f
 
 .. Домашняя работа #2
+
+.. |1.dz2.1| replace:: 1
+.. _1.dz2.1: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject
+.. |1.dz2.2-5| replace:: 2-5
+.. _1.dz2.2-5: https://gist.github.com/Kostya174/0c7bf8220f7965638988f945a118b985
 
 .. |3.dz2.1| replace:: 1
 .. _3.dz2.1: https://github.com/BallOfDestruction/Task-For-Web
