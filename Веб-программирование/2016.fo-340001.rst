@@ -169,7 +169,7 @@
      - Колмакова Дарья Андреевна
      - hallsands_
      - |8.dz1.1|_ |8.dz1.2-4|_ [**+5**]
-     -
+     - |8.dz2.1-5|_ [**+5**]
      -
      -
      -
@@ -516,6 +516,9 @@
 .. _6.dz2.1: https://github.com/EsaulkovNikolay/web-programming
 .. |6.dz2.2-5| replace:: 2-5
 .. _6.dz2.2-5: https://gist.github.com/EsaulkovNikolay/c0c41a79774a2bd0b59f06c53efa3290
+
+.. |8.dz2.1-5| replace:: 1-5
+.. _8.dz2.1-5: https://gist.github.com/hallsands/70b39e3c71b5b339d10bbdbb71ade93d
 
 .. |13.dz2.1| replace:: 1
 .. _13.dz2.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-2
