@@ -169,7 +169,7 @@
      - Мищенко Алексей Сергеевич
      - WhileTrueDoSex_
      - |8.dz1.1|_ |8.dz1.2-4|_ [**+5**]
-     -
+     - |8.dz2.1|_ |8.dz2.2-5|_
      -
      -
      -
@@ -471,6 +471,11 @@
 .. _12.dz2.3: https://gist.github.com/Lixa141/3ec31cb37a2289479d21b9ecd9a472a9
 .. |12.dz2.5| replace:: 5
 .. _12.dz2.5: https://gist.github.com/Lixa141/e0cd0ef42cd2d934b344ebd4d24ed888
+
+.. |8.dz2.1| replace:: 1
+.. _8.dz2.1: https://github.com/WhileTrueDoSex/WebHomeWork
+.. |8.dz2.2-5| replace:: 2-5
+.. _8.dz2.2-5: https://gist.github.com/WhileTrueDoSex
 
 .. Домашняя работа #3
 
