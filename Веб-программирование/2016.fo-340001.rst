@@ -217,7 +217,7 @@
      - Малахов Константин Денисович
      - g196et_
      - |11.dz1.1|_ |11.dz1.2-4|_ [**+5**]
-     -
+     - |11.dz2.1|_ |11.dz2.2-5|_ [**+5**]
      -
      -
      -
@@ -519,6 +519,11 @@
 
 .. |8.dz2.1-5| replace:: 1-5
 .. _8.dz2.1-5: https://gist.github.com/hallsands/70b39e3c71b5b339d10bbdbb71ade93d
+
+.. |11.dz2.1| replace:: 1
+.. _11.dz2.1: https://github.com/g196et/WebProg
+.. |11.dz2.2-5| replace:: 2-5
+.. _11.dz2.2-5: https://gist.github.com/g196et/9e5a161747df198ff3972ce3bcdd5897
 
 .. |13.dz2.1| replace:: 1
 .. _13.dz2.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-2
