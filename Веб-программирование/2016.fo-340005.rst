@@ -167,7 +167,7 @@
      -
    * - 8
      - Казаков Роман
-     -
+     - Azdum_
      -
      -
      -
@@ -469,7 +469,7 @@
 .. _zamekb:             https://github.com/zamekb
 .. _anonimD08:          https://github.com/anonimD08
 .. _VikiLural:          https://github.com/VikiLural
-.. _Hasuni:              https://github.com/Hasuni
+.. _Hasuni:             https://github.com/Hasuni
 .. _yuuyuu04:           https://github.com/yuuyuu04
 .. _Kotnyam:            https://github.com/Kotnyam
 .. _kuroko-tetsuya:     https://github.com/kuroko-tetsuya
@@ -483,6 +483,7 @@
 .. _Shilak96:           https://github.com/Shilak96
 .. _anas2siya:          https://github.com/anas2siya
 .. _Farakhutdinova:     https://github.com/Farakhutdinova
+.. _Azdum:              https://github.com/Azdum
 
 .. Домашняя работа #1
 
