@@ -105,7 +105,7 @@
      - Колобова Луиза Владимировна
      - LuizaKolobova_
      - |4.dz1.1|_ |4.dz1.2-4|_ [**+5**]
-     -
+     - |4.dz2.1|_ |4.dz2.2|_ |4.dz2.3|_ |4.dz2.4|_
      -
      -
      -
@@ -460,6 +460,14 @@
 .. |12.dz2.5| replace:: 5
 .. _12.dz2.5: https://gist.github.com/Lixa141/e0cd0ef42cd2d934b344ebd4d24ed888
 
+.. |4.dz2.1| replace:: 1
+.. _4.dz2.1: https://gist.github.com/LuizaKolobova/d40efed7dfabdf0f4da71b2990837678
+.. |4.dz2.2| replace:: 2
+.. _4.dz2.2: https://gist.github.com/LuizaKolobova/0865c4472469d2560627a7cb380f4470
+.. |4.dz2.3| replace:: 3
+.. _4.dz2.3: https://gist.github.com/LuizaKolobova/e468dae9d889a6cb9e119afd26d4d39c
+.. |4.dz2.5| replace:: 5
+.. _4.dz2.5: https://gist.github.com/LuizaKolobova/8f5379f411c6b0429012625348c771b4
 .. Домашняя работа #3
 
 .. |1.dz3.1| replace:: 1
