@@ -521,7 +521,7 @@
 .. _8.dz2.1-5: https://gist.github.com/hallsands/70b39e3c71b5b339d10bbdbb71ade93d
 
 .. |11.dz2.1| replace:: 1
-.. _11.dz2.1: hhttps://github.com/g196et/WebProg
+.. _11.dz2.1: https://github.com/g196et/WebProg
 .. |11.dz2.2-5| replace:: 2-5
 .. _11.dz2.2-5: https://gist.github.com/g196et/9e5a161747df198ff3972ce3bcdd5897
 
