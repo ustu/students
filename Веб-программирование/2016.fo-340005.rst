@@ -56,7 +56,7 @@
    * - 1
      - Бейшенова Замира
      - zamekb_
-     -
+     - |1.dz1.1|_ |1.dz1.2-4|_ [**+3**]
      -
      -
      -
@@ -487,6 +487,11 @@
 .. _AlekseiKrivo:       https://github.com/AlekseiKrivo
 
 .. Домашняя работа #1
+
+.. |1.dz1.1| replace:: 1
+.. _1.dz1.1: https://github.com/zamekb/myproject
+.. |1.dz1.2-4| replace:: 2-4
+.. _1.dz1.2-4: https://gist.github.com/zamekb/5acaad58797d057f9bd0092702a7480c
 
 .. |05.dz1.1| replace:: 1
 .. _05.dz1.1: https://github.com/Hasuni/HW1
