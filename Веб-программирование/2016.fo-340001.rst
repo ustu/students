@@ -250,7 +250,7 @@
      - ragozin-n_
      - |13.dz1.1|_ |13.dz1.2-4|_ [**+5**]
      - |13.dz2.1|_ |13.dz2.2-5|_ [**+5**]
-     -
+     - |13.dz3|_ [**+5**]
      -
      -
      -
@@ -535,7 +535,8 @@
 .. _19.dz2.5: https://gist.github.com/kolalola/4e206b78e0665fc1e8463f1ffd077a4f
 
 .. Домашняя работа #3
-
+.. |13.dz3|_ replace:: 1
+.. _13.dz3: https://github.com/ragozin-n/web-programming-homework/tree/master/wsgi-task
 .. Домашняя работа #4
 
 .. Домашняя работа #5
