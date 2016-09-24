@@ -138,7 +138,7 @@
      - evgenymarkov_
      - |6.dz1.1|_ |6.dz1.2|_ |6.dz1.3|_ |6.dz1.4|_ [**+5**]
      - |6.dz2.1|_ |6.dz2.2.1|_ |6.dz2.2.2|_ |6.dz2.3.1|_ |6.dz2.3.2|_ |6.dz2.5|_ [**+5**]
-     -
+     - |6.dz3.1|_ [**+5**]
      -
      -
      -
@@ -364,6 +364,11 @@
 .. |4.dz1.2-4| replace:: 2-4
 .. _4.dz1.2-4: https://gist.github.com/LuizaKolobova/d78690e20c412dd3dad4aa6d27f1a6a1
 
+.. |5.dz1.1| replace:: 1
+.. _5.dz1.1: https://github.com/mMatvey/myProject
+.. |5.dz1.2-4| replace:: 2-4
+.. _5.dz1.2-4: https://gist.github.com/mMatvey
+
 .. |6.dz1.1| replace:: 1
 .. _6.dz1.1: https://github.com/evgenymarkov/web_homework1
 .. |6.dz1.2| replace:: 2
@@ -399,6 +404,11 @@
 .. |10.dz1.2-4| replace:: 2-4
 .. _10.dz1.2-4: https://gist.github.com/NickVernal
 
+.. |11.dz1.1| replace:: 1
+.. _11.dz1.1: https://github.com/pivasik228/myproject
+.. |11.dz1.2-4| replace:: 2-4
+.. _11.dz1.2-4: https://gist.github.com/pivasik228
+
 .. |12.dz1.1| replace:: 1
 .. _12.dz1.1: https://github.com/Lixa141/myproject
 .. |12.dz1.2| replace:: 2
@@ -408,17 +418,17 @@
 .. |12.dz1.4| replace:: 4
 .. _12.dz1.4: https://gist.github.com/Lixa141/2b301ded1f3d0c9f4abb5ca9d10819e2
 
-.. |11.dz1.1| replace:: 1
-.. _11.dz1.1: https://github.com/pivasik228/myproject
-.. |11.dz1.2-4| replace:: 2-4
-.. _11.dz1.2-4: https://gist.github.com/pivasik228
-
-.. |5.dz1.1| replace:: 1
-.. _5.dz1.1: https://github.com/mMatvey/myProject
-.. |5.dz1.2-4| replace:: 2-4
-.. _5.dz1.2-4: https://gist.github.com/mMatvey
-
 .. Домашняя работа #2
+
+.. |1.dz2.1| replace:: 1
+.. _1.dz2.1: https://gist.github.com/Ducage/a2b5af096677489afd5f766f0dd6e40f
+.. |1.dz2.2| replace:: 2
+.. _1.dz2.2: https://gist.github.com/Ducage/7fb6b75994a03aa6ca05777af5225f92
+.. |1.dz2.3| replace:: 3
+.. _1.dz2.3: https://gist.github.com/Ducage/f78b0f22a6bbdba9d34fa5d93d506f97
+.. |1.dz2.4| replace:: 4
+.. _1.dz2.4: https://gist.github.com/Ducage/eff4a808d76cba1a5004aab25a571789
+
 .. |6.dz2.1| replace:: 1
 .. _6.dz2.1: https://github.com/evgenymarkov/web_homework2
 .. |6.dz2.2.1| replace:: 2.1
@@ -431,15 +441,6 @@
 .. _6.dz2.3.2: https://gist.github.com/evgenymarkov/f18defb54b59ae82e8a1628dfdeff61b
 .. |6.dz2.5| replace:: 5
 .. _6.dz2.5: https://gist.github.com/evgenymarkov/bd496c6e7c5a57abebff4b33a12166a6
-
-.. |1.dz2.1| replace:: 1
-.. _1.dz2.1: https://gist.github.com/Ducage/a2b5af096677489afd5f766f0dd6e40f
-.. |1.dz2.2| replace:: 2
-.. _1.dz2.2: https://gist.github.com/Ducage/7fb6b75994a03aa6ca05777af5225f92
-.. |1.dz2.3| replace:: 3
-.. _1.dz2.3: https://gist.github.com/Ducage/f78b0f22a6bbdba9d34fa5d93d506f97
-.. |1.dz2.4| replace:: 4
-.. _1.dz2.4: https://gist.github.com/Ducage/eff4a808d76cba1a5004aab25a571789
 
 .. |12.dz2.1| replace:: 1
 .. _12.dz2.1: https://github.com/Lixa141/myproject
@@ -454,6 +455,9 @@
 
 .. |1.dz3.1| replace:: 1
 .. _1.dz3.1: https://github.com/Ducage/myproject/blob/master/WSGI.py
+
+.. |6.dz3.1| replace:: 1
+.. _6.dz3.1: https://github.com/evgenymarkov/web_homework3
 
 .. Домашняя работа #4
 
