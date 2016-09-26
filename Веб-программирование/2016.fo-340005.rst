@@ -199,7 +199,7 @@
      -
    * - 10
      - Колесников Сергей
-     -
+     - |10.dz1.1|_ |10.dz1.2-4|_ 
      -
      -
      -
@@ -543,6 +543,11 @@
 .. _22.dz1.1: https://github.com/shilak96/myproject
 .. |22.dz1.2-4| replace:: 2-4
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
+
+.. |10.dz1.1| replace::1 
+.. _10.dz1.1: https://github.com/Sergey16802/zadanie1
+.. |10.dz1.2-4| replace:: 2-4
+.. _10.dz1.2-4: https://gist.github.com/Sergey16802/c1df3fc239e90b775a4ea86c0f0e14d0
 
 .. Домашняя работа #2
 
