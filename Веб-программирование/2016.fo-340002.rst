@@ -272,6 +272,11 @@
 .. |10.dz1.2-4| replace:: 2-4
 .. _10.dz1.2-4: https://gist.github.com/NickVernal
 
+.. |13.dz1.1| replace:: 1
+.. _13.dz1.1: https://github.com/zasycha/myproject
+.. |13.dz1.2-4| replace:: 2-4
+.. _13.dz1.2-4: https://gist.github.com/zasycha/b8aba4f090f1930d27b04f5affa11ee3
+
 
 .. Домашняя работа #2
 
