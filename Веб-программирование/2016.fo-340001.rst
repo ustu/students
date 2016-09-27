@@ -313,7 +313,7 @@
      - Усов Максим Александрович
      - MaxUsov_
      - |17.dz1.1|_ |17.dz1.2-4|_ [**+5**]
-     -
+     - |17.dz2.1|_ |17.dz2.2-5|_ 
      -
      -
      -
@@ -529,6 +529,11 @@
 .. _13.dz2.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-2
 .. |13.dz2.2-5| replace:: 2-5
 .. _13.dz2.2-5: https://gist.github.com/ragozin-n/d70db5fe1cf2e95563e650c3dea77284
+
+.. |17.dz2.1| replace:: 1
+.. _17.dz2.1: https://github.com/MaxUsov/web_programming
+.. |17.dz2.2-5| replace:: 2-5
+.. _17.dz2.2-5: https://gist.github.com/MaxUsov/0d5dbb6c258029522aab6aee2de3ac42
 
 .. |19.dz2.1| replace:: 1
 .. _19.dz2.1: https://github.com/kolalola/WebHomework1
