@@ -233,7 +233,7 @@
      - Малышева Алена Ивановна
      - MalyshevaAlena_
      - |12.dz1.1|_ |12.dz1.2-4|_ [**+4**]
-     -
+     - |12.dz2.1|_ |12.dz2.2-5|_
      -
      -
      -
@@ -529,6 +529,11 @@
 .. _11.dz2.1: https://github.com/g196et/WebProg
 .. |11.dz2.2-5| replace:: 2-5
 .. _11.dz2.2-5: https://gist.github.com/g196et/9e5a161747df198ff3972ce3bcdd5897
+
+.. |12.dz2.1| replace:: 1
+.. _12.dz2.1: https://github.com/MalyshevaAlena/webProgramming
+.. |12.dz2.2-5| replace:: 2-5
+.. _12.dz2.2-5: https://gist.github.com/MalyshevaAlena/dbda86f576ed108b75eccce2b5f292bb
 
 .. |13.dz2.1| replace:: 1
 .. _13.dz2.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-2
