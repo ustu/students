@@ -309,13 +309,11 @@
      -
      -
      -
-     -
    * - 17
      - Санников Максим
      - Zixs_
      - |17.dz1.1|_ |17.dz1.2-4|_ [**+4**]
      - |17.dz2.1|_ |17.dz2.2-5|_ [**+5**]
-     -
      -
      -
      -
@@ -555,15 +553,15 @@
 .. |16.dz2.2-5| replace:: 2-5
 .. _16.dz2.2-5: https://gist.github.com/Hyuugo/edae71951ee56f9b4af4a4c8ad6e3e29
 
-.. |22.dz2.1| replace:: 1
-.. _22.dz2.1: https://github.com/shilak96/myproject
-.. |22.dz2.2-5| replace:: 2-5
-.. _22.dz2.2-5: https://gist.github.com/shilak96/6c3ea7c81ab836512f96e35e4ea5c2d2
-
 .. |17.dz2.1| replace:: 1
 .. _17.dz2.1: https://github.com/Zixs/myproject
 .. |17.dz2.2-5| replace:: 2-5
 .. _17.dz2.2-5: https://gist.github.com/Zixs/8f87e5332365392e794ff3a542382150
+
+.. |22.dz2.1| replace:: 1
+.. _22.dz2.1: https://github.com/shilak96/myproject
+.. |22.dz2.2-5| replace:: 2-5
+.. _22.dz2.2-5: https://gist.github.com/shilak96/6c3ea7c81ab836512f96e35e4ea5c2d2
 
 .. Домашняя работа #3
 
