@@ -485,6 +485,9 @@
 .. |6.dz3.1| replace:: 1
 .. _6.dz3.1: https://github.com/evgenymarkov/web_homework3
 
+.. |7.dz3.1| replace:: 1
+.. _7.dz3.1: https://gist.github.com/Lydmilamihaleva/d5596afefc6f56b0d0a9fa001e9e368f
+
 .. Домашняя работа #4
 
 .. Домашняя работа #5
