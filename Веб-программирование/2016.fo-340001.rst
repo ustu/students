@@ -297,7 +297,7 @@
      - Терентьев Никита Александрович
      - StXaver_
      - |16.dz1.1|_ |16.dz1.2-4|_ [**+5**]
-     -
+     - |17.dz2.1|_ |17.dz2.2,3,5|_ [****]
      -
      -
      -
@@ -539,6 +539,11 @@
 .. _13.dz2.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-2
 .. |13.dz2.2-5| replace:: 2-5
 .. _13.dz2.2-5: https://gist.github.com/ragozin-n/d70db5fe1cf2e95563e650c3dea77284
+
+.. |13.dz2.1| replace:: 1
+.. _13.dz2.1: https://github.com/StXaver/myproject
+.. |13.dz2.2,3,5| replace:: 2,3,5
+.. _13.dz2.2,3,5: https://gist.github.com/StXaver/1c6092a24b02ecbdb5be58de66b1cc02
 
 .. |17.dz2.1| replace:: 1
 .. _17.dz2.1: https://github.com/MaxUsov/web_programming
