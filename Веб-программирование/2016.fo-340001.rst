@@ -265,7 +265,7 @@
      - Рябов Максим Сергеевич
      - coderator3000_
      - |14.dz1.1|_ |14.dz1.2-4|_ [**+5**]
-     -
+     - |14.dz2.1|_ |14.dz2.2-5|_ [**+4**]
      -
      -
      -
@@ -539,6 +539,11 @@
 .. _13.dz2.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-2
 .. |13.dz2.2-5| replace:: 2-5
 .. _13.dz2.2-5: https://gist.github.com/ragozin-n/d70db5fe1cf2e95563e650c3dea77284
+
+.. |14.dz2.1| replace:: 1
+.. _14.dz2.1: https://github.com/Coderator3000/myproject
+.. |14.dz2.2-5| replace:: 2-5
+.. _14.dz2.2-5: https://gist.github.com/Coderator3000/aaf0262025ec73e21cf9cb8165e2e61a
 
 .. |16.dz2.1| replace:: 1
 .. _16.dz2.1: https://github.com/StXaver/myproject
