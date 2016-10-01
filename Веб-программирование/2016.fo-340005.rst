@@ -265,7 +265,7 @@
      - Овчинникова Анастасия
      - Ovchinnickova2016_
      - |14.dz1.1|_ |14.dz1.2-4|_ [**+4**]
-     -
+     - |14.dz2.1-5|_ [**+5**]
      -
      -
      -
@@ -547,6 +547,9 @@
 
 .. |5.dz2.1-5| replace:: 1-5
 .. _5.dz2.1-5: https://gist.github.com/Hasuni/d7d88abbd86c1fb9aa591463070fa554
+
+.. |14.dz2.1-5| replace:: 1-5
+.. _14.dz2.1-5: https://gist.github.com/Ovchinnickova2016/cba142572d1d0aab8f910ca085e55f73
 
 .. |16.dz2.2| replace:: 1
 .. _16.dz2.2: https://github.com/Hyuugo/myproject
