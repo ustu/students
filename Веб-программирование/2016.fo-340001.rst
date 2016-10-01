@@ -58,7 +58,7 @@
      - Kostya174_
      - |1.dz1.1|_ |1.dz1.2-4|_ [**+5**]
      - |1.dz2.1|_ |1.dz2.2-5|_ [**+5**]
-     - |1.dz3|_
+     - |1.dz3|_ [**+5**]
      -
      -
      -
@@ -566,8 +566,8 @@
 
 .. Домашняя работа #3
 
-.. |13.dz3| replace:: 1
-.. _13.dz3: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject/server
+.. |1.dz3| replace:: 1
+.. _1.dz3: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject/server
 
 .. |13.dz3| replace:: 1
 .. _13.dz3: https://github.com/ragozin-n/web-programming-homework/tree/master/wsgi-task
