@@ -502,7 +502,8 @@
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
     
 .. Домашняя работа #2
-
+.. |18.dz2.1-5| replace:: 1-5
+.. _18.dz2.1-5: https://gist.github.com/artofmind/4cf28684313cd2dcb2e58a439d0c306d
 .. Домашняя работа #3
 
 .. Домашняя работа #4
