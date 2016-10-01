@@ -217,7 +217,7 @@
      - Прасолов Семен Викторович
      - pivasik228_
      - |11.dz1.1|_ |11.dz1.2-4|_ [**+5**]
-     -
+     - |11.dz2.1|_ |11.dz2.2-5|_ [**+4**]
      -
      -
      -
@@ -462,6 +462,11 @@
 .. _10.dz2.3: https://gist.github.com/NickVernal/688545e1982108e96e093190c3b01802
 .. |10.dz2.5| replace:: 5
 .. _10.dz2.5: https://gist.github.com/NickVernal/bfa03f70893f02b02ffb6d8cc8244dfb
+
+.. |11.dz2.1| replace:: 1
+.. _11.dz2.1: https://github.com/pivasik228/myproject
+.. |11.dz2.2-5| replace:: 2-5
+.. _11.dz2.2-5: https://gist.github.com/pivasik228
 
 .. |12.dz2.1| replace:: 1
 .. _12.dz2.1: https://github.com/Lixa141/myproject
