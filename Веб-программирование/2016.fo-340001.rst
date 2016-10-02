@@ -314,7 +314,7 @@
      - MaxUsov_
      - |17.dz1.1|_ |17.dz1.2-4|_ [**+5**]
      - |17.dz2.1|_ |17.dz2.2-5|_ 
-     -
+     - |17.dz3|_
      -
      -
      -
@@ -548,6 +548,9 @@
 
 .. |13.dz3| replace:: 1
 .. _13.dz3: https://github.com/ragozin-n/web-programming-homework/tree/master/wsgi-task
+
+.. |17.dz3| replace:: 1
+.. _17.dz3: https://github.com/MaxUsov/web_programming
 
 .. Домашняя работа #4
 
