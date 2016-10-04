@@ -255,6 +255,14 @@
 .. _5.dz1.2-4: https://gist.github.com/mMatvey
 
 .. Домашняя работа #2
+.. |5.dz2.1| replace:: 1
+.. _5.dz2.1: https://gist.github.com/mMatvey/23197d23456c783f8ffbfae02f51db62
+.. |5.dz2.2| replace:: 2
+.. _5.dz2.2: https://gist.github.com/mMatvey/c3e6fb69648d139fe29b7c7bf0501880#file-socket-and-http-client-L17
+.. |5.dz2.3| replace:: 3
+.. _5.dz2.3: https://gist.github.com/mMatvey/21fe7574f257d42dca90463047e9c6ff
+.. |5.dz2.5| replace:: 5
+.. _5.dz2.5: https://gist.github.com/mMatvey/cbf2e1a04f6d565c65b13e56e62d13f9
 
 .. Домашняя работа #3
 .. |5.dz3.1| replace:: 1
