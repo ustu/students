@@ -218,7 +218,7 @@
      - g196et_
      - |11.dz1.1|_ |11.dz1.2-4|_ [**+5**]
      - |11.dz2.1|_ |11.dz2.2-5|_ [**+5**]
-     -
+     - |11.dz3|_ |11.dz3|_
      -
      -
      -
@@ -573,6 +573,9 @@
 
 .. |1.dz3| replace:: 1
 .. _1.dz3: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject/server
+
+.. |11.dz3| replace:: 1
+.. _11.dz3: https://github.com/g196et/WebProg/tree/master/WSGI%2BMiddleware
 
 .. |13.dz3| replace:: 1
 .. _13.dz3: https://github.com/ragozin-n/web-programming-homework/tree/master/wsgi-task
