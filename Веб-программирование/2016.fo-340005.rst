@@ -120,8 +120,8 @@
    * - 5
      - Зарембо Екатерина
      - Hasuni_
-     -
-     -
+     -|5.dz1.1|_ |5.dz1.2-4|_ 
+     -|5.dz2.1|
      -|5.dz3.1|
      -
      -
@@ -485,6 +485,10 @@
 .. _Farakhutdinova:     https://github.com/Farakhutdinova
 
 .. Домашняя работа #1
+.. |5.dz1.1| replace:: 1
+.. _5.dz1.1: https://github.com/Hasuni/HW1
+.. |5.dz1.2-4| replace:: 2-4
+.. _5.dz1.2-4: https://gist.github.com/Hasuni/49a47769fa104b5550f8e586db65d456
 
 .. |16.dz1.1| replace:: 1
 .. _16.dz1.1: https://github.com/Hyuugo/myproject
@@ -502,7 +506,8 @@
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
     
 .. Домашняя работа #2
-
+.. |5.dz2.1| replace:: 1-4
+.. _5.dz2.1: https://gist.github.com/Hasuni/d7d88abbd86c1fb9aa591463070fa554
 .. Домашняя работа #3
 .. |5.dz3.1| replace:: 1
 .. _5.dz3.1: https://github.com/Hasuni/hw3
