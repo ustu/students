@@ -142,7 +142,7 @@
      - NickVernal_
      - |10.dz1.1|_ |10.dz1.2-4|_
      - |10.dz2.1|_ |10.dz2.2|_ |10.dz2.3|_ |10.dz2.5|_ [**+5**]
-     -
+     - |10.dz3.1|_
      -
      -
      -
@@ -264,6 +264,8 @@
 .. _10.dz2.5: https://gist.github.com/NickVernal/bfa03f70893f02b02ffb6d8cc8244dfb
 
 .. Домашняя работа #3
+.. |10.dz3.1| replace:: 1
+.. _10.dz3.1: https://gist.github.com/NickVernal/4de8578324887d568689f11c98398716
 
 .. Домашняя работа #4
 
