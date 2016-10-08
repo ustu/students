@@ -248,7 +248,7 @@
    * - 13
      - Сычева Анастасия Сергеевна
      - zasycha_
-     -
+     - |13.dz1.1|_ |13.dz1.2-4|_ [**+3**]
      -
      -
      -
@@ -417,6 +417,11 @@
 .. _12.dz1.3: https://gist.github.com/Lixa141/cd7ca65e727bce4f2eb829cc2720e9b3
 .. |12.dz1.4| replace:: 4
 .. _12.dz1.4: https://gist.github.com/Lixa141/2b301ded1f3d0c9f4abb5ca9d10819e2
+
+.. |13.dz1.1| replace:: 1
+.. _13.dz1.1: https://github.com/zasycha/myproject
+.. |13.dz1.2-4| replace:: 2-4
+.. _13.dz1.2-4: https://gist.github.com/zasycha/b8aba4f090f1930d27b04f5affa11ee3
 
 .. Домашняя работа #2
 
