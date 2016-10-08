@@ -138,7 +138,7 @@
      - EsaulkovNikolay_
      - |6.dz1.1|_ |6.dz1.2-4|_ [**+5**]
      - |6.dz2.1|_ |6.dz2.2-5|_ [**+5**]
-     -
+     - |6.dz3.1|_ [**+5**]
      -
      -
      -
@@ -574,8 +574,13 @@
 .. |1.dz3| replace:: 1
 .. _1.dz3: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject/server
 
+.. |6.dz3| replace:: 1
+.. _6.dz3: https://github.com/EsaulkovNikolay/web-programming
+
 .. |13.dz3| replace:: 1
 .. _13.dz3: https://github.com/ragozin-n/web-programming-homework/tree/master/wsgi-task
+
+
 
 .. Домашняя работа #4
 
