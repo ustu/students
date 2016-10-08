@@ -282,7 +282,7 @@
      - vebster123_
      - |15.dz1.1|_ |15.dz1.2-4|_ [**+5**]
      - |15.dz2.1|_ |15.dz2.2-5|_ [**+5**]
-     -
+     - |15.dz3|_
      -
      -
      -
@@ -585,6 +585,9 @@
 
 .. |17.dz3| replace:: 1
 .. _17.dz3: https://github.com/MaxUsov/web_programming
+
+.. |15.dz3| replace:: 1
+.. _15.dz3: https://github.com/vebster123/myproject/blob/master/wsgi.py
 
 .. Домашняя работа #4
 
