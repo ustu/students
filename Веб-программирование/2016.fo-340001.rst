@@ -252,7 +252,7 @@
      - |13.dz2.1|_ |13.dz2.2-5|_ [**+5**]
      - |13.dz3|_ [**+5**]
      - |13.dz4.1|_ |13.dz4.2-4|_ |13.dz4.5|_
-     -
+     - |13.dz5|_
      -
      -
      -
@@ -585,5 +585,6 @@
 .. |13.dz4.5| replace:: 5
 .. _13.dz4.5: https://gist.github.com/ragozin-n/9b172e40b7e6da417d06a4642ce68c04
 .. Домашняя работа #5
-
+.. |13.dz5| replace:: 1
+.. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
 .. Курсовая работа
