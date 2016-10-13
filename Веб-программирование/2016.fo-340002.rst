@@ -170,7 +170,7 @@
      - WhileTrueDoSex_
      - |8.dz1.1|_ |8.dz1.2-4|_ [**+5**]
      - |8.dz2.1|_ |8.dz2.2-5|_ [**+5**]
-     -
+     - |8.dz3.1|_ [**+5**]
      -
      -
      -
@@ -500,6 +500,9 @@
 
 .. |7.dz3.1| replace:: 1
 .. _7.dz3.1: https://gist.github.com/Lydmilamihaleva/d5596afefc6f56b0d0a9fa001e9e368f
+
+.. |8.dz3.1| replace:: 1
+.. _8.dz3.1: https://gist.github.com/WhileTrueDoSex/2f4158613f40cf6fafe6aaf7d10c7b9b
 
 .. |10.dz3.1| replace:: 1
 .. _10.dz3.1: https://gist.github.com/NickVernal/4de8578324887d568689f11c98398716
