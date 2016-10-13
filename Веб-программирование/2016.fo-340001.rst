@@ -90,7 +90,7 @@
      - BallOfDestruction_
      - |3.dz1.1|_ |3.dz1.2-4|_ [**+5**]
      - |3.dz2.1|_ |3.dz2.2-5|_ [**+5**]
-     -
+     - |3.dz3|_ [**+5**]
      -
      -
      -
@@ -573,6 +573,9 @@
 
 .. |1.dz3| replace:: 1
 .. _1.dz3: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject/server
+
+.. |3.dz3| replace:: 1
+.. _3.dz3: https://github.com/BallOfDestruction/Task-For-Web
 
 .. |4.dz3| replace:: 1
 .. _4.dz3: https://github.com/SckottJackson/Web-programming-first-homework/blob/master/WSGI.py
