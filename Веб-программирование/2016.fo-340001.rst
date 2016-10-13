@@ -106,7 +106,7 @@
      - SckottJackson_
      - |4.dz1.1|_ |4.dz1.2-4|_ [**+4**]
      - |4.dz2.1|_ |4.dz2.2|_ |4.dz2.3|_ |4.dz2.5|_ [**+5**]
-     -
+     - |4.dz3|_ [**+5**]
      -
      -
      -
@@ -573,6 +573,9 @@
 
 .. |1.dz3| replace:: 1
 .. _1.dz3: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject/server
+
+.. |4.dz3| replace:: 1
+.. _4.dz3: https://github.com/SckottJackson/Web-programming-first-homework/blob/master/WSGI.py
 
 .. |6.dz3| replace:: 1
 .. _6.dz3: https://github.com/EsaulkovNikolay/web-programming
