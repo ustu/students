@@ -234,6 +234,7 @@
      - Lixa141_
      - |12.dz1.1|_ |12.dz1.2|_ |12.dz1.3|_ |12.dz1.4|_ [**+5**]
      - |12.dz2.1|_ |12.dz2.2|_ |12.dz2.3|_ |12.dz2.5|_ [**+5**]
+     - |12.dz3.1|_ 
      -
      -
      -
@@ -499,6 +500,9 @@
 
 .. |7.dz3.1| replace:: 1
 .. _7.dz3.1: https://gist.github.com/Lydmilamihaleva/d5596afefc6f56b0d0a9fa001e9e368f
+
+.. |12.dz3.1| replace:: 1
+.. _12.dz3.1: https://github.com/Lixa141/WebProgramming/blob/master/Task3
 
 .. Домашняя работа #4
 
