@@ -251,8 +251,8 @@
      - |13.dz1.1|_ |13.dz1.2-4|_ [**+5**]
      - |13.dz2.1|_ |13.dz2.2-5|_ [**+5**]
      - |13.dz3|_ [**+5**]
-     -
-     -
+     - |13.dz4.1|_ |13.dz4.2-4|_ |13.dz4.5|_ [**+5**]
+     - |13.dz5|_ [**+5**]
      -
      -
      -
@@ -605,7 +605,13 @@
 .. _19.dz3: https://github.com/kolalola/WebHomework1/tree/master/WSGI
 
 .. Домашняя работа #4
-
+.. |13.dz4.1| replace:: 1
+.. _13.dz4.1: https://github.com/ragozin-n/web-programming-homework/tree/master/jinja-2-task
+.. |13.dz4.2-4| replace:: 2-4
+.. _13.dz4.2-4: https://gist.github.com/ragozin-n/0489441251e41bbd606aad56645eef46
+.. |13.dz4.5| replace:: 5
+.. _13.dz4.5: https://gist.github.com/ragozin-n/9b172e40b7e6da417d06a4642ce68c04
 .. Домашняя работа #5
-
+.. |13.dz5| replace:: 1
+.. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
 .. Курсовая работа
