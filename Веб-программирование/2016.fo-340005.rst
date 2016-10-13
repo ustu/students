@@ -394,7 +394,7 @@
      - Shilak96_
      - |22.dz1.1|_ |22.dz1.2-4|_ [**+4**]
      - |22.dz2.1|_ |22.dz2.2-5|_ [**+5**]
-     -
+     - |22.dz3|_ [**+5**]
      -
      -
      -
@@ -578,6 +578,9 @@
 
 .. |16.dz3| replace:: 1
 .. _16.dz3: https://github.com/Hyuugo/myproject
+
+.. |22.dz3| replace:: 1
+.. _22.dz3: https://github.com/shilak96/myproject
 
 .. Домашняя работа #4
 
