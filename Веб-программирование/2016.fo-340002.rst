@@ -106,7 +106,7 @@
      - LuizaKolobova_
      - |4.dz1.1|_ |4.dz1.2-4|_ [**+5**]
      - |4.dz2.1|_ |4.dz2.2|_ |4.dz2.3|_ |4.dz2.5|_ [**+5**]
-     - |4.dz3.1|_  
+     - |4.dz3.1|_ [**+5**]
      -
      -
      -
@@ -501,7 +501,7 @@
 .. _7.dz3.1: https://gist.github.com/Lydmilamihaleva/d5596afefc6f56b0d0a9fa001e9e368f
 
 .. |4.dz3.1| replace:: 1
-.. _4.dz3.1:https://github.com/LuizaKolobova/myproject/blob/master/wsgi.py
+.. _4.dz3.1: https://github.com/LuizaKolobova/myproject/blob/master/wsgi.py
 
 
 .. Домашняя работа #4
