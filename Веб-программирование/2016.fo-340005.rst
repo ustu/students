@@ -57,7 +57,7 @@
      - Бейшенова Замира
      - zamekb_
      - |1.dz1.1|_ |1.dz1.2-4|_ [**+3**]
-     -
+     - |1.dz2.1|_ |1.dz2.2-5|_ [**+3**]
      -
      -
      -
@@ -545,6 +545,11 @@
 
 .. Домашняя работа #2
 
+.. |1.dz2.1| replace:: 1
+.. _1.dz2.1: https://github.com/zamekb/myproject
+.. |1.dz2.2-5| replace:: 2-5
+.. _1.dz2.2-5: https://gist.github.com/zamekb/1190f2fc4caf6a874bf27daacf299e27
+
 .. |5.dz2.1-5| replace:: 1-5
 .. _5.dz2.1-5: https://gist.github.com/Hasuni/d7d88abbd86c1fb9aa591463070fa554
 
@@ -561,14 +566,13 @@
 .. |17.dz2.2-5| replace:: 2-5
 .. _17.dz2.2-5: https://gist.github.com/Zixs/8f87e5332365392e794ff3a542382150
 
+.. |18.dz2.1-5| replace:: 1-5
+.. _18.dz2.1-5: https://gist.github.com/artofmind/7a61125745edcd198e1962731f6e97e3
+
 .. |22.dz2.1| replace:: 1
 .. _22.dz2.1: https://github.com/shilak96/myproject
 .. |22.dz2.2-5| replace:: 2-5
 .. _22.dz2.2-5: https://gist.github.com/shilak96/6c3ea7c81ab836512f96e35e4ea5c2d2
-
-.. |18.dz2.1-5| replace:: 1-5
-.. _18.dz2.1-5: https://gist.github.com/artofmind/7a61125745edcd198e1962731f6e97e3
-
 
 .. Домашняя работа #3
 
