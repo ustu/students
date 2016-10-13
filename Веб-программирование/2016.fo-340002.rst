@@ -106,7 +106,7 @@
      - LuizaKolobova_
      - |4.dz1.1|_ |4.dz1.2-4|_ [**+5**]
      - |4.dz2.1|_ |4.dz2.2|_ |4.dz2.3|_ |4.dz2.5|_ [**+5**]
-     -
+     - |4.dz3.1|_ [**+5**]
      -
      -
      -
@@ -491,6 +491,9 @@
 
 .. |1.dz3.1| replace:: 1
 .. _1.dz3.1: https://github.com/Ducage/myproject/blob/master/WSGI.py
+
+.. |4.dz3.1| replace:: 1
+.. _4.dz3.1: https://github.com/LuizaKolobova/myproject/blob/master/wsgi.py
 
 .. |5.dz3.1| replace:: 1
 .. _5.dz3.1: https://gist.github.com/mMatvey/5d83881505057570d85b773f010f88c5
