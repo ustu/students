@@ -346,7 +346,7 @@
      - kolalola_
      - |19.dz1.1|_ |19.dz1.2|_ |19.dz1.3|_ |19.dz1.4|_ [**+5**]
      - |19.dz2.1|_ |19.dz2.2|_ |19.dz2.3|_ |19.dz2.5|_ [**+5**]
-     -
+     - |19.dz3|_ [**+5**]
      -
      -
      -
@@ -545,6 +545,11 @@
 .. |14.dz2.2-5| replace:: 2-5
 .. _14.dz2.2-5: https://gist.github.com/Coderator3000/aaf0262025ec73e21cf9cb8165e2e61a
 
+.. |15.dz2.2-5| replace:: 2-5
+.. _15.dz2.2-5: https://gist.github.com/vebster123/f127f1fabeac89f9ec9d688f65e176ff
+.. |15.dz2.1| replace:: 1
+.. _15.dz2.1: https://github.com/vebster123/myproject/blob/master/server.py
+
 .. |16.dz2.1| replace:: 1
 .. _16.dz2.1: https://github.com/StXaver/myproject
 .. |16.dz2.2,3,5| replace:: 2,3,5
@@ -564,11 +569,6 @@
 .. |19.dz2.5| replace:: 5
 .. _19.dz2.5: https://gist.github.com/kolalola/4e206b78e0665fc1e8463f1ffd077a4f
 
-.. |15.dz2.2-5| replace:: 2-5
-.. _15.dz2.2-5: https://gist.github.com/vebster123/f127f1fabeac89f9ec9d688f65e176ff
-.. |15.dz2.1| replace:: 1
-.. _15.dz2.1: https://github.com/vebster123/myproject/blob/master/server.py
-
 .. Домашняя работа #3
 
 .. |1.dz3| replace:: 1
@@ -585,6 +585,9 @@
 
 .. |17.dz3| replace:: 1
 .. _17.dz3: https://github.com/MaxUsov/web_programming
+
+.. |19.dz3| replace:: 1
+.. _19.dz3: https://github.com/kolalola/WebHomework1/tree/master/WSGI
 
 .. Домашняя работа #4
 
