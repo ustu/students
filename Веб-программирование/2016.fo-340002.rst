@@ -202,7 +202,7 @@
      - NickVernal_
      - |10.dz1.1|_ |10.dz1.2-4|_ [**+5**]
      - |10.dz2.1|_ |10.dz2.2|_ |10.dz2.3|_ |10.dz2.5|_ [**+5**]
-     -
+     - |10.dz3.1|_ [**+5**]
      -
      -
      -
@@ -488,17 +488,21 @@
 .. _8.dz2.2-5: https://gist.github.com/WhileTrueDoSex
 
 .. Домашняя работа #3
-.. |5.dz3.1| replace:: 1
-.. _5.dz3.1: https://gist.github.com/mMatvey/5d83881505057570d85b773f010f88c5
 
 .. |1.dz3.1| replace:: 1
 .. _1.dz3.1: https://github.com/Ducage/myproject/blob/master/WSGI.py
+
+.. |5.dz3.1| replace:: 1
+.. _5.dz3.1: https://gist.github.com/mMatvey/5d83881505057570d85b773f010f88c5
 
 .. |6.dz3.1| replace:: 1
 .. _6.dz3.1: https://github.com/evgenymarkov/web_homework3
 
 .. |7.dz3.1| replace:: 1
 .. _7.dz3.1: https://gist.github.com/Lydmilamihaleva/d5596afefc6f56b0d0a9fa001e9e368f
+
+.. |10.dz3.1| replace:: 1
+.. _10.dz3.1: https://gist.github.com/NickVernal/4de8578324887d568689f11c98398716
 
 .. Домашняя работа #4
 
