@@ -282,7 +282,7 @@
      - vebster123_
      - |15.dz1.1|_ |15.dz1.2-4|_ [**+5**]
      - |15.dz2.1|_ |15.dz2.2-5|_ [**+5**]
-     -
+     - |15.dz3|_ [**+5**]
      -
      -
      -
@@ -591,6 +591,9 @@
 
 .. |13.dz3| replace:: 1
 .. _13.dz3: https://github.com/ragozin-n/web-programming-homework/tree/master/wsgi-task
+
+.. |15.dz3| replace:: 1
+.. _15.dz3: https://github.com/vebster123/myproject/blob/master/wsgi.py
 
 .. |16.dz3| replace:: 1
 .. _16.dz3: https://github.com/StXaver/myproject/blob/master/WSGIserver
