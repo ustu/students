@@ -170,7 +170,7 @@
      - hallsands_
      - |8.dz1.1|_ |8.dz1.2-4|_ [**+5**]
      - |8.dz2.1-5|_ [**+5**]
-     -
+     - |8.dz3|_ [**+5**]
      -
      -
      -
@@ -576,6 +576,9 @@
 
 .. |6.dz3| replace:: 1
 .. _6.dz3: https://github.com/EsaulkovNikolay/web-programming
+
+.. |8.dz3| replace:: 1
+.. _8.dz3: https://gist.github.com/hallsands/814782cdbb31e6cef422868d9b9eac89
 
 .. |11.dz3| replace:: 1
 .. _11.dz3: https://github.com/g196et/WebProg/tree/master/WSGI%2BMiddleware
