@@ -279,9 +279,13 @@
 
 
 .. Домашняя работа #2
-
+.. |13.dz2.1| replace:: 1
+.. _13.dz2.1: https://github.com/zasycha/myproject
+.. |13.dz2.2-5| replace:: 2-5
+.. _13.dz2.2: https://gist.github.com/zasycha
 .. Домашняя работа #3
-
+.. |13.dz3.1| replace:: 1
+.. _13.dz3.1: https://gist.github.com/zasycha/f82779f403107d643e2426eab1fe9b12
 .. Домашняя работа #4
 
 .. Домашняя работа #5
