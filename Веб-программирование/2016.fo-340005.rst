@@ -571,9 +571,9 @@
 .. |20.dz2.2| replace:: 2
 .. _20.dz2.2: https://gist.github.com/Farakhutdinova/5f1cd39c834e22d617e1fef151138301
 .. |20.dz2.3| replace:: 3
-.. _20.dz2.3:https://gist.github.com/Farakhutdinova/0786c642e0acdd447a967b5d15f3eedf
+.. _20.dz2.3: https://gist.github.com/Farakhutdinova/0786c642e0acdd447a967b5d15f3eedf
 .. |20.dz2.5| replace:: 5
-.. _20.dz2.5:https://gist.github.com/Farakhutdinova/2978c4408fe69ab95e5d4a124d0f9a13
+.. _20.dz2.5: https://gist.github.com/Farakhutdinova/2978c4408fe69ab95e5d4a124d0f9a13
 
 .. Домашняя работа #3
 
