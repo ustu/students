@@ -266,7 +266,7 @@
      - Ovchinnickova2016_
      - |14.dz1.1|_ |14.dz1.2-4|_ [**+4**]
      - |14.dz2.1-5|_ [**+5**]
-     -
+     - |14.dz3.1|_ [**+4**]
      -
      -
      -
@@ -575,6 +575,9 @@
 .. _22.dz2.2-5: https://gist.github.com/shilak96/6c3ea7c81ab836512f96e35e4ea5c2d2
 
 .. Домашняя работа #3
+
+.. |14.dz3.1| replace:: 1
+.. _14.dz3.1: https://github.com/Ovchinnickova2016/myproject/blob/master/WSGI.py
 
 .. |16.dz3| replace:: 1
 .. _16.dz3: https://github.com/Hyuugo/myproject
