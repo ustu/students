@@ -361,7 +361,7 @@
      - Фарахутдинова Эльвина
      - Farakhutdinova_
      - |20.dz1.1|_ |20.dz1.2-4|_ [**+4**]
-     - |20.dz2.1-5|
+     - |20.dz2.1|_ |20.dz2.2|_ |20.dz2.3|_ |20.dz2.5|_[**+3**]
      -
      -
      -
@@ -574,6 +574,7 @@
 .. _20.dz2.3:https://gist.github.com/Farakhutdinova/0786c642e0acdd447a967b5d15f3eedf
 .. |20.dz2.5| replace:: 5
 .. _20.dz2.5:https://gist.github.com/Farakhutdinova/2978c4408fe69ab95e5d4a124d0f9a13
+
 .. Домашняя работа #3
 
 .. |16.dz3| replace:: 1
