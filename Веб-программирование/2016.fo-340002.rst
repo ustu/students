@@ -261,7 +261,6 @@
      -
      -
      -
-     -
    * - 14
      - Тетюцких Евгений
      -
@@ -500,7 +499,7 @@
 .. |13.dz2.1| replace:: 1
 .. _13.dz2.1: https://github.com/zasycha/myproject
 .. |13.dz2.2-5| replace:: 2-5
-.. _13.dz2.2: https://gist.github.com/zasycha
+.. _13.dz2.2-5: https://gist.github.com/zasycha
 
 .. Домашняя работа #3
 
