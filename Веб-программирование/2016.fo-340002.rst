@@ -532,3 +532,9 @@
 .. Домашняя работа #5
 
 .. Курсовая работа
+.. |5.kr1.1| replace:: 1
+.. https://github.com/SuperPloho/vangi.ru
+.. |12.kr1.1| replace:: 1
+.. https://github.com/SuperPloho/vangi.ru
+.. |13.kr1.1| replace:: 1
+.. https://github.com/SuperPloho/vangi.ru
