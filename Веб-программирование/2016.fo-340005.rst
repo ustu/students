@@ -361,7 +361,7 @@
      - Фарахутдинова Эльвина
      - Farakhutdinova_
      - |20.dz1.1|_ |20.dz1.2-4|_ [**+4**]
-     -
+     - |20.dz2.1|_ |20.dz2.2|_ |20.dz2.3|_ |20.dz2.5|_ [**+3**]
      -
      -
      -
@@ -573,6 +573,15 @@
 .. _22.dz2.1: https://github.com/shilak96/myproject
 .. |22.dz2.2-5| replace:: 2-5
 .. _22.dz2.2-5: https://gist.github.com/shilak96/6c3ea7c81ab836512f96e35e4ea5c2d2
+
+.. |20.dz2.1| replace:: 1
+.. _20.dz2.1: https://gist.github.com/Farakhutdinova/462cc6714e0ce146c51be1e888524790
+.. |20.dz2.2| replace:: 2
+.. _20.dz2.2: https://gist.github.com/Farakhutdinova/5f1cd39c834e22d617e1fef151138301
+.. |20.dz2.3| replace:: 3
+.. _20.dz2.3: https://gist.github.com/Farakhutdinova/0786c642e0acdd447a967b5d15f3eedf
+.. |20.dz2.5| replace:: 5
+.. _20.dz2.5: https://gist.github.com/Farakhutdinova/2978c4408fe69ab95e5d4a124d0f9a13
 
 .. Домашняя работа #3
 
