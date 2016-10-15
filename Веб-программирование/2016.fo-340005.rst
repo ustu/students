@@ -362,7 +362,7 @@
      - Farakhutdinova_
      - |20.dz1.1|_ |20.dz1.2-4|_ [**+4**]
      - |20.dz2.1|_ |20.dz2.2|_ |20.dz2.3|_ |20.dz2.5|_ [**+3**]
-     -
+     - |20.dz3.1|_ [**+4**]
      -
      -
      -
@@ -609,6 +609,9 @@
 
 .. |22.dz3| replace:: 1
 .. _22.dz3: https://github.com/shilak96/myproject
+
+.. |20.dz3.1| replace:: 1
+.. _20.dz3.1: https://gist.github.com/Farakhutdinova/435cdbb99a50c237211c43b975cf774f
 
 .. Домашняя работа #4
 
