@@ -13,7 +13,7 @@
      - |dz3|_ 17/09/2016
      - |dz4|_ 15/10/2016
      - |dz5|_ ??/??/2016
-     - зачет (??/??/2017)
+     - экзамен (??/??/2017)
      - |kr1|_ (22/10/2016)
      - |kr2|_ (12/11/2016)
      - |kr3|_ (26/11/2016)
@@ -72,7 +72,7 @@
    * - 2
      - Галимзянов Александр
      - anonimD08_
-     -
+     - |2.dz1.1|_ |2.dz1.2-4|_ [**+3**]
      -
      -
      -
@@ -493,6 +493,11 @@
 .. |1.dz1.2-4| replace:: 2-4
 .. _1.dz1.2-4: https://gist.github.com/zamekb/5acaad58797d057f9bd0092702a7480c
 
+.. |2.dz1.1| replace:: 1
+.. _2.dz1.1: https://github.com/anonimD08/myproject
+.. |2.dz1.2-4| replace:: 2-4
+.. _2.dz1.2-4: https://gist.github.com/anonimD08/e2f1aacc317c41533ed6f1cb7e2f44c9
+
 .. |5.dz1.1| replace:: 1
 .. _5.dz1.1: https://github.com/Hasuni/HW1
 .. |5.dz1.2-4| replace:: 2-4
@@ -538,15 +543,15 @@
 .. |20.dz1.2-4| replace:: 2-4
 .. _20.dz1.2-4: https://gist.github.com/Farakhutdinova/e5dbfc58f0051d30e6f65407f0222da7
 
-.. |22.dz1.1| replace:: 1
-.. _22.dz1.1: https://github.com/shilak96/myproject
-.. |22.dz1.2-4| replace:: 2-4
-.. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
-
 .. |21.dz1.1| replace:: 1
 .. _21.dz1.1: https://github.com/Vasyaga/myproject
 .. |21.dz1.2-4| replace:: 2-4
 .. _21.dz1.2-4: https://gist.github.com/Vasyaga/45a6bcb081090adde111b7dfb57af58d
+
+.. |22.dz1.1| replace:: 1
+.. _22.dz1.1: https://github.com/shilak96/myproject
+.. |22.dz1.2-4| replace:: 2-4
+.. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
 
 .. Домашняя работа #2
 
@@ -574,11 +579,6 @@
 .. |18.dz2.1-5| replace:: 1-5
 .. _18.dz2.1-5: https://gist.github.com/artofmind/7a61125745edcd198e1962731f6e97e3
 
-.. |22.dz2.1| replace:: 1
-.. _22.dz2.1: https://github.com/shilak96/myproject
-.. |22.dz2.2-5| replace:: 2-5
-.. _22.dz2.2-5: https://gist.github.com/shilak96/6c3ea7c81ab836512f96e35e4ea5c2d2
-
 .. |20.dz2.1| replace:: 1
 .. _20.dz2.1: https://gist.github.com/Farakhutdinova/462cc6714e0ce146c51be1e888524790
 .. |20.dz2.2| replace:: 2
@@ -587,6 +587,11 @@
 .. _20.dz2.3: https://gist.github.com/Farakhutdinova/0786c642e0acdd447a967b5d15f3eedf
 .. |20.dz2.5| replace:: 5
 .. _20.dz2.5: https://gist.github.com/Farakhutdinova/2978c4408fe69ab95e5d4a124d0f9a13
+
+.. |22.dz2.1| replace:: 1
+.. _22.dz2.1: https://github.com/shilak96/myproject
+.. |22.dz2.2-5| replace:: 2-5
+.. _22.dz2.2-5: https://gist.github.com/shilak96/6c3ea7c81ab836512f96e35e4ea5c2d2
 
 .. Домашняя работа #3
 
