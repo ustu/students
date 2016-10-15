@@ -266,7 +266,7 @@
      - coderator3000_
      - |14.dz1.1|_ |14.dz1.2-4|_ [**+5**]
      - |14.dz2.1|_ |14.dz2.2-5|_ [**+4**]
-     -
+     - |14.dz3|_
      -
      -
      -
@@ -591,6 +591,9 @@
 
 .. |13.dz3| replace:: 1
 .. _13.dz3: https://github.com/ragozin-n/web-programming-homework/tree/master/wsgi-task
+
+.. |14.dz3| replace:: 1
+.. _14.dz3: https://github.com/Coderator3000/HW3
 
 .. |15.dz3| replace:: 1
 .. _15.dz3: https://github.com/vebster123/myproject/blob/master/wsgi.py
