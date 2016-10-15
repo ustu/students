@@ -376,7 +376,7 @@
    * - 21
      - Цветков Василий
      - Vasyaga_
-     -
+     - |21.dz1.1|_ |21.dz1.2-4|_ 
      -
      -
      -
@@ -542,6 +542,11 @@
 .. _22.dz1.1: https://github.com/shilak96/myproject
 .. |22.dz1.2-4| replace:: 2-4
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
+
+.. |21.dz1.1| replace:: 1
+.. _21.dz1.1: https://github.com/Vasyaga/myproject
+.. |21.dz1.2-4| replace:: 2-4
+.. _21.dz1.2-4: https://gist.github.com/Vasyaga/45a6bcb081090adde111b7dfb57af58d
 
 .. Домашняя работа #2
 
