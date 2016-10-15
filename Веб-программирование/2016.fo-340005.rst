@@ -330,7 +330,7 @@
      - artofmind_
      - |18.dz1.1|_ |18.dz1.2-4|_ [**+3**]
      - |18.dz2.1-5|_ [**+4**]
-     -
+     - |18.dz3.1|_ [**+4**]
      -
      -
      -
@@ -595,6 +595,9 @@
 
 .. Домашняя работа #3
 
+.. |1.dz3.1| replace:: 1
+.. _1.dz3.1: https://github.com/zamekb/myproject/blob/master/wsgi
+
 .. |5.dz3.1| replace:: 1
 .. _5.dz3.1: https://github.com/Hasuni/hw3
 
@@ -607,14 +610,14 @@
 .. |17.dz3| replace:: 1
 .. _17.dz3: https://github.com/Zixs/myproject
 
-.. |22.dz3| replace:: 1
-.. _22.dz3: https://github.com/shilak96/myproject
+.. |18.dz3.1| replace:: 1
+.. _18.dz3.1: https://github.com/artofmind/myproject/commit/be6e39d7f5b026e1a94bdbeeb678001f8028b9e5
 
 .. |20.dz3.1| replace:: 1
 .. _20.dz3.1: https://gist.github.com/Farakhutdinova/435cdbb99a50c237211c43b975cf774f
 
-.. |1.dz3.1| replace:: 1 
-.. _1.dz3.1: https://github.com/zamekb/myproject/blob/master/wsgi
+.. |22.dz3| replace:: 1
+.. _22.dz3: https://github.com/shilak96/myproject
 
 .. Домашняя работа #4
 
