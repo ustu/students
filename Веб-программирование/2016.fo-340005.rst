@@ -72,7 +72,7 @@
    * - 2
      - Галимзянов Александр
      - anonimD08_
-     -
+     - |2.dz1.1|_ |2.dz1.2-4|_
      -
      -
      -
@@ -542,6 +542,11 @@
 .. _22.dz1.1: https://github.com/shilak96/myproject
 .. |22.dz1.2-4| replace:: 2-4
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
+
+.. |2.dz1.1| replace:: 1
+.. _2.dz1.1: https://github.com/anonimD08/myproject
+.. |2.dz1.2-4| replace:: 2-4
+.. _2.dz1.2-4: https://gist.github.com/anonimD08/e2f1aacc317c41533ed6f1cb7e2f44c9
 
 .. Домашняя работа #2
 
