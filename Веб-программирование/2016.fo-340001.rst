@@ -416,10 +416,10 @@
 .. _2.dz1.1: https://github.com/SBRhen/web_labs
 .. |2.dz1.2| replace:: 2
 .. _2.dz1.2: https://gist.github.com/SBRhen/533966333a9aaa908528ccdfee3b051c
-.. |2.dz1.2| replace:: 3
-.. _2.dz1.2: https://gist.github.com/SBRhen/4de6a1af5415b2c377281320476193b7
-.. |2.dz1.2| replace:: 4
-.. _2.dz1.2: https://gist.github.com/SBRhen/e62dcabda543ca9252c9e0983adc504e
+.. |2.dz1.3| replace:: 3
+.. _2.dz1.3: https://gist.github.com/SBRhen/4de6a1af5415b2c377281320476193b7
+.. |2.dz1.4| replace:: 4
+.. _2.dz1.4: https://gist.github.com/SBRhen/e62dcabda543ca9252c9e0983adc504e
 
 .. |3.dz1.1| replace:: 1
 .. _3.dz1.1: https://github.com/BallOfDestruction/Task-For-Web/tree/master/myproject
