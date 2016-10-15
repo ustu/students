@@ -347,7 +347,7 @@
      - |19.dz1.1|_ |19.dz1.2|_ |19.dz1.3|_ |19.dz1.4|_ [**+5**]
      - |19.dz2.1|_ |19.dz2.2|_ |19.dz2.3|_ |19.dz2.5|_ [**+5**]
      - |19.dz3|_ [**+5**]
-     -
+     - |19.dz4.1-4|_ |19.dz4.5|_
      -
      -
      -
@@ -614,7 +614,12 @@
 .. _13.dz4.2-4: https://gist.github.com/ragozin-n/0489441251e41bbd606aad56645eef46
 .. |13.dz4.5| replace:: 5
 .. _13.dz4.5: https://gist.github.com/ragozin-n/9b172e40b7e6da417d06a4642ce68c04
+
+.. |19.dz4.1-4| replace:: 1-4
+.. _19.dz4.1-4: https://github.com/kolalola/WebH4
+.. |19.dz4.5| replace:: 5
+.. _19.dz4.5: https://gist.github.com/kolalola/b4b064163a308b30ec0653fd561cfcd3
 .. Домашняя работа #5
-.. |13.dz5| replace:: 1
-.. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
+.. |19.dz5| replace:: 1
+.. _19.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
 .. Курсовая работа
