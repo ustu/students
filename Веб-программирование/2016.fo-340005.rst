@@ -330,7 +330,7 @@
      - artofmind_
      - |18.dz1.1|_ |18.dz1.2-4|_ [**+3**]
      - |18.dz2.1-5|_ [**+4**]
-     -
+     - |18.dz3|_
      -
      -
      -
@@ -609,6 +609,9 @@
 
 .. |22.dz3| replace:: 1
 .. _22.dz3: https://github.com/shilak96/myproject
+
+.. |18.dz3| replace:: 1
+.. _18.dz3: https://github.com/artofmind/myproject/commit/69382dcadebaffd364b2830bf92db0a1cd2678bd
 
 .. Домашняя работа #4
 
