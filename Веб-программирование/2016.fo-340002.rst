@@ -195,9 +195,9 @@
    * - 15
      - Чупраков Вадим Владимирович
      - veyroter_
+     - |15.dz1.1|_ |15.dz1.2|_ |15.dz1.3|_ |15.dz1.4|_ 
+     - |15.dz1.1|_ |15.dz1.2|_ |15.dz1.3|_ |15.dz1.5|_ 
      - |15.dz1.1|_
-     -
-     -
      -
      -
      -
@@ -293,10 +293,28 @@
 
 .. |15.dz1.1| replace:: 1
 .. _15.dz1.1: https://github.com/veyroter/web-task-01
+.. |15.dz1.2| replace:: 2
+.. _15.dz1.2: https://gist.github.com/veyroter/ae213389726d17a2098b7ec30ba106ad
+.. |15.dz1.3| replace:: 3
+.. _15.dz1.3: https://gist.github.com/veyroter/92ce5472c7cdb958665bc2a3f0f28f99
+.. |15.dz1.4| replace:: 4
+.. _15.dz1.4: https://gist.github.com/veyroter/968fc3d4d8880f37b1124c7096e3bb0b
 
 .. Домашняя работа #2
 
+.. |15.dz2.1| replace:: 1
+.. _15.dz2.1: https://github.com/veyroter/web-task-01
+.. |15.dz2.2| replace:: 2
+.. _15.dz2.2: https://gist.github.com/veyroter/352cd9b8a8e1d9b23162b33088319fcc
+.. |15.dz2.3| replace:: 3
+.. _15.dz2.3: https://gist.github.com/veyroter/fb3466ac7ed8fbb13a5bbd328496f991
+.. |15.dz2.5| replace:: 5
+.. _15.dz2.5: https://gist.github.com/veyroter/3c7f5ad2913a85b81b439f54633963e1
+
 .. Домашняя работа #3
+
+.. |15.dz3.1| replace:: 1
+.. _15.dz3.1: https://gist.github.com/veyroter/b4099eb9c96004995a635d624ab3051c
 
 .. Домашняя работа #4
 
