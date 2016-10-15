@@ -121,7 +121,8 @@
      - Девятияров Артем Сергеевич
      - Ouroborochi_
      - |5.dz1.1|_ |5.dz1.2-4|_ [**+4**]
-     -
+     - |5.dz2.1|_ |5.dz2.2-5|_
+     - |5.dz3|_
      -
      -
      -
@@ -512,6 +513,11 @@
 .. |4.dz2.5| replace:: 5
 .. _4.dz2.5: https://gist.github.com/SckottJackson/4cf096691effe8be55054e39aba6254c
 
+.. |5.dz2.1| replace:: 1
+.. _5.dz2.1: https://github.com/Ouroborochi/HomeWork1
+.. |5.dz2.2-5| replace:: 2-5
+.. _5.dz2.2-5: https://gist.github.com/Ouroborochi/44091c544d3f330b6751336ef64fcd98
+
 .. |6.dz2.1| replace:: 1
 .. _6.dz2.1: https://github.com/EsaulkovNikolay/web-programming
 .. |6.dz2.2-5| replace:: 2-5
@@ -579,6 +585,9 @@
 
 .. |4.dz3| replace:: 1
 .. _4.dz3: https://github.com/SckottJackson/Web-programming-first-homework/blob/master/WSGI.py
+
+.. |5.dz3| replace:: 1
+.. _5.dz3: https://github.com/Ouroborochi/HomeWork1
 
 .. |6.dz3| replace:: 1
 .. _6.dz3: https://github.com/EsaulkovNikolay/web-programming
