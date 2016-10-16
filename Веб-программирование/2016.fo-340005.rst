@@ -407,6 +407,7 @@
      -
    * - 23
      - Шимановская Каролина
+     - ShimanovskayaK
      - |23.dz1.1|_ |23.dz1.2-4|_
      - |23.dz2.1-5|_ 
      - |23.dz3.1|_ 
@@ -485,6 +486,7 @@
 .. _Farakhutdinova:     https://github.com/Farakhutdinova
 .. _Azdum:              https://github.com/Azdum
 .. _AlekseiKrivo:       https://github.com/AlekseiKrivo
+.. _ShimanovskayaK:     https://github.com/ShimanovskayaK
 
 .. Домашняя работа #1
 
