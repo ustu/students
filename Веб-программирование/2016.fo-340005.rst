@@ -631,7 +631,7 @@
 .. _22.dz3: https://github.com/shilak96/myproject
 
 .. |23.dz3.1| replace:: 1
-.. _23.dz3: https://github.com/ShimanovskayaK/MyProject
+.. _23.dz3.1: https://github.com/ShimanovskayaK/MyProject
 
 .. Домашняя работа #4
 
