@@ -626,9 +626,10 @@
 .. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
 
 .. Курсовая работа
-..|11.kr1| replace:: 1
-.._11.kr1: https://github.com/g196et/MUT
-..|16.kr1| replace:: 1
-.._16.kr1: https://github.com/g196et/MUT
-..|17.kr1| replace:: 1
-.._17.kr1: https://github.com/g196et/MUT
+
+.. |11.kr1| replace:: 1
+.. _11.kr1: https://github.com/g196et/MUT
+.. |16.kr1| replace:: 1
+.. _16.kr1: https://github.com/g196et/MUT
+.. |17.kr1| replace:: 1
+.. _17.kr1: https://github.com/g196et/MUT
