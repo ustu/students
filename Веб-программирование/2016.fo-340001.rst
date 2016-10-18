@@ -154,7 +154,7 @@
      - zaitov-pavel_
      - |7.dz1.1|_ |7.dz1.2-4|_ [**+3**]
      - |7.dz2.1|_ |7.dz2.2-5|_ [**+4**]
-     -
+     - |7.dz3.1|_ |7.dz3.2|_ [**+5**]
      -
      -
      -
@@ -582,6 +582,11 @@
 
 .. |6.dz3| replace:: 1
 .. _6.dz3: https://github.com/EsaulkovNikolay/web-programming
+
+.. |7.dz3.1| replace:: 1
+.. _7.dz3.1: https://github.com/zaitov-pavel/webProgramming/blob/master/WSGI%20server.py
+.. |7.dz3.2| replace:: dz
+.. _7.dz3.2: https://github.com/zaitov-pavel/webProgramming/tree/master/lectures_wsgi_example-master
 
 .. |8.dz3| replace:: 1
 .. _8.dz3: https://gist.github.com/hallsands/814782cdbb31e6cef422868d9b9eac89
