@@ -234,7 +234,7 @@
      - MalyshevaAlena_
      - |12.dz1.1|_ |12.dz1.2-4|_ [**+4**]
      - |12.dz2.1|_ |12.dz2.2-5|_ [**+4**]
-     -
+     - |12.dz3|_ [**+5**]
      -
      -
      -
@@ -588,6 +588,9 @@
 
 .. |11.dz3| replace:: 1
 .. _11.dz3: https://github.com/g196et/WebProg/tree/master/WSGI%2BMiddleware
+
+.. |12.dz3| replace:: 1
+.. _12.dz3: https://github.com/MalyshevaAlena/webProgramming/blob/master/DZ3.py
 
 .. |13.dz3| replace:: 1
 .. _13.dz3: https://github.com/ragozin-n/web-programming-homework/tree/master/wsgi-task
