@@ -550,7 +550,7 @@
 
 .. Домашняя работа #4
 
-.. |1.dz4.1| repace:: 1
+.. |1.dz4.1| replace:: 1
 .. _1.dz4.1: https://github.com/Ducage/webhw
 .. |1.dz4.2-4| replace:: 2-4
 .. _1.dz4.2-4: https://gist.github.com/Ducage/354f88eefe8e6b82fe971b83505fb224
