@@ -123,7 +123,7 @@
      - |5.dz1.1|_ |5.dz1.2-4|_ [**+4**]
      - |5.dz2.1|_ |5.dz2.2|_ |5.dz2.3|_ |5.dz2.5|_ [**+3**]
      - |5.dz3.1|_ [**+5**]
-     -
+     - |5.kr1.1|_
      -
      -
      -
@@ -234,7 +234,7 @@
      - Lixa141_
      - |12.dz1.1|_ |12.dz1.2|_ |12.dz1.3|_ |12.dz1.4|_ [**+5**]
      - |12.dz2.1|_ |12.dz2.2|_ |12.dz2.3|_ |12.dz2.5|_ [**+5**]
-     -
+     - |12.kr1.1|_
      -
      -
      -
@@ -251,7 +251,7 @@
      - |13.dz1.1|_ |13.dz1.2-4|_ [**+3**]
      - |13.dz2.1|_ |13.dz2.2-5|_ [**3**]
      - |13.dz3.1|_ [**4**]
-     -
+     - |13.kr1.1|_
      -
      -
      -
@@ -553,3 +553,9 @@
 .. Домашняя работа #5
 
 .. Курсовая работа
+.. |5.kr1.1| replace:: к/р #1
+.. _5.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
+.. |12.kr1.1| replace:: к/р #1
+.. _12.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
+.. |13.kr1.1| replace:: к/р #1
+.. _13.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
