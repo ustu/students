@@ -126,7 +126,7 @@
      -
      -
      -
-     -
+     -|5.kr1|_ [**+5**]
      -
      -
      -
@@ -633,3 +633,5 @@
 
 .. |14.kr1| replace:: 1
 .. _14.kr1: https://github.com/Ovchinnickova2016/Coursework
+.. |5.kr1| replace:: 1
+.. _5.kr1: https://github.com/Hasuni/Kursovaya-Rabota
