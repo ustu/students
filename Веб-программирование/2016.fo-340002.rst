@@ -59,7 +59,7 @@
      - |1.dz1.1|_ |1.dz1.2-4|_ [**+5**]
      - |1.dz2.1|_ |1.dz2.2|_ |1.dz2.3|_ |1.dz2.4|_ [**+5**]
      - |1.dz3.1|_ [**+5**]
-     -
+     - |1.dz4.1|_ |1.dz4.2-4|_ |1.dz4.5|_
      -
      -
      -
@@ -549,6 +549,13 @@
 .. _15.dz3.1: https://gist.github.com/veyroter/b4099eb9c96004995a635d624ab3051c
 
 .. Домашняя работа #4
+
+.. |1.dz4.1| repace:: 1
+.. _1.dz4.1: https://github.com/Ducage/webhw
+.. |1.dz4.2-4| replace:: 2-4
+.. _1.dz4.2-4: https://gist.github.com/Ducage/354f88eefe8e6b82fe971b83505fb224
+.. |1.dz4.5| replace:: 5
+.. _1.dz4.5: https://gist.github.com/Ducage/52b0782141f7d2a09743c361980ef4fb
 
 .. Домашняя работа #5
 
