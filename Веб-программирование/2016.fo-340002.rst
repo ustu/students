@@ -60,7 +60,7 @@
      - |1.dz2.1|_ |1.dz2.2|_ |1.dz2.3|_ |1.dz2.4|_ [**+5**]
      - |1.dz3.1|_ [**+5**]
      - |1.dz4.1|_ |1.dz4.2-4|_ |1.dz4.5|_ [**+5**]
-     -
+     - |1.dz5.1|_
      -
      -
      -
@@ -558,6 +558,9 @@
 .. _1.dz4.5: https://gist.github.com/Ducage/52b0782141f7d2a09743c361980ef4fb
 
 .. Домашняя работа #5
+
+.. |1.dz5.1| replace:: 1
+.. _1.dz5.1: https://github.com/Ducage/webhw/blob/master/pyramid.py
 
 .. Курсовая работа
 .. |7.kr1| replace:: к/р #1
