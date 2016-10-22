@@ -587,3 +587,6 @@
 .. Домашняя работа #5
 
 .. Курсовая работа
+
+.. |6.kr1| replace:: 1
+.. _6.kr1: https://github.com/EsaulkovNikolay/StickersArt
