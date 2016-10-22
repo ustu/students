@@ -560,3 +560,5 @@
 .. Домашняя работа #5
 
 .. Курсовая работа
+.. |7.kr1| replace:: к/р #1
+.. _7.kr1 :https://github.com/Lydmilamihaleva/Cosmetics
