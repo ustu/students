@@ -333,7 +333,7 @@
      - |18.dz3.1|_ [**+4**]
      -
      -
-     -
+     - |18.kr1|_ [**+5**]
      -
      -
      -
@@ -632,4 +632,7 @@
 .. Курсовая работа
 
 .. |14.kr1| replace:: 1
-.. _14.kr1: https://github.com/Ovchinnickova2016/Coursework
+.. _14.kr1: https://github.com/artofmind/coursework/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F(WEB).docx
+
+.. |18.kr1| replace:: к/р #1
+.. _18.kr1: https://github.com/artofmind/coursework/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F(WEB).docx
