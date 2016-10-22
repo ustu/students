@@ -221,7 +221,7 @@
      - |11.dz3|_ |11.dz3|_ [**+5**]
      -
      -
-     -
+     - |11.kr1|_ []
      -
      -
      -
@@ -301,7 +301,7 @@
      - |16.dz3|_ [**+5**]
      -
      -
-     -
+     - |16.kr1|_ []
      -
      -
      -
@@ -317,7 +317,7 @@
      - |17.dz3|_ [**+5**]
      -
      -
-     -
+     - |17.kr1|_ []
      -
      -
      -
@@ -642,3 +642,10 @@
 .. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
 
 .. Курсовая работа
+
+.. |11.kr1| replace:: 1
+.. _11.kr1: https://github.com/g196et/MUT
+.. |16.kr1| replace:: 1
+.. _16.kr1: https://github.com/g196et/MUT
+.. |17.kr1| replace:: 1
+.. _17.kr1: https://github.com/g196et/MUT
