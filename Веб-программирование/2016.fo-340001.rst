@@ -254,7 +254,7 @@
      - |13.dz4.1|_ |13.dz4.2-4|_ |13.dz4.5|_ [**+5**]
      - |13.dz5|_ [**+5**]
      -
-     -
+     - |13.kr1|_ [**+5**]
      -
      -
      -
@@ -642,3 +642,6 @@
 .. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
 
 .. Курсовая работа
+
+.. |13.kr1| replace:: #1
+.. _13.kr1: https://github.com/ragozin-n/mytasks-pwa/tree/master
