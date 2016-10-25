@@ -62,7 +62,7 @@
      - |1.dz4.1|_ |1.dz4.2-4|_ |1.dz4.5|_ [**+5**]
      - |1.dz5.1|_ [**+5**]
      -
-     -
+     - |1.kr1|_
      -
      -
      -
@@ -94,7 +94,7 @@
      -
      -
      -
-     -
+     - |1.kr1|_
      -
      -
      -
@@ -157,8 +157,8 @@
      - |7.dz3.1|_ [**+5**]
      -
      -
+     - 
      - |7.kr1|_ [**+5**]
-     -
      -
      -
      -
@@ -563,5 +563,10 @@
 .. _1.dz5.1: https://github.com/Ducage/webhw/blob/master/pyramid.py
 
 .. Курсовая работа
+
+.. |1.kr1| replace:: к/р #1
+.. _1.kr1: https://github.com/Lydmilamihaleva/Cosmetics
+.. |3.kr1| replace:: к/р #1
+.. _3.kr1: https://github.com/Lydmilamihaleva/Cosmetics
 .. |7.kr1| replace:: к/р #1
 .. _7.kr1: https://github.com/Lydmilamihaleva/Cosmetics
