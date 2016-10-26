@@ -139,8 +139,8 @@
      - |6.dz1.1|_ |6.dz1.2|_ |6.dz1.3|_ |6.dz1.4|_ [**+5**]
      - |6.dz2.1|_ |6.dz2.2.1|_ |6.dz2.2.2|_ |6.dz2.3.1|_ |6.dz2.3.2|_ |6.dz2.5|_ [**+5**]
      - |6.dz3.1|_ [**+5**]
-     -
-     -
+     - 
+     - |6.dz5.1|_
      -
      -
      -
@@ -561,6 +561,9 @@
 
 .. |1.dz5.1| replace:: 1
 .. _1.dz5.1: https://github.com/Ducage/webhw/blob/master/pyramid.py
+
+.. |6.dz5.1| replace:: 1
+.. _6.dz5.1: https://github.com/evgenymarkov/web_homework5
 
 .. Курсовая работа
 .. |7.kr1| replace:: к/р #1
