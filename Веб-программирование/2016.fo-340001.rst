@@ -638,6 +638,13 @@
 .. |11.dz4.5| replace:: 5
 .. _11.dz4.5: https://gist.github.com/g196et/b0ca123534591f876afab8a922f233e4
 
+.. |17.dz4.1| replace:: 1
+.. _17.dz4: https://github.com/MaxUsov/web_programming
+.. |17.dz4.2-4| replace:: 2-4
+.. _17.dz4.2-4: https://gist.github.com/MaxUsov/b0cf3973b5c57e60966798151b0330c2
+.. |17.dz4.5| replace:: 5
+.. _17.dz4.5: https://gist.github.com/MaxUsov/6059ac28f2b039b9914bb6a083f62cdf
+
 .. |19.dz4.1-4| replace:: 1-4
 .. _19.dz4.1-4: https://github.com/kolalola/WebH4
 .. |19.dz4.5| replace:: 5
