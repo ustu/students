@@ -139,7 +139,7 @@
      - |6.dz1.1|_ |6.dz1.2|_ |6.dz1.3|_ |6.dz1.4|_ [**+5**]
      - |6.dz2.1|_ |6.dz2.2.1|_ |6.dz2.2.2|_ |6.dz2.3.1|_ |6.dz2.3.2|_ |6.dz2.5|_ [**+5**]
      - |6.dz3.1|_ [**+5**]
-     -
+     - |6.dz4.1|_ |6.dz4.2-4|_ |6.dz4.5|_
      -
      -
      -
@@ -556,6 +556,13 @@
 .. _1.dz4.2-4: https://gist.github.com/Ducage/354f88eefe8e6b82fe971b83505fb224
 .. |1.dz4.5| replace:: 5
 .. _1.dz4.5: https://gist.github.com/Ducage/52b0782141f7d2a09743c361980ef4fb
+
+.. |6.dz4.1| replace:: 1
+.. _6.dz4.1: https://github.com/evgenymarkov/web_homework4
+.. |6.dz4.2-4| replace:: 2-4
+.. _6.dz4.2-4: https://gist.github.com/evgenymarkov/de7f0d4c8e223748ff70abfbdbeeacf2
+.. |6.dz4.5| replace:: 5
+.. _6.dz4.5: https://gist.github.com/evgenymarkov/2291ca470a5d6a04c34f3494c59ca42d
 
 .. Домашняя работа #5
 
