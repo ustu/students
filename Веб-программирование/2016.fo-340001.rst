@@ -219,10 +219,10 @@
      - |11.dz1.1|_ |11.dz1.2-4|_ [**+5**]
      - |11.dz2.1|_ |11.dz2.2-5|_ [**+5**]
      - |11.dz3|_ |11.dz3|_ [**+5**]
+     - |11.dz4.1|_ |11.dz4.2-4|_ |11.dz4.5|_ [**+5**]
      -
      -
-     -
-     -
+     - |11.kr1|_ [**+5**]
      -
      -
      -
@@ -302,7 +302,7 @@
      -
      -
      -
-     -
+     - |16.kr1|_ [**5**]
      -
      -
      -
@@ -318,7 +318,7 @@
      -
      -
      -
-     -
+     - |17.kr1|_ [**+5**]
      -
      -
      -
@@ -631,6 +631,13 @@
 .. |13.dz4.5| replace:: 5
 .. _13.dz4.5: https://gist.github.com/ragozin-n/9b172e40b7e6da417d06a4642ce68c04
 
+.. |11.dz4.1| replace:: 1
+.. _11.dz4.1: https://github.com/g196et/WebProg/tree/master/WebTask
+.. |11.dz4.2-4| replace:: 2-4
+.. _11.dz4.2-4: https://gist.github.com/g196et/b2d28c0e879090008e1194407be8db2c
+.. |11.dz4.5| replace:: 5
+.. _11.dz4.5: https://gist.github.com/g196et/b0ca123534591f876afab8a922f233e4
+
 .. |19.dz4.1-4| replace:: 1-4
 .. _19.dz4.1-4: https://github.com/kolalola/WebH4
 .. |19.dz4.5| replace:: 5
@@ -643,5 +650,14 @@
 
 .. Курсовая работа
 
+.. |11.kr1| replace:: MUT
+.. _11.kr1: https://github.com/g196et/MUT
+
 .. |13.kr1| replace:: #1
 .. _13.kr1: https://github.com/ragozin-n/mytasks-pwa/tree/master
+
+.. |16.kr1| replace:: MUT
+.. _16.kr1: https://github.com/g196et/MUT
+
+.. |17.kr1| replace:: MUT
+.. _17.kr1: https://github.com/g196et/MUT
