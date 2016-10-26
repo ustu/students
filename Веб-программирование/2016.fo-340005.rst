@@ -407,10 +407,10 @@
      -
    * - 23
      - Шимановская Каролина
-     -
-     -
-     -
-     -
+     - ShimanovskayaK_
+     - |23.dz1.1|_ |23.dz1.2-4|_
+     - |23.dz2.1-5|_ 
+     - |23.dz3.1|_ 
      -
      -
      -
@@ -485,6 +485,7 @@
 .. _Farakhutdinova:     https://github.com/Farakhutdinova
 .. _Azdum:              https://github.com/Azdum
 .. _AlekseiKrivo:       https://github.com/AlekseiKrivo
+.. _ShimanovskayaK:     https://github.com/ShimanovskayaK
 
 .. Домашняя работа #1
 
@@ -553,6 +554,12 @@
 .. |22.dz1.2-4| replace:: 2-4
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
 
+.. |23.dz1.1| replace:: 1
+.. _23.dz1.1: https://github.com/ShimanovskayaK/MyProject
+.. |23.dz1.2-4| replace:: 2-4
+.. _23.dz1.2-4: https://gist.github.com/ShimanovskayaK/402acf38083d9ea6d87bd9695dbc33d1
+
+
 .. Домашняя работа #2
 
 .. |1.dz2.1| replace:: 1
@@ -596,6 +603,10 @@
 .. |22.dz2.2-5| replace:: 2-5
 .. _22.dz2.2-5: https://gist.github.com/shilak96/6c3ea7c81ab836512f96e35e4ea5c2d2
 
+.. |23.dz2.1-5| replace:: 1-5
+.. _23.dz2.1-5: https://gist.github.com/ShimanovskayaK/1018e7ba327e1897da5c9cfc55310efb
+
+
 .. Домашняя работа #3
 
 .. |1.dz3.1| replace:: 1
@@ -624,6 +635,9 @@
 
 .. |22.dz3| replace:: 1
 .. _22.dz3: https://github.com/shilak96/myproject
+
+.. |23.dz3.1| replace:: 1
+.. _23.dz3.1: https://github.com/ShimanovskayaK/MyProject
 
 .. Домашняя работа #4
 
