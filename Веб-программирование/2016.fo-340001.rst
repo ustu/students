@@ -140,7 +140,7 @@
      - |6.dz2.1|_ |6.dz2.2-5|_ [**+5**]
      - |6.dz3|_ [**+5**]
      - |6.dz4.1|_ |6.dz4.2-4|_ |6.dz4.5|_ [**5**]
-     -
+     - |6.dz5|_
      -
      -
      -
@@ -654,6 +654,9 @@
 
 .. |13.dz5| replace:: 1
 .. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
+
+.. |6.dz5| replace:: 1
+.. _6.dz5: https://github.com/EsaulkovNikolay/web-programming/
 
 .. Курсовая работа
 
