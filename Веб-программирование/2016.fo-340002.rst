@@ -171,7 +171,7 @@
      - |8.dz1.1|_ |8.dz1.2-4|_ [**+5**]
      - |8.dz2.1|_ |8.dz2.2-5|_ [**+5**]
      - |8.dz3.1|_ [**+5**]
-     -
+     - |8.dz4.1|_ |8.dz4.2-5|_
      -
      -
      -
@@ -556,6 +556,11 @@
 .. _1.dz4.2-4: https://gist.github.com/Ducage/354f88eefe8e6b82fe971b83505fb224
 .. |1.dz4.5| replace:: 5
 .. _1.dz4.5: https://gist.github.com/Ducage/52b0782141f7d2a09743c361980ef4fb
+
+.. |8.dz4.1| replace:: 1
+.. _8.dz4.1: https://github.com/WhileTrueDoSex/WebHomeWork/tree/master/WebTask-4
+.. |8.dz4.2-5| replace:: 2-5
+.. _8.dz4.2-5: https://gist.github.com/WhileTrueDoSex
 
 .. Домашняя работа #5
 
