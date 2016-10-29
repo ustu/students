@@ -251,7 +251,7 @@
      - |13.dz1.1|_ |13.dz1.2-4|_ [**+3**]
      - |13.dz2.1|_ |13.dz2.2-5|_ [**3**]
      - |13.dz3.1|_ [**4**]
-     -
+     - |13.dz4.1|_ |13.dz4.2-4|_ |13.dz4.5|_  
      -
      -
      -
@@ -556,6 +556,14 @@
 .. _1.dz4.2-4: https://gist.github.com/Ducage/354f88eefe8e6b82fe971b83505fb224
 .. |1.dz4.5| replace:: 5
 .. _1.dz4.5: https://gist.github.com/Ducage/52b0782141f7d2a09743c361980ef4fb
+
+.. |13.dz4.1| replace:: 1
+.. _13.dz4.1: https://github.com/zasycha/myproject
+.. |13.dz4.2-4| replace:: 2-4
+.. _13.dz4.2: https://gist.github.com/zasycha/a36691c98cd782ea4195ceb99f80a830
+.. |13.dz4.5| replace:: 5
+.. _13.dz4.5: https://gist.github.com/zasycha/dad1b2b9860908561951abe48750b806
+
 
 .. Домашняя работа #5
 
