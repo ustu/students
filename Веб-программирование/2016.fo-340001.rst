@@ -299,7 +299,7 @@
      - |16.dz1.1|_ |16.dz1.2-4|_ [**+5**]
      - |16.dz2.1|_ |16.dz2.2,3,5|_ [**+4**]
      - |16.dz3|_ [**+5**]
-     -
+     - |16.dz4.1|_ |15.dz4.2-4|_ |15.dz4.5|_ [****]
      -
      -
      - |16.kr1|_ [**5**]
@@ -665,6 +665,13 @@
 .. _15.dz4.2-4.2: https://gist.github.com/vebster123/f58632c6bd09a9ebaa68c639b20884a1
 .. |15.dz4.5| replace:: 5
 .. _15.dz4.5: https://gist.github.com/vebster123/bedc1aa7e004fd7856946fddc077affa
+
+.. |16.dz4.1| replace:: 1
+.. _16.dz4.1: https://github.com/StXaver/myproject/tree/master
+.. |16.dz4.2-4| replace:: 2-4
+.. _16.dz4.2-4: https://gist.github.com/StXaver/e3d368379496ce34b2b76300b5899db0
+.. |16.dz4.5| replace:: 5
+.. _16.dz4.5: https://gist.github.com/StXaver/aa1c16040ebf4abb16ee4cadd12387dd
 
 .. Домашняя работа #5
 
