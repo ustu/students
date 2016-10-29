@@ -570,6 +570,14 @@
 .. |6.dz4.5| replace:: 5
 .. _6.dz4.5: https://gist.github.com/evgenymarkov/2291ca470a5d6a04c34f3494c59ca42d
 
+
+.. |7.dz4.1| replace:: 1
+.. _7.dz4.1: https://github.com/Lydmilamihaleva/myproject
+.. |7.dz4.2-4| replace:: 2-4
+.. _7.dz4.2-4: https://gist.github.com/Lydmilamihaleva/ee36ab0314e57fe8a77d1847f3cb8dcd
+.. |7.dz4.5| replace:: 5
+.. _7.dz4.5: https://gist.github.com/Lydmilamihaleva/a208258ab82bb05280211846232b49b2
+
 .. Домашняя работа #5
 
 .. |1.dz5.1| replace:: 1
