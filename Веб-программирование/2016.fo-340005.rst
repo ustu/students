@@ -413,7 +413,7 @@
      -
      -
      -
-     -
+     - |23.kr1|_
      -
      -
      -
@@ -641,3 +641,6 @@
 
 .. |18.kr1| replace:: к/р #1
 .. _18.kr1: https://github.com/artofmind/coursework/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F(WEB).docx
+
+.. |23.kr1| replace:: к/р #1
+.. _23.kr1: https://github.com/ShimanovskayaK/Kursovaya  
