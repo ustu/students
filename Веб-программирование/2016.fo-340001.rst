@@ -91,7 +91,7 @@
      - |3.dz1.1|_ |3.dz1.2-4|_ [**+5**]
      - |3.dz2.1|_ |3.dz2.2-5|_ [**+5**]
      - |3.dz3|_ [**+5**]
-     -
+     - |3.dz4.1|_ |3.dz4.2-4|_ |3.dz4.5|_ 
      -
      -
      -
@@ -139,7 +139,7 @@
      - |6.dz1.1|_ |6.dz1.2-4|_ [**+5**]
      - |6.dz2.1|_ |6.dz2.2-5|_ [**+5**]
      - |6.dz3|_ [**+5**]
-     - |6.dz4.1|_ |6.dz4.2-4|_ |6.dz4.5|_ [**5**]
+     - |6.dz4.1|_ |6.dz4.2-4|_ |6.dz4.5|_ 
      -
      -
      -
@@ -624,6 +624,14 @@
 .. _19.dz3: https://github.com/kolalola/WebHomework1/tree/master/WSGI
 
 .. Домашняя работа #4
+   
+.. |3.dz4.1| replace:: 1
+.. _3.dz4.1: https://github.com/BallOfDestruction/Task-For-Web
+.. |3.dz4.2-4| replace:: 2-4
+.. _3.dz4.2-4: https://gist.github.com/BallOfDestruction/acf931bd85195a6d97e6c27ac893bfb2
+.. |3.dz4.5| replace:: 5
+.. _3.dz4.5: h
+
 .. |13.dz4.1| replace:: 1
 .. _13.dz4.1: https://github.com/ragozin-n/web-programming-homework/tree/master/jinja-2-task
 .. |13.dz4.2-4| replace:: 2-4
