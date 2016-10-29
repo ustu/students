@@ -315,7 +315,7 @@
      - |17.dz1.1|_ |17.dz1.2-4|_ [**+5**]
      - |17.dz2.1|_ |17.dz2.2-5|_ [**+5**]
      - |17.dz3|_ [**+5**]
-     -
+     - |17.dz4.1|_ |17.dz4.2-4|_ |17.dz4.5|_
      -
      -
      - |17.kr1|_ [**+5**]
@@ -637,6 +637,13 @@
 .. _11.dz4.2-4: https://gist.github.com/g196et/b2d28c0e879090008e1194407be8db2c
 .. |11.dz4.5| replace:: 5
 .. _11.dz4.5: https://gist.github.com/g196et/b0ca123534591f876afab8a922f233e4
+
+.. |17.dz4.1| replace:: 1
+.. _17.dz4.1: https://github.com/MaxUsov/web_programming
+.. |17.dz4.2-4| replace:: 2-4
+.. _17.dz4.2-4: https://gist.github.com/MaxUsov/b0cf3973b5c57e60966798151b0330c2
+.. |17.dz4.5| replace:: 5
+.. _17.dz4.5: https://gist.github.com/MaxUsov/6059ac28f2b039b9914bb6a083f62cdf
 
 .. |19.dz4.1-4| replace:: 1-4
 .. _19.dz4.1-4: https://github.com/kolalola/WebH4
