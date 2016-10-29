@@ -560,7 +560,7 @@
 .. |5.dz4.5| replace:: 5
 .. _5.dz4.5: https://gist.github.com/mMatvey/dbbc2de2c48af1b2a33ea7bdc9576e9e
 .. Домашняя работа #5
-.. |5.dz5.5| replace:: 1
+.. |5.dz5.1| replace:: 1
 .. _5.dz5.1: https://github.com/mMatvey/myProject/blob/master/pyramid/app.py
 
 .. Курсовая работа
