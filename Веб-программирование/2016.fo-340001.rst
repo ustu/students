@@ -142,7 +142,7 @@
      - |6.dz4.1|_ |6.dz4.2-4|_ |6.dz4.5|_ [**5**]
      - |6.dz5|_
      -
-     - |6.kr1|_ [****]
+     - |6.kr1|_
      -
      -
      -
@@ -660,7 +660,7 @@
 
 .. Курсовая работа
 
-.. |6.kr1| replace:: MUT
+.. |6.kr1| replace:: 1
 .. _6.kr1: https://github.com/EsaulkovNikolay/StickersArt
 
 .. |11.kr1| replace:: MUT
