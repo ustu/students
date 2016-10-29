@@ -485,6 +485,8 @@
 .. _Farakhutdinova:     https://github.com/Farakhutdinova
 .. _Azdum:              https://github.com/Azdum
 .. _AlekseiKrivo:       https://github.com/AlekseiKrivo
+.. _vdoner:             https://github.com/vdoner
+.. _Nezhdanchiik:       https://github.com/Nezhdanchiik
 
 .. Домашняя работа #1
 
