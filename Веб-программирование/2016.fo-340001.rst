@@ -675,3 +675,9 @@
 
 .. |17.kr1| replace:: MUT
 .. _17.kr1: https://github.com/g196et/MUT
+
+.. |8.kr1| replace:: ide1
+.. _8.kr1: https://github.com/hallsands/qoorsuchue-web
+
+.. |9.kr1| replace:: ide1
+.. _9.kr1: https://github.com/hallsands/qoorsuchue-web
