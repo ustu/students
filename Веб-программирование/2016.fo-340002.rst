@@ -124,7 +124,7 @@
      - |5.dz2.1|_ |5.dz2.2|_ |5.dz2.3|_ |5.dz2.5|_ [**+3**]
      - |5.dz3.1|_ [**+5**]
      - |5.dz4.1|_ |5.dz4.2|_ |5.dz4.3|_ |5.dz4.4|_ |5.dz4.5|_
-     -
+     - |5.dz5.1|_ 
      -
      - |5.kr1.1|_
      -
@@ -560,6 +560,8 @@
 .. |5.dz4.5| replace:: 5
 .. _5.dz4.5: https://gist.github.com/mMatvey/dbbc2de2c48af1b2a33ea7bdc9576e9e
 .. Домашняя работа #5
+.. |5.dz5.5| replace:: 1
+.. _5.dz5.1: https://github.com/mMatvey/myProject/blob/master/pyramid/app.py
 
 .. Курсовая работа
 .. |5.kr1.1| replace:: к/р #1
@@ -568,3 +570,4 @@
 .. _12.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
 .. |13.kr1.1| replace:: к/р #1
 .. _13.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
+
