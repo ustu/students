@@ -283,7 +283,7 @@
      - |15.dz1.1|_ |15.dz1.2-4|_ [**+5**]
      - |15.dz2.1|_ |15.dz2.2-5|_ [**+5**]
      - |15.dz3|_ [**+5**]
-     -
+     - |15.dz4.1|_ |15.dz4.2-4.1|_ |15.dz4.2-4.2|_ |15.dz4.5|_ [**+5**]
      -
      -
      -
@@ -649,6 +649,15 @@
 .. _6.dz4.2-4: https://gist.github.com/EsaulkovNikolay/6a443f7dedaf8aef90ded2ef2954a789
 .. |6.dz4.5| replace:: 5
 .. _6.dz4.5: https://gist.github.com/EsaulkovNikolay/2fd2eff446c2277c1d961599ecac9aa7
+
+.. |15.dz4.1| replace:: 1
+.. _15.dz4.1: https://github.com/vebster123/web-hw4
+.. |15.dz4.2-4.1| replace:: 2-4.1
+.. _15.dz4.2-4.1: https://github.com/vebster123/web-hw4/blob/master/request.py
+.. |15.dz4.2-4.2| replace:: 2-4.2
+.. _15.dz4.2-4.2: https://gist.github.com/vebster123/f58632c6bd09a9ebaa68c639b20884a1
+.. |15.dz4.5| replace:: 5
+.. _15.dz4.5: https://gist.github.com/vebster123/bedc1aa7e004fd7856946fddc077affa
 
 .. Домашняя работа #5
 
