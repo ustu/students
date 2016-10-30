@@ -220,7 +220,7 @@
      - |11.dz2.1|_ |11.dz2.2-5|_ [**+5**]
      - |11.dz3|_ |11.dz3|_ [**+5**]
      - |11.dz4.1|_ |11.dz4.2-4|_ |11.dz4.5|_ [**+5**]
-     -
+     - |11.dz5.1|_ [**+5**]
      -
      - |11.kr1|_ [**+5**]
      -
@@ -667,6 +667,9 @@
 .. _15.dz4.5: https://gist.github.com/vebster123/bedc1aa7e004fd7856946fddc077affa
 
 .. Домашняя работа #5
+
+.. |11.dz5.1| replace:: 1
+.. _11.dz5.1: https://github.com/g196et/WebProg/tree/master/PyramidTask
 
 .. |13.dz5| replace:: 1
 .. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
