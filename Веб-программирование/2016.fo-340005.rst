@@ -555,12 +555,12 @@
 .. |22.dz1.2-4| replace:: 2-4
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
 
-.. |23.dz2.1| replace:: 1
-.. _23.dz2.1: https://github.com/ShimanovskayaK/MyProject
-.. |23.dz2.2-3| replace:: 2-3
-.. _23.dz2.2-3: https://gist.github.com/ShimanovskayaK/d2ed9b52117b216568599ef8b7950dc4
-.. |23.dz2.4| replace:: 4
-.. _23.dz2.4: https://gist.github.com/ShimanovskayaK/2c15739dbec61ca535f9d9db6182c164
+.. |23.dz1.1| replace:: 1
+.. _23.dz1.1: https://github.com/ShimanovskayaK/MyProject
+.. |23.dz1.2-3| replace:: 2-3
+.. _23.dz1.2-3: https://gist.github.com/ShimanovskayaK/d2ed9b52117b216568599ef8b7950dc4
+.. |23.dz1.4| replace:: 4
+.. _23.dz1.4: https://gist.github.com/ShimanovskayaK/2c15739dbec61ca535f9d9db6182c164
 
 .. Домашняя работа #2
 
