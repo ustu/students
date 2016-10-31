@@ -171,10 +171,10 @@
      - |8.dz1.1|_ |8.dz1.2-4|_ [**+5**]
      - |8.dz2.1-5|_ [**+5**]
      - |8.dz3|_ [**+5**]
+     - |8.dz4.1|_ |8.dz4.2-4|_ |8.dz4.5|_ [**+5**]
      -
      -
-     -
-     -
+     - |8.kr1|_ [**+5**]
      -
      -
      -
@@ -190,7 +190,7 @@
      -
      -
      -
-     -
+     - |9.kr1|_ [**+5**]
      -
      -
      -
@@ -624,12 +624,20 @@
 .. _19.dz3: https://github.com/kolalola/WebHomework1/tree/master/WSGI
 
 .. Домашняя работа #4
-.. |13.dz4.1| replace:: 1
-.. _13.dz4.1: https://github.com/ragozin-n/web-programming-homework/tree/master/jinja-2-task
-.. |13.dz4.2-4| replace:: 2-4
-.. _13.dz4.2-4: https://gist.github.com/ragozin-n/0489441251e41bbd606aad56645eef46
-.. |13.dz4.5| replace:: 5
-.. _13.dz4.5: https://gist.github.com/ragozin-n/9b172e40b7e6da417d06a4642ce68c04
+
+.. |6.dz4.1| replace:: 1
+.. _6.dz4.1: https://github.com/EsaulkovNikolay/web-programming
+.. |6.dz4.2-4| replace:: 2-4
+.. _6.dz4.2-4: https://gist.github.com/EsaulkovNikolay/6a443f7dedaf8aef90ded2ef2954a789
+.. |6.dz4.5| replace:: 5
+.. _6.dz4.5: https://gist.github.com/EsaulkovNikolay/2fd2eff446c2277c1d961599ecac9aa7
+
+.. |8.dz4.1| replace:: 1
+.. _8.dz4.1: https://github.com/hallsands/web-homework
+.. |8.dz4.2-4| replace:: 2-4
+.. _8.dz4.2-4: https://gist.github.com/hallsands/05680913aaee78803302aaf7c7dec6bf
+.. |8.dz4.5| replace:: 5
+.. _8.dz4.5: https://gist.github.com/hallsands/dd8e91b01e95b2c35454ce2261167a4d
 
 .. |11.dz4.1| replace:: 1
 .. _11.dz4.1: https://github.com/g196et/WebProg/tree/master/WebTask
@@ -637,6 +645,22 @@
 .. _11.dz4.2-4: https://gist.github.com/g196et/b2d28c0e879090008e1194407be8db2c
 .. |11.dz4.5| replace:: 5
 .. _11.dz4.5: https://gist.github.com/g196et/b0ca123534591f876afab8a922f233e4
+
+.. |13.dz4.1| replace:: 1
+.. _13.dz4.1: https://github.com/ragozin-n/web-programming-homework/tree/master/jinja-2-task
+.. |13.dz4.2-4| replace:: 2-4
+.. _13.dz4.2-4: https://gist.github.com/ragozin-n/0489441251e41bbd606aad56645eef46
+.. |13.dz4.5| replace:: 5
+.. _13.dz4.5: https://gist.github.com/ragozin-n/9b172e40b7e6da417d06a4642ce68c04
+
+.. |15.dz4.1| replace:: 1
+.. _15.dz4.1: https://github.com/vebster123/web-hw4
+.. |15.dz4.2-4.1| replace:: 2-4.1
+.. _15.dz4.2-4.1: https://github.com/vebster123/web-hw4/blob/master/request.py
+.. |15.dz4.2-4.2| replace:: 2-4.2
+.. _15.dz4.2-4.2: https://gist.github.com/vebster123/f58632c6bd09a9ebaa68c639b20884a1
+.. |15.dz4.5| replace:: 5
+.. _15.dz4.5: https://gist.github.com/vebster123/bedc1aa7e004fd7856946fddc077affa
 
 .. |17.dz4.1| replace:: 1
 .. _17.dz4.1: https://github.com/MaxUsov/web_programming
@@ -650,28 +674,18 @@
 .. |19.dz4.5| replace:: 5
 .. _19.dz4.5: https://github.com/kolalola/sqlalchemy
 
-.. |6.dz4.1| replace:: 1
-.. _6.dz4.1: https://github.com/EsaulkovNikolay/web-programming
-.. |6.dz4.2-4| replace:: 2-4
-.. _6.dz4.2-4: https://gist.github.com/EsaulkovNikolay/6a443f7dedaf8aef90ded2ef2954a789
-.. |6.dz4.5| replace:: 5
-.. _6.dz4.5: https://gist.github.com/EsaulkovNikolay/2fd2eff446c2277c1d961599ecac9aa7
-
-.. |15.dz4.1| replace:: 1
-.. _15.dz4.1: https://github.com/vebster123/web-hw4
-.. |15.dz4.2-4.1| replace:: 2-4.1
-.. _15.dz4.2-4.1: https://github.com/vebster123/web-hw4/blob/master/request.py
-.. |15.dz4.2-4.2| replace:: 2-4.2
-.. _15.dz4.2-4.2: https://gist.github.com/vebster123/f58632c6bd09a9ebaa68c639b20884a1
-.. |15.dz4.5| replace:: 5
-.. _15.dz4.5: https://gist.github.com/vebster123/bedc1aa7e004fd7856946fddc077affa
-
 .. Домашняя работа #5
 
 .. |13.dz5| replace:: 1
 .. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
 
 .. Курсовая работа
+
+.. |8.kr1| replace:: ide1
+.. _8.kr1: https://github.com/hallsands/qoorsuchue-web
+
+.. |9.kr1| replace:: ide1
+.. _9.kr1: https://github.com/hallsands/qoorsuchue-web
 
 .. |11.kr1| replace:: MUT
 .. _11.kr1: https://github.com/g196et/MUT
