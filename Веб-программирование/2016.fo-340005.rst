@@ -315,6 +315,7 @@
      - |17.dz1.1|_ |17.dz1.2-4|_ [**+4**]
      - |17.dz2.1|_ |17.dz2.2-5|_ [**+5**]
      - |17.dz3|_ [**+5**]
+     - |17.dz4.1|_|17.dz4.2-4|_|17.dz4.5|_
      -
      -
      -
@@ -636,6 +637,13 @@
 .. _22.dz3: https://github.com/shilak96/myproject
 
 .. Домашняя работа #4
+
+.. |17.dz4.1| replace:: 1
+.. _17.dz4.1: https://github.com/Zixs/myproject
+.. |17.dz4.2-4| replace:: 2-4
+.. _17.dz4.2-4: https://gist.github.com/Zixs/f1c41decf050633da1893a8b5b63ffb2
+.. |17.dz4.5| replace:: 5
+.. _17.dz4.5: https://gist.github.com/Zixs/f4b29cafba233e2c66761a0039a1d31d
 
 .. Домашняя работа #5
 
