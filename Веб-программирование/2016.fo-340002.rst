@@ -110,7 +110,7 @@
      -
      -
      -
-     -
+     - |4.kr1|_ [**+5**]
      -
      -
      -
@@ -613,6 +613,9 @@
 .. _3.kr1: https://github.com/Lydmilamihaleva/Cosmetics
 .. |7.kr1| replace:: к/р #1
 .. _7.kr1: https://github.com/Lydmilamihaleva/Cosmetics
+
+.. |4.kr1| replace:: к/р #1
+.. _4.kr1: https://github.com/LuizaKolobova/VebProject
 
 .. |5.kr1.1| replace:: к/р #1
 .. _5.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
