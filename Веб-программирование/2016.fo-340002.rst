@@ -171,7 +171,7 @@
      - |8.dz1.1|_ |8.dz1.2-4|_ [**+5**]
      - |8.dz2.1|_ |8.dz2.2-5|_ [**+5**]
      - |8.dz3.1|_ [**+5**]
-     -
+     - |8.dz4.1|_ |8.dz4.2-5|_ [**+5**]
      -
      -
      -
@@ -575,12 +575,18 @@
 .. |6.dz4.5| replace:: 5
 .. _6.dz4.5: https://gist.github.com/evgenymarkov/2291ca470a5d6a04c34f3494c59ca42d
 
+.. |8.dz4.1| replace:: 1
+.. _8.dz4.1: https://github.com/WhileTrueDoSex/WebHomeWork/tree/master/WebTask-4
+.. |8.dz4.2-5| replace:: 2-5
+.. _8.dz4.2-5: https://gist.github.com/WhileTrueDoSex
+
 .. |10.dz4.1| replace:: 1
 .. _10.dz4.1: https://github.com/NickVernal/myproject/tree/master/hw_4
 .. |10.dz4.2| replace:: 2-4
 .. _10.dz4.2: https://gist.github.com/NickVernal/92b6d88f433f9ced22bc3e7fbd1e2d09
 .. |10.dz4.5| replace:: 5
 .. _10.dz4.5: https://gist.github.com/NickVernal/a6db526b9a4210098852bef5fadec93e
+
 
 .. Домашняя работа #5
 
@@ -597,18 +603,14 @@
 
 .. |1.kr1| replace:: к/р #1
 .. _1.kr1: https://github.com/Lydmilamihaleva/Cosmetics
-
 .. |3.kr1| replace:: к/р #1
 .. _3.kr1: https://github.com/Lydmilamihaleva/Cosmetics
-
 .. |7.kr1| replace:: к/р #1
 .. _7.kr1: https://github.com/Lydmilamihaleva/Cosmetics
 
 .. |5.kr1.1| replace:: к/р #1
 .. _5.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
-
 .. |12.kr1.1| replace:: к/р #1
 .. _12.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
-
 .. |13.kr1.1| replace:: к/р #1
 .. _13.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
