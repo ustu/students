@@ -123,10 +123,10 @@
      - |5.dz1.1|_ |5.dz1.2-4|_ [**+4**]
      - |5.dz2.1|_ |5.dz2.2|_ |5.dz2.3|_ |5.dz2.5|_ [**+3**]
      - |5.dz3.1|_ [**+5**]
+     - |5.dz4.1|_ |5.dz4.2|_ |5.dz4.3|_ |5.dz4.4|_ |5.dz4.5|_ [**+5**]
+     - |5.dz5.1|_ [**+5**]
      -
-     -
-     -
-     -
+     - |5.kr1.1|_ [**5**]
      -
      -
      -
@@ -238,7 +238,7 @@
      -
      -
      -
-     -
+     - |12.kr1.1|_ [**+5**]
      -
      -
      -
@@ -254,7 +254,7 @@
      -
      -
      -
-     -
+     - |13.kr1.1|_ [**+5**]
      -
      -
      -
@@ -549,12 +549,6 @@
 .. _15.dz3.1: https://gist.github.com/veyroter/b4099eb9c96004995a635d624ab3051c
 
 .. Домашняя работа #4
-.. |10.dz4.1| replace:: 1
-.. _10.dz4.1: https://github.com/NickVernal/myproject/tree/master/hw_4
-.. |10.dz4.2| replace:: 2-4
-.. _10.dz4.2: https://gist.github.com/NickVernal/92b6d88f433f9ced22bc3e7fbd1e2d09
-.. |10.dz4.5| replace:: 5
-.. _10.dz4.5: https://gist.github.com/NickVernal/a6db526b9a4210098852bef5fadec93e
 
 .. |1.dz4.1| replace:: 1
 .. _1.dz4.1: https://github.com/Ducage/webhw
@@ -563,6 +557,17 @@
 .. |1.dz4.5| replace:: 5
 .. _1.dz4.5: https://gist.github.com/Ducage/52b0782141f7d2a09743c361980ef4fb
 
+.. |5.dz4.1| replace:: 1
+.. _5.dz4.1: https://github.com/mMatvey/myProject
+.. |5.dz4.2| replace:: 2
+.. _5.dz4.2: https://gist.github.com/mMatvey/b8610471ce5a2eeda9d5c9f59ba60182
+.. |5.dz4.3| replace:: 3
+.. _5.dz4.3: https://gist.github.com/mMatvey/aeadff43f7a0126a55a55268b3f6d13c
+.. |5.dz4.4| replace:: 4
+.. _5.dz4.4: https://gist.github.com/mMatvey/548b085d87ebdb10495ca270ce67674e
+.. |5.dz4.5| replace:: 5
+.. _5.dz4.5: https://gist.github.com/mMatvey/dbbc2de2c48af1b2a33ea7bdc9576e9e
+
 .. |6.dz4.1| replace:: 1
 .. _6.dz4.1: https://github.com/evgenymarkov/web_homework4
 .. |6.dz4.2-4| replace:: 2-4
@@ -570,14 +575,34 @@
 .. |6.dz4.5| replace:: 5
 .. _6.dz4.5: https://gist.github.com/evgenymarkov/2291ca470a5d6a04c34f3494c59ca42d
 
+.. |10.dz4.1| replace:: 1
+.. _10.dz4.1: https://github.com/NickVernal/myproject/tree/master/hw_4
+.. |10.dz4.2| replace:: 2-4
+.. _10.dz4.2: https://gist.github.com/NickVernal/92b6d88f433f9ced22bc3e7fbd1e2d09
+.. |10.dz4.5| replace:: 5
+.. _10.dz4.5: https://gist.github.com/NickVernal/a6db526b9a4210098852bef5fadec93e
+
 .. Домашняя работа #5
 
 .. |1.dz5.1| replace:: 1
 .. _1.dz5.1: https://github.com/Ducage/webhw/blob/master/pyramid.py
 
+.. |5.dz5.1| replace:: 1
+.. _5.dz5.1: https://github.com/mMatvey/myProject/blob/master/pyramid/app.py
+
 .. |6.dz5.1| replace:: 1
 .. _6.dz5.1: https://github.com/evgenymarkov/web_homework5
 
 .. Курсовая работа
+
 .. |7.kr1| replace:: к/р #1
 .. _7.kr1: https://github.com/Lydmilamihaleva/Cosmetics
+
+.. |5.kr1.1| replace:: к/р #1
+.. _5.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
+
+.. |12.kr1.1| replace:: к/р #1
+.. _12.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
+
+.. |13.kr1.1| replace:: к/р #1
+.. _13.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
