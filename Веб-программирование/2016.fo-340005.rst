@@ -395,7 +395,7 @@
      - |22.dz1.1|_ |22.dz1.2-4|_ [**+4**]
      - |22.dz2.1|_ |22.dz2.2-5|_ [**+5**]
      - |22.dz3|_ [**+5**]
-     -
+     - |22.dz4.1|_ |22.dz4.2-4|_ |22.dz4.5|_
      -
      -
      -
@@ -644,6 +644,12 @@
 .. |17.dz4.5| replace:: 5
 .. _17.dz4.5: https://gist.github.com/Zixs/f4b29cafba233e2c66761a0039a1d31d
 
+.. |22.dz4.1| replace:: 1
+.. _22.dz4.1: https://github.com/shilak96/myproject
+.. |22.dz4.2-4| replace:: 2-4
+.. _22.dz4.2-4: https://gist.github.com/shilak96/fdac0ac67109dae0e456e03d04cab53c
+.. |22.dz4.5| replace:: 5
+.. _22.dz4.5: https://gist.github.com/shilak96/0f31400716935e998880f62a55a3915a
 .. Домашняя работа #5
 
 .. Курсовая работа
