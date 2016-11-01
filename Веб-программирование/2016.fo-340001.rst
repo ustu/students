@@ -348,7 +348,7 @@
      - |19.dz2.1|_ |19.dz2.2|_ |19.dz2.3|_ |19.dz2.5|_ [**+5**]
      - |19.dz3|_ [**+5**]
      - |19.dz4.1-4|_ |19.dz4.5|_ [**+5**]
-     -
+     - |19.dz5|_
      -
      -
      -
@@ -688,6 +688,9 @@
 
 .. |13.dz5| replace:: 1
 .. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
+
+.. |19.dz5| replace:: 1
+.. _19.dz5: https://github.com/kolalola/WebH4/blob/master/Pyramid.py
 
 .. Курсовая работа
 
