@@ -199,8 +199,8 @@
      -
    * - 10
      - Колесников Сергей
-     -
-     -
+     - Sergey16802_
+     - |10.dz1.1|_ |10.dz1.2-4|_ [**+0**]
      -
      -
      -
@@ -488,6 +488,7 @@
 .. _vdoner:             https://github.com/vdoner
 .. _Nezhdanchiik:       https://github.com/Nezhdanchiik
 .. _ShimanovskayaK:     https://github.com/ShimanovskayaK
+.. _Sergey16802:        https://github.com/Sergey16802
 
 .. Домашняя работа #1
 
@@ -510,6 +511,11 @@
 .. _6.dz1.1: https://github.com/yuuyuu04/yuuyuu.git
 .. |6.dz1.2-4| replace:: 2-4
 .. _6.dz1.2-4: https://gist.github.com/yuuyuu04/825b8cc4ea948ed2f5842bb22ddb6b6a
+
+.. |10.dz1.1| replace:: 1
+.. _10.dz1.1: https://github.com/Sergey16802/zadanie1/tree/master/myproject
+.. |10.dz1.2-4| replace:: 2-4
+.. _10.dz1.2-4: https://gist.github.com/Sergey16802/c1df3fc239e90b775a4ea86c0f0e14d0
 
 .. |11.dz1.1| replace:: 1
 .. _11.dz1.1: https://github.com/AlekseiKrivo/myproject
