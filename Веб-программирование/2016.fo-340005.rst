@@ -513,7 +513,7 @@
 .. _6.dz1.2-4: https://gist.github.com/yuuyuu04/825b8cc4ea948ed2f5842bb22ddb6b6a
 
 .. |10.dz1.1| replace:: 1
-.. _0.dz1.1: https://github.com/Sergey16802/zadanie1/tree/master/myproject
+.. _10.dz1.1: https://github.com/Sergey16802/zadanie1/tree/master/myproject
 .. |10.dz1.2-4| replace:: 2-4
 .. _10.dz1.2-4: https://gist.github.com/Sergey16802/c1df3fc239e90b775a4ea86c0f0e14d0
 
