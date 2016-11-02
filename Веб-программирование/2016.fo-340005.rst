@@ -199,8 +199,8 @@
      -
    * - 10
      - Колесников Сергей
-     - |10.dz1.1|_ |10.dz1.2-4|_ [**+3**]
-     -
+     - Sergey16802_
+     - |10.dz1.1|_ |10.dz1.2-4|_ [**+0**]
      -
      -
      -
@@ -488,6 +488,7 @@
 .. _vdoner:             https://github.com/vdoner
 .. _Nezhdanchiik:       https://github.com/Nezhdanchiik
 .. _ShimanovskayaK:     https://github.com/ShimanovskayaK
+.. _Sergey16802:        https://github.com/Sergey16802
 
 .. Домашняя работа #1
 
