@@ -59,7 +59,7 @@
      - |1.dz1.1|_ |1.dz1.2-4|_ [**+5**]
      - |1.dz2.1|_ |1.dz2.2-5|_ [**+5**]
      - |1.dz3|_ [**+5**]
-     -
+     - |1.dz4.1|_ |1.dz4.2-4|_ |1.dz4.5|_ [**+5**]
      -
      -
      -
@@ -680,6 +680,13 @@
 .. _19.dz4.1-4: https://github.com/kolalola/WebH4
 .. |19.dz4.5| replace:: 5
 .. _19.dz4.5: https://github.com/kolalola/sqlalchemy
+
+.. |1.dz4.1| replace:: 1
+.. _1.dz4.1: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject
+.. |1.dz4.2-4| replace:: 2-4
+.. _1.dz4.2-4: https://gist.github.com/Kostya174/35400754ca67359da8a9a4d7607099f8
+.. |1.dz4.5| replace:: 5
+.. _1.dz4.5: https://gist.github.com/Kostya174/0797b83e0928d65c53a2b58035c8f904
 
 .. Домашняя работа #5
 
