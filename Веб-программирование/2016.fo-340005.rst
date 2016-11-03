@@ -267,7 +267,7 @@
      - |14.dz1.1|_ |14.dz1.2-4|_ [**+4**]
      - |14.dz2.1-5|_ [**+5**]
      - |14.dz3.1|_ [**+4**]
-     -
+     - |14.dz4.1|_ |14.dz4.2-5|
      -
      -
      - |14.kr1|_ [**+5**]
@@ -642,6 +642,11 @@
 .. _22.dz3: https://github.com/shilak96/myproject
 
 .. Домашняя работа #4
+
+.. |14.dz4.1| replace:: 1
+.. _14.dz4.1: https://github.com/Zixs/myproject
+.. |14.dz4.2-5| replace:: 2-5
+.. _14.dz4.2-5: https://gist.github.com/Ovchinnickova2016/02935970b02a5a5cdfc23785d7bcd4be
 
 .. |17.dz4.1| replace:: 1
 .. _17.dz4.1: https://github.com/Zixs/myproject
