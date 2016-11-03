@@ -409,8 +409,8 @@
      - Шимановская Каролина
      - ShimanovskayaK_
      - |23.dz1.1|_ |23.dz1.2-3|_ |23.dz1.4|_ [**+3**]
-     -
-     -
+     - |23.dz2.1|_ |23.dz2.2|_ |23.dz2.3|_ |23.dz2.5|_
+     - |23.dz3|_
      -
      -
      -
@@ -605,6 +605,14 @@
 .. |22.dz2.2-5| replace:: 2-5
 .. _22.dz2.2-5: https://gist.github.com/shilak96/6c3ea7c81ab836512f96e35e4ea5c2d2
 
+.. |23.dz2.1| replace:: 1
+.. _23.dz2.1: https://gist.github.com/ShimanovskayaK/415d2a52cf0f179e35e235f0389f8ab1
+.. |23.dz2.2| replace:: 2
+.. _23.dz2.2: https://gist.github.com/ShimanovskayaK/9eee1764c1a8ed80a7befabbd98663d9
+.. |23.dz2.3| replace:: 3
+.. _23.dz2.3: https://gist.github.com/ShimanovskayaK/08f038ad7bed5c549fd7a9672eb5ffb0
+.. |23.dz2.5| replace:: 5
+.. _23.dz2.5: https://gist.github.com/ShimanovskayaK/7d1e05f906facbb631472372bc08d9d1
 
 
 .. Домашняя работа #3
@@ -635,6 +643,9 @@
 
 .. |22.dz3| replace:: 1
 .. _22.dz3: https://github.com/shilak96/myproject
+
+.. |23.dz3| replace:: 1
+.. _23.dz3: https://github.com/ShimanovskayaK/MyProject/edit/master/wsgi.py
 
 .. Домашняя работа #4
 
