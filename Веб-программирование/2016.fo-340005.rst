@@ -299,7 +299,7 @@
      - |16.dz1.1|_ |16.dz1.2-4|_ [**+5**]
      - |16.dz2.2|_ |16.dz2.2-5|_ [**+5**]
      - |16.dz3|_ [**+5**]
-     -
+     - |16.dz4.1|_ |16.dz4.2-4|_ |16.dz4.5|_
      -
      -
      -
@@ -642,6 +642,13 @@
 .. _22.dz3: https://github.com/shilak96/myproject
 
 .. Домашняя работа #4
+
+.. |16.dz4.1| replace:: 1
+.. _16.dz4.1: https://github.com/Hyuugo/myproject
+.. |16.dz4.2-4| replace:: 2-4
+.. _16.dz4.2-4: https://gist.github.com/Hyuugo/ea05e3b73f7d448e95f1cbe9280f82b8
+.. |16.dz4.5| replace:: 5
+.. _16.dz4.5: https://gist.github.com/Hyuugo/a1bca4399fb19716ccba274adc705506
 
 .. |17.dz4.1| replace:: 1
 .. _17.dz4.1: https://github.com/Zixs/myproject
