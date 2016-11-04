@@ -331,7 +331,7 @@
      - |18.dz1.1|_ |18.dz1.2-4|_ [**+3**]
      - |18.dz2.1-5|_ [**+4**]
      - |18.dz3.1|_ [**+4**]
-     -
+     - |18.dz4.1|_ |18.dz4.2-4|_ |18.dz4.5|_ [****]
      -
      -
      - |18.kr1|_ [**+5**]
@@ -656,6 +656,13 @@
 .. _22.dz4.2-4: https://gist.github.com/shilak96/fdac0ac67109dae0e456e03d04cab53c
 .. |22.dz4.5| replace:: 5
 .. _22.dz4.5: https://gist.github.com/shilak96/0f31400716935e998880f62a55a3915a
+
+.. |18.dz4.1| replace:: 1
+.. _18.dz4.1: https://github.com/artofmind/myproject/commit/e2e2f7a8be1bf343b45b9a319706aafc09caebdc
+.. |18.dz4.2-4| replace:: 2-4
+.. _18.dz4.2-4: https://gist.github.com/artofmind/27c46468f252c492521603ab635331be
+.. |18.dz4.5| replace:: 5
+.. _18.dz4.5: https://gist.github.com/artofmind/7cdb47a1bfd308b7ae6476275bdbcf23
 
 .. Домашняя работа #5
 
