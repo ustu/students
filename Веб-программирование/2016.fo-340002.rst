@@ -236,7 +236,7 @@
      - |12.dz2.1|_ |12.dz2.2|_ |12.dz2.3|_ |12.dz2.5|_ [**+5**]
      -
      -
-     -
+     - |12.dz5.1|_
      -
      - |12.kr1.1|_ [**+5**]
      -
@@ -611,6 +611,10 @@
 
 .. |6.dz5.1| replace:: 1
 .. _6.dz5.1: https://github.com/evgenymarkov/web_homework5
+
+.. |12.dz5.1| replace:: 1
+.. _12.dz5.1: https://github.com/Lixa141/myproject/blob/master/pyramid.py
+
 
 .. Курсовая работа
 
