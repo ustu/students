@@ -155,7 +155,7 @@
      - |7.dz1.1|_ |7.dz1.2-4|_ [**+3**]
      - |7.dz2.1|_ |7.dz2.2-5|_ [**+4**]
      - |7.dz3.1|_ |7.dz3.2|_ [**+5**]
-     -
+     - |7.dz4.1|_ |7.dz4.2-4|_
      -
      -
      -
@@ -645,6 +645,11 @@
 .. _6.dz4.2-4: https://gist.github.com/EsaulkovNikolay/6a443f7dedaf8aef90ded2ef2954a789
 .. |6.dz4.5| replace:: 5
 .. _6.dz4.5: https://gist.github.com/EsaulkovNikolay/2fd2eff446c2277c1d961599ecac9aa7
+
+.. |7.dz4.1| replace:: 1
+.. _7.dz4.1: https://github.com/zaitov-pavel/webProgramming
+.. |7.dz4.2-4| replace:: 2-4
+.. _7.dz4.2-4: https://gist.github.com/zaitov-pavel/06d0d0b9e9126fd42ca8d4af21ac0608
 
 .. |8.dz4.1| replace:: 1
 .. _8.dz4.1: https://github.com/hallsands/web-homework
