@@ -107,8 +107,8 @@
      - |4.dz1.1|_ |4.dz1.2-4|_ [**+5**]
      - |4.dz2.1|_ |4.dz2.2|_ |4.dz2.3|_ |4.dz2.5|_ [**+5**]
      - |4.dz3.1|_ [**+5**]
-     -
-     -
+     - |4.dz4.1|_ |4.dz4.2-4|_ |4.dz4.5|_ 
+     - |4.dz5.1|_ 
      -
      - |4.kr1|_ [**+5**]
      -
@@ -601,6 +601,15 @@
 .. |13.dz4.5| replace:: 5
 .. _13.dz4.5: https://gist.github.com/zasycha/dad1b2b9860908561951abe48750b806
 
+
+.. |4.dz4.1| replace:: 1
+.. _4.dz4.1: https://github.com/LuizaKolobova/myproject2
+.. |4.dz4.2-4| replace:: 2-4
+.. _4.dz4.2-4 :https://gist.github.com/LuizaKolobova/dd1f27fd4d1f353f85e290e683edf0ac
+.. |4.dz4.5| replace:: 5
+.. _4.dz4.5: https://gist.github.com/LuizaKolobova/3a70962167ea552344fe485304a332d8
+
+
 .. Домашняя работа #5
 
 .. |1.dz5.1| replace:: 1
@@ -617,6 +626,10 @@
 
 .. |13.dz5.1| replace:: 1
 .. _13.dz5.1: https://github.com/zasycha/myproject/blob/master/pyramid.py
+
+.. |4.dz5.1| replace:: 1
+.. _4.dz5.1: https://github.com/LuizaKolobova/myproject3
+
 
 .. Курсовая работа
 
