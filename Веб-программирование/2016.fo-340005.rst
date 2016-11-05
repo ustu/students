@@ -124,7 +124,7 @@
      - |5.dz2.1-5|_ [**+5**]
      - |5.dz3.1|_ [**+4**]
      - |5.dz4.1|_ |5.dz4.2-4|_ |5.dz4.5|_ [**+4**]
-     -
+     - |5.dz5|_ [**+5**]
      -
      - |5.kr1|_ [**+5**]
      -
@@ -672,7 +672,8 @@
 .. _18.dz4.5: https://gist.github.com/artofmind/7cdb47a1bfd308b7ae6476275bdbcf23
 
 .. Домашняя работа #5
-
+..|5.dz5| replace:: 1
+.. _5.dz5: https://gist.github.com/Hasuni/35d1a8bf78e6caa0d06c5b93e917b3f1
 .. Курсовая работа
 
 .. |5.kr1| replace:: 1
