@@ -144,7 +144,7 @@
      - |10.dz2.1|_ |10.dz2.2|_ |10.dz2.3|_ |10.dz2.5|_ [**+5**]
      - |10.dz3.1|_ [**+5**]
      - |10.dz4.1|_ |10.dz4.2|_ |10.dz4.5|_ [**+5**]
-     -
+     - |10.dz5.1|_ 
      -
      -
      -
@@ -276,5 +276,7 @@
 .. _10.dz4.5: https://gist.github.com/NickVernal/a6db526b9a4210098852bef5fadec93e
 
 .. Домашняя работа #5
+.. |10.dz5.1| replace:: 1
+.. _10.dz5.1: https://github.com/NickVernal/myproject/tree/master/hw_5
 
 .. Курсовая работа
