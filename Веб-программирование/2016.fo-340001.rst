@@ -662,6 +662,9 @@
 .. |13.dz5| replace:: 1
 .. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
 
+.. |8.dz5| replace:: 1
+.. _8.dz5: https://gist.github.com/hallsands/4203ccc1f1487e460162983f8040fc51
+
 .. Курсовая работа
 
 .. |11.kr1| replace:: MUT
