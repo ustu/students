@@ -396,8 +396,8 @@
      - |22.dz2.1|_ |22.dz2.2-5|_ [**+5**]
      - |22.dz3|_ [**+5**]
      - |22.dz4.1|_ |22.dz4.2-4|_ |22.dz4.5|_ копия @EsaulkovNikolay [**переделать**]
-     -
-     -
+     - |22.dz4.1|_ |22.dz4.2-4|_ |22.dz4.5|_
+     - |22.dz5|_ 
      -
      -
      -
@@ -670,6 +670,12 @@
 .. _22.dz4.2-4: https://gist.github.com/shilak96/fdac0ac67109dae0e456e03d04cab53c
 .. |22.dz4.5| replace:: 5
 .. _22.dz4.5: https://gist.github.com/shilak96/0f31400716935e998880f62a55a3915a
+.. |22.dz4.1| replace:: 1
+.. _22.dz4.1: https://github.com/shilak96/myproject
+.. |22.dz4.2-4| replace:: 2-4
+.. _22.dz4.2-4: https://gist.github.com/shilak96/fdac0ac67109dae0e456e03d04cab53c
+.. |22.dz4.5| replace:: 5
+.. _22.dz4.5: https://gist.github.com/shilak96/0f31400716935e998880f62a55a3915a
 
 .. |18.dz4.1| replace:: 1
 .. _18.dz4.1: https://github.com/artofmind/myproject/commit/e2e2f7a8be1bf343b45b9a319706aafc09caebdc
@@ -681,6 +687,10 @@
 .. Домашняя работа #5
 ..|5.dz5| replace:: 1
 .. _5.dz5: https://gist.github.com/Hasuni/35d1a8bf78e6caa0d06c5b93e917b3f1
+
+..|22.dz5| replace:: 1
+.. _22.dz5: https://github.com/shilak96/myproject/tree/master/Pyramid
+
 .. Курсовая работа
 
 .. |5.kr1| replace:: 1
