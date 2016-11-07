@@ -204,7 +204,7 @@
      - |10.dz2.1|_ |10.dz2.2|_ |10.dz2.3|_ |10.dz2.5|_ [**+5**]
      - |10.dz3.1|_ [**+5**]
      - |10.dz4.1|_ |10.dz4.2|_ |10.dz4.5|_ [**+5**]
-     -
+     - |10.dz5.1|_ [**+5**]
      -
      -
      -
@@ -602,6 +602,8 @@
 .. _13.dz4.5: https://gist.github.com/zasycha/dad1b2b9860908561951abe48750b806
 
 .. Домашняя работа #5
+.. |10.dz5.1| replace:: 1
+.. _10.dz5.1: https://github.com/NickVernal/myproject/tree/master/hw_5
 
 .. |1.dz5.1| replace:: 1
 .. _1.dz5.1: https://github.com/Ducage/webhw/blob/master/pyramid.py
