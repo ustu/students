@@ -284,7 +284,7 @@
      - |15.dz2.1|_ |15.dz2.2-5|_ [**+5**]
      - |15.dz3|_ [**+5**]
      - |15.dz4.1|_ |15.dz4.2-4.1|_ |15.dz4.2-4.2|_ |15.dz4.5|_ копия @ragozin-n [**переделать**]
-     -
+     - |15.dz5|_ [**+5**]
      -
      -
      -
@@ -701,6 +701,9 @@
 
 .. |19.dz5| replace:: 1
 .. _19.dz5: https://github.com/kolalola/WebH4/blob/master/Pyramid.py
+
+.. |15.dz5| replace:: 1
+.. _15.dz5: https://github.com/vebster123/web-hw4/blob/master/pyramid.py
 
 .. Курсовая работа
 
