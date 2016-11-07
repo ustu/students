@@ -172,7 +172,7 @@
      - |8.dz2.1|_ |8.dz2.2-5|_ [**+5**]
      - |8.dz3.1|_ [**+5**]
      - |8.dz4.1|_ |8.dz4.2-5|_ [**+5**]
-     -
+     - |8.dz5.1|_ [**+5**]
      -
      -
      -
@@ -617,6 +617,10 @@
 
 .. |13.dz5.1| replace:: 1
 .. _13.dz5.1: https://github.com/zasycha/myproject/blob/master/pyramid.py
+
+.. |8.dz5.1| replace:: 1
+.. _8.dz5.1: https://github.com/WhileTrueDoSex/WebHomeWork
+
 
 .. Курсовая работа
 
