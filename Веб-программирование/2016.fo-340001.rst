@@ -92,7 +92,7 @@
      - |3.dz2.1|_ |3.dz2.2-5|_ [**+5**]
      - |3.dz3|_ [**+5**]
      - |3.dz4.1|_ |3.dz4.2-4|_ |3.dz4.5|_ [**+5**]
-     -
+     - |3.dz5|_ [**+5**]
      -
      -
      -
@@ -689,6 +689,9 @@
 .. _19.dz4.5: https://github.com/kolalola/sqlalchemy
 
 .. Домашняя работа #5
+
+.. |3.dz5| replace:: 1
+.. _3.dz5: https://github.com/BallOfDestruction/Task-For-Web
 
 .. |11.dz5.1| replace:: 1
 .. _11.dz5.1: https://github.com/g196et/WebProg/tree/master/PyramidTask
