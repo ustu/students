@@ -680,7 +680,7 @@
 
 .. Домашняя работа #5
 
-..|5.dz5| replace:: 1
+.. |5.dz5| replace:: 1
 .. _5.dz5: https://gist.github.com/Hasuni/35d1a8bf78e6caa0d06c5b93e917b3f1
 
 .. Курсовая работа
