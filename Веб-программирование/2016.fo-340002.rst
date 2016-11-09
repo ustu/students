@@ -156,7 +156,7 @@
      - |7.dz2.5|_ [**+5**]
      - |7.dz3.1|_ [**+5**]
      - |7.dz4.1|_ |7.dz4.2-4|_ |7.dz4.5|_ [**+5**]
-     -
+     - |7.dz5.1|_ 
      -
      - |7.kr1|_ [**+5**]
      -
@@ -634,6 +634,9 @@
 
 .. |13.dz5.1| replace:: 1
 .. _13.dz5.1: https://github.com/zasycha/myproject/blob/master/pyramid.py
+
+.. |7.dz5.1| replace:: 1
+.. _7.dz5.1: https://gist.github.com/Lydmilamihaleva/0fb6ef38b3b25c7d73148d1f57305622
 
 .. Курсовая работа
 
