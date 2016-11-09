@@ -635,6 +635,9 @@
 .. |13.dz5.1| replace:: 1
 .. _13.dz5.1: https://github.com/zasycha/myproject/blob/master/pyramid.py
 
+.. |7.dz5.1| replace:: 1
+.. _7.dz5.1: https://gist.github.com/Lydmilamihaleva/0fb6ef38b3b25c7d73148d1f57305622
+
 .. Курсовая работа
 
 .. |1.kr1| replace:: к/р #1
