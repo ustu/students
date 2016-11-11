@@ -708,6 +708,9 @@
 .. |17.dz5| replace:: 1
 .. _17.dz5: https://github.com/MaxUsov/web_programming/blob/master/Pyramid.py
 
+.. |1.dz5| replace:: 1
+.. _1.dz5: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject
+
 .. Курсовая работа
 
 .. |6.dz5| replace:: 1
