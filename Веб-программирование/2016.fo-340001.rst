@@ -60,7 +60,7 @@
      - |1.dz2.1|_ |1.dz2.2-5|_ [**+5**]
      - |1.dz3|_ [**+5**]
      - |1.dz4.1|_ |1.dz4.2-4|_ |1.dz4.5|_ [**+4**]
-     -
+     - |13.dz5|_
      -
      -
      -
@@ -707,6 +707,9 @@
 
 .. |17.dz5| replace:: 1
 .. _17.dz5: https://github.com/MaxUsov/web_programming/blob/master/Pyramid.py
+
+.. |1.dz5| replace:: 1
+.. _1.dz5: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject
 
 .. Курсовая работа
 
