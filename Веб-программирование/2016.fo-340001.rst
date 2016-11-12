@@ -285,8 +285,8 @@
      - |15.dz3|_ [**+5**]
      - |15.dz4.1|_ |15.dz4.2-4.1|_ |15.dz4.2-4.2|_ |15.dz4.5|_ копия @ragozin-n [**переделать**]
      - |15.dz5|_ [**+5**]
-     -
-     -
+     - 
+     - |15.kr1|_
      -
      -
      -
@@ -735,3 +735,6 @@
 
 .. |17.kr1| replace:: MUT
 .. _17.kr1: https://github.com/g196et/MUT
+
+.. |15.kr1| replace:: kr1
+.. _15.kr1: https://github.com/vebster123/RealAuto
