@@ -223,7 +223,7 @@
      - |11.dz5.1|_ [**+5**]
      -
      - |11.kr1|_ [**+5**]
-     -
+     - |11.kr2|_
      -
      -
      -
@@ -303,7 +303,7 @@
      -
      -
      - |16.kr1|_ [**5**]
-     -
+     - |16.kr2|_ 
      -
      -
      -
@@ -319,7 +319,7 @@
      - |17.dz5|_ [**+4**]
      -
      - |17.kr1|_ [**+5**]
-     -
+     - |17.kr2|_
      -
      -
      -
@@ -727,11 +727,20 @@
 .. |11.kr1| replace:: MUT
 .. _11.kr1: https://github.com/g196et/MUT
 
+.. |11.kr2| replace:: MUT
+.. _11.kr2: https://github.com/g196et/MUT
+
 .. |13.kr1| replace:: #1
 .. _13.kr1: https://github.com/ragozin-n/mytasks-pwa/tree/master
 
 .. |16.kr1| replace:: MUT
 .. _16.kr1: https://github.com/g196et/MUT
 
+.. |16.kr2| replace:: MUT
+.. _16.kr2: https://github.com/g196et/MUT
+
 .. |17.kr1| replace:: MUT
 .. _17.kr1: https://github.com/g196et/MUT
+
+.. |17.kr2| replace:: MUT
+.. _17.kr2: https://github.com/g196et/MUT
