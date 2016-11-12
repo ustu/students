@@ -676,6 +676,13 @@
 .. |15.dz4.5| replace:: 5
 .. _15.dz4.5: https://gist.github.com/vebster123/bedc1aa7e004fd7856946fddc077affa
 
+.. |16.dz4.1| replace:: 1
+.. _16.dz4.1: https://github.com/StXaver/myproject/blob/master/JinjaApplication.py
+.. |16.dz4.2-4.1| replace:: 2-4
+.. _16.dz4.2-4.1: https://gist.github.com/StXaver/e3d368379496ce34b2b76300b5899db0
+.. |16.dz4.5| replace:: 5
+.. _16.dz4.5: https://gist.github.com/StXaver/70a8647e6787a809664f944f6daf7262
+
 .. |17.dz4.1| replace:: 1
 .. _17.dz4.1: https://github.com/MaxUsov/web_programming
 .. |17.dz4.2-4| replace:: 2-4
@@ -704,6 +711,9 @@
 
 .. |15.dz5| replace:: 1
 .. _15.dz5: https://github.com/vebster123/web-hw4/blob/master/pyramid.py
+
+.. |16.dz5| replace:: 1
+.. _16.dz5: https://github.com/StXaver/myproject/blob/master/Pyramid.py
 
 .. |17.dz5| replace:: 1
 .. _17.dz5: https://github.com/MaxUsov/web_programming/blob/master/Pyramid.py
