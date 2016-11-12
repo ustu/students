@@ -720,6 +720,8 @@
 .. _9.kr1: https://github.com/hallsands/qoorsuchue-web
 
 .. Курсовая работа
+.. |2.kr1| replace:: 1
+.. _2.kr1: https://github.com/SBRhen/StudioMonochrome
 
 .. |6.kr1| replace:: 1
 .. _6.kr1: https://github.com/EsaulkovNikolay/StickersArt
