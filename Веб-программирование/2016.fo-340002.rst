@@ -142,11 +142,16 @@
      -
      -
      -
-   * - 10
+* - 10
      - Нуйкин Никита Владимирович
      - NickVernal_
+     - |10.dz1.1|_ |10.dz1.2-4|_ [**+5**]
+     - |10.dz2.1|_ |10.dz2.2|_ |10.dz2.3|_ |10.dz2.5|_ [**+5**]
+     - |10.dz3.1|_ [**+5**]
+     - |10.dz4.1|_ |10.dz4.2|_ |10.dz4.5|_ [**+5**]
+     - |10.dz5.1|_ [**+5**]
      -
-     -
+     - |10.kr1|_ 
      -
      -
      -
@@ -247,6 +252,7 @@
 .. _pivasik228:         https://github.com/pivasik228
 .. _zasycha:            https://github.com/zasycha
 .. _veyroter:           https://github.com/veyroter
+.. _totibi				https://github.com/totibi
 
 .. Домашняя работа #1
 
@@ -262,3 +268,5 @@
 
 .. |2.kr1| replace:: к/р #1
 .. _2.kr1: https://github.com/totibi/quest_workshop
+.. |10.kr1| replace:: к/р #1
+.. _10.kr1: https://github.com/totibi/quest_workshop
