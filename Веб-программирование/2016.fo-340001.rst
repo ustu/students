@@ -349,8 +349,8 @@
      - |19.dz3|_ [**+5**]
      - |19.dz4.1-4|_ |19.dz4.5|_ [**+5**]
      - |19.dz5|_ [**+5**]
-     -
-     -
+     - 
+     - |19.kr1|_
      -
      -
      -
@@ -735,3 +735,6 @@
 
 .. |17.kr1| replace:: MUT
 .. _17.kr1: https://github.com/g196et/MUT
+
+.. |19.kr1| replace:: 1
+.. _19.kr1: https://github.com/kolalola/FindDetective
