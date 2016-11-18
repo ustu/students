@@ -60,7 +60,7 @@
      - |1.dz2.1|_ |1.dz2.2-5|_ [**+5**]
      - |1.dz3|_ [**+5**]
      - |1.dz4.1|_ |1.dz4.2-4|_ |1.dz4.5|_ [**+4**]
-     -
+     - |1.dz5|_ [**+4**]
      -
      -
      -
@@ -172,7 +172,7 @@
      - |8.dz2.1-5|_ [**+5**]
      - |8.dz3|_ [**+5**]
      - |8.dz4.1|_ |8.dz4.2-4|_ |8.dz4.5|_ [**+5**]
-     -
+     - |8.dz5|_ [**+4**]
      -
      - |8.kr1|_ [**+5**]
      -
@@ -285,8 +285,8 @@
      - |15.dz3|_ [**+5**]
      - |15.dz4.1|_ |15.dz4.2-4.1|_ |15.dz4.2-4.2|_ |15.dz4.5|_ копия @ragozin-n [**переделать**]
      - |15.dz5|_ [**+5**]
-     -
-     -
+     - 
+     - |15.kr1|_ [**+4**]
      -
      -
      -
@@ -313,10 +313,10 @@
      - Усов Максим Александрович
      - MaxUsov_
      - |17.dz1.1|_ |17.dz1.2-4|_ [**+5**]
-     - |17.dz2.1|_ |17.dz2.2-5|_ [**+5**]
+     - |17.dz2.1|_ |17.dz2.2-5|_ 5е задание копия @EsaulkovNikolay [**переделать**]
      - |17.dz3|_ [**+5**]
      - |17.dz4.1|_ |17.dz4.2-4|_ |17.dz4.5|_ [**+5**]
-     - |17.dz5|_ 
+     - |17.dz5|_ [**+4**]
      -
      - |17.kr1|_ [**+5**]
      -
@@ -350,7 +350,7 @@
      - |19.dz4.1-4|_ |19.dz4.5|_ [**+5**]
      - |19.dz5|_ [**+5**]
      -
-     -
+     - |19.kr1|_
      -
      -
      -
@@ -693,6 +693,9 @@
 .. |3.dz5| replace:: 1
 .. _3.dz5: https://github.com/BallOfDestruction/Task-For-Web
 
+.. |8.dz5| replace:: 1
+.. _8.dz5: https://gist.github.com/hallsands/4203ccc1f1487e460162983f8040fc51
+
 .. |11.dz5.1| replace:: 1
 .. _11.dz5.1: https://github.com/g196et/WebProg/tree/master/PyramidTask
 
@@ -707,6 +710,9 @@
 
 .. |17.dz5| replace:: 1
 .. _17.dz5: https://github.com/MaxUsov/web_programming/blob/master/Pyramid.py
+
+.. |1.dz5| replace:: 1
+.. _1.dz5: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject
 
 .. Курсовая работа
 
@@ -735,3 +741,9 @@
 
 .. |17.kr1| replace:: MUT
 .. _17.kr1: https://github.com/g196et/MUT
+
+.. |15.kr1| replace:: kr1
+.. _15.kr1: https://github.com/vebster123/RealAuto
+
+.. |19.kr1| replace:: 1
+.. _19.kr1: https://github.com/kolalola/FindDetective
