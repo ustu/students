@@ -316,7 +316,7 @@
      - |17.dz2.1|_ |17.dz2.2-5|_ [**+5**]
      - |17.dz3|_ [**+5**]
      - |17.dz4.1|_ |17.dz4.2-4|_ |17.dz4.5|_ [**+5**]
-     -
+     - |17.dz5|_ [**+5**]
      -
      -
      -
@@ -685,6 +685,9 @@
 
 .. |16.dz5| replace:: 1
 .. _16.dz5: https://github.com/Hyuugo/myproject
+
+.. |17.dz5| replace:: 1
+.. _17.dz5: https://github.com/Zixs/myproject/blob/master/pyramid.py
 
 .. Курсовая работа
 
