@@ -14,7 +14,7 @@
      - |dz4|_ 15/10/2016
      - |dz5|_ 29/10/2016
      - зачет (??/??/2017)
-     - |kr1|_ (22/10/2016) Малышева https://github.com/MalyshevaAlena/WebCourseWork
+     - |kr1|_ (22/10/2016)
      - |kr2|_ (12/11/2016)
      - |kr3|_ (26/11/2016)
      - |kr4|_ (10/12/2016)
@@ -238,7 +238,7 @@
      -
      -
      -
-     -
+     - |12.kr1|_ [**+4**]
      -
      -
      -
@@ -726,6 +726,9 @@
 
 .. |11.kr1| replace:: MUT
 .. _11.kr1: https://github.com/g196et/MUT
+
+.. |12.kr1| replace:: kr1
+.. _12.kr1: https://github.com/MalyshevaAlena/WebCourseWork
 
 .. |13.kr1| replace:: #1
 .. _13.kr1: https://github.com/ragozin-n/mytasks-pwa/tree/master
