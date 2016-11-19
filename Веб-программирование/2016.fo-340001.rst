@@ -731,7 +731,7 @@
 .. |6.kr1| replace:: 1
 .. _6.kr1: https://github.com/EsaulkovNikolay/StickersArt
 
-.. |6.kr2| replace:: 2
+.. |6.kr2| replace:: 1
 .. _6.kr2: https://github.com/EsaulkovNikolay/StickersArt
 
 .. |11.kr1| replace:: MUT
