@@ -415,7 +415,7 @@
      -
      -
      - |23.kr1|_ [**+5**]
-     -
+     - |23.kr2|_ 
      -
      -
      -
@@ -664,3 +664,6 @@
 
 .. |23.kr1| replace:: к/р #1
 .. _23.kr1: https://github.com/ShimanovskayaK/Kursovaya  
+
+.. |23.kr2| replace:: к/р 2
+.. _23.kr2: https://github.com/ShimanovskayaK/Kursovaya 
