@@ -219,7 +219,7 @@
      - |11.dz1.1|_ |11.dz1.2-4|_ [**+5**]
      - |11.dz2.1|_ |11.dz2.2-5|_ [**+4**]
      -
-     -
+     - |11.dz4.1|_ |11.dz4.2-5|_
      -
      -
      -
@@ -593,6 +593,11 @@
 .. _10.dz4.2: https://gist.github.com/NickVernal/92b6d88f433f9ced22bc3e7fbd1e2d09
 .. |10.dz4.5| replace:: 5
 .. _10.dz4.5: https://gist.github.com/NickVernal/a6db526b9a4210098852bef5fadec93e
+
+.. |11.dz4.1| replace:: 1
+.. _11.dz4.1: https://github.com/pivasik228/myproject/tree/master/Задание%204.1
+.. |11.dz4.2-5| replace:: 2-5
+.. _11.dz4.2-5: https://gist.github.com/pivasik228
 
 .. |13.dz4.1| replace:: 1
 .. _13.dz4.1: https://github.com/zasycha/myproject
