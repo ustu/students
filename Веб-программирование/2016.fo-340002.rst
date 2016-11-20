@@ -218,7 +218,7 @@
      - pivasik228_
      - |11.dz1.1|_ |11.dz1.2-4|_ [**+5**]
      - |11.dz2.1|_ |11.dz2.2-5|_ [**+4**]
-     -
+     - |11.dz3.1|_ 
      -
      -
      -
@@ -541,6 +541,9 @@
 
 .. |10.dz3.1| replace:: 1
 .. _10.dz3.1: https://gist.github.com/NickVernal/4de8578324887d568689f11c98398716
+
+.. |11.dz3.1| replace:: 1
+.. _11.dz3.1: https://gist.github.com/pivasik228/c85d5d4e6763a68dead662b7030e0247
 
 .. |13.dz3.1| replace:: 1
 .. _13.dz3.1: https://gist.github.com/zasycha/f82779f403107d643e2426eab1fe9b12
