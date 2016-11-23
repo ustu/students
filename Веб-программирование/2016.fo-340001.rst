@@ -351,7 +351,7 @@
      - |19.dz5|_ [**+5**]
      -
      - |19.kr1|_
-     -
+     - |19.kr2|_
      -
      -
      -
@@ -750,3 +750,6 @@
 
 .. |19.kr1| replace:: 1
 .. _19.kr1: https://github.com/kolalola/FindDetective
+
+.. |19.kr2| replace:: 2
+.. _19.kr2: https://github.com/kolalola/FindDetective/tree/db/DataBase
