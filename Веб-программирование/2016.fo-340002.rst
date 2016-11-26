@@ -63,7 +63,7 @@
      - |1.dz5.1|_ [**+5**]
      -
      - |1.kr1|_ [**+5**]
-     -
+     - |1.models|_ |1.ER|_ [**+5**]
      -
      -
      -
@@ -94,7 +94,7 @@
      -
      -
      -
-     - |3.kr1|_ [**+5**]
+     -
      -
      -
      -
@@ -142,8 +142,8 @@
      - |6.dz4.1|_ |6.dz4.2-4|_ |6.dz4.5|_ [**+5**]
      - |6.dz5.1|_ [**+5**]
      -
-     -
-     -
+     - |6.kr1|_ [**+5**]
+     - |6.models|_ |6.ER|_ [**+5**]
      -
      -
      -
@@ -159,7 +159,7 @@
      - |7.dz5.1|_ [**+5**]
      -
      - |7.kr1|_ [**+5**]
-     -
+     - |7.models|_ |7.ER|_ [**+5**]
      -
      -
      -
@@ -642,10 +642,22 @@
 
 .. |1.kr1| replace:: к/р #1
 .. _1.kr1: https://github.com/Lydmilamihaleva/Cosmetics
-.. |3.kr1| replace:: к/р #1
-.. _3.kr1: https://github.com/Lydmilamihaleva/Cosmetics
+.. |1.models| replace:: #1
+.. _1.models: https://github.com/Lydmilamihaleva/Cosmetics/tree/master/cosmetics/models
+.. |1.ER| replace:: #2
+.. _1.ER: https://editor.ponyorm.com/user/Ducage/Cosmetics
+.. |6.kr1| replace:: к/р #1
+.. _6.kr1: https://github.com/Lydmilamihaleva/Cosmetics
+.. |6.models| replace:: #1
+.. _6.models: https://github.com/Lydmilamihaleva/Cosmetics/tree/master/cosmetics/models
+.. |6.ER| replace:: #2
+.. _6.ER: https://editor.ponyorm.com/user/Ducage/Cosmetics
 .. |7.kr1| replace:: к/р #1
 .. _7.kr1: https://github.com/Lydmilamihaleva/Cosmetics
+.. |7.models| replace:: #1
+.. _7.models: https://github.com/Lydmilamihaleva/Cosmetics/tree/master/cosmetics/models
+.. |7.ER| replace:: #2
+.. _7.ER: https://editor.ponyorm.com/user/Ducage/Cosmetics
 
 .. |4.kr1| replace:: к/р #1
 .. _4.kr1: https://github.com/LuizaKolobova/VebProject
