@@ -94,7 +94,7 @@
      - |3.dz4.1|_ |3.dz4.2-4|_ |3.dz4.5|_ [**+5**]
      - |3.dz5|_ [**+5**]
      -
-     -
+     - |3.kr1|_
      -
      -
      -
@@ -703,6 +703,9 @@
 .. _19.dz5: https://github.com/kolalola/WebH4/blob/master/Pyramid.py
 
 .. Курсовая работа
+
+.. |6.dz5| replace:: 1
+.. _6.dz5: https://github.com/BallOfDestruction/FactorioF
 
 .. |6.dz5| replace:: 1
 .. _6.dz5: https://github.com/EsaulkovNikolay/web-programming/
