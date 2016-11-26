@@ -704,8 +704,8 @@
 
 .. Курсовая работа
 
-.. |6.dz5| replace:: 1
-.. _6.dz5: https://github.com/BallOfDestruction/FactorioF
+.. |3.kr1| replace:: 1
+.. _3.kr1: https://github.com/BallOfDestruction/FactorioF
 
 .. |6.dz5| replace:: 1
 .. _6.dz5: https://github.com/EsaulkovNikolay/web-programming/
