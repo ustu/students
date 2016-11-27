@@ -95,7 +95,7 @@
      - |3.dz5|_ [**+5**]
      -
      - |3.kr1|_ [**+3**]
-     -
+     - |3.kr2|_
      -
      -
      -
@@ -729,6 +729,9 @@
 .. _9.kr1: https://github.com/hallsands/qoorsuchue-web
 
 .. Курсовая работа
+
+.. |3.kr2| replace:: 1
+.. _3.kr2: https://github.com/BallOfDestruction/FactorioF
 
 .. |6.kr1| replace:: 1
 .. _6.kr1: https://github.com/EsaulkovNikolay/StickersArt
