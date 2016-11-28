@@ -156,7 +156,7 @@
      - |7.dz2.1|_ |7.dz2.2-5|_ [**+4**]
      - |7.dz3.1|_ |7.dz3.2|_ [**+5**]
      -
-     - |7.dz5.1|_
+     - |7.dz5.1|_ [**+3**]
      -
      - |12.kr1|_ [**+4**]
      -
@@ -694,7 +694,7 @@
 .. _3.dz5: https://github.com/BallOfDestruction/Task-For-Web
 
 .. |7.dz5.1| replace:: 1
-.. _11.dz5.1: https://github.com/zaitov-pavel/webProgramming
+.. _7.dz5.1: https://github.com/zaitov-pavel/webProgramming
 
 .. |8.dz5| replace:: 1
 .. _8.dz5: https://gist.github.com/hallsands/4203ccc1f1487e460162983f8040fc51
