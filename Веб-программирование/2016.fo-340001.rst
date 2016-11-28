@@ -235,7 +235,7 @@
      - |12.dz1.1|_ |12.dz1.2-4|_ [**+4**]
      - |12.dz2.1|_ |12.dz2.2-5|_ [**+4**]
      - |12.dz3|_ [**+5**]
-     -
+     - |12.dz4.1|_ |12.dz4.2-4|_
      -
      -
      - |12.kr1|_ [**+4**]
@@ -665,6 +665,11 @@
 .. _11.dz4.2-4: https://gist.github.com/g196et/b2d28c0e879090008e1194407be8db2c
 .. |11.dz4.5| replace:: 5
 .. _11.dz4.5: https://github.com/g196et/WebProg/tree/master/zzzeek
+
+.. |12.dz4.1| replace:: 1
+.. _12.dz4.1: https://github.com/MalyshevaAlena/webProgramming/tree/master/web4
+.. |12.dz4.2-4| replace:: 2-4
+.. _12.dz4.2-4: https://gist.github.com/MalyshevaAlena/7dfb22383619fac84b1f04e619da5033
 
 .. |13.dz4.1| replace:: 1
 .. _13.dz4.1: https://github.com/ragozin-n/web-programming-homework/tree/master/jinja-2-task
