@@ -201,13 +201,8 @@
      - Леконцев Александр Алексеевич
      - ShatteredMind_
      - |10.dz1.1|_ |10.dz1.2-4|_ [**+5**]
-     -
-     -
-     -
-     -
-     -
-     -
-     -
+     - |10.dz2.1-5|_ [**+3**]
+     - |10.dz3.1|_ [**+3**]
      -
      -
      -
@@ -285,7 +280,7 @@
      - |15.dz3|_ [**+5**]
      - |15.dz4.1|_ |15.dz4.2-4.1|_ |15.dz4.2-4.2|_ |15.dz4.5|_ копия @ragozin-n [**переделать**]
      - |15.dz5|_ [**+5**]
-     - 
+     -
      - |15.kr1|_ [**+4**]
      -
      -
@@ -574,6 +569,9 @@
 .. |19.dz2.5| replace:: 5
 .. _19.dz2.5: https://gist.github.com/kolalola/4e206b78e0665fc1e8463f1ffd077a4f
 
+.. |10.dz2.1-5| replace:: 1-5
+.. _10.dz2.1-5: https://gist.github.com/ShatteredMind/961cf1cf50d26330d61e620b03d3d71b
+
 .. Домашняя работа #3
 
 .. |1.dz3| replace:: 1
@@ -622,6 +620,9 @@
 
 .. |19.dz3| replace:: 1
 .. _19.dz3: https://github.com/kolalola/WebHomework1/tree/master/WSGI
+
+.. |10.dz3.1| replace:: 1
+.. _10.dz3.1: https://github.com/ShatteredMind/Webprogramming/blob/master/wsgi.py
 
 .. Домашняя работа #4
 
