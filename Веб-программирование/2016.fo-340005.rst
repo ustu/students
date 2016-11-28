@@ -332,7 +332,7 @@
      - |18.dz2.1-5|_ [**+4**]
      - |18.dz3.1|_ [**+4**]
      - |18.dz4.1|_ |18.dz4.2-4|_ |18.dz4.5|_ [**+0**]
-     -
+     - |18.dz5|_ [**+4**]
      -
      - |18.kr1|_ [**+5**]
      -
@@ -688,6 +688,9 @@
 
 .. |17.dz5| replace:: 1
 .. _17.dz5: https://github.com/Zixs/myproject/blob/master/pyramid.py
+
+.. |18.dz5| replace:: 1
+.. _18.dz5: https://github.com/artofmind/myproject/blob/master/PyramidApp.py
 
 .. Курсовая работа
 
