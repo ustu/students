@@ -236,7 +236,7 @@
      - |12.dz2.1|_ |12.dz2.2-5|_ [**+4**]
      - |12.dz3|_ [**+5**]
      -
-     -
+     - |12.dz5|_ [**+3**]
      -
      - |12.kr1|_ [**+4**]
      -
@@ -707,6 +707,9 @@
 
 .. |11.dz5.1| replace:: 1
 .. _11.dz5.1: https://github.com/g196et/WebProg/tree/master/PyramidTask
+
+.. |12.dz5| replace:: 1
+.. _12.dz5: https://github.com/MalyshevaAlena/webProgramming/tree/master/web5 
 
 .. |13.dz5| replace:: 1
 .. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
