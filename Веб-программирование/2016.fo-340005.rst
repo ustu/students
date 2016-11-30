@@ -267,8 +267,8 @@
      - |14.dz1.1|_ |14.dz1.2-4|_ [**+4**]
      - |14.dz2.1-5|_ [**+5**]
      - |14.dz3.1|_ [**+4**]
-     -
-     -
+     - |14.dz4.1|_ |14.dz4.2-4|_ |14.dz4.5|_ [**+4**]
+     - |14.dz5|_ [**+3**]
      -
      - |14.kr1|_ [**+5**]
      -
@@ -650,6 +650,13 @@
 .. |5.dz4.5| replace:: 5
 .. _5.dz4.5: https://gist.github.com/Hasuni/27815c84867c4e32e03ef86c2e264ed2
 
+.. |14.dz4.1| replace:: 1
+.. _14.dz4.1: https://github.com/Ovchinnickova2016/myproject
+.. |14.dz4.2-4| replace:: 2-4
+.. _14.dz4.2-4: https://gist.github.com/Ovchinnickova2016/02935970b02a5a5cdfc23785d7bcd4be
+.. |14.dz4.5| replace:: 5
+.. _14.dz4.5: https://gist.github.com/Ovchinnickova2016/32d1700f50df054c545ff7fa5b691622
+
 .. |16.dz4.1| replace:: 1
 .. _16.dz4.1: https://github.com/Hyuugo/myproject
 .. |16.dz4.2-4| replace:: 2-4
@@ -682,6 +689,9 @@
 
 .. |5.dz5| replace:: 1
 .. _5.dz5: https://gist.github.com/Hasuni/35d1a8bf78e6caa0d06c5b93e917b3f1
+
+.. |14.dz5| replace:: 1
+.. _14.dz5: https://gist.github.com/Ovchinnickova2016/83d329737b96d37e110cda01402c316d
 
 .. |16.dz5| replace:: 1
 .. _16.dz5: https://github.com/Hyuugo/myproject
