@@ -223,7 +223,7 @@
      - |11.dz5.1|_ [**+5**]
      -
      - |11.kr1|_ [**+5**]
-     -
+     - |11.kr2|_ []
      -
      -
      -
@@ -303,7 +303,7 @@
      -
      -
      - |16.kr1|_ [**5**]
-     -
+     - |16.kr2|_ []
      -
      -
      -
@@ -319,7 +319,7 @@
      - |17.dz5|_ [**+4**]
      -
      - |17.kr1|_ [**+5**]
-     -
+     - |17.kr2|_ []
      -
      -
      -
@@ -754,6 +754,9 @@
 .. |11.kr1| replace:: MUT
 .. _11.kr1: https://github.com/g196et/MUT
 
+.. |11.kr2| replace:: MUT#2
+.. _11.kr2: https://github.com/g196et/MUT
+
 .. |12.kr1| replace:: kr1
 .. _12.kr1: https://github.com/MalyshevaAlena/WebCourseWork
 
@@ -763,8 +766,14 @@
 .. |16.kr1| replace:: MUT
 .. _16.kr1: https://github.com/g196et/MUT
 
+.. |16.kr2| replace:: MUT#2
+.. _16.kr2: https://github.com/g196et/MUT
+
 .. |17.kr1| replace:: MUT
 .. _17.kr1: https://github.com/g196et/MUT
+
+.. |17.kr2| replace:: MUT#2
+.. _17.kr2: https://github.com/g196et/MUT
 
 .. |15.kr1| replace:: kr1
 .. _15.kr1: https://github.com/vebster123/RealAuto
