@@ -186,8 +186,8 @@
      - hellroot_
      - |9.dz1.1|_ |9.dz1.2|_ |9.dz1.3|_ |9.dz1.4|_ [**+5**]
      -
-     -
-     -
+     - |9.kr1|_ [**+5**]
+     - |9.models|_ |9.ER|_ [**+5**]
      -
      -
      -
@@ -481,6 +481,13 @@
 .. _8.dz2.1: https://github.com/WhileTrueDoSex/WebHomeWork
 .. |8.dz2.2-5| replace:: 2-5
 .. _8.dz2.2-5: https://gist.github.com/WhileTrueDoSex
+
+.. |9.kr1| replace:: к/р #1
+.. _9.kr1: https://github.com/hellroot/constructor/blob/master/course_work.docx
+.. |9.models| replace:: #1
+.. _9.models: https://github.com/hellroot/constructor/tree/master/constructor/models
+.. |9.ER| replace:: #2
+.. _9.ER: https://editor.ponyorm.com/user/hellroot/Constructor
 
 .. |10.dz2.1| replace:: 1
 .. _10.dz2.1: https://gist.github.com/NickVernal/5ab8bd1032a527768f5dd2cddda158bc
