@@ -202,7 +202,7 @@
      - Sergey16802_
      - |10.dz1.1|_ |10.dz1.2-4|_ [**+0**]
      -
-     -
+     - |10.dz3.1|_ [**+3**]
      -
      -
      -
@@ -619,6 +619,9 @@
 
 .. |5.dz3.1| replace:: 1
 .. _5.dz3.1: https://github.com/Hasuni/hw3
+
+.. |10.dz3.1| replace:: 1
+.. _10.dz3.1: https://github.com/Sergey16802/zadanie1/blob/master/myproject/wsgi.py
 
 .. |11.dz3.1| replace:: 1
 .. _11.dz3.1: https://github.com/AlekseiKrivo/myproject/blob/master/1.py
