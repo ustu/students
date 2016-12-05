@@ -268,7 +268,7 @@
      - |14.dz2.1|_ |14.dz2.2-5|_ [**+4**]
      - |14.dz3|_ [**+4**]
      -
-     -
+     - |14.dz5|_ 
      -
      -
      -
@@ -713,6 +713,9 @@
 
 .. |13.dz5| replace:: 1
 .. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
+
+.. |14.dz5| replace:: 1
+.. _14.dz5: https://github.com/Coderator3000/HW5
 
 .. |19.dz5| replace:: 1
 .. _19.dz5: https://github.com/kolalola/WebH4/blob/master/Pyramid.py
