@@ -201,7 +201,7 @@
      - Колесников Сергей
      - Sergey16802_
      - |10.dz1.1|_ |10.dz1.2-4|_ [**+0**]
-     -
+     - |10.dz2.1|_ |10.dz2.2-5|_ [**+3**]
      - |10.dz3.1|_ [**+3**]
      -
      -
@@ -578,6 +578,11 @@
 
 .. |5.dz2.1-5| replace:: 1-5
 .. _5.dz2.1-5: https://gist.github.com/Hasuni/d7d88abbd86c1fb9aa591463070fa554
+
+.. |10.dz2.1| replace:: 1
+.. _10.dz2.1: https://github.com/Sergey16802/zadanie1/tree/master/myproject
+.. |10.dz2.2-5| replace:: 2-5
+.. _10.dz2.2-5: https://gist.github.com/Sergey16802/034c6166800bfe248adb08c23615b199
 
 .. |11.dz2.1-5| replace:: 1-5
 .. _11.dz2.1-5: https://gist.github.com/AlekseiKrivo/c6c174b7cfd7ceebb4b61515bbd8c4af
