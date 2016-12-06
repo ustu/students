@@ -415,7 +415,7 @@
      -
      -
      - |23.kr1|_ [**+5**]
-     -
+     - |23.kr2|_ [**+5**]
      -
      -
      -
@@ -564,7 +564,7 @@
 
 .. |23.dz1.1| replace:: 1
 .. _23.dz1.1: https://github.com/ShimanovskayaK/MyProject
-.. |23.dz1.2-3| replace:: 2-3
+.. |23.dz1.2-3| replace:: 2,3
 .. _23.dz1.2-3: https://gist.github.com/ShimanovskayaK/d2ed9b52117b216568599ef8b7950dc4
 .. |23.dz1.4| replace:: 4
 .. _23.dz1.4: https://gist.github.com/ShimanovskayaK/2c15739dbec61ca535f9d9db6182c164
@@ -723,6 +723,8 @@
 
 .. |23.kr1| replace:: к/р #1
 .. _23.kr1: https://github.com/ShimanovskayaK/Kursovaya
+.. |23.kr2| replace:: к/р #2
+.. _23.kr2: https://github.com/ShimanovskayaK/Kursovaya
 
 .. |5.kr2.1| replace:: 1
 .. _5.kr2.1: https://github.com/Hasuni/Kursovaya-Rabota/blob/master/pyramid_blogr/models.py
