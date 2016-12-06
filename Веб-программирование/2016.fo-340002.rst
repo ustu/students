@@ -111,7 +111,7 @@
      - |4.dz5.1|_ [**+5**]
      -
      - |4.kr1|_ [**+5**]
-     -
+     - |4.kr2|_ [**+5**]
      -
      -
      -
@@ -677,3 +677,5 @@
 .. _12.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
 .. |13.kr1.1| replace:: к/р #1
 .. _13.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
+.. |4.kr2| replace:: к/р #2
+.. _4.kr2: https://github.com/LuizaKolobova/VebProject/tree/master/DB
