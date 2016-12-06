@@ -190,8 +190,8 @@
      -
      -
      -
-     -
-     -
+     - |9.kr1|_ [**+5**]
+     - |9.models|_ |9.ER|_ [**+5**]
      -
      -
      -
@@ -661,6 +661,12 @@
 .. _7.models: https://github.com/Lydmilamihaleva/Cosmetics/tree/master/cosmetics/models
 .. |7.ER| replace:: #2
 .. _7.ER: https://editor.ponyorm.com/user/Ducage/Cosmetics
+.. |9.kr1| replace:: к/р #1
+.. _9.kr1: https://github.com/hellroot/constructor/blob/master/course_work.docx
+.. |9.models| replace:: #1
+.. _9.models: https://github.com/hellroot/constructor/tree/master/constructor/models
+.. |9.ER| replace:: #2
+.. _9.ER: https://editor.ponyorm.com/user/hellroot/Constructor
 
 .. |4.kr1| replace:: к/р #1
 .. _4.kr1: https://github.com/LuizaKolobova/VebProject
