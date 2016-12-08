@@ -267,7 +267,7 @@
      - |14.dz1.1|_ |14.dz1.2-4|_ [**+5**]
      - |14.dz2.1|_ |14.dz2.2-5|_ [**+4**]
      - |14.dz3|_ [**+4**]
-     -
+     - |14.dz4|_
      - |14.dz5|_ [**+3**]
      -
      -
@@ -672,6 +672,13 @@
 .. _13.dz4.2-4: https://gist.github.com/ragozin-n/0489441251e41bbd606aad56645eef46
 .. |13.dz4.5| replace:: 5
 .. _13.dz4.5: https://gist.github.com/ragozin-n/9b172e40b7e6da417d06a4642ce68c04
+
+.. |14.dz4.1| replace:: 1
+.. _14.dz4.1: https://github.com/Coderator3000/HW4
+.. |14.dz4.2-4| replace:: 2-4
+.. _14.dz4.2-4: https://gist.github.com/Coderator3000/7456e602262537dbb9740dae22e98842
+.. |14.dz4.5| replace:: 5
+.. _14.dz4.5: https://gist.github.com/Coderator3000/16ff1ae26aebd9e26ea571d0ad4fcc51
 
 .. |15.dz4.1| replace:: 1
 .. _15.dz4.1: https://github.com/vebster123/web-hw4
