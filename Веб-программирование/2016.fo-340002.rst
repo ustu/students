@@ -192,8 +192,8 @@
      -
      - |9.kr1|_ [**+5**]
      - |9.models|_ |9.ER|_ [**+5**]
-     -
-     -
+     - |9.kr3|_ |9.doc|_ [**+5**]
+     - |9.kr4|_ [**+5**]
      -
      -
      -
@@ -667,6 +667,12 @@
 .. _9.models: https://github.com/hellroot/constructor/tree/master/constructor/models
 .. |9.ER| replace:: #2
 .. _9.ER: https://editor.ponyorm.com/user/hellroot/Constructor
+.. |9.kr3| replace:: #1
+.. _9.kr3: https://github.com/hellroot/constructor/tree/master/constructor
+.. |9.doc| replace:: #2 
+.. _9.doc: https://github.com/hellroot/constructor/blob/master/course_work.docx
+.. |9.kr4| replace:: #1
+.. _9.kr4: https://github.com/hellroot/constructor/tree/master/constructor
 
 .. |4.kr1| replace:: к/р #1
 .. _4.kr1: https://github.com/LuizaKolobova/VebProject
