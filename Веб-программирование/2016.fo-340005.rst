@@ -396,7 +396,7 @@
      - |22.dz2.1|_ |22.dz2.2-5|_ [**+5**]
      - |22.dz3|_ [**+5**]
      - |22.dz4.1|_ |22.dz4.2-4|_ |22.dz4.5|_ копия @EsaulkovNikolay [**переделать**]
-     -
+     - 
      -
      -
      -
@@ -731,7 +731,5 @@
 .. |23.kr2| replace:: к/р #2
 .. _23.kr2: https://github.com/ShimanovskayaK/Kursovaya
 
-.. |5.kr2.1| replace:: 1
-.. _5.kr2.1: https://github.com/Hasuni/Kursovaya-Rabota/blob/master/pyramid_blogr/models.py
-.. |5.kr2.2| replace:: 2
-.. _5.kr2.2: https://github.com/Hasuni/Kursovaya-Rabota/blob/master/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%91%D0%94.jpg
+.. |22.kr1| replace:: к/р #1
+.. _22.kr1: https://github.com/Zixs/K-P
