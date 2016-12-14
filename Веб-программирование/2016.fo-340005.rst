@@ -735,3 +735,6 @@
 .. _5.kr2.1: https://github.com/Hasuni/Kursovaya-Rabota/blob/master/pyramid_blogr/models.py
 .. |5.kr2.2| replace:: 2
 .. _5.kr2.2: https://github.com/Hasuni/Kursovaya-Rabota/blob/master/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%91%D0%94.jpg
+
+.. |17.kr1| replace:: 1
+.. _.kr1: https://github.com/Zixs/K-P
