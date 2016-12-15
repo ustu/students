@@ -282,7 +282,7 @@
      - eduardpak96_
      - |15.dz1.1|_ |15.dz1.2-4|_ [**+4**]
      -
-     -
+     - |15.dz3|_
      -
      -
      -
@@ -633,6 +633,9 @@
 
 .. |14.dz3.1| replace:: 1
 .. _14.dz3.1: https://github.com/Ovchinnickova2016/myproject/blob/master/WSGI.py
+
+.. |15.dz3| replace:: 1
+.. _15.dz3: https://github.com/eduardpak96/myproject/blob/master/wsgi.py
 
 .. |16.dz3| replace:: 1
 .. _16.dz3: https://github.com/Hyuugo/myproject
