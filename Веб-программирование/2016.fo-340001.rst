@@ -255,7 +255,7 @@
      - |13.dz5|_ [**+5**]
      -
      - |13.kr1|_ [**+5**]
-     -
+     - |13.kr2|_ [**+5**]
      -
      -
      -
@@ -793,3 +793,6 @@
 
 .. |19.kr1| replace:: 1
 .. _19.kr1: https://github.com/kolalola/FindDetective
+
+.. |13.kr2| replace:: #2
+.. _13.kr2: https://github.com/ragozin-n/mytasks-pwa/tree/master/db_info
