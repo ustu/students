@@ -283,8 +283,8 @@
      - |15.dz1.1|_ |15.dz1.2-4|_ [**+4**]
      -
      - |15.dz3|_ [**+3**]
-     -
-     -
+     - |15.dz4.1|_ |15.dz4.2-4|_ |15.dz4.5|_ [**+3**]
+     - |15.dz5|_ [**+3**]
      -
      -
      -
@@ -675,6 +675,13 @@
 .. |14.dz4.5| replace:: 5
 .. _14.dz4.5: https://gist.github.com/Ovchinnickova2016/32d1700f50df054c545ff7fa5b691622
 
+.. |15.dz4.1| replace:: 1
+.. _15.dz4.1: https://github.com/eduardpak96/myproject/blob/master/j.py
+.. |15.dz4.2-4| replace:: 2-4
+.. _15.dz4.2-4: https://gist.github.com/eduardpak96/60f09225da7a81b8921a250e9dc66ed7
+.. |15.dz4.5| replace:: 5
+.. _15.dz4.5: https://gist.github.com/eduardpak96/4abbdf9518e37aff2d38648b4d6786fc
+
 .. |16.dz4.1| replace:: 1
 .. _16.dz4.1: https://github.com/Hyuugo/myproject
 .. |16.dz4.2-4| replace:: 2-4
@@ -713,6 +720,9 @@
 
 .. |14.dz5| replace:: 1
 .. _14.dz5: https://gist.github.com/Ovchinnickova2016/83d329737b96d37e110cda01402c316d
+
+.. |15.dz5| replace:: 1
+.. _15.dz5: https://github.com/eduardpak96/myproject/blob/master/pyramd.py
 
 .. |16.dz5| replace:: 1
 .. _16.dz5: https://github.com/Hyuugo/myproject
