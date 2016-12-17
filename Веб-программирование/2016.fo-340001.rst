@@ -184,9 +184,9 @@
    * - 9
      - Краглик Игорь Дмитриевич
      - TacticKrieg_
-     -
-     -
-     -
+     - |9.dz1.1|_ |9.dz1.2-3|_ |9.dz1.4|_ [**+3**]
+     - |9.dz2.1|_ |9.dz2.2-5|_ [**+3**]
+     - |9.dz3|_ [**+3**]
      -
      -
      -
@@ -442,6 +442,13 @@
 .. |8.dz1.2-4| replace:: 2-4
 .. _8.dz1.2-4: https://gist.github.com/hallsands/f380d388bb14784f3fcf988d75aaaec4
 
+.. |9.dz1.1| replace:: 1
+.. _9.dz1.1: https://github.com/TacticKrieg/myproject
+.. |9.dz1.2-3| replace:: 2-3
+.. _9.dz1.2-3: https://gist.github.com/TacticKrieg/432aa3b0273f812be64620ffb38dd63e
+.. |9.dz1.4| replace:: 4
+.. _9.dz1.4: https://gist.github.com/TacticKrieg/8473d9d2bad422875565a3ce7450de58
+
 .. |10.dz1.1| replace:: 1
 .. _10.dz1.1: https://github.com/ShatteredMind/Webprogramming
 .. |10.dz1.2-4| replace:: 2-4
@@ -530,6 +537,11 @@
 .. |8.dz2.1-5| replace:: 1-5
 .. _8.dz2.1-5: https://gist.github.com/hallsands/70b39e3c71b5b339d10bbdbb71ade93d
 
+.. |9.dz2.1| replace:: 1
+.. _9.dz2.1:  https://github.com/TacticKrieg/myproject/blob/master/static_server.py
+.. |9.dz2.2-5| replace:: 2-5
+.. _9.dz2.2-5: https://gist.github.com/TacticKrieg/a61ba7b6dbb5d0f779d4c405129f7768
+
 .. |11.dz2.1| replace:: 1
 .. _11.dz2.1: https://github.com/g196et/WebProg
 .. |11.dz2.2-5| replace:: 2-5
@@ -601,6 +613,9 @@
 
 .. |8.dz3| replace:: 1
 .. _8.dz3: https://gist.github.com/hallsands/814782cdbb31e6cef422868d9b9eac89
+
+.. |9.dz3| replace:: 1
+.. _9.dz3: https://github.com/TacticKrieg/myproject/blob/master/static_server.py
 
 .. |11.dz3| replace:: 1
 .. _11.dz3: https://github.com/g196et/WebProg/tree/master/WSGI%2BMiddleware
