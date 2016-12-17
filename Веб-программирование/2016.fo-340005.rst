@@ -203,8 +203,8 @@
      - |10.dz1.1|_ |10.dz1.2-4|_ [**+0**]
      - |10.dz2.1|_ |10.dz2.2-5|_ [**+3**]
      - |10.dz3.1|_ [**+3**]
-     -
-     -
+     - |10.dz4.1|_ |10.dz4.2-4|_ |10.dz4.5|_ [**+3**]
+     - |10.dz5|_ [**+3**]
      -
      -
      -
@@ -658,6 +658,13 @@
 .. |5.dz4.5| replace:: 5
 .. _5.dz4.5: https://gist.github.com/Hasuni/27815c84867c4e32e03ef86c2e264ed2
 
+.. |10.dz4.1| replace:: 1
+.. _10.dz4.1: https://github.com/Sergey16802/jinja
+.. |10.dz4.2-4| replace:: 2-4
+.. _10.dz4.2-4: https://gist.github.com/Sergey16802/e45972a2e5af2662307346a44648aa24
+.. |10.dz4.5| replace:: 5
+.. _10.dz4.5: https://gist.github.com/Sergey16802/3695d4defcfb2a301669caa1cf027e09
+
 .. |14.dz4.1| replace:: 1
 .. _14.dz4.1: https://github.com/Ovchinnickova2016/myproject
 .. |14.dz4.2-4| replace:: 2-4
@@ -697,6 +704,9 @@
 
 .. |5.dz5| replace:: 1
 .. _5.dz5: https://gist.github.com/Hasuni/35d1a8bf78e6caa0d06c5b93e917b3f1
+
+.. |10.dz5| replace:: 1
+.. _10.dz5: https://github.com/Sergey16802/pyr
 
 .. |14.dz5| replace:: 1
 .. _14.dz5: https://gist.github.com/Ovchinnickova2016/83d329737b96d37e110cda01402c316d
