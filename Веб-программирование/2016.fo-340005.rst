@@ -271,7 +271,7 @@
      - |14.dz5|_ [**+3**]
      -
      - |14.kr1|_ [**+5**]
-     -
+     - |14.kr2.1|_ |14.kr2.2|_ [**+5**]
      -
      -
      -
@@ -335,7 +335,7 @@
      - |18.dz5|_ [**+4**]
      -
      - |18.kr1|_ [**+5**]
-     -
+     - |18.kr2.1|_ |18.kr2.2|_ [**+5**]
      -
      -
      -
@@ -735,3 +735,13 @@
 .. _5.kr2.1: https://github.com/Hasuni/Kursovaya-Rabota/blob/master/pyramid_blogr/models.py
 .. |5.kr2.2| replace:: 2
 .. _5.kr2.2: https://github.com/Hasuni/Kursovaya-Rabota/blob/master/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%91%D0%94.jpg
+
+.. |14.kr2.1| replace:: 1
+.. _14.kr2.1: https://github.com/artofmind/coursework/tree/master
+.. |14.kr2.2| replace:: 2
+.. _14.kr2.2: https://github.com/artofmind/coursework/blob/master/er.JPG
+
+.. |18.kr2.1| replace:: 1
+.. _18.kr2.1: https://github.com/artofmind/coursework/tree/master
+.. |18.kr2.2| replace:: 2
+.. _18.kr2.2: https://github.com/artofmind/coursework/blob/master/er.JPG
