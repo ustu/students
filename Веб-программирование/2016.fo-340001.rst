@@ -287,7 +287,7 @@
      - |15.dz5|_ [**+5**]
      -
      - |15.kr1|_ [**+4**]
-     -
+     - |15.kr2|_ [**+5**]
      -
      -
      -
@@ -780,6 +780,9 @@
 
 .. |15.kr1| replace:: kr1
 .. _15.kr1: https://github.com/vebster123/RealAuto
+
+.. |15.kr2| replace:: kr2
+.. _15.kr2: https://github.com/vebster123/RealAuto/blob/master/er.jpg
 
 .. |19.kr1| replace:: 1
 .. _19.kr1: https://github.com/kolalola/FindDetective
