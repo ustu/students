@@ -288,7 +288,7 @@
      -
      - |15.kr1|_ [**+4**]
      - |15.kr2|_ [**+5**]
-     -
+     - |15.kr3|_
      -
      -
      -
@@ -811,3 +811,6 @@
 
 .. |13.kr2| replace:: #2
 .. _13.kr2: https://github.com/ragozin-n/mytasks-pwa/tree/master/db_info
+
+.. |15.kr3| replace:: #3
+.. _13.kr2: https://github.com/vebster123/RealAuto
