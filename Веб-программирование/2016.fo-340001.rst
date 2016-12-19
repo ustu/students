@@ -813,4 +813,4 @@
 .. _13.kr2: https://github.com/ragozin-n/mytasks-pwa/tree/master/db_info
 
 .. |15.kr3| replace:: #3
-.. _13.kr2: https://github.com/vebster123/RealAuto
+.. _15.kr2: https://github.com/vebster123/RealAuto
