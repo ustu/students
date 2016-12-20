@@ -281,7 +281,7 @@
      - Пак Эдуард
      - eduardpak96_
      - |15.dz1.1|_ |15.dz1.2-4|_ [**+4**]
-     -
+     - |15.dz2.1|_ |15.dz2.2-5|_ [**+3**]
      - |15.dz3|_ [**+3**]
      - |15.dz4.1|_ |15.dz4.2-4|_ |15.dz4.5|_ [**+3**]
      - |15.dz5|_ [**+3**]
@@ -589,6 +589,11 @@
 
 .. |14.dz2.1-5| replace:: 1-5
 .. _14.dz2.1-5: https://gist.github.com/Ovchinnickova2016/cba142572d1d0aab8f910ca085e55f73
+
+.. |15.dz2.1| replace:: 1
+.. _15.dz2.1: https://github.com/eduardpak96/myproject/blob/master/web.py
+.. |15.dz2.2-5| replace:: 2-5
+.. _15.dz2.2-5: https://gist.github.com/eduardpak96/48f94012013ec0b1f5ca83e4ada19754
 
 .. |16.dz2.2| replace:: 1
 .. _16.dz2.2: https://github.com/Hyuugo/myproject
