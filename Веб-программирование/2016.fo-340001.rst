@@ -64,7 +64,7 @@
      -
      - |1.kr1|_ [**+4**]
      - |1.kr2|_ [**+5**]
-     -
+     - |1.kr3|_
      -
      -
      -
@@ -830,3 +830,6 @@
 
 .. |15.kr3| replace:: #3
 .. _15.kr3: https://github.com/vebster123/RealAuto
+
+.. |1.kr3| replace:: #3
+.. _1.kr3: https://github.com/vebster123/RealAuto
