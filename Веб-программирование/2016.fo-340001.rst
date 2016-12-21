@@ -239,7 +239,7 @@
      - |12.dz5|_ [**+3**]
      -
      - |12.kr1|_ [**+4**]
-     -
+     - |12.kr2|_
      -
      -
      -
@@ -794,6 +794,9 @@
 
 .. |12.kr1| replace:: kr1
 .. _12.kr1: https://github.com/MalyshevaAlena/WebCourseWork
+
+.. |12.kr2| replace:: kr2
+.. _12.kr2: https://github.com/MalyshevaAlena/WebCourseWork
 
 .. |13.kr1| replace:: #1
 .. _13.kr1: https://github.com/ragozin-n/mytasks-pwa/tree/master
