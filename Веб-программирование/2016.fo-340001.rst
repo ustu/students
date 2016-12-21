@@ -159,7 +159,7 @@
      - |7.dz5.1|_ [**+3**]
      -
      - |12.kr1|_ [**+4**]
-     -
+     - |12.kr2|_
      -
      -
      -
@@ -785,6 +785,9 @@
 
 .. |6.kr2| replace:: 1
 .. _6.kr2: https://github.com/EsaulkovNikolay/StickersArt
+
+.. |7.kr2| replace:: kr2
+.. _12.kr2: https://github.com/MalyshevaAlena/WebCourseWork
 
 .. |11.kr1| replace:: MUT
 .. _11.kr1: https://github.com/g196et/MUT
