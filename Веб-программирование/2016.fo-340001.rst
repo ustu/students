@@ -786,9 +786,6 @@
 .. |6.kr2| replace:: 1
 .. _6.kr2: https://github.com/EsaulkovNikolay/StickersArt
 
-.. |12.kr2| replace:: kr2
-.. _12.kr2: https://github.com/MalyshevaAlena/WebCourseWork
-
 .. |11.kr1| replace:: MUT
 .. _11.kr1: https://github.com/g196et/MUT
 
