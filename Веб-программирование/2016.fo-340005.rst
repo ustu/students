@@ -399,7 +399,7 @@
      -
      -
      - |22.kr1|_ [**+3**]
-     -
+     - |22.kr2.1|_ |22.kr2.2|_
      -
      -
      -
@@ -780,3 +780,8 @@
 
 .. |17.kr1| replace:: к/р #1
 .. _17.kr1: https://github.com/Zixs/K-P
+
+.. |22.kr2.1| replace:: 1
+.. _22.kr2.1: https://github.com/Zixs/K-P
+.. |22.kr2.2| replace:: 2
+.. _22.kr2.2: https://github.com/Zixs/K-P/blob/master/bd.jpg
