@@ -576,6 +576,9 @@
 .. |1.dz2.2-5| replace:: 2-5
 .. _1.dz2.2-5: https://gist.github.com/zamekb/1190f2fc4caf6a874bf27daacf299e27
 
+.. |2.dz2.1-5| replace:: 1-5
+.. _2.dz2.1-5: https://gist.github.com/anonimD08/3d9b44c79cd3e148d35b54b4e2e81d1a
+
 .. |5.dz2.1-5| replace:: 1-5
 .. _5.dz2.1-5: https://gist.github.com/Hasuni/d7d88abbd86c1fb9aa591463070fa554
 
