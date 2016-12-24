@@ -344,8 +344,8 @@
    * - 19
      - Усталов Никита
      - NIKITORS_
-     -
-     -
+     - 
+     - |19.dz2.1|_ |19.dz2.2|_ |19.dz2.3|_ |19.dz2.5|_ 
      -
      -
      -
@@ -607,6 +607,16 @@
 
 .. |18.dz2.1-5| replace:: 1-5
 .. _18.dz2.1-5: https://gist.github.com/artofmind/7a61125745edcd198e1962731f6e97e3
+
+.. |19.dz2.1| replace:: 1
+.. _19.dz2.1: https://github.com/Nikitors/myproject
+.. |19.dz2.2| replace:: 2
+.. _19.dz2.2: https://gist.github.com/Nikitors/1afc19473a6610a1303750c6b1a01ae2
+.. |19.dz2.3| replace:: 3
+.. _19.dz2.3: https://gist.github.com/Nikitors/60751402a91158f4c316438fc6f4d5d2
+.. |19.dz2.5| replace:: 5
+.. _19.dz2.5: https://gist.github.com/Nikitors/068f108c24cdec76a1f76dfdb01dcfca
+
 
 .. |20.dz2.1| replace:: 1
 .. _20.dz2.1: https://gist.github.com/Farakhutdinova/462cc6714e0ce146c51be1e888524790
