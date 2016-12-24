@@ -15,8 +15,8 @@
      - |dz5|_ 29/10/2016
      - зачет (??/??/2017)
      - |kr1|_ (22/10/2016)
-     - |kr2|_ (12/11/2016)
-     - |kr3|_ (26/11/2016)
+     - |kr2|_ (26/11/2016)
+     - |kr3|_ (03/12/2016)
      - |kr4|_ (10/12/2016)
      - |kr5|_ (31/12/2016)
      - курсовая (??/??/2017)
@@ -63,7 +63,7 @@
      - |1.dz5.1|_ [**+5**]
      -
      - |1.kr1|_ [**+5**]
-     -
+     - |1.models|_ |1.ER|_ [**+5**]
      -
      -
      -
@@ -94,7 +94,7 @@
      -
      -
      -
-     - |3.kr1|_ [**+5**]
+     -
      -
      -
      -
@@ -107,11 +107,11 @@
      - |4.dz1.1|_ |4.dz1.2-4|_ [**+5**]
      - |4.dz2.1|_ |4.dz2.2|_ |4.dz2.3|_ |4.dz2.5|_ [**+5**]
      - |4.dz3.1|_ [**+5**]
-     -
-     -
+     - |4.dz4.1|_ |4.dz4.2-4|_ |4.dz4.5|_ [**+4**]
+     - |4.dz5.1|_ [**+5**]
      -
      - |4.kr1|_ [**+5**]
-     -
+     - |4.kr2|_ [**+5**]
      -
      -
      -
@@ -142,8 +142,8 @@
      - |6.dz4.1|_ |6.dz4.2-4|_ |6.dz4.5|_ [**+5**]
      - |6.dz5.1|_ [**+5**]
      -
-     -
-     -
+     - |6.kr1|_ [**+5**]
+     - |6.models|_ |6.ER|_ [**+5**]
      -
      -
      -
@@ -156,10 +156,10 @@
      - |7.dz2.5|_ [**+5**]
      - |7.dz3.1|_ [**+5**]
      - |7.dz4.1|_ |7.dz4.2-4|_ |7.dz4.5|_ [**+5**]
-     -
+     - |7.dz5.1|_ [**+5**]
      -
      - |7.kr1|_ [**+5**]
-     -
+     - |7.models|_ |7.ER|_ [**+5**]
      -
      -
      -
@@ -172,7 +172,7 @@
      - |8.dz2.1|_ |8.dz2.2-5|_ [**+5**]
      - |8.dz3.1|_ [**+5**]
      - |8.dz4.1|_ |8.dz4.2-5|_ [**+5**]
-     -
+     - |8.dz5.1|_ [**+5**]
      -
      -
      -
@@ -190,10 +190,10 @@
      -
      -
      -
-     -
-     -
-     -
-     -
+     - |9.kr1|_ [**+5**]
+     - |9.models|_ |9.ER|_ [**+5**]
+     - |9.kr3|_ |9.doc|_ [**+5**]
+     - |9.kr4|_ [**+5**]
      -
      -
      -
@@ -204,7 +204,7 @@
      - |10.dz2.1|_ |10.dz2.2|_ |10.dz2.3|_ |10.dz2.5|_ [**+5**]
      - |10.dz3.1|_ [**+5**]
      - |10.dz4.1|_ |10.dz4.2|_ |10.dz4.5|_ [**+5**]
-     -
+     - |10.dz5.1|_ [**+5**]
      -
      -
      -
@@ -218,7 +218,7 @@
      - pivasik228_
      - |11.dz1.1|_ |11.dz1.2-4|_ [**+5**]
      - |11.dz2.1|_ |11.dz2.2-5|_ [**+4**]
-     -
+     - |11.dz3.1|_ [**+3**]
      -
      -
      -
@@ -542,6 +542,9 @@
 .. |10.dz3.1| replace:: 1
 .. _10.dz3.1: https://gist.github.com/NickVernal/4de8578324887d568689f11c98398716
 
+.. |11.dz3.1| replace:: 1
+.. _11.dz3.1: https://gist.github.com/pivasik228/c85d5d4e6763a68dead662b7030e0247
+
 .. |13.dz3.1| replace:: 1
 .. _13.dz3.1: https://gist.github.com/zasycha/f82779f403107d643e2426eab1fe9b12
 
@@ -601,10 +604,24 @@
 .. |13.dz4.5| replace:: 5
 .. _13.dz4.5: https://gist.github.com/zasycha/dad1b2b9860908561951abe48750b806
 
+
+.. |4.dz4.1| replace:: 1
+.. _4.dz4.1: https://github.com/LuizaKolobova/myproject2
+.. |4.dz4.2-4| replace:: 2-4
+.. _4.dz4.2-4 : https://gist.github.com/LuizaKolobova/dd1f27fd4d1f353f85e290e683edf0ac
+.. |4.dz4.5| replace:: 5
+.. _4.dz4.5: https://gist.github.com/LuizaKolobova/3a70962167ea552344fe485304a332d8
+
+
 .. Домашняя работа #5
+.. |10.dz5.1| replace:: 1
+.. _10.dz5.1: https://github.com/NickVernal/myproject/tree/master/hw_5
 
 .. |1.dz5.1| replace:: 1
 .. _1.dz5.1: https://github.com/Ducage/webhw/blob/master/pyramid.py
+
+.. |4.dz5.1| replace:: 1
+.. _4.dz5.1: https://github.com/LuizaKolobova/myproject3
 
 .. |5.dz5.1| replace:: 1
 .. _5.dz5.1: https://github.com/mMatvey/myProject/blob/master/pyramid/app.py
@@ -612,20 +629,50 @@
 .. |6.dz5.1| replace:: 1
 .. _6.dz5.1: https://github.com/evgenymarkov/web_homework5
 
+.. |8.dz5.1| replace:: 1
+.. _8.dz5.1: https://github.com/WhileTrueDoSex/WebHomeWork
+
 .. |12.dz5.1| replace:: 1
 .. _12.dz5.1: https://github.com/Lixa141/myproject/blob/master/pyramid.py
 
 .. |13.dz5.1| replace:: 1
 .. _13.dz5.1: https://github.com/zasycha/myproject/blob/master/pyramid.py
 
+.. |7.dz5.1| replace:: 1
+.. _7.dz5.1: https://gist.github.com/Lydmilamihaleva/0fb6ef38b3b25c7d73148d1f57305622
+
 .. Курсовая работа
 
 .. |1.kr1| replace:: к/р #1
 .. _1.kr1: https://github.com/Lydmilamihaleva/Cosmetics
-.. |3.kr1| replace:: к/р #1
-.. _3.kr1: https://github.com/Lydmilamihaleva/Cosmetics
+.. |1.models| replace:: #1
+.. _1.models: https://github.com/Lydmilamihaleva/Cosmetics/tree/master/cosmetics/models
+.. |1.ER| replace:: #2
+.. _1.ER: https://editor.ponyorm.com/user/Ducage/Cosmetics
+.. |6.kr1| replace:: к/р #1
+.. _6.kr1: https://github.com/Lydmilamihaleva/Cosmetics
+.. |6.models| replace:: #1
+.. _6.models: https://github.com/Lydmilamihaleva/Cosmetics/tree/master/cosmetics/models
+.. |6.ER| replace:: #2
+.. _6.ER: https://editor.ponyorm.com/user/Ducage/Cosmetics
 .. |7.kr1| replace:: к/р #1
 .. _7.kr1: https://github.com/Lydmilamihaleva/Cosmetics
+.. |7.models| replace:: #1
+.. _7.models: https://github.com/Lydmilamihaleva/Cosmetics/tree/master/cosmetics/models
+.. |7.ER| replace:: #2
+.. _7.ER: https://editor.ponyorm.com/user/Ducage/Cosmetics
+.. |9.kr1| replace:: к/р #1
+.. _9.kr1: https://github.com/hellroot/constructor/blob/master/course_work.docx
+.. |9.models| replace:: #1
+.. _9.models: https://github.com/hellroot/constructor/tree/master/constructor/models
+.. |9.ER| replace:: #2
+.. _9.ER: https://editor.ponyorm.com/user/hellroot/Constructor
+.. |9.kr3| replace:: #1
+.. _9.kr3: https://github.com/hellroot/constructor/tree/master/constructor
+.. |9.doc| replace:: #2 
+.. _9.doc: https://github.com/hellroot/constructor/blob/master/course_work.docx
+.. |9.kr4| replace:: #1
+.. _9.kr4: https://github.com/hellroot/constructor/tree/master/constructor
 
 .. |4.kr1| replace:: к/р #1
 .. _4.kr1: https://github.com/LuizaKolobova/VebProject
@@ -636,3 +683,5 @@
 .. _12.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
 .. |13.kr1.1| replace:: к/р #1
 .. _13.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
+.. |4.kr2| replace:: к/р #2
+.. _4.kr2: https://github.com/LuizaKolobova/VebProject/tree/master/DB

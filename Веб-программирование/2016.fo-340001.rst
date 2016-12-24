@@ -15,8 +15,8 @@
      - |dz5|_ 29/10/2016
      - зачет (??/??/2017)
      - |kr1|_ (22/10/2016)
-     - |kr2|_ (12/11/2016)
-     - |kr3|_ (26/11/2016)
+     - |kr2|_ (26/11/2016)
+     - |kr3|_ (03/12/2016)
      - |kr4|_ (10/12/2016)
      - |kr5|_ (31/12/2016)
      - курсовая (??/??/2017)
@@ -60,11 +60,11 @@
      - |1.dz2.1|_ |1.dz2.2-5|_ [**+5**]
      - |1.dz3|_ [**+5**]
      - |1.dz4.1|_ |1.dz4.2-4|_ |1.dz4.5|_ [**+4**]
+     - |1.dz5|_ [**+4**]
      -
-     -
-     -
-     -
-     -
+     - |1.kr1|_ [**+4**]
+     - |1.kr2|_ [**+5**]
+     - |1.kr3|_ [**+5**]
      -
      -
      -
@@ -92,10 +92,10 @@
      - |3.dz2.1|_ |3.dz2.2-5|_ [**+5**]
      - |3.dz3|_ [**+5**]
      - |3.dz4.1|_ |3.dz4.2-4|_ |3.dz4.5|_ [**+5**]
+     - |3.dz5|_ [**+5**]
      -
-     -
-     -
-     -
+     - |3.kr1|_ [**+3**]
+     - |3.kr2|_ [**+4**]
      -
      -
      -
@@ -143,7 +143,7 @@
      - |6.dz5|_ [**+5**]
      -
      - |6.kr1|_ [**+5**]
-     -
+     - |6.kr2|_ [**+5**]
      -
      -
      -
@@ -156,10 +156,10 @@
      - |7.dz2.1|_ |7.dz2.2-5|_ [**+4**]
      - |7.dz3.1|_ |7.dz3.2|_ [**+5**]
      -
+     - |7.dz5.1|_ [**+3**]
      -
-     -
-     -
-     -
+     - |12.kr1|_ [**+4**]
+     - |12.kr2|_ [**+4**]
      -
      -
      -
@@ -172,7 +172,7 @@
      - |8.dz2.1-5|_ [**+5**]
      - |8.dz3|_ [**+5**]
      - |8.dz4.1|_ |8.dz4.2-4|_ |8.dz4.5|_ [**+5**]
-     -
+     - |8.dz5|_ [**+4**]
      -
      - |8.kr1|_ [**+5**]
      -
@@ -184,9 +184,9 @@
    * - 9
      - Краглик Игорь Дмитриевич
      - TacticKrieg_
-     -
-     -
-     -
+     - |9.dz1.1|_ |9.dz1.2-3|_ |9.dz1.4|_ [**+3**]
+     - |9.dz2.1|_ |9.dz2.2-5|_ [**+3**]
+     - |9.dz3|_ [**+3**]
      -
      -
      -
@@ -201,8 +201,8 @@
      - Леконцев Александр Алексеевич
      - ShatteredMind_
      - |10.dz1.1|_ |10.dz1.2-4|_ [**+5**]
-     -
-     -
+     - |10.dz2.1-5|_ [**+0**]
+     - |10.dz3.1|_ [**+3**]
      -
      -
      -
@@ -223,7 +223,7 @@
      - |11.dz5.1|_ [**+5**]
      -
      - |11.kr1|_ [**+5**]
-     -
+     - |11.kr2|_ [**+4**]
      -
      -
      -
@@ -236,10 +236,10 @@
      - |12.dz2.1|_ |12.dz2.2-5|_ [**+4**]
      - |12.dz3|_ [**+5**]
      -
+     - |12.dz5|_ [**+3**]
      -
-     -
-     -
-     -
+     - |12.kr1|_ [**+4**]
+     - |12.kr2|_ [**+4**]
      -
      -
      -
@@ -255,7 +255,7 @@
      - |13.dz5|_ [**+5**]
      -
      - |13.kr1|_ [**+5**]
-     -
+     - |13.kr2|_ [**+5**]
      -
      -
      -
@@ -267,8 +267,8 @@
      - |14.dz1.1|_ |14.dz1.2-4|_ [**+5**]
      - |14.dz2.1|_ |14.dz2.2-5|_ [**+4**]
      - |14.dz3|_ [**+4**]
-     -
-     -
+     - |14.dz4.1|_ |14.dz4.2-4|_ |14.dz4.5|_ [**+3**]
+     - |14.dz5|_ [**+3**]
      -
      -
      -
@@ -284,11 +284,11 @@
      - |15.dz2.1|_ |15.dz2.2-5|_ [**+5**]
      - |15.dz3|_ [**+5**]
      - |15.dz4.1|_ |15.dz4.2-4.1|_ |15.dz4.2-4.2|_ |15.dz4.5|_ копия @ragozin-n [**переделать**]
+     - |15.dz5|_ [**+5**]
      -
-     -
-     -
-     -
-     -
+     - |15.kr1|_ [**+4**]
+     - |15.kr2|_ [**+5**]
+     - |15.kr3|_ [**+5**]
      -
      -
      -
@@ -299,11 +299,11 @@
      - |16.dz1.1|_ |16.dz1.2-4|_ [**+5**]
      - |16.dz2.1|_ |16.dz2.2,3,5|_ [**+4**]
      - |16.dz3|_ [**+5**]
-     -
-     -
+     - |16.dz4.1|_ |16.dz4.2-4.4|_ |16.dz4.5|_ [**+0**]
+     - |16.dz5|_ [**+3**]
      -
      - |16.kr1|_ [**5**]
-     -
+     - |16.kr2|_ [**+4**]
      -
      -
      -
@@ -313,13 +313,13 @@
      - Усов Максим Александрович
      - MaxUsov_
      - |17.dz1.1|_ |17.dz1.2-4|_ [**+5**]
-     - |17.dz2.1|_ |17.dz2.2-5|_ [**+5**]
+     - |17.dz2.1|_ |17.dz2.2-5|_ [**+0**]
      - |17.dz3|_ [**+5**]
      - |17.dz4.1|_ |17.dz4.2-4|_ |17.dz4.5|_ [**+5**]
-     -
+     - |17.dz5|_ [**+4**]
      -
      - |17.kr1|_ [**+5**]
-     -
+     - |17.kr2|_ [**+4**]
      -
      -
      -
@@ -350,7 +350,7 @@
      - |19.dz4.1-4|_ |19.dz4.5|_ [**+5**]
      - |19.dz5|_ [**+5**]
      -
-     -
+     - |19.kr1|_ [**+5**]
      -
      -
      -
@@ -442,6 +442,13 @@
 .. |8.dz1.2-4| replace:: 2-4
 .. _8.dz1.2-4: https://gist.github.com/hallsands/f380d388bb14784f3fcf988d75aaaec4
 
+.. |9.dz1.1| replace:: 1
+.. _9.dz1.1: https://github.com/TacticKrieg/myproject
+.. |9.dz1.2-3| replace:: 2-3
+.. _9.dz1.2-3: https://gist.github.com/TacticKrieg/432aa3b0273f812be64620ffb38dd63e
+.. |9.dz1.4| replace:: 4
+.. _9.dz1.4: https://gist.github.com/TacticKrieg/8473d9d2bad422875565a3ce7450de58
+
 .. |10.dz1.1| replace:: 1
 .. _10.dz1.1: https://github.com/ShatteredMind/Webprogramming
 .. |10.dz1.2-4| replace:: 2-4
@@ -530,6 +537,11 @@
 .. |8.dz2.1-5| replace:: 1-5
 .. _8.dz2.1-5: https://gist.github.com/hallsands/70b39e3c71b5b339d10bbdbb71ade93d
 
+.. |9.dz2.1| replace:: 1
+.. _9.dz2.1:  https://github.com/TacticKrieg/myproject/blob/master/static_server.py
+.. |9.dz2.2-5| replace:: 2-5
+.. _9.dz2.2-5: https://gist.github.com/TacticKrieg/a61ba7b6dbb5d0f779d4c405129f7768
+
 .. |11.dz2.1| replace:: 1
 .. _11.dz2.1: https://github.com/g196et/WebProg
 .. |11.dz2.2-5| replace:: 2-5
@@ -574,6 +586,9 @@
 .. |19.dz2.5| replace:: 5
 .. _19.dz2.5: https://gist.github.com/kolalola/4e206b78e0665fc1e8463f1ffd077a4f
 
+.. |10.dz2.1-5| replace:: 1-5
+.. _10.dz2.1-5: https://gist.github.com/ShatteredMind/961cf1cf50d26330d61e620b03d3d71b
+
 .. Домашняя работа #3
 
 .. |1.dz3| replace:: 1
@@ -599,6 +614,9 @@
 .. |8.dz3| replace:: 1
 .. _8.dz3: https://gist.github.com/hallsands/814782cdbb31e6cef422868d9b9eac89
 
+.. |9.dz3| replace:: 1
+.. _9.dz3: https://github.com/TacticKrieg/myproject/blob/master/static_server.py
+
 .. |11.dz3| replace:: 1
 .. _11.dz3: https://github.com/g196et/WebProg/tree/master/WSGI%2BMiddleware
 
@@ -622,6 +640,9 @@
 
 .. |19.dz3| replace:: 1
 .. _19.dz3: https://github.com/kolalola/WebHomework1/tree/master/WSGI
+
+.. |10.dz3.1| replace:: 1
+.. _10.dz3.1: https://github.com/ShatteredMind/Webprogramming/blob/master/wsgi.py
 
 .. Домашняя работа #4
 
@@ -667,6 +688,13 @@
 .. |13.dz4.5| replace:: 5
 .. _13.dz4.5: https://gist.github.com/ragozin-n/9b172e40b7e6da417d06a4642ce68c04
 
+.. |14.dz4.1| replace:: 1
+.. _14.dz4.1: https://github.com/Coderator3000/HW4
+.. |14.dz4.2-4| replace:: 2-4
+.. _14.dz4.2-4: https://gist.github.com/Coderator3000/7456e602262537dbb9740dae22e98842
+.. |14.dz4.5| replace:: 5
+.. _14.dz4.5: https://gist.github.com/Coderator3000/16ff1ae26aebd9e26ea571d0ad4fcc51
+
 .. |15.dz4.1| replace:: 1
 .. _15.dz4.1: https://github.com/vebster123/web-hw4
 .. |15.dz4.2-4.1| replace:: 2-4.1
@@ -675,6 +703,13 @@
 .. _15.dz4.2-4.2: https://gist.github.com/vebster123/f58632c6bd09a9ebaa68c639b20884a1
 .. |15.dz4.5| replace:: 5
 .. _15.dz4.5: https://gist.github.com/vebster123/bedc1aa7e004fd7856946fddc077affa
+
+.. |16.dz4.1| replace:: 1
+.. _16.dz4.1: https://github.com/StXaver/myproject/blob/master/JinjaApplication.py
+.. |16.dz4.2-4.4| replace:: 2-4
+.. _16.dz4.2-4.4: https://gist.github.com/StXaver/e3d368379496ce34b2b76300b5899db0
+.. |16.dz4.5| replace:: 5
+.. _16.dz4.5: https://gist.github.com/StXaver/70a8647e6787a809664f944f6daf7262
 
 .. |17.dz4.1| replace:: 1
 .. _17.dz4.1: https://github.com/MaxUsov/web_programming
@@ -690,16 +725,46 @@
 
 .. Домашняя работа #5
 
+.. |3.dz5| replace:: 1
+.. _3.dz5: https://github.com/BallOfDestruction/Task-For-Web
+
+.. |7.dz5.1| replace:: 1
+.. _7.dz5.1: https://github.com/zaitov-pavel/webProgramming
+
+.. |8.dz5| replace:: 1
+.. _8.dz5: https://gist.github.com/hallsands/4203ccc1f1487e460162983f8040fc51
+
 .. |11.dz5.1| replace:: 1
 .. _11.dz5.1: https://github.com/g196et/WebProg/tree/master/PyramidTask
+
+.. |12.dz5| replace:: 1
+.. _12.dz5: https://github.com/MalyshevaAlena/webProgramming/tree/master/web5 
 
 .. |13.dz5| replace:: 1
 .. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
 
+.. |14.dz5| replace:: 1
+.. _14.dz5: https://github.com/Coderator3000/HW5
+
 .. |19.dz5| replace:: 1
 .. _19.dz5: https://github.com/kolalola/WebH4/blob/master/Pyramid.py
 
+.. |15.dz5| replace:: 1
+.. _15.dz5: https://github.com/vebster123/web-hw4/blob/master/pyramid.py
+
+.. |16.dz5| replace:: 1
+.. _16.dz5: https://github.com/StXaver/myproject/blob/master/Pyramid.py
+
+.. |17.dz5| replace:: 1
+.. _17.dz5: https://github.com/MaxUsov/web_programming/blob/master/Pyramid.py
+
+.. |1.dz5| replace:: 1
+.. _1.dz5: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject
+
 .. Курсовая работа
+
+.. |3.kr1| replace:: 1
+.. _3.kr1: https://github.com/BallOfDestruction/FactorioF
 
 .. |6.dz5| replace:: 1
 .. _6.dz5: https://github.com/EsaulkovNikolay/web-programming/
@@ -712,11 +777,26 @@
 
 .. Курсовая работа
 
+.. |3.kr2| replace:: 1
+.. _3.kr2: https://github.com/BallOfDestruction/FactorioF
+
 .. |6.kr1| replace:: 1
 .. _6.kr1: https://github.com/EsaulkovNikolay/StickersArt
 
+.. |6.kr2| replace:: 1
+.. _6.kr2: https://github.com/EsaulkovNikolay/StickersArt
+
 .. |11.kr1| replace:: MUT
 .. _11.kr1: https://github.com/g196et/MUT
+
+.. |11.kr2| replace:: MUT#2
+.. _11.kr2: https://github.com/g196et/MUT
+
+.. |12.kr1| replace:: kr1
+.. _12.kr1: https://github.com/MalyshevaAlena/WebCourseWork
+
+.. |12.kr2| replace:: kr2
+.. _12.kr2: https://github.com/MalyshevaAlena/WebCourseWork
 
 .. |13.kr1| replace:: #1
 .. _13.kr1: https://github.com/ragozin-n/mytasks-pwa/tree/master
@@ -724,5 +804,35 @@
 .. |16.kr1| replace:: MUT
 .. _16.kr1: https://github.com/g196et/MUT
 
+.. |16.kr2| replace:: MUT#2
+.. _16.kr2: https://github.com/g196et/MUT
+
 .. |17.kr1| replace:: MUT
 .. _17.kr1: https://github.com/g196et/MUT
+
+.. |17.kr2| replace:: MUT#2
+.. _17.kr2: https://github.com/g196et/MUT
+
+.. |15.kr1| replace:: kr1
+.. _15.kr1: https://github.com/vebster123/RealAuto
+
+.. |15.kr2| replace:: kr2
+.. _15.kr2: https://github.com/vebster123/RealAuto/blob/master/er.jpg
+
+.. |1.kr1| replace:: kr1
+.. _1.kr1: https://github.com/vebster123/RealAuto
+
+.. |1.kr2| replace:: kr2
+.. _1.kr2: https://github.com/vebster123/RealAuto/blob/master/er.jpg
+
+.. |19.kr1| replace:: 1
+.. _19.kr1: https://github.com/kolalola/FindDetective
+
+.. |13.kr2| replace:: #2
+.. _13.kr2: https://github.com/ragozin-n/mytasks-pwa/tree/master/db_info
+
+.. |15.kr3| replace:: #3
+.. _15.kr3: https://github.com/vebster123/RealAuto
+
+.. |1.kr3| replace:: #3
+.. _1.kr3: https://github.com/vebster123/RealAuto
