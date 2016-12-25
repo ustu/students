@@ -110,7 +110,7 @@
      -
      -
      -
-     -
+     - |4.kr1|_ 
      -
      -
      -
@@ -270,7 +270,7 @@
      - |14.dz4.1|_ |14.dz4.2-4|_ |14.dz4.5|_ [**+3**]
      - |14.dz5|_ [**+3**]
      -
-     -
+     - |14.kr1|_ 
      -
      -
      -
@@ -836,3 +836,9 @@
 
 .. |1.kr3| replace:: #3
 .. _1.kr3: https://github.com/vebster123/RealAuto
+
+.. |4.kr1| replace:: CW1
+.. _4.kr1: https://github.com/Coderator3000/course_work_SimpleLearnLang
+
+.. |14.kr1| replace:: CW1
+.. _14.kr1: https://github.com/Coderator3000/course_work_SimpleLearnLang
