@@ -409,7 +409,7 @@
      - Шимановская Каролина
      - ShimanovskayaK_
      - |23.dz1.1|_ |23.dz1.2-3|_ |23.dz1.4|_ [**+3**]
-     - 
+     - |23.dz2|_
      - 
      -
      -
@@ -605,6 +605,8 @@
 .. |22.dz2.2-5| replace:: 2-5
 .. _22.dz2.2-5: https://gist.github.com/shilak96/6c3ea7c81ab836512f96e35e4ea5c2d2
 
+.. |23.dz2| replace:: №2
+.. _23.dz2: https://gist.github.com/ShimanovskayaK/ae641230779427c312c93b5a2b09b248
 
 
 .. Домашняя работа #3
