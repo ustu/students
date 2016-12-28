@@ -301,7 +301,7 @@
      - |16.dz3|_ [**+5**]
      - |16.dz4.1|_ |16.dz4.2-4|_ |16.dz4.5|_ [**+4**]
      - |16.dz5|_ [**+4**]
-     -
+     - |16.kr2.1|_
      -
      -
      -
@@ -781,6 +781,9 @@
 .. _18.kr2.1: https://github.com/artofmind/coursework/tree/master
 .. |18.kr2.2| replace:: 2
 .. _18.kr2.2: https://github.com/artofmind/coursework/blob/master/er.JPG
+
+.. |16.kr2.1| replace:: 1
+.. _16.kr2.1: https://github.com/Hyuugo/streams/blob/master/description.docx
 
 .. |17.kr1| replace:: к/р #1
 .. _17.kr1: https://github.com/Zixs/K-P
