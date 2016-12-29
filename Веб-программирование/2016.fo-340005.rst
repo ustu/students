@@ -91,7 +91,7 @@
      -
      -
      -
-     -
+     - |3.dz4.1|_ |3.dz4.2-4|_ |3.dz4.5|_
      -
      -
      -
@@ -658,6 +658,13 @@
 .. _22.dz3: https://github.com/shilak96/myproject
 
 .. Домашняя работа #4
+
+.. |3.dz4.1| replace:: 1
+.. _3.dz4.1: https://github.com/VikiLural/myproject/blob/master/hw4.py
+.. |3.dz4.2-4| replace:: 2-4
+.. _3.dz4.2-4: https://gist.github.com/VikiLural/e9c9e3a63028a841e6c288c0e291cbb0
+.. |3.dz4.5| replace:: 5
+.. _3.dz4.5: https://gist.github.com/VikiLural/038c052b0dc68f2fce8c0ce01d3cfd32
 
 .. |5.dz4.1| replace:: 1
 .. _5.dz4.1: https://gist.github.com/Hasuni/2513bd98154b497f564238b5fe5ae79d
