@@ -256,9 +256,9 @@
      -
      - |13.kr1|_ [**+5**]
      - |13.kr2|_ [**+5**]
-     -
-     -
-     -
+     - |13.kr3|_
+     - |13.kr4|_
+     - |13.kr5|_
      -
      -
    * - 14
@@ -836,3 +836,12 @@
 
 .. |1.kr3| replace:: #3
 .. _1.kr3: https://github.com/vebster123/RealAuto
+
+.. |13.kr3| replace:: #3
+.. _13.kr3: https://github.com/ragozin-n/mytasks-pwa/tree/master
+
+.. |13.kr4| replace:: #4
+.. _13.kr4: https://github.com/ragozin-n/mytasks-pwa/tree/master
+
+.. |13.kr5| replace:: #5
+.. _13.kr5: https://github.com/ragozin-n/mytasks-pwa/tree/master
