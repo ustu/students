@@ -410,7 +410,7 @@
      - ShimanovskayaK_
      - |23.dz1.1|_ |23.dz1.2-3|_ |23.dz1.4|_ [**+3**]
      - |23.dz2|_
-     - 
+     - |23.dz3|_
      -
      -
      -
@@ -637,6 +637,9 @@
 
 .. |22.dz3| replace:: 1
 .. _22.dz3: https://github.com/shilak96/myproject
+
+.. |22.dz3| replace:: №3
+.. _22.dz3: https://github.com/ShimanovskayaK/MyProject/blob/master/wsgi-2
 
 
 .. Домашняя работа #4
