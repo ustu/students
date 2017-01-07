@@ -174,7 +174,7 @@
      - |8.dz4.1|_ |8.dz4.2-5|_ [**+5**]
      - |8.dz5.1|_ [**+5**]
      -
-     -
+     - |8.kr1|_
      -
      -
      -
@@ -685,3 +685,6 @@
 .. _13.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
 .. |4.kr2| replace:: к/р #2
 .. _4.kr2: https://github.com/LuizaKolobova/VebProject/tree/master/DB
+
+.. |8.kr1| replace:: к/р #1
+.. _8.kr1: https://github.com/WhileTrueDoSex/createfsm
