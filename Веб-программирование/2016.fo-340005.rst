@@ -411,14 +411,14 @@
      - |23.dz1.1|_ |23.dz1.2-3|_ |23.dz1.4|_ [**+3**]
      - |23.dz2|_
      - |23.dz3|_
-     -
-     -
+     - |23.dz4|_ |23.dz4.2-4|_ |23.dz4.5|_
+     - |23.dz5|_
      -
      - |23.kr1|_ [**+5**]
      - |23.kr2|_ 
-     -
-     -
-     -
+     - |23.kr3|_
+     - |23.kr4|_
+     - |23.kr5|_
      -
      -
    * - 24
@@ -644,7 +644,17 @@
 
 .. Домашняя работа #4
 
+.. |23.dz4.1| replace:: 1
+.. _23.dz4.1: https://github.com/ShimanovskayaK/MyProject/blob/master/Wsgi-jinja2.py
+.. |23.dz4.2-4| replace:: 2-4
+.. _23.dz4.2-4: https://gist.github.com/ShimanovskayaK/5cc0bacb858738131864d93ba4da811f
+.. |23.dz4.5| replace:: 5
+.. _23.dz4.5: https://gist.github.com/ShimanovskayaK/5cb8faf05eb1a61af8724da9e2004868
+
 .. Домашняя работа #5
+
+.. |23.dz5| replace:: №5
+.. _23.dz5: https://github.com/ShimanovskayaK/MyProject/tree/master/laba5
 
 .. Курсовая работа
 
@@ -662,3 +672,12 @@
 
 .. |23.kr2| replace:: к/р #2
 .. _23.kr2: https://github.com/ShimanovskayaK/Kursovaya 
+
+.. |23.kr3| replace:: к/р #3
+.. _23.kr3: https://github.com/ShimanovskayaK/VebProject 
+
+.. |23.kr4| replace:: к/р #4
+.. _23.kr4: https://github.com/ShimanovskayaK/VebProject 
+
+.. |23.kr5| replace:: к/р #5
+.. _23.kr5: https://github.com/ShimanovskayaK/VebProject 
