@@ -320,9 +320,9 @@
      -
      - |17.kr1|_ [**+3**]
      - |17.kr2.1|_ |17.kr2.2|_ [**+3**]
-     -
-     -
-     -
+     - |17.kr3.1|_ |17.kr3.2|_
+     - |17.kr4|_
+     - |17.kr5|_
      -
      -
    * - 18
@@ -795,3 +795,15 @@
 .. _17.kr2.1: https://github.com/Zixs/K-P
 .. |17.kr2.2| replace:: 2
 .. _17.kr2.2: https://github.com/Zixs/K-P/blob/master/bd.jpg
+
+.. |17.kr3.1| replace:: 1
+.. _17.kr3.1: https://github.com/Zixs/K-P/blob/master/kr1.docx
+.. |17.kr3.2| replace:: 2
+.. _17.kr3.2: https://github.com/Zixs/K-P
+
+.. |17.kr4.2| replace:: 1
+.. _17.kr4.2: https://github.com/Zixs/K-P
+
+.. |17.kr5.2| replace:: 1
+.. _17.kr5.2: https://github.com/Zixs/K-P
+
