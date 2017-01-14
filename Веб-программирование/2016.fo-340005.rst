@@ -795,3 +795,12 @@
 .. _17.kr2.1: https://github.com/Zixs/K-P
 .. |17.kr2.2| replace:: 2
 .. _17.kr2.2: https://github.com/Zixs/K-P/blob/master/bd.jpg
+
+.. |22.kr3.1| replace:: 1
+.. _22.kr3.1: https://github.com/Zixs/K-P
+
+.. |22.kr4.1| replace:: 1
+.. _22.kr4.1: https://github.com/Zixs/K-P
+
+.. |22.kr5.1| replace:: 1
+.. _22.kr5.1: https://github.com/Zixs/K-P
