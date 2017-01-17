@@ -327,6 +327,7 @@
      -
    * - 18
      - Чертов Семен Ильич
+     - Semyoncher_
      -
      -
      -
@@ -334,10 +335,9 @@
      -
      -
      -
-     -
-     -
-     -
-     -
+     - |18.kr1|_ 
+     - |18.kr2|_ 
+     - |18.kr3|_ 
      -
      -
      -
@@ -404,6 +404,7 @@
 .. _TacticKrieg:        https://github.com/TacticKrieg
 .. _Kostya174:          https://github.com/Kostya174
 .. _Ouroborochi:        https://github.com/Ouroborochi
+.. _Semyoncher:         https://github.com/semyoncher
 
 .. Домашняя работа #1
 
@@ -836,3 +837,12 @@
 
 .. |1.kr3| replace:: #3
 .. _1.kr3: https://github.com/vebster123/RealAuto
+
+.. |18.kr1| replace:: kr1
+.. _18.kr1: https://github.com/vebster123/RealAuto
+
+.. |18.kr2| replace:: kr2
+.. _18.kr2: https://github.com/vebster123/RealAuto/blob/master/er.jpg
+
+.. |18.kr3| replace:: #3
+.. _18.kr3: https://github.com/vebster123/RealAuto
