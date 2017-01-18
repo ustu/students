@@ -9,42 +9,62 @@
      - ФИО
      - github
      - |dz1|_ 03/09/2016
-     - |dz2|_ ??/??/2016
-     - |dz3|_ ??/??/2016
-     - |dz4|_ ??/??/2016
-     - |dz5|_ ??/??/2016
-     - курсовая (??/??/2017)
+     - |dz2|_ 10/09/2016
+     - |dz3|_ 17/09/2016
+     - |dz4|_ 15/10/2016
+     - |dz5|_ 29/10/2016
      - зачет (??/??/2017)
+     - |kr1|_ (22/10/2016)
+     - |kr2|_ (26/11/2016)
+     - |kr3|_ (03/12/2016)
+     - |kr4|_ (10/12/2016)
+     - |kr5|_ (31/12/2016)
+     - курсовая (??/??/2017)
      - тема курсовой
    * -
      -
      - 5 баллов
      - до 10/09/2016
-     - до ??/??/2016
-     - до ??/??/2016
-     - до ??/??/2016
-     - до ??/??/2016
+     - до 24/09/2016
+     - до 08/10/2016
+     - до 29/10/2016
+     - до 05/11/2016
      -
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
      -
      -
    * -
      -
      - 4 балла
      - до 17/09/2016
-     - до ??/??/2016
-     - до ??/??/2016
-     - до ??/??/2016
-     - до ??/??/2016
+     - до 01/10/2016
+     - до 22/10/2016
+     - до 05/11/2016
+     - до 12/11/2016
      -
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
      -
      -
    * - 1
      - Аристов Константин Ильич
+     - Kostya174_
+     - |1.dz1.1|_ |1.dz1.2-4|_ [**+5**]
+     - |1.dz2.1|_ |1.dz2.2-5|_ [**+5**]
+     - |1.dz3|_ [**+5**]
+     - |1.dz4.1|_ |1.dz4.2-4|_ |1.dz4.5|_ [**+4**]
+     - |1.dz5|_ [**+4**]
      -
-     -
-     -
-     -
-     -
+     - |1.kr1|_ [**+4**]
+     - |1.kr2|_ [**+5**]
+     - |1.kr3|_ [**+5**]
      -
      -
      -
@@ -60,12 +80,22 @@
      -
      -
      -
+     -
+     -
+     -
+     -
+     -
    * - 3
      - Вахтин Александр Николаевич
      - BallOfDestruction_
+     - |3.dz1.1|_ |3.dz1.2-4|_ [**+5**]
+     - |3.dz2.1|_ |3.dz2.2-5|_ [**+5**]
+     - |3.dz3|_ [**+5**]
+     - |3.dz4.1|_ |3.dz4.2-4|_ |3.dz4.5|_ [**+5**]
+     - |3.dz5|_ [**+5**]
      -
-     -
-     -
+     - |3.kr1|_ [**+3**]
+     - |3.kr2|_ [**+4**]
      -
      -
      -
@@ -74,6 +104,11 @@
    * - 4
      - Девятериков Илья Александрович
      - SckottJackson_
+     - |4.dz1.1|_ |4.dz1.2-4|_ [**+4**]
+     - |4.dz2.1|_ |4.dz2.2|_ |4.dz2.3|_ |4.dz2.5|_ [**+5**]
+     - |4.dz3|_ [**+5**]
+     -
+     -
      -
      -
      -
@@ -84,6 +119,11 @@
      -
    * - 5
      - Девятияров Артем Сергеевич
+     - Ouroborochi_
+     - |5.dz1.1|_ |5.dz1.2-4|_ [**+4**]
+     - |5.dz2.1|_ |5.dz2.2-5|_ [**+4**]
+     - |5.dz3|_ [**+5**]
+     -
      -
      -
      -
@@ -96,9 +136,14 @@
    * - 6
      - Есаулков Николай Сергеевич
      - EsaulkovNikolay_
+     - |6.dz1.1|_ |6.dz1.2-4|_ [**+5**]
+     - |6.dz2.1|_ |6.dz2.2-5|_ [**+5**]
+     - |6.dz3|_ [**+5**]
+     - |6.dz4.1|_ |6.dz4.2-4|_ |6.dz4.5|_ [**+5**]
+     - |6.dz5|_ [**+5**]
      -
-     -
-     -
+     - |6.kr1|_ [**+5**]
+     - |6.kr2|_ [**+5**]
      -
      -
      -
@@ -107,9 +152,14 @@
    * - 7
      - Заитов Павел Игоревич
      - zaitov-pavel_
+     - |7.dz1.1|_ |7.dz1.2-4|_ [**+3**]
+     - |7.dz2.1|_ |7.dz2.2-5|_ [**+4**]
+     - |7.dz3.1|_ |7.dz3.2|_ [**+5**]
      -
+     - |7.dz5.1|_ [**+3**]
      -
-     -
+     - |12.kr1|_ [**+4**]
+     - |12.kr2|_ [**+4**]
      -
      -
      -
@@ -118,8 +168,13 @@
    * - 8
      - Колмакова Дарья Андреевна
      - hallsands_
+     - |8.dz1.1|_ |8.dz1.2-4|_ [**+5**]
+     - |8.dz2.1-5|_ [**+5**]
+     - |8.dz3|_ [**+5**]
+     - |8.dz4.1|_ |8.dz4.2-4|_ |8.dz4.5|_ [**+5**]
+     - |8.dz5|_ [**+4**]
      -
-     -
+     - |8.kr1|_ [**+5**]
      -
      -
      -
@@ -129,8 +184,13 @@
    * - 9
      - Краглик Игорь Дмитриевич
      - TacticKrieg_
+     - |9.dz1.1|_ |9.dz1.2-3|_ |9.dz1.4|_ [**+3**]
+     - |9.dz2.1|_ |9.dz2.2-5|_ [**+3**]
+     - |9.dz3|_ [**+3**]
      -
      -
+     -
+     - |9.kr1|_ [**+5**]
      -
      -
      -
@@ -140,6 +200,11 @@
    * - 10
      - Леконцев Александр Алексеевич
      - ShatteredMind_
+     - |10.dz1.1|_ |10.dz1.2-4|_ [**+5**]
+     - |10.dz2.1-5|_ [**+0**]
+     - |10.dz3.1|_ [**+3**]
+     -
+     -
      -
      -
      -
@@ -151,9 +216,14 @@
    * - 11
      - Малахов Константин Денисович
      - g196et_
+     - |11.dz1.1|_ |11.dz1.2-4|_ [**+5**]
+     - |11.dz2.1|_ |11.dz2.2-5|_ [**+5**]
+     - |11.dz3|_ |11.dz3|_ [**+5**]
+     - |11.dz4.1|_ |11.dz4.2-4|_ |11.dz4.5|_ [**+0**]
+     - |11.dz5.1|_ [**+5**]
      -
-     -
-     -
+     - |11.kr1|_ [**+5**]
+     - |11.kr2|_ [**+4**]
      -
      -
      -
@@ -162,9 +232,14 @@
    * - 12
      - Малышева Алена Ивановна
      - MalyshevaAlena_
+     - |12.dz1.1|_ |12.dz1.2-4|_ [**+4**]
+     - |12.dz2.1|_ |12.dz2.2-5|_ [**+4**]
+     - |12.dz3|_ [**+5**]
      -
+     - |12.dz5|_ [**+3**]
      -
-     -
+     - |12.kr1|_ [**+4**]
+     - |12.kr2|_ [**+4**]
      -
      -
      -
@@ -174,8 +249,13 @@
      - Рагозин Никита Александрович
      - ragozin-n_
      - |13.dz1.1|_ |13.dz1.2-4|_ [**+5**]
+     - |13.dz2.1|_ |13.dz2.2-5|_ [**+5**]
+     - |13.dz3|_ [**+5**]
+     - |13.dz4.1|_ |13.dz4.2-4|_ |13.dz4.5|_ [**+5**]
+     - |13.dz5|_ [**+5**]
      -
-     -
+     - |13.kr1|_ [**+5**]
+     - |13.kr2|_ [**+5**]
      -
      -
      -
@@ -184,6 +264,11 @@
    * - 14
      - Рябов Максим Сергеевич
      - coderator3000_
+     - |14.dz1.1|_ |14.dz1.2-4|_ [**+5**]
+     - |14.dz2.1|_ |14.dz2.2-5|_ [**+4**]
+     - |14.dz3|_ [**+4**]
+     - |14.dz4.1|_ |14.dz4.2-4|_ |14.dz4.5|_ [**+3**]
+     - |14.dz5|_ [**+3**]
      -
      -
      -
@@ -194,11 +279,16 @@
      -
    * - 15
      - Салимгареев Максим Рафикович
-     - vebsjer123_
+     - vebster123_
+     - |15.dz1.1|_ |15.dz1.2-4|_ [**+5**]
+     - |15.dz2.1|_ |15.dz2.2-5|_ [**+5**]
+     - |15.dz3|_ [**+5**]
+     - |15.dz4.1|_ |15.dz4.2-4.1|_ |15.dz4.2-4.2|_ |15.dz4.5|_ копия @ragozin-n [**переделать**]
+     - |15.dz5|_ [**+5**]
      -
-     -
-     -
-     -
+     - |15.kr1|_ [**+4**]
+     - |15.kr2|_ [**+5**]
+     - |15.kr3|_ [**+5**]
      -
      -
      -
@@ -206,9 +296,14 @@
    * - 16
      - Терентьев Никита Александрович
      - StXaver_
+     - |16.dz1.1|_ |16.dz1.2-4|_ [**+5**]
+     - |16.dz2.1|_ |16.dz2.2,3,5|_ [**+4**]
+     - |16.dz3|_ [**+5**]
+     - |16.dz4.1|_ |16.dz4.2-4.4|_ |16.dz4.5|_ [**+0**]
+     - |16.dz5|_ [**+3**]
      -
-     -
-     -
+     - |16.kr1|_ [**5**]
+     - |16.kr2|_ [**+4**]
      -
      -
      -
@@ -217,9 +312,14 @@
    * - 17
      - Усов Максим Александрович
      - MaxUsov_
+     - |17.dz1.1|_ |17.dz1.2-4|_ [**+5**]
+     - |17.dz2.1|_ |17.dz2.2-5|_ [**+0**]
+     - |17.dz3|_ [**+5**]
+     - |17.dz4.1|_ |17.dz4.2-4|_ |17.dz4.5|_ [**+5**]
+     - |17.dz5|_ [**+4**]
      -
-     -
-     -
+     - |17.kr1|_ [**+5**]
+     - |17.kr2|_ [**+4**]
      -
      -
      -
@@ -236,11 +336,21 @@
      -
      -
      -
+     -
+     -
+     -
+     -
+     -
    * - 19
      - Шульц Михаил Андреевич
      - kolalola_
+     - |19.dz1.1|_ |19.dz1.2|_ |19.dz1.3|_ |19.dz1.4|_ [**+5**]
+     - |19.dz2.1|_ |19.dz2.2|_ |19.dz2.3|_ |19.dz2.5|_ [**+5**]
+     - |19.dz3|_ [**+5**]
+     - |19.dz4.1-4|_ |19.dz4.5|_ [**+5**]
+     - |19.dz5|_ [**+5**]
      -
-     -
+     - |19.kr1|_ [**+5**]
      -
      -
      -
@@ -257,9 +367,22 @@
 .. |dz5| replace:: дз #5 (Pyramid)
 .. _dz1: http://lectureskpd.readthedocs.org/kpd/_checkpoint.html
 .. _dz2: http://lecturesnet.readthedocs.org/net/_checkpoint.html
-.. _dz3: http://lectures.uralbash.ru/en/latest/5.web.server/_checkpoint.html
-.. _dz4: http://lectures.uralbash.ru/en/latest/6.www.sync/2.codding/_checkpoint.html
-.. _dz5: http://lectures.uralbash.ru/en/latest/6.www.sync/3.framework/pyramid/_checkpoint.html
+.. _dz3: http://lectureswww.readthedocs.io/5.web.server/_checkpoint.html
+.. _dz4: http://lectureswww.readthedocs.io/6.www.sync/2.codding/_checkpoint.html
+.. _dz5: http://lectureswww.readthedocs.io/6.www.sync/3.framework/pyramid/_checkpoint.html
+
+.. Kursach
+
+.. |kr1| replace:: к/р #1
+.. |kr2| replace:: к/р #2
+.. |kr3| replace:: к/р #3
+.. |kr4| replace:: к/р #4
+.. |kr5| replace:: к/р #5
+.. _kr1: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst
+.. _kr2: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst
+.. _kr3: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst
+.. _kr4: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst
+.. _kr5: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst
 
 .. GitHub
 
@@ -268,7 +391,7 @@
 .. _SckottJackson:      https://github.com/SckottJackson
 .. _ragozin-n:          https://github.com/ragozin-n
 .. _coderator3000:      https://github.com/coderator3000
-.. _vebsjer123:         https://github.com/vebsjer123
+.. _vebster123:         https://github.com/vebster123
 .. _EsaulkovNikolay:    https://github.com/EsaulkovNikolay
 .. _kolalola:           https://github.com/kolalola
 .. _MaxUsov:            https://github.com/MaxUsov
@@ -279,19 +402,437 @@
 .. _MalyshevaAlena:     https://github.com/MalyshevaAlena
 .. _zaitov-pavel:       https://github.com/zaitov-pavel
 .. _TacticKrieg:        https://github.com/TacticKrieg
+.. _Kostya174:          https://github.com/Kostya174
+.. _Ouroborochi:        https://github.com/Ouroborochi
 
 .. Домашняя работа #1
+
+.. |1.dz1.1| replace:: 1
+.. _1.dz1.1: https://github.com/Kostya174/WebProgrammingUniversity
+.. |1.dz1.2-4| replace:: 2-4
+.. _1.dz1.2-4: https://gist.github.com/Kostya174/7dcf62d15fd46c4441b8ac945c4386b3
+
+.. |3.dz1.1| replace:: 1
+.. _3.dz1.1: https://github.com/BallOfDestruction/Task-For-Web/tree/master/myproject
+.. |3.dz1.2-4| replace:: 2-4
+.. _3.dz1.2-4: https://gist.github.com/BallOfDestruction/baadd072f82cf77844179acd86de9b75
+
+.. |4.dz1.1| replace:: 1
+.. _4.dz1.1: https://github.com/SckottJackson/Web-programming-first-homework
+.. |4.dz1.2-4| replace:: 2-4
+.. _4.dz1.2-4: https://gist.github.com/SckottJackson/c031229b7664d8063b1e1b1dfd7c89d9/2c56bcdd62f5390470ee2a237258a82f705bbba5
+
+.. |5.dz1.1| replace:: 1
+.. _5.dz1.1: https://github.com/Ouroborochi/HomeWork1
+.. |5.dz1.2-4| replace:: 2-4
+.. _5.dz1.2-4: https://gist.github.com/Ouroborochi/7851560e6f8b6983480d3936bbc3185d
+
+.. |6.dz1.1| replace:: 1
+.. _6.dz1.1: https://github.com/EsaulkovNikolay/web-programming
+.. |6.dz1.2-4| replace:: 2-4
+.. _6.dz1.2-4: https://gist.github.com/EsaulkovNikolay/d673d4bcc1362d555e1f60a4a5e4b7ac
+
+.. |7.dz1.1| replace:: 1
+.. _7.dz1.1: https://github.com/zaitov-pavel/webProgramming
+.. |7.dz1.2-4| replace:: 2-4
+.. _7.dz1.2-4: https://gist.github.com/zaitov-pavel/875a94e59928edd469eb11d671be0d47
+
+.. |8.dz1.1| replace:: 1
+.. _8.dz1.1: https://github.com/hallsands/web-homework
+.. |8.dz1.2-4| replace:: 2-4
+.. _8.dz1.2-4: https://gist.github.com/hallsands/f380d388bb14784f3fcf988d75aaaec4
+
+.. |9.dz1.1| replace:: 1
+.. _9.dz1.1: https://github.com/TacticKrieg/myproject
+.. |9.dz1.2-3| replace:: 2-3
+.. _9.dz1.2-3: https://gist.github.com/TacticKrieg/432aa3b0273f812be64620ffb38dd63e
+.. |9.dz1.4| replace:: 4
+.. _9.dz1.4: https://gist.github.com/TacticKrieg/8473d9d2bad422875565a3ce7450de58
+
+.. |10.dz1.1| replace:: 1
+.. _10.dz1.1: https://github.com/ShatteredMind/Webprogramming
+.. |10.dz1.2-4| replace:: 2-4
+.. _10.dz1.2-4: https://gist.github.com/ShatteredMind
+
+.. |11.dz1.1| replace:: 1
+.. _11.dz1.1: https://github.com/g196et/WebProg
+.. |11.dz1.2-4| replace:: 2-4
+.. _11.dz1.2-4: https://gist.github.com/g196et/db7bc7ee93b0402a2b664c07416aea68
+
+.. |12.dz1.1| replace:: 1
+.. _12.dz1.1: https://github.com/MalyshevaAlena/webProgramming
+.. |12.dz1.2-4| replace:: 2-4
+.. _12.dz1.2-4: https://gist.github.com/MalyshevaAlena/ecb67db549fd4dbccab0906283438f46
+
 .. |13.dz1.1| replace:: 1
 .. _13.dz1.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-1
 .. |13.dz1.2-4| replace:: 2-4
 .. _13.dz1.2-4: https://gist.github.com/ragozin-n/821c243ff73e77426ae56e345ce5d7da
 
+.. |14.dz1.1| replace:: 1
+.. _14.dz1.1: https://github.com/Coderator3000/chpoker3000
+.. |14.dz1.2-4| replace:: 2-4
+.. _14.dz1.2-4: https://gist.github.com/Coderator3000/b2b17112c855c2bf79c97c31a347bcc5
+
+.. |15.dz1.1| replace:: 1
+.. _15.dz1.1: https://github.com/vebster123/myproject
+.. |15.dz1.2-4| replace:: 2-4
+.. _15.dz1.2-4: https://gist.github.com/vebster123/cc76c362fd445c385e4e8fbde5bce039
+
+.. |16.dz1.1| replace:: 1
+.. _16.dz1.1: https://github.com/StXaver/myproject
+.. |16.dz1.2-4| replace:: 2-4
+.. _16.dz1.2-4: https://gist.github.com/StXaver/b38c7e9d605ac8832762e9b1f14a2bd0
+
+.. |17.dz1.1| replace:: 1
+.. _17.dz1.1: https://github.com/MaxUsov/web_programming
+.. |17.dz1.2-4| replace:: 2-4
+.. _17.dz1.2-4: https://gist.github.com/MaxUsov/ebb07783c1acb98fd49d61eb6b5a4c46
+
+.. |19.dz1.1| replace:: 1
+.. _19.dz1.1: https://github.com/kolalola/WebHomework1
+.. |19.dz1.2| replace:: 2
+.. _19.dz1.2: https://gist.github.com/kolalola/53b385d53c4d69df04f87ff16277a7fc
+.. |19.dz1.3| replace:: 3
+.. _19.dz1.3: https://gist.github.com/kolalola/366d37ad75bfe7018edcf8678fee5c72
+.. |19.dz1.4| replace:: 4
+.. _19.dz1.4: https://gist.github.com/kolalola/2bbf08e520469312c5f61f604f34bf3f
+
 .. Домашняя работа #2
+
+.. |1.dz2.1| replace:: 1
+.. _1.dz2.1: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject
+.. |1.dz2.2-5| replace:: 2-5
+.. _1.dz2.2-5: https://gist.github.com/Kostya174/0c7bf8220f7965638988f945a118b985
+
+.. |3.dz2.1| replace:: 1
+.. _3.dz2.1: https://github.com/BallOfDestruction/Task-For-Web
+.. |3.dz2.2-5| replace:: 2-5
+.. _3.dz2.2-5: https://gist.github.com/BallOfDestruction/e72e982a2eadee8a88861260b1b31e6a
+
+.. |4.dz2.1| replace:: 1
+.. _4.dz2.1: https://github.com/SckottJackson/Web-programming-first-homework
+.. |4.dz2.2| replace:: 2
+.. _4.dz2.2: https://gist.github.com/SckottJackson/bd09233331f6b85bc5d5d84da3a5c9ed
+.. |4.dz2.3| replace:: 3
+.. _4.dz2.3: https://gist.github.com/SckottJackson/c9dbc5d06623a9b1fe009597bb9f56d4
+.. |4.dz2.5| replace:: 5
+.. _4.dz2.5: https://gist.github.com/SckottJackson/4cf096691effe8be55054e39aba6254c
+
+.. |5.dz2.1| replace:: 1
+.. _5.dz2.1: https://github.com/Ouroborochi/HomeWork1
+.. |5.dz2.2-5| replace:: 2-5
+.. _5.dz2.2-5: https://gist.github.com/Ouroborochi/44091c544d3f330b6751336ef64fcd98
+
+.. |6.dz2.1| replace:: 1
+.. _6.dz2.1: https://github.com/EsaulkovNikolay/web-programming
+.. |6.dz2.2-5| replace:: 2-5
+.. _6.dz2.2-5: https://gist.github.com/EsaulkovNikolay/c0c41a79774a2bd0b59f06c53efa3290
+
+.. |7.dz2.1| replace:: 1
+.. _7.dz2.1: https://github.com/zaitov-pavel/webProgramming
+.. |7.dz2.2-5| replace:: 2-5
+.. _7.dz2.2-5: https://gist.github.com/zaitov-pavel/33ee7e1be728a7f9aa65b5615f7cf876
+
+.. |8.dz2.1-5| replace:: 1-5
+.. _8.dz2.1-5: https://gist.github.com/hallsands/70b39e3c71b5b339d10bbdbb71ade93d
+
+.. |9.dz2.1| replace:: 1
+.. _9.dz2.1:  https://github.com/TacticKrieg/myproject/blob/master/static_server.py
+.. |9.dz2.2-5| replace:: 2-5
+.. _9.dz2.2-5: https://gist.github.com/TacticKrieg/a61ba7b6dbb5d0f779d4c405129f7768
+
+.. |11.dz2.1| replace:: 1
+.. _11.dz2.1: https://github.com/g196et/WebProg
+.. |11.dz2.2-5| replace:: 2-5
+.. _11.dz2.2-5: https://gist.github.com/g196et/9e5a161747df198ff3972ce3bcdd5897
+
+.. |12.dz2.1| replace:: 1
+.. _12.dz2.1: https://github.com/MalyshevaAlena/webProgramming
+.. |12.dz2.2-5| replace:: 2-5
+.. _12.dz2.2-5: https://gist.github.com/MalyshevaAlena/dbda86f576ed108b75eccce2b5f292bb
+
+.. |13.dz2.1| replace:: 1
+.. _13.dz2.1: https://github.com/ragozin-n/web-programming-homework/tree/master/http-task-2
+.. |13.dz2.2-5| replace:: 2-5
+.. _13.dz2.2-5: https://gist.github.com/ragozin-n/d70db5fe1cf2e95563e650c3dea77284
+
+.. |14.dz2.1| replace:: 1
+.. _14.dz2.1: https://github.com/Coderator3000/myproject
+.. |14.dz2.2-5| replace:: 2-5
+.. _14.dz2.2-5: https://gist.github.com/Coderator3000/aaf0262025ec73e21cf9cb8165e2e61a
+
+.. |15.dz2.2-5| replace:: 2-5
+.. _15.dz2.2-5: https://gist.github.com/vebster123/f127f1fabeac89f9ec9d688f65e176ff
+.. |15.dz2.1| replace:: 1
+.. _15.dz2.1: https://github.com/vebster123/myproject/blob/master/server.py
+
+.. |16.dz2.1| replace:: 1
+.. _16.dz2.1: https://github.com/StXaver/myproject
+.. |16.dz2.2,3,5| replace:: 2,3,5
+.. _16.dz2.2,3,5: https://gist.github.com/StXaver/1c6092a24b02ecbdb5be58de66b1cc02
+
+.. |17.dz2.1| replace:: 1
+.. _17.dz2.1: https://github.com/MaxUsov/web_programming
+.. |17.dz2.2-5| replace:: 2-5
+.. _17.dz2.2-5: https://gist.github.com/MaxUsov/0d5dbb6c258029522aab6aee2de3ac42
+
+.. |19.dz2.1| replace:: 1
+.. _19.dz2.1: https://github.com/kolalola/WebHomework1
+.. |19.dz2.2| replace:: 2
+.. _19.dz2.2: https://gist.github.com/kolalola/ffe8ff5722ee494b3f711340634b7ca0
+.. |19.dz2.3| replace:: 3
+.. _19.dz2.3: https://github.com/kolalola/RequestFromHTTPClient
+.. |19.dz2.5| replace:: 5
+.. _19.dz2.5: https://gist.github.com/kolalola/4e206b78e0665fc1e8463f1ffd077a4f
+
+.. |10.dz2.1-5| replace:: 1-5
+.. _10.dz2.1-5: https://gist.github.com/ShatteredMind/961cf1cf50d26330d61e620b03d3d71b
 
 .. Домашняя работа #3
 
+.. |1.dz3| replace:: 1
+.. _1.dz3: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject/server
+
+.. |3.dz3| replace:: 1
+.. _3.dz3: https://github.com/BallOfDestruction/Task-For-Web
+
+.. |4.dz3| replace:: 1
+.. _4.dz3: https://github.com/SckottJackson/Web-programming-first-homework/blob/master/WSGI.py
+
+.. |5.dz3| replace:: 1
+.. _5.dz3: https://github.com/Ouroborochi/HomeWork1
+
+.. |6.dz3| replace:: 1
+.. _6.dz3: https://github.com/EsaulkovNikolay/web-programming
+
+.. |7.dz3.1| replace:: 1
+.. _7.dz3.1: https://github.com/zaitov-pavel/webProgramming/blob/master/WSGI%20server.py
+.. |7.dz3.2| replace:: dz
+.. _7.dz3.2: https://github.com/zaitov-pavel/webProgramming/tree/master/lectures_wsgi_example-master
+
+.. |8.dz3| replace:: 1
+.. _8.dz3: https://gist.github.com/hallsands/814782cdbb31e6cef422868d9b9eac89
+
+.. |9.dz3| replace:: 1
+.. _9.dz3: https://github.com/TacticKrieg/myproject/blob/master/static_server.py
+
+.. |11.dz3| replace:: 1
+.. _11.dz3: https://github.com/g196et/WebProg/tree/master/WSGI%2BMiddleware
+
+.. |12.dz3| replace:: 1
+.. _12.dz3: https://github.com/MalyshevaAlena/webProgramming/blob/master/DZ3.py
+
+.. |13.dz3| replace:: 1
+.. _13.dz3: https://github.com/ragozin-n/web-programming-homework/tree/master/wsgi-task
+
+.. |14.dz3| replace:: 1
+.. _14.dz3: https://github.com/Coderator3000/HW3
+
+.. |15.dz3| replace:: 1
+.. _15.dz3: https://github.com/vebster123/myproject/blob/master/wsgi.py
+
+.. |16.dz3| replace:: 1
+.. _16.dz3: https://github.com/StXaver/myproject/blob/master/WSGIserver
+
+.. |17.dz3| replace:: 1
+.. _17.dz3: https://github.com/MaxUsov/web_programming
+
+.. |19.dz3| replace:: 1
+.. _19.dz3: https://github.com/kolalola/WebHomework1/tree/master/WSGI
+
+.. |10.dz3.1| replace:: 1
+.. _10.dz3.1: https://github.com/ShatteredMind/Webprogramming/blob/master/wsgi.py
+
 .. Домашняя работа #4
+
+.. |1.dz4.1| replace:: 1
+.. _1.dz4.1: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject
+.. |1.dz4.2-4| replace:: 2-4
+.. _1.dz4.2-4: https://gist.github.com/Kostya174/35400754ca67359da8a9a4d7607099f8
+.. |1.dz4.5| replace:: 5
+.. _1.dz4.5: https://gist.github.com/Kostya174/0797b83e0928d65c53a2b58035c8f904
+
+.. |3.dz4.1| replace:: 1
+.. _3.dz4.1: https://github.com/BallOfDestruction/Task-For-Web
+.. |3.dz4.2-4| replace:: 2-4
+.. _3.dz4.2-4: https://gist.github.com/BallOfDestruction/acf931bd85195a6d97e6c27ac893bfb2
+.. |3.dz4.5| replace:: 5
+.. _3.dz4.5: https://gist.github.com/BallOfDestruction/049e172a45afc81f11294abac06ff051
+
+.. |6.dz4.1| replace:: 1
+.. _6.dz4.1: https://github.com/EsaulkovNikolay/web-programming
+.. |6.dz4.2-4| replace:: 2-4
+.. _6.dz4.2-4: https://gist.github.com/EsaulkovNikolay/6a443f7dedaf8aef90ded2ef2954a789
+.. |6.dz4.5| replace:: 5
+.. _6.dz4.5: https://gist.github.com/EsaulkovNikolay/2fd2eff446c2277c1d961599ecac9aa7
+
+.. |8.dz4.1| replace:: 1
+.. _8.dz4.1: https://github.com/hallsands/web-homework
+.. |8.dz4.2-4| replace:: 2-4
+.. _8.dz4.2-4: https://gist.github.com/hallsands/05680913aaee78803302aaf7c7dec6bf
+.. |8.dz4.5| replace:: 5
+.. _8.dz4.5: https://gist.github.com/hallsands/dd8e91b01e95b2c35454ce2261167a4d
+
+.. |11.dz4.1| replace:: 1
+.. _11.dz4.1: https://github.com/g196et/WebProg/tree/master/WebTask
+.. |11.dz4.2-4| replace:: 2-4
+.. _11.dz4.2-4: https://gist.github.com/g196et/b2d28c0e879090008e1194407be8db2c
+.. |11.dz4.5| replace:: 5
+.. _11.dz4.5: https://github.com/g196et/WebProg/tree/master/zzzeek
+
+.. |13.dz4.1| replace:: 1
+.. _13.dz4.1: https://github.com/ragozin-n/web-programming-homework/tree/master/jinja-2-task
+.. |13.dz4.2-4| replace:: 2-4
+.. _13.dz4.2-4: https://gist.github.com/ragozin-n/0489441251e41bbd606aad56645eef46
+.. |13.dz4.5| replace:: 5
+.. _13.dz4.5: https://gist.github.com/ragozin-n/9b172e40b7e6da417d06a4642ce68c04
+
+.. |14.dz4.1| replace:: 1
+.. _14.dz4.1: https://github.com/Coderator3000/HW4
+.. |14.dz4.2-4| replace:: 2-4
+.. _14.dz4.2-4: https://gist.github.com/Coderator3000/7456e602262537dbb9740dae22e98842
+.. |14.dz4.5| replace:: 5
+.. _14.dz4.5: https://gist.github.com/Coderator3000/16ff1ae26aebd9e26ea571d0ad4fcc51
+
+.. |15.dz4.1| replace:: 1
+.. _15.dz4.1: https://github.com/vebster123/web-hw4
+.. |15.dz4.2-4.1| replace:: 2-4.1
+.. _15.dz4.2-4.1: https://github.com/vebster123/web-hw4/blob/master/request.py
+.. |15.dz4.2-4.2| replace:: 2-4.2
+.. _15.dz4.2-4.2: https://gist.github.com/vebster123/f58632c6bd09a9ebaa68c639b20884a1
+.. |15.dz4.5| replace:: 5
+.. _15.dz4.5: https://gist.github.com/vebster123/bedc1aa7e004fd7856946fddc077affa
+
+.. |16.dz4.1| replace:: 1
+.. _16.dz4.1: https://github.com/StXaver/myproject/blob/master/JinjaApplication.py
+.. |16.dz4.2-4.4| replace:: 2-4
+.. _16.dz4.2-4.4: https://gist.github.com/StXaver/e3d368379496ce34b2b76300b5899db0
+.. |16.dz4.5| replace:: 5
+.. _16.dz4.5: https://gist.github.com/StXaver/70a8647e6787a809664f944f6daf7262
+
+.. |17.dz4.1| replace:: 1
+.. _17.dz4.1: https://github.com/MaxUsov/web_programming
+.. |17.dz4.2-4| replace:: 2-4
+.. _17.dz4.2-4: https://gist.github.com/MaxUsov/b0cf3973b5c57e60966798151b0330c2
+.. |17.dz4.5| replace:: 5
+.. _17.dz4.5: https://gist.github.com/MaxUsov/6059ac28f2b039b9914bb6a083f62cdf
+
+.. |19.dz4.1-4| replace:: 1-4
+.. _19.dz4.1-4: https://github.com/kolalola/WebH4
+.. |19.dz4.5| replace:: 5
+.. _19.dz4.5: https://github.com/kolalola/sqlalchemy
 
 .. Домашняя работа #5
 
+.. |3.dz5| replace:: 1
+.. _3.dz5: https://github.com/BallOfDestruction/Task-For-Web
+
+.. |7.dz5.1| replace:: 1
+.. _7.dz5.1: https://github.com/zaitov-pavel/webProgramming
+
+.. |8.dz5| replace:: 1
+.. _8.dz5: https://gist.github.com/hallsands/4203ccc1f1487e460162983f8040fc51
+
+.. |11.dz5.1| replace:: 1
+.. _11.dz5.1: https://github.com/g196et/WebProg/tree/master/PyramidTask
+
+.. |12.dz5| replace:: 1
+.. _12.dz5: https://github.com/MalyshevaAlena/webProgramming/tree/master/web5 
+
+.. |13.dz5| replace:: 1
+.. _13.dz5: https://github.com/ragozin-n/web-programming-homework/tree/master/pyramid-app-task
+
+.. |14.dz5| replace:: 1
+.. _14.dz5: https://github.com/Coderator3000/HW5
+
+.. |19.dz5| replace:: 1
+.. _19.dz5: https://github.com/kolalola/WebH4/blob/master/Pyramid.py
+
+.. |15.dz5| replace:: 1
+.. _15.dz5: https://github.com/vebster123/web-hw4/blob/master/pyramid.py
+
+.. |16.dz5| replace:: 1
+.. _16.dz5: https://github.com/StXaver/myproject/blob/master/Pyramid.py
+
+.. |17.dz5| replace:: 1
+.. _17.dz5: https://github.com/MaxUsov/web_programming/blob/master/Pyramid.py
+
+.. |1.dz5| replace:: 1
+.. _1.dz5: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject
+
 .. Курсовая работа
+
+.. |3.kr1| replace:: 1
+.. _3.kr1: https://github.com/BallOfDestruction/FactorioF
+
+.. |6.dz5| replace:: 1
+.. _6.dz5: https://github.com/EsaulkovNikolay/web-programming/
+
+.. |8.kr1| replace:: ide1
+.. _8.kr1: https://github.com/hallsands/qoorsuchue-web
+
+.. |9.kr1| replace:: ide1
+.. _9.kr1: https://github.com/hallsands/qoorsuchue-web
+
+.. Курсовая работа
+
+.. |3.kr2| replace:: 1
+.. _3.kr2: https://github.com/BallOfDestruction/FactorioF
+
+.. |6.kr1| replace:: 1
+.. _6.kr1: https://github.com/EsaulkovNikolay/StickersArt
+
+.. |6.kr2| replace:: 1
+.. _6.kr2: https://github.com/EsaulkovNikolay/StickersArt
+
+.. |11.kr1| replace:: MUT
+.. _11.kr1: https://github.com/g196et/MUT
+
+.. |11.kr2| replace:: MUT#2
+.. _11.kr2: https://github.com/g196et/MUT
+
+.. |12.kr1| replace:: kr1
+.. _12.kr1: https://github.com/MalyshevaAlena/WebCourseWork
+
+.. |12.kr2| replace:: kr2
+.. _12.kr2: https://github.com/MalyshevaAlena/WebCourseWork
+
+.. |13.kr1| replace:: #1
+.. _13.kr1: https://github.com/ragozin-n/mytasks-pwa/tree/master
+
+.. |16.kr1| replace:: MUT
+.. _16.kr1: https://github.com/g196et/MUT
+
+.. |16.kr2| replace:: MUT#2
+.. _16.kr2: https://github.com/g196et/MUT
+
+.. |17.kr1| replace:: MUT
+.. _17.kr1: https://github.com/g196et/MUT
+
+.. |17.kr2| replace:: MUT#2
+.. _17.kr2: https://github.com/g196et/MUT
+
+.. |15.kr1| replace:: kr1
+.. _15.kr1: https://github.com/vebster123/RealAuto
+
+.. |15.kr2| replace:: kr2
+.. _15.kr2: https://github.com/vebster123/RealAuto/blob/master/er.jpg
+
+.. |1.kr1| replace:: kr1
+.. _1.kr1: https://github.com/vebster123/RealAuto
+
+.. |1.kr2| replace:: kr2
+.. _1.kr2: https://github.com/vebster123/RealAuto/blob/master/er.jpg
+
+.. |19.kr1| replace:: 1
+.. _19.kr1: https://github.com/kolalola/FindDetective
+
+.. |13.kr2| replace:: #2
+.. _13.kr2: https://github.com/ragozin-n/mytasks-pwa/tree/master/db_info
+
+.. |15.kr3| replace:: #3
+.. _15.kr3: https://github.com/vebster123/RealAuto
+
+.. |1.kr3| replace:: #3
+.. _1.kr3: https://github.com/vebster123/RealAuto

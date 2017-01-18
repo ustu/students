@@ -529,8 +529,8 @@
 
 .. Курсовая работа
 
-.. |0.curs| replace:: Интерактивная библиотека жанров музыки
-.. _0.curs: https://github.com/LZIM-94/Web-Music-Library
+.. .. |0.curs| replace:: Интерактивная библиотека жанров музыки
+.. .. _0.curs: https://github.com/LZIM-94/Web-Music-Library
 
 .. |1.curs| replace:: Создание портала для размещения постов
 .. _1.curs: https://github.com/KateBV/-Web

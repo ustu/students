@@ -9,40 +9,60 @@
      - ФИО
      - github
      - |dz1|_ 03/09/2016
-     - |dz2|_ ??/??/2016
-     - |dz3|_ ??/??/2016
-     - |dz4|_ ??/??/2016
-     - |dz5|_ ??/??/2016
+     - |dz2|_ 10/09/2016
+     - |dz3|_ 17/09/2016
+     - |dz4|_ 15/10/2016
+     - |dz5|_ 29/11/2016
+     - экзамен (??/??/2017)
+     - |kr1|_ (22/10/2016)
+     - |kr2|_ (26/11/2016)
+     - |kr3|_ (03/12/2016)
+     - |kr4|_ (10/12/2016)
+     - |kr5|_ (31/12/2016)
      - курсовая (??/??/2017)
-     - зачет (??/??/2017)
      - тема курсовой
    * -
      -
      - 5 баллов
      - до 10/09/2016
-     - до ??/??/2016
-     - до ??/??/2016
-     - до ??/??/2016
-     - до ??/??/2016
+     - до 24/09/2016
+     - до 08/10/2016
+     - до 29/10/2016
+     - до 05/11/2016
      -
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
      -
      -
    * -
      -
      - 4 балла
      - до 17/09/2016
-     - до ??/??/2016
-     - до ??/??/2016
-     - до ??/??/2016
-     - до ??/??/2016
+     - до 01/10/2016
+     - до 22/10/2016
+     - до 05/11/2016
+     - до 12/11/2016
      -
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
      -
      -
    * - 1
      - Бейшенова Замира
      - zamekb_
+     - |1.dz1.1|_ |1.dz1.2-4|_ [**+3**]
+     - |1.dz2.1|_ |1.dz2.2-5|_ [**+3**]
+     - |1.dz3.1|_ [**+4**]
      -
      -
+     -
+     - |1.kr1|_ [**+5**]
      -
      -
      -
@@ -52,6 +72,11 @@
    * - 2
      - Галимзянов Александр
      - anonimD08_
+     - |2.dz1.1|_ |2.dz1.2-4|_ [**+3**]
+     -
+     -
+     -
+     -
      -
      -
      -
@@ -71,8 +96,18 @@
      -
      -
      -
+     -
+     -
+     -
+     -
+     -
    * - 4
      - Дымшаков Владислав
+     - vdoner_
+     -
+     -
+     -
+     -
      -
      -
      -
@@ -84,10 +119,15 @@
      -
    * - 5
      - Зарембо Екатерина
-     - Masun_
+     - Hasuni_
+     - |5.dz1.1|_ |5.dz1.2-4|_ [**+4**]
+     - |5.dz2.1-5|_ [**+5**]
+     - |5.dz3.1|_ [**+4**]
+     - |5.dz4.1|_ |5.dz4.2-4|_ |5.dz4.5|_ [**+4**]
+     - |5.dz5|_ [**+5**]
      -
-     -
-     -
+     - |5.kr1|_ [**+5**]
+     - |5.kr2.1|_ |5.kr2.2|_ [**+5**]
      -
      -
      -
@@ -96,6 +136,11 @@
    * - 6
      - Захарова Валерия
      - yuuyuu04_
+     - |6.dz1.1|_ |6.dz1.2-4|_ [**+4**]
+     -
+     -
+     -
+     -
      -
      -
      -
@@ -115,8 +160,18 @@
      -
      -
      -
+     -
+     -
+     -
+     -
+     -
    * - 8
      - Казаков Роман
+     - Azdum_
+     -
+     -
+     -
+     -
      -
      -
      -
@@ -137,9 +192,19 @@
      -
      -
      -
+     -
+     -
+     -
+     -
+     -
    * - 10
      - Колесников Сергей
-     -
+     - Sergey16802_
+     - |10.dz1.1|_ |10.dz1.2-4|_ [**+0**]
+     - |10.dz2.1|_ |10.dz2.2-5|_ [**+3**]
+     - |10.dz3.1|_ [**+3**]
+     - |10.dz4.1|_ |10.dz4.2-4|_ |10.dz4.5|_ [**+3**]
+     - |10.dz5|_ [**+3**]
      -
      -
      -
@@ -150,6 +215,11 @@
      -
    * - 11
      - Криво Алексей
+     - AlekseiKrivo_
+     - |11.dz1.1|_ |11.dz1.2-4|_ [**+4**]
+     - |11.dz2.1-5|_ [**+4**]
+     - |11.dz3.1|_ [**+5**]
+     -
      -
      -
      -
@@ -170,8 +240,18 @@
      -
      -
      -
+     -
+     -
+     -
+     -
+     -
    * - 13
      - Нежданов Александр
+     - Nezhdanchiik_
+     -
+     -
+     -
+     -
      -
      -
      -
@@ -184,9 +264,14 @@
    * - 14
      - Овчинникова Анастасия
      - Ovchinnickova2016_
+     - |14.dz1.1|_ |14.dz1.2-4|_ [**+4**]
+     - |14.dz2.1-5|_ [**+5**]
+     - |14.dz3.1|_ [**+4**]
+     - |14.dz4.1|_ |14.dz4.2-4|_ |14.dz4.5|_ [**+4**]
+     - |14.dz5|_ [**+3**]
      -
-     -
-     -
+     - |14.kr1|_ [**+5**]
+     - |14.kr2.1|_ |14.kr2.2|_ [**+5**]
      -
      -
      -
@@ -195,6 +280,11 @@
    * - 15
      - Пак Эдуард
      - eduardpak96_
+     - |15.dz1.1|_ |15.dz1.2-4|_ [**+4**]
+     - |15.dz2.1|_ |15.dz2.2-5|_ [**+3**]
+     - |15.dz3|_ [**+3**]
+     - |15.dz4.1|_ |15.dz4.2-4|_ |15.dz4.5|_ [**+3**]
+     - |15.dz5|_ [**+3**]
      -
      -
      -
@@ -206,6 +296,11 @@
    * - 16
      - Руднов Данил
      - Hyuugo_
+     - |16.dz1.1|_ |16.dz1.2-4|_ [**+5**]
+     - |16.dz2.2|_ |16.dz2.2-5|_ [**+5**]
+     - |16.dz3|_ [**+5**]
+     - |16.dz4.1|_ |16.dz4.2-4|_ |16.dz4.5|_ [**+4**]
+     - |16.dz5|_ [**+4**]
      -
      -
      -
@@ -217,9 +312,14 @@
    * - 17
      - Санников Максим
      - Zixs_
+     - |17.dz1.1|_ |17.dz1.2-4|_ [**+4**]
+     - |17.dz2.1|_ |17.dz2.2-5|_ [**+5**]
+     - |17.dz3|_ [**+5**]
+     - |17.dz4.1|_ |17.dz4.2-4|_ |17.dz4.5|_ [**+5**]
+     - |17.dz5|_ [**+5**]
      -
-     -
-     -
+     - |17.kr1|_ [**+3**]
+     - |17.kr2.1|_ |17.kr2.2|_ [**+3**]
      -
      -
      -
@@ -228,9 +328,14 @@
    * - 18
      - Тараненко Анастасия
      - artofmind_
+     - |18.dz1.1|_ |18.dz1.2-4|_ [**+3**]
+     - |18.dz2.1-5|_ [**+4**]
+     - |18.dz3.1|_ [**+4**]
+     - |18.dz4.1|_ |18.dz4.2-4|_ |18.dz4.5|_ [**+0**]
+     - |18.dz5|_ [**+4**]
      -
-     -
-     -
+     - |18.kr1|_ [**+5**]
+     - |18.kr2.1|_ |18.kr2.2|_ [**+5**]
      -
      -
      -
@@ -247,11 +352,21 @@
      -
      -
      -
+     -
+     -
+     -
+     -
+     -
    * - 20
      - Фарахутдинова Эльвина
+     - Farakhutdinova_
+     - |20.dz1.1|_ |20.dz1.2-4|_ [**+4**]
+     - |20.dz2.1|_ |20.dz2.2|_ |20.dz2.3|_ |20.dz2.5|_ [**+3**]
+     - |20.dz3.1|_ [**+4**]
      -
      -
      -
+     - |20.kr1|_ [**+5**]
      -
      -
      -
@@ -261,6 +376,11 @@
    * - 21
      - Цветков Василий
      - Vasyaga_
+     - |21.dz1.1|_ |21.dz1.2-4|_ [**+3**]
+     -
+     -
+     -
+     -
      -
      -
      -
@@ -272,9 +392,14 @@
    * - 22
      - Шилак Андрей
      - Shilak96_
+     - |22.dz1.1|_ |22.dz1.2-4|_ [**+4**]
+     - |22.dz2.1|_ |22.dz2.2-5|_ [**+5**]
+     - |22.dz3|_ [**+5**]
+     - |22.dz4.1|_ |22.dz4.2-4|_ |22.dz4.5|_ [**+0**]
+     - |22.dz5|_ [**+4**]
      -
-     -
-     -
+     - |22.kr1|_ [**+3**]
+     - |22.kr2.1|_ |22.kr2.2|_ [**+3**]
      -
      -
      -
@@ -282,10 +407,15 @@
      -
    * - 23
      - Шимановская Каролина
+     - ShimanovskayaK_
+     - |23.dz1.1|_ |23.dz1.2-3|_ |23.dz1.4|_ [**+3**]
      -
      -
      -
      -
+     -
+     - |23.kr1|_ [**+5**]
+     - |23.kr2|_ [**+5**]
      -
      -
      -
@@ -294,6 +424,11 @@
    * - 24
      - Щербакова Анастасия
      - anas2siya_
+     -
+     -
+     -
+     -
+     -
      -
      -
      -
@@ -312,16 +447,29 @@
 .. |dz5| replace:: дз #5 (Pyramid)
 .. _dz1: http://lectureskpd.readthedocs.org/kpd/_checkpoint.html
 .. _dz2: http://lecturesnet.readthedocs.org/net/_checkpoint.html
-.. _dz3: http://lectures.uralbash.ru/en/latest/5.web.server/_checkpoint.html
-.. _dz4: http://lectures.uralbash.ru/en/latest/6.www.sync/2.codding/_checkpoint.html
-.. _dz5: http://lectures.uralbash.ru/en/latest/6.www.sync/3.framework/pyramid/_checkpoint.html
+.. _dz3: http://lectureswww.readthedocs.io/5.web.server/_checkpoint.html
+.. _dz4: http://lectureswww.readthedocs.io/6.www.sync/2.codding/_checkpoint.html
+.. _dz5: http://lectureswww.readthedocs.io/6.www.sync/3.framework/pyramid/_checkpoint.html
+
+.. Kursach
+
+.. |kr1| replace:: к/р #1
+.. |kr2| replace:: к/р #2
+.. |kr3| replace:: к/р #3
+.. |kr4| replace:: к/р #4
+.. |kr5| replace:: к/р #5
+.. _kr1: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst
+.. _kr2: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst
+.. _kr3: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst
+.. _kr4: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst
+.. _kr5: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst
 
 .. GitHub
 
 .. _zamekb:             https://github.com/zamekb
 .. _anonimD08:          https://github.com/anonimD08
 .. _VikiLural:          https://github.com/VikiLural
-.. _Masun:              https://github.com/Masun
+.. _Hasuni:             https://github.com/Hasuni
 .. _yuuyuu04:           https://github.com/yuuyuu04
 .. _Kotnyam:            https://github.com/Kotnyam
 .. _kuroko-tetsuya:     https://github.com/kuroko-tetsuya
@@ -334,15 +482,316 @@
 .. _Vasyaga:            https://github.com/Vasyaga
 .. _Shilak96:           https://github.com/Shilak96
 .. _anas2siya:          https://github.com/anas2siya
+.. _Farakhutdinova:     https://github.com/Farakhutdinova
+.. _Azdum:              https://github.com/Azdum
+.. _AlekseiKrivo:       https://github.com/AlekseiKrivo
+.. _vdoner:             https://github.com/vdoner
+.. _Nezhdanchiik:       https://github.com/Nezhdanchiik
+.. _ShimanovskayaK:     https://github.com/ShimanovskayaK
+.. _Sergey16802:        https://github.com/Sergey16802
 
 .. Домашняя работа #1
 
+.. |1.dz1.1| replace:: 1
+.. _1.dz1.1: https://github.com/zamekb/myproject
+.. |1.dz1.2-4| replace:: 2-4
+.. _1.dz1.2-4: https://gist.github.com/zamekb/5acaad58797d057f9bd0092702a7480c
+
+.. |2.dz1.1| replace:: 1
+.. _2.dz1.1: https://github.com/anonimD08/myproject
+.. |2.dz1.2-4| replace:: 2-4
+.. _2.dz1.2-4: https://gist.github.com/anonimD08/e2f1aacc317c41533ed6f1cb7e2f44c9
+
+.. |5.dz1.1| replace:: 1
+.. _5.dz1.1: https://github.com/Hasuni/HW1
+.. |5.dz1.2-4| replace:: 2-4
+.. _5.dz1.2-4: https://gist.github.com/Hasuni/49a47769fa104b5550f8e586db65d456
+
+.. |6.dz1.1| replace:: 1
+.. _6.dz1.1: https://github.com/yuuyuu04/yuuyuu.git
+.. |6.dz1.2-4| replace:: 2-4
+.. _6.dz1.2-4: https://gist.github.com/yuuyuu04/825b8cc4ea948ed2f5842bb22ddb6b6a
+
+.. |10.dz1.1| replace:: 1
+.. _10.dz1.1: https://github.com/Sergey16802/zadanie1/tree/master/myproject
+.. |10.dz1.2-4| replace:: 2-4
+.. _10.dz1.2-4: https://gist.github.com/Sergey16802/c1df3fc239e90b775a4ea86c0f0e14d0
+
+.. |11.dz1.1| replace:: 1
+.. _11.dz1.1: https://github.com/AlekseiKrivo/myproject
+.. |11.dz1.2-4| replace:: 2-4
+.. _11.dz1.2-4: https://gist.github.com/AlekseiKrivo/44273cba9e05fad062f49a382ac512ce
+
+.. |14.dz1.1| replace:: 1
+.. _14.dz1.1: https://github.com/Ovchinnickova2016/myproject
+.. |14.dz1.2-4| replace:: 2-4
+.. _14.dz1.2-4: https://gist.github.com/Ovchinnickova2016/a7024dc0a28c6209b81993e177d6ba4b
+
+.. |15.dz1.1| replace:: 1
+.. _15.dz1.1: https://github.com/eduardpak96/myproject
+.. |15.dz1.2-4| replace:: 2-4
+.. _15.dz1.2-4: https://gist.github.com/eduardpak96/b8bdbfbd033c8e72fff8206ca782ffd5
+
+.. |16.dz1.1| replace:: 1
+.. _16.dz1.1: https://github.com/Hyuugo/myproject
+.. |16.dz1.2-4| replace:: 2-4
+.. _16.dz1.2-4: https://gist.github.com/Hyuugo/eaeca98cf2eeda8b2f9c2959d0ac7ec9
+
+.. |17.dz1.1| replace:: 1
+.. _17.dz1.1: https://github.com/Zixs/myproject
+.. |17.dz1.2-4| replace:: 2-4
+.. _17.dz1.2-4: https://gist.github.com/Zixs/1dd5d103f0308b4ac69a56b5b0d44616
+
+.. |18.dz1.1| replace:: 1
+.. _18.dz1.1: https://github.com/artofmind/myproject
+.. |18.dz1.2-4| replace:: 2-4
+.. _18.dz1.2-4: https://gist.github.com/artofmind
+
+.. |20.dz1.1| replace:: 1
+.. _20.dz1.1: https://github.com/Farakhutdinova/myProject
+.. |20.dz1.2-4| replace:: 2-4
+.. _20.dz1.2-4: https://gist.github.com/Farakhutdinova/e5dbfc58f0051d30e6f65407f0222da7
+
+.. |21.dz1.1| replace:: 1
+.. _21.dz1.1: https://github.com/Vasyaga/myproject
+.. |21.dz1.2-4| replace:: 2-4
+.. _21.dz1.2-4: https://gist.github.com/Vasyaga/45a6bcb081090adde111b7dfb57af58d
+
+.. |22.dz1.1| replace:: 1
+.. _22.dz1.1: https://github.com/shilak96/myproject
+.. |22.dz1.2-4| replace:: 2-4
+.. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
+
+.. |23.dz1.1| replace:: 1
+.. _23.dz1.1: https://github.com/ShimanovskayaK/MyProject
+.. |23.dz1.2-3| replace:: 2,3
+.. _23.dz1.2-3: https://gist.github.com/ShimanovskayaK/d2ed9b52117b216568599ef8b7950dc4
+.. |23.dz1.4| replace:: 4
+.. _23.dz1.4: https://gist.github.com/ShimanovskayaK/2c15739dbec61ca535f9d9db6182c164
+
 .. Домашняя работа #2
+
+.. |1.dz2.1| replace:: 1
+.. _1.dz2.1: https://github.com/zamekb/myproject
+.. |1.dz2.2-5| replace:: 2-5
+.. _1.dz2.2-5: https://gist.github.com/zamekb/1190f2fc4caf6a874bf27daacf299e27
+
+.. |5.dz2.1-5| replace:: 1-5
+.. _5.dz2.1-5: https://gist.github.com/Hasuni/d7d88abbd86c1fb9aa591463070fa554
+
+.. |10.dz2.1| replace:: 1
+.. _10.dz2.1: https://github.com/Sergey16802/zadanie1/tree/master/myproject
+.. |10.dz2.2-5| replace:: 2-5
+.. _10.dz2.2-5: https://gist.github.com/Sergey16802/034c6166800bfe248adb08c23615b199
+
+.. |11.dz2.1-5| replace:: 1-5
+.. _11.dz2.1-5: https://gist.github.com/AlekseiKrivo/c6c174b7cfd7ceebb4b61515bbd8c4af
+
+.. |14.dz2.1-5| replace:: 1-5
+.. _14.dz2.1-5: https://gist.github.com/Ovchinnickova2016/cba142572d1d0aab8f910ca085e55f73
+
+.. |15.dz2.1| replace:: 1
+.. _15.dz2.1: https://github.com/eduardpak96/myproject/blob/master/web.py
+.. |15.dz2.2-5| replace:: 2-5
+.. _15.dz2.2-5: https://gist.github.com/eduardpak96/48f94012013ec0b1f5ca83e4ada19754
+
+.. |16.dz2.2| replace:: 1
+.. _16.dz2.2: https://github.com/Hyuugo/myproject
+.. |16.dz2.2-5| replace:: 2-5
+.. _16.dz2.2-5: https://gist.github.com/Hyuugo/edae71951ee56f9b4af4a4c8ad6e3e29
+
+.. |17.dz2.1| replace:: 1
+.. _17.dz2.1: https://github.com/Zixs/myproject
+.. |17.dz2.2-5| replace:: 2-5
+.. _17.dz2.2-5: https://gist.github.com/Zixs/8f87e5332365392e794ff3a542382150
+
+.. |18.dz2.1-5| replace:: 1-5
+.. _18.dz2.1-5: https://gist.github.com/artofmind/7a61125745edcd198e1962731f6e97e3
+
+.. |20.dz2.1| replace:: 1
+.. _20.dz2.1: https://gist.github.com/Farakhutdinova/462cc6714e0ce146c51be1e888524790
+.. |20.dz2.2| replace:: 2
+.. _20.dz2.2: https://gist.github.com/Farakhutdinova/5f1cd39c834e22d617e1fef151138301
+.. |20.dz2.3| replace:: 3
+.. _20.dz2.3: https://gist.github.com/Farakhutdinova/0786c642e0acdd447a967b5d15f3eedf
+.. |20.dz2.5| replace:: 5
+.. _20.dz2.5: https://gist.github.com/Farakhutdinova/2978c4408fe69ab95e5d4a124d0f9a13
+
+.. |22.dz2.1| replace:: 1
+.. _22.dz2.1: https://github.com/shilak96/myproject
+.. |22.dz2.2-5| replace:: 2-5
+.. _22.dz2.2-5: https://gist.github.com/shilak96/6c3ea7c81ab836512f96e35e4ea5c2d2
 
 .. Домашняя работа #3
 
+.. |1.dz3.1| replace:: 1
+.. _1.dz3.1: https://github.com/zamekb/myproject/blob/master/wsgi
+
+.. |5.dz3.1| replace:: 1
+.. _5.dz3.1: https://github.com/Hasuni/hw3
+
+.. |10.dz3.1| replace:: 1
+.. _10.dz3.1: https://github.com/Sergey16802/zadanie1/blob/master/myproject/wsgi.py
+
+.. |11.dz3.1| replace:: 1
+.. _11.dz3.1: https://github.com/AlekseiKrivo/myproject/blob/master/1.py
+
+.. |14.dz3.1| replace:: 1
+.. _14.dz3.1: https://github.com/Ovchinnickova2016/myproject/blob/master/WSGI.py
+
+.. |15.dz3| replace:: 1
+.. _15.dz3: https://github.com/eduardpak96/myproject/blob/master/wsgi.py
+
+.. |16.dz3| replace:: 1
+.. _16.dz3: https://github.com/Hyuugo/myproject
+
+.. |17.dz3| replace:: 1
+.. _17.dz3: https://github.com/Zixs/myproject
+
+.. |18.dz3.1| replace:: 1
+.. _18.dz3.1: https://github.com/artofmind/myproject/commit/be6e39d7f5b026e1a94bdbeeb678001f8028b9e5
+
+.. |20.dz3.1| replace:: 1
+.. _20.dz3.1: https://gist.github.com/Farakhutdinova/435cdbb99a50c237211c43b975cf774f
+
+.. |22.dz3| replace:: 1
+.. _22.dz3: https://github.com/shilak96/myproject
+
 .. Домашняя работа #4
+
+.. |5.dz4.1| replace:: 1
+.. _5.dz4.1: https://gist.github.com/Hasuni/2513bd98154b497f564238b5fe5ae79d
+.. |5.dz4.2-4| replace:: 2-4
+.. _5.dz4.2-4: https://gist.github.com/Hasuni/bb6aa277b6a585dab729e56bcc016e19
+.. |5.dz4.5| replace:: 5
+.. _5.dz4.5: https://gist.github.com/Hasuni/27815c84867c4e32e03ef86c2e264ed2
+
+.. |10.dz4.1| replace:: 1
+.. _10.dz4.1: https://github.com/Sergey16802/jinja
+.. |10.dz4.2-4| replace:: 2-4
+.. _10.dz4.2-4: https://gist.github.com/Sergey16802/e45972a2e5af2662307346a44648aa24
+.. |10.dz4.5| replace:: 5
+.. _10.dz4.5: https://gist.github.com/Sergey16802/3695d4defcfb2a301669caa1cf027e09
+
+.. |14.dz4.1| replace:: 1
+.. _14.dz4.1: https://github.com/Ovchinnickova2016/myproject
+.. |14.dz4.2-4| replace:: 2-4
+.. _14.dz4.2-4: https://gist.github.com/Ovchinnickova2016/02935970b02a5a5cdfc23785d7bcd4be
+.. |14.dz4.5| replace:: 5
+.. _14.dz4.5: https://gist.github.com/Ovchinnickova2016/32d1700f50df054c545ff7fa5b691622
+
+.. |15.dz4.1| replace:: 1
+.. _15.dz4.1: https://github.com/eduardpak96/myproject/blob/master/j.py
+.. |15.dz4.2-4| replace:: 2-4
+.. _15.dz4.2-4: https://gist.github.com/eduardpak96/60f09225da7a81b8921a250e9dc66ed7
+.. |15.dz4.5| replace:: 5
+.. _15.dz4.5: https://gist.github.com/eduardpak96/4abbdf9518e37aff2d38648b4d6786fc
+
+.. |16.dz4.1| replace:: 1
+.. _16.dz4.1: https://github.com/Hyuugo/myproject
+.. |16.dz4.2-4| replace:: 2-4
+.. _16.dz4.2-4: https://gist.github.com/Hyuugo/ea05e3b73f7d448e95f1cbe9280f82b8
+.. |16.dz4.5| replace:: 5
+.. _16.dz4.5: https://gist.github.com/Hyuugo/a1bca4399fb19716ccba274adc705506
+
+.. |17.dz4.1| replace:: 1
+.. _17.dz4.1: https://github.com/Zixs/myproject
+.. |17.dz4.2-4| replace:: 2-4
+.. _17.dz4.2-4: https://gist.github.com/Zixs/f1c41decf050633da1893a8b5b63ffb2
+.. |17.dz4.5| replace:: 5
+.. _17.dz4.5: https://gist.github.com/Zixs/f4b29cafba233e2c66761a0039a1d31d
+
+.. |22.dz4.1| replace:: 1
+.. _22.dz4.1: https://github.com/shilak96/myproject
+.. |22.dz4.2-4| replace:: 2-4
+.. _22.dz4.2-4: https://gist.github.com/shilak96/fdac0ac67109dae0e456e03d04cab53c
+.. |22.dz4.5| replace:: 5
+.. _22.dz4.5: https://gist.github.com/shilak96/0f31400716935e998880f62a55a3915a
+
+.. |18.dz4.1| replace:: 1
+.. _18.dz4.1: https://github.com/artofmind/myproject/commit/e2e2f7a8be1bf343b45b9a319706aafc09caebdc
+.. |18.dz4.2-4| replace:: 2-4
+.. _18.dz4.2-4: https://gist.github.com/artofmind/27c46468f252c492521603ab635331be
+.. |18.dz4.5| replace:: 5
+.. _18.dz4.5: https://gist.github.com/artofmind/7cdb47a1bfd308b7ae6476275bdbcf23
 
 .. Домашняя работа #5
 
+.. |5.dz5| replace:: 1
+.. _5.dz5: https://gist.github.com/Hasuni/35d1a8bf78e6caa0d06c5b93e917b3f1
+
+
+.. |22.dz5| replace:: 1
+.. _22.dz5: https://github.com/shilak96/myproject/tree/master/Pyramid
+
+.. |10.dz5| replace:: 1
+.. _10.dz5: https://github.com/Sergey16802/pyr
+
+.. |14.dz5| replace:: 1
+.. _14.dz5: https://gist.github.com/Ovchinnickova2016/83d329737b96d37e110cda01402c316d
+
+.. |15.dz5| replace:: 1
+.. _15.dz5: https://github.com/eduardpak96/myproject/blob/master/pyramd.py
+
+.. |16.dz5| replace:: 1
+.. _16.dz5: https://github.com/Hyuugo/myproject
+
+.. |17.dz5| replace:: 1
+.. _17.dz5: https://github.com/Zixs/myproject/blob/master/pyramid.py
+
+.. |18.dz5| replace:: 1
+.. _18.dz5: https://github.com/artofmind/myproject/blob/master/PyramidApp.py
+
 .. Курсовая работа
+
+.. |5.kr1| replace:: 1
+.. _5.kr1: https://github.com/Hasuni/Kursovaya-Rabota
+
+.. |14.kr1| replace:: 1
+.. _14.kr1: https://github.com/artofmind/coursework/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F(WEB).docx
+
+.. |18.kr1| replace:: к/р #1
+.. _18.kr1: https://github.com/artofmind/coursework/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F(WEB).docx
+
+.. |1.kr1| replace:: к/р #1
+.. _1.kr1: https://github.com/Farakhutdinova/k.r.
+.. |20.kr1| replace:: к/р #1
+.. _20.kr1: https://github.com/Farakhutdinova/k.r.
+
+.. |23.kr1| replace:: к/р #1
+.. _23.kr1: https://github.com/ShimanovskayaK/Kursovaya
+.. |23.kr2| replace:: к/р #2
+.. _23.kr2: https://github.com/ShimanovskayaK/Kursovaya
+
+.. |5.kr2.1| replace:: 1
+.. _5.kr2.1: https://github.com/Hasuni/Kursovaya-Rabota/blob/master/pyramid_blogr/models.py
+.. |5.kr2.2| replace:: 2
+.. _5.kr2.2: https://github.com/Hasuni/Kursovaya-Rabota/blob/master/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%91%D0%94.jpg
+
+
+.. |22.kr1| replace:: к/р #1
+.. _22.kr1: https://github.com/Zixs/K-P
+
+.. |14.kr2.1| replace:: 1
+.. _14.kr2.1: https://github.com/artofmind/coursework/tree/master
+.. |14.kr2.2| replace:: 2
+.. _14.kr2.2: https://github.com/artofmind/coursework/blob/master/er.JPG
+
+.. |18.kr2.1| replace:: 1
+.. _18.kr2.1: https://github.com/artofmind/coursework/tree/master
+.. |18.kr2.2| replace:: 2
+.. _18.kr2.2: https://github.com/artofmind/coursework/blob/master/er.JPG
+
+.. |17.kr1| replace:: к/р #1
+.. _17.kr1: https://github.com/Zixs/K-P
+
+
+.. |22.kr2.1| replace:: 1
+.. _22.kr2.1: https://github.com/Zixs/K-P
+.. |22.kr2.2| replace:: 2
+.. _22.kr2.2: https://github.com/Zixs/K-P/blob/master/bd.jpg
+
+.. |17.kr2.1| replace:: 1
+.. _17.kr2.1: https://github.com/Zixs/K-P
+.. |17.kr2.2| replace:: 2
+.. _17.kr2.2: https://github.com/Zixs/K-P/blob/master/bd.jpg

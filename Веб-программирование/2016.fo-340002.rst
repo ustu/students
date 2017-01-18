@@ -9,41 +9,61 @@
      - ФИО
      - github
      - |dz1|_ 03/09/2016
-     - |dz2|_ ??/??/2016
-     - |dz3|_ ??/??/2016
-     - |dz4|_ ??/??/2016
-     - |dz5|_ ??/??/2016
-     - курсовая (??/??/2017)
+     - |dz2|_ 10/09/2016
+     - |dz3|_ 17/09/2016
+     - |dz4|_ 15/10/2016
+     - |dz5|_ 29/10/2016
      - зачет (??/??/2017)
+     - |kr1|_ (22/10/2016)
+     - |kr2|_ (26/11/2016)
+     - |kr3|_ (03/12/2016)
+     - |kr4|_ (10/12/2016)
+     - |kr5|_ (31/12/2016)
+     - курсовая (??/??/2017)
      - тема курсовой
    * -
      -
      - 5 баллов
      - до 10/09/2016
-     - до ??/??/2016
-     - до ??/??/2016
-     - до ??/??/2016
-     - до ??/??/2016
+     - до 24/09/2016
+     - до 08/10/2016
+     - до 29/10/2016
+     - до 05/11/2016
      -
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
      -
      -
    * -
      -
      - 4 балла
      - до 17/09/2016
-     - до ??/??/2016
-     - до ??/??/2016
-     - до ??/??/2016
-     - до ??/??/2016
+     - до 01/10/2016
+     - до 22/10/2016
+     - до 05/11/2016
+     - до 12/11/2016
      -
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
+     - +1 неделя
      -
      -
    * - 1
      - Бабкин Александр Анатольевич
      - Ducage_
+     - |1.dz1.1|_ |1.dz1.2-4|_ [**+5**]
+     - |1.dz2.1|_ |1.dz2.2|_ |1.dz2.3|_ |1.dz2.4|_ [**+5**]
+     - |1.dz3.1|_ [**+5**]
+     - |1.dz4.1|_ |1.dz4.2-4|_ |1.dz4.5|_ [**+5**]
+     - |1.dz5.1|_ [**+5**]
      -
-     -
-     -
+     - |1.kr1|_ [**+5**]
+     - |1.models|_ |1.ER|_ [**+5**]
      -
      -
      -
@@ -65,6 +85,11 @@
      -
      -
      -
+     -
+     -
+     -
+     -
+     -
    * - 3
      - Исаев Георгий Маратович
      - Kshut_
@@ -76,12 +101,22 @@
      -
      -
      -
+     -
+     -
+     -
+     -
+     -
    * - 4
      - Колобова Луиза Владимировна
      - LuizaKolobova_
+     - |4.dz1.1|_ |4.dz1.2-4|_ [**+5**]
+     - |4.dz2.1|_ |4.dz2.2|_ |4.dz2.3|_ |4.dz2.5|_ [**+5**]
+     - |4.dz3.1|_ [**+5**]
+     - |4.dz4.1|_ |4.dz4.2-4|_ |4.dz4.5|_ [**+4**]
+     - |4.dz5.1|_ [**+5**]
      -
-     -
-     -
+     - |4.kr1|_ [**+5**]
+     - |4.kr2|_ [**+5**]
      -
      -
      -
@@ -90,8 +125,13 @@
    * - 5
      - Малков Матвей Владимирович
      - mMatvey_
+     - |5.dz1.1|_ |5.dz1.2-4|_ [**+4**]
+     - |5.dz2.1|_ |5.dz2.2|_ |5.dz2.3|_ |5.dz2.5|_ [**+3**]
+     - |5.dz3.1|_ [**+5**]
+     - |5.dz4.1|_ |5.dz4.2|_ |5.dz4.3|_ |5.dz4.4|_ |5.dz4.5|_ [**+5**]
+     - |5.dz5.1|_ [**+5**]
      -
-     -
+     - |5.kr1.1|_ [**5**]
      -
      -
      -
@@ -101,9 +141,14 @@
    * - 6
      - Марков Евгений Вячеславович
      - evgenymarkov_
+     - |6.dz1.1|_ |6.dz1.2|_ |6.dz1.3|_ |6.dz1.4|_ [**+5**]
+     - |6.dz2.1|_ |6.dz2.2.1|_ |6.dz2.2.2|_ |6.dz2.3.1|_ |6.dz2.3.2|_ |6.dz2.5|_ [**+5**]
+     - |6.dz3.1|_ [**+5**]
+     - |6.dz4.1|_ |6.dz4.2-4|_ |6.dz4.5|_ [**+5**]
+     - |6.dz5.1|_ [**+5**]
      -
-     -
-     -
+     - |6.kr1|_ [**+5**]
+     - |6.models|_ |6.ER|_ [**+5**]
      -
      -
      -
@@ -112,9 +157,14 @@
    * - 7
      - Михалева Людмила Андреевна
      - LydmilaMihaleva_
+     - |7.dz1.1|_ |7.dz1.2-3|_ |7.dz1.4|_ [**+5**]
+     - |7.dz2.5|_ [**+5**]
+     - |7.dz3.1|_ [**+5**]
+     - |7.dz4.1|_ |7.dz4.2-4|_ |7.dz4.5|_ [**+5**]
+     - |7.dz5.1|_ [**+5**]
      -
-     -
-     -
+     - |7.kr1|_ [**+5**]
+     - |7.models|_ |7.ER|_ [**+5**]
      -
      -
      -
@@ -123,6 +173,11 @@
    * - 8
      - Мищенко Алексей Сергеевич
      - WhileTrueDoSex_
+     - |8.dz1.1|_ |8.dz1.2-4|_ [**+5**]
+     - |8.dz2.1|_ |8.dz2.2-5|_ [**+5**]
+     - |8.dz3.1|_ [**+5**]
+     - |8.dz4.1|_ |8.dz4.2-5|_ [**+5**]
+     - |8.dz5.1|_ [**+5**]
      -
      -
      -
@@ -134,11 +189,16 @@
    * - 9
      - Мулыгина Александра Евгеньевна
      - hellroot_
+     - |9.dz1.1|_ |9.dz1.2|_ |9.dz1.3|_ |9.dz1.4|_ [**+5**]
      -
      -
      -
      -
      -
+     - |9.kr1|_ [**+5**]
+     - |9.models|_ |9.ER|_ [**+5**]
+     - |9.kr3|_ |9.doc|_ [**+5**]
+     - |9.kr4|_ [**+5**]
      -
      -
      -
@@ -161,6 +221,11 @@
    * - 11
      - Прасолов Семен Викторович
      - pivasik228_
+     - |11.dz1.1|_ |11.dz1.2-4|_ [**+5**]
+     - |11.dz2.1|_ |11.dz2.2-5|_ [**+4**]
+     - |11.dz3.1|_ [**+3**]
+     -
+     -
      -
      -
      -
@@ -171,9 +236,14 @@
      -
    * - 12
      - Рубцов Илья Алексеевич
+     - Lixa141_
+     - |12.dz1.1|_ |12.dz1.2|_ |12.dz1.3|_ |12.dz1.4|_ [**+5**]
+     - |12.dz2.1|_ |12.dz2.2|_ |12.dz2.3|_ |12.dz2.5|_ [**+5**]
      -
      -
+     - |12.dz5.1|_ [**+5**]
      -
+     - |12.kr1.1|_ [**+5**]
      -
      -
      -
@@ -183,8 +253,13 @@
    * - 13
      - Сычева Анастасия Сергеевна
      - zasycha_
+     - |13.dz1.1|_ |13.dz1.2-4|_ [**+3**]
+     - |13.dz2.1|_ |13.dz2.2-5|_ [**3**]
+     - |13.dz3.1|_ [**4**]
+     - |13.dz4.1|_ |13.dz4.2-4|_ |13.dz4.5|_ [**+5**]
+     - |13.dz5.1|_ [**+5**]
      -
-     -
+     - |13.kr1.1|_ [**+5**]
      -
      -
      -
@@ -202,9 +277,19 @@
      -
      -
      -
+     -
+     -
+     -
+     -
+     -
    * - 15
      - Чупраков Вадим Владимирович
      - veyroter_
+     - |15.dz1.1|_ |15.dz1.2|_ |15.dz1.3|_ |15.dz1.4|_ [**3**]
+     - |15.dz2.1|_ |15.dz2.2|_ |15.dz2.3|_ |15.dz2.5|_ [**+4**]
+     - |15.dz3.1|_ [**+5**]
+     -
+     -
      -
      -
      -
@@ -224,6 +309,11 @@
      -
      -
      -
+     -
+     -
+     -
+     -
+     -
 
 .. CheckPoints
 
@@ -234,9 +324,22 @@
 .. |dz5| replace:: дз #5 (Pyramid)
 .. _dz1: http://lectureskpd.readthedocs.org/kpd/_checkpoint.html
 .. _dz2: http://lecturesnet.readthedocs.org/net/_checkpoint.html
-.. _dz3: http://lectures.uralbash.ru/en/latest/5.web.server/_checkpoint.html
-.. _dz4: http://lectures.uralbash.ru/en/latest/6.www.sync/2.codding/_checkpoint.html
-.. _dz5: http://lectures.uralbash.ru/en/latest/6.www.sync/3.framework/pyramid/_checkpoint.html
+.. _dz3: http://lectureswww.readthedocs.io/5.web.server/_checkpoint.html
+.. _dz4: http://lectureswww.readthedocs.io/6.www.sync/2.codding/_checkpoint.html
+.. _dz5: http://lectureswww.readthedocs.io/6.www.sync/3.framework/pyramid/_checkpoint.html
+
+.. Kursach
+
+.. |kr1| replace:: к/р #1
+.. |kr2| replace:: к/р #2
+.. |kr3| replace:: к/р #3
+.. |kr4| replace:: к/р #4
+.. |kr5| replace:: к/р #5
+.. _kr1: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst
+.. _kr2: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst
+.. _kr3: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst
+.. _kr4: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst
+.. _kr5: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst
 
 .. GitHub
 
@@ -253,43 +356,362 @@
 .. _zasycha:            https://github.com/zasycha
 .. _veyroter:           https://github.com/veyroter
 .. _totibi				https://github.com/totibi
+.. _Lixa141:            https://github.com/Lixa141
 
 .. Домашняя работа #1
+
+.. |1.dz1.1| replace:: 1
+.. _1.dz1.1: https://github.com/Ducage/myproject
+.. |1.dz1.2-4| replace:: 2-4
+.. _1.dz1.2-4: https://gist.github.com/Ducage/cfc6b747bc8a8cb5ea553a92e06f5c94
 
 .. |2.dz1.1| replace:: 1
 .. _2.dz1.1: https://github.com/totibi/myproject
 .. |2.dz1.2-4| replace:: 2-4
 .. _2.dz1.2-4: https://gist.github.com/totibi/ff7882f74d6463bbbeb8f70eefa943a9
-	
+
+.. |4.dz1.1| replace:: 1
+.. _4.dz1.1: https://github.com/LuizaKolobova/myproject
+.. |4.dz1.2-4| replace:: 2-4
+.. _4.dz1.2-4: https://gist.github.com/LuizaKolobova/d78690e20c412dd3dad4aa6d27f1a6a1
+
+.. |5.dz1.1| replace:: 1
+.. _5.dz1.1: https://github.com/mMatvey/myProject
+.. |5.dz1.2-4| replace:: 2-4
+.. _5.dz1.2-4: https://gist.github.com/mMatvey
+
+.. |6.dz1.1| replace:: 1
+.. _6.dz1.1: https://github.com/evgenymarkov/web_homework1
+.. |6.dz1.2| replace:: 2
+.. _6.dz1.2: https://gist.github.com/evgenymarkov/c3b62d706445d5b20ef2229630f3ed5e
+.. |6.dz1.3| replace:: 3
+.. _6.dz1.3: https://gist.github.com/evgenymarkov/2bfa3539d2156bb0122b015bcaeb3f1f
+.. |6.dz1.4| replace:: 4
+.. _6.dz1.4: https://gist.github.com/evgenymarkov/c6e82c8eb7ef67c2487ff8560e0bcf8a
+
+.. |7.dz1.1| replace:: 1
+.. _7.dz1.1: https://github.com/Lydmilamihaleva/my
+.. |7.dz1.2-3| replace:: 2-3
+.. _7.dz1.2-3: https://gist.github.com/Lydmilamihaleva/f8b0b384df6b64fe7b0a1890afbddf7b
+.. |7.dz1.4| replace:: 4
+.. _7.dz1.4: https://gist.github.com/Lydmilamihaleva/bcda09440efc6aef842b13b3f82ce7c5
+
+.. |8.dz1.1|   replace:: 1
+.. _8.dz1.1:   https://github.com/WhileTrueDoSex/WebHomeWork
+.. |8.dz1.2-4| replace:: 2-4
+.. _8.dz1.2-4: https://gist.github.com/WhileTrueDoSex
+
+.. |9.dz1.1|   replace:: 1
+.. _9.dz1.1:   https://github.com/hellroot/myproject
+.. |9.dz1.2|   replace:: 2
+.. _9.dz1.2:   https://gist.github.com/hellroot/a5695d27b43095e650447c0a8418cc9d
+.. |9.dz1.3|   replace:: 3
+.. _9.dz1.3:   https://gist.github.com/hellroot/62c03cfff5eac71d26cfe5b8dac57ef3
+.. |9.dz1.4|   replace:: 4
+.. _9.dz1.4:   https://gist.github.com/hellroot/60e92c2540730972117d2b0804363a22
+
+.. |10.dz1.1| replace:: 1
+.. _10.dz1.1: https://github.com/NickVernal/myproject
+.. |10.dz1.2-4| replace:: 2-4
+.. _10.dz1.2-4: https://gist.github.com/NickVernal
+
+.. |11.dz1.1| replace:: 1
+.. _11.dz1.1: https://github.com/pivasik228/myproject
+.. |11.dz1.2-4| replace:: 2-4
+.. _11.dz1.2-4: https://gist.github.com/pivasik228
+
+.. |12.dz1.1| replace:: 1
+.. _12.dz1.1: https://github.com/Lixa141/myproject
+.. |12.dz1.2| replace:: 2
+.. _12.dz1.2: https://gist.github.com/Lixa141/8768e20c5ca50ab5455e365b57b31144
+.. |12.dz1.3| replace:: 3
+.. _12.dz1.3: https://gist.github.com/Lixa141/cd7ca65e727bce4f2eb829cc2720e9b3
+.. |12.dz1.4| replace:: 4
+.. _12.dz1.4: https://gist.github.com/Lixa141/2b301ded1f3d0c9f4abb5ca9d10819e2
+
+.. |13.dz1.1| replace:: 1
+.. _13.dz1.1: https://github.com/zasycha/myproject
+.. |13.dz1.2-4| replace:: 2-4
+.. _13.dz1.2-4: https://gist.github.com/zasycha/b8aba4f090f1930d27b04f5affa11ee3
+
+.. |15.dz1.1| replace:: 1
+.. _15.dz1.1: https://github.com/veyroter/web-task-01
+.. |15.dz1.2| replace:: 2
+.. _15.dz1.2: https://gist.github.com/veyroter/ae213389726d17a2098b7ec30ba106ad
+.. |15.dz1.3| replace:: 3
+.. _15.dz1.3: https://gist.github.com/veyroter/92ce5472c7cdb958665bc2a3f0f28f99
+.. |15.dz1.4| replace:: 4
+.. _15.dz1.4: https://gist.github.com/veyroter/968fc3d4d8880f37b1124c7096e3bb0b
+
 .. Домашняя работа #2
+
+.. |1.dz2.1| replace:: 1
+.. _1.dz2.1: https://gist.github.com/Ducage/a2b5af096677489afd5f766f0dd6e40f
+.. |1.dz2.2| replace:: 2
+.. _1.dz2.2: https://gist.github.com/Ducage/7fb6b75994a03aa6ca05777af5225f92
+.. |1.dz2.3| replace:: 3
+.. _1.dz2.3: https://gist.github.com/Ducage/f78b0f22a6bbdba9d34fa5d93d506f97
+.. |1.dz2.4| replace:: 4
+.. _1.dz2.4: https://gist.github.com/Ducage/eff4a808d76cba1a5004aab25a571789
 
 .. |2.dz2.1| replace:: 1
 .. _2.dz2.1: https://github.com/totibi/myproject/blob/master/server.py
 .. |2.dz2.2-4| replace:: 2-4
 .. _2.dz2.2-4: https://gist.github.com/totibi/26250abe999cdafdc884c994adabe748
 
+.. |4.dz2.1| replace:: 1
+.. _4.dz2.1: https://gist.github.com/LuizaKolobova/d40efed7dfabdf0f4da71b2990837678
+.. |4.dz2.2| replace:: 2
+.. _4.dz2.2: https://gist.github.com/LuizaKolobova/0865c4472469d2560627a7cb380f4470
+.. |4.dz2.3| replace:: 3
+.. _4.dz2.3: https://gist.github.com/LuizaKolobova/e468dae9d889a6cb9e119afd26d4d39c
+.. |4.dz2.5| replace:: 5
+.. _4.dz2.5: https://gist.github.com/LuizaKolobova/8f5379f411c6b0429012625348c771b4
+
+.. |5.dz2.1| replace:: 1
+.. _5.dz2.1: https://gist.github.com/mMatvey/23197d23456c783f8ffbfae02f51db62
+.. |5.dz2.2| replace:: 2
+.. _5.dz2.2: https://gist.github.com/mMatvey/c3e6fb69648d139fe29b7c7bf0501880#file-socket-and-http-client-L17
+.. |5.dz2.3| replace:: 3
+.. _5.dz2.3: https://gist.github.com/mMatvey/21fe7574f257d42dca90463047e9c6ff
+.. |5.dz2.5| replace:: 5
+.. _5.dz2.5: https://gist.github.com/mMatvey/cbf2e1a04f6d565c65b13e56e62d13f9
+
+.. |6.dz2.1| replace:: 1
+.. _6.dz2.1: https://github.com/evgenymarkov/web_homework2
+.. |6.dz2.2.1| replace:: 2.1
+.. _6.dz2.2.1: https://gist.github.com/evgenymarkov/91b87257f507602d46bfcdfdbdc487b8
+.. |6.dz2.2.2| replace:: 2.2
+.. _6.dz2.2.2: https://gist.github.com/evgenymarkov/17f70932cdb2b4f918ff43d212d0d0e1
+.. |6.dz2.3.1| replace:: 3.1
+.. _6.dz2.3.1: https://gist.github.com/evgenymarkov/a2754ec918d310256d44676b5a660606
+.. |6.dz2.3.2| replace:: 3.2
+.. _6.dz2.3.2: https://gist.github.com/evgenymarkov/f18defb54b59ae82e8a1628dfdeff61b
+.. |6.dz2.5| replace:: 5
+.. _6.dz2.5: https://gist.github.com/evgenymarkov/bd496c6e7c5a57abebff4b33a12166a6
+
+.. |7.dz2.5| replace:: 1-5
+.. _7.dz2.5: https://gist.github.com/Lydmilamihaleva/3ae05e5e7b85ce66c94fc9ae50774b23
+
+.. |8.dz2.1| replace:: 1
+.. _8.dz2.1: https://github.com/WhileTrueDoSex/WebHomeWork
+.. |8.dz2.2-5| replace:: 2-5
+.. _8.dz2.2-5: https://gist.github.com/WhileTrueDoSex
+
+.. |10.dz2.1| replace:: 1
+.. _10.dz2.1: https://gist.github.com/NickVernal/5ab8bd1032a527768f5dd2cddda158bc
+.. |10.dz2.2| replace:: 2
+.. _10.dz2.2: https://gist.github.com/NickVernal/0183f5708c2bd743d49521da4b79be8e
+.. |10.dz2.3| replace:: 3
+.. _10.dz2.3: https://gist.github.com/NickVernal/688545e1982108e96e093190c3b01802
+.. |10.dz2.5| replace:: 5
+.. _10.dz2.5: https://gist.github.com/NickVernal/bfa03f70893f02b02ffb6d8cc8244dfb
+
+.. |11.dz2.1| replace:: 1
+.. _11.dz2.1: https://github.com/pivasik228/myproject
+.. |11.dz2.2-5| replace:: 2-5
+.. _11.dz2.2-5: https://gist.github.com/pivasik228
+
+.. |12.dz2.1| replace:: 1
+.. _12.dz2.1: https://github.com/Lixa141/myproject
+.. |12.dz2.2| replace:: 2
+.. _12.dz2.2: https://gist.github.com/Lixa141/95de8affa751b3dde978d22c968d5a50
+.. |12.dz2.3| replace:: 3
+.. _12.dz2.3: https://gist.github.com/Lixa141/3ec31cb37a2289479d21b9ecd9a472a9
+.. |12.dz2.5| replace:: 5
+.. _12.dz2.5: https://gist.github.com/Lixa141/e0cd0ef42cd2d934b344ebd4d24ed888
+
+.. |13.dz2.1| replace:: 1
+.. _13.dz2.1: https://github.com/zasycha/myproject
+.. |13.dz2.2-5| replace:: 2-5
+.. _13.dz2.2-5: https://gist.github.com/zasycha
+
+.. |15.dz2.1| replace:: 1
+.. _15.dz2.1: https://github.com/veyroter/web-task-01
+.. |15.dz2.2| replace:: 2
+.. _15.dz2.2: https://gist.github.com/veyroter/352cd9b8a8e1d9b23162b33088319fcc
+.. |15.dz2.3| replace:: 3
+.. _15.dz2.3: https://gist.github.com/veyroter/fb3466ac7ed8fbb13a5bbd328496f991
+.. |15.dz2.5| replace:: 5
+.. _15.dz2.5: https://gist.github.com/veyroter/3c7f5ad2913a85b81b439f54633963e1
+
 .. Домашняя работа #3
+
+.. |1.dz3.1| replace:: 1
+.. _1.dz3.1: https://github.com/Ducage/myproject/blob/master/WSGI.py
 
 .. |2.dz3.1| replace:: 1
 .. _2.dz3.1: https://github.com/totibi/myproject/blob/master/middleware.py
 
+.. |4.dz3.1| replace:: 1
+.. _4.dz3.1: https://github.com/LuizaKolobova/myproject/blob/master/wsgi.py
+
+.. |5.dz3.1| replace:: 1
+.. _5.dz3.1: https://gist.github.com/mMatvey/5d83881505057570d85b773f010f88c5
+
+.. |6.dz3.1| replace:: 1
+.. _6.dz3.1: https://github.com/evgenymarkov/web_homework3
+
+.. |7.dz3.1| replace:: 1
+.. _7.dz3.1: https://gist.github.com/Lydmilamihaleva/d5596afefc6f56b0d0a9fa001e9e368f
+
+.. |8.dz3.1| replace:: 1
+.. _8.dz3.1: https://gist.github.com/WhileTrueDoSex/2f4158613f40cf6fafe6aaf7d10c7b9b
+
+.. |10.dz3.1| replace:: 1
+.. _10.dz3.1: https://gist.github.com/NickVernal/4de8578324887d568689f11c98398716
+
+.. |11.dz3.1| replace:: 1
+.. _11.dz3.1: https://gist.github.com/pivasik228/c85d5d4e6763a68dead662b7030e0247
+
+.. |13.dz3.1| replace:: 1
+.. _13.dz3.1: https://gist.github.com/zasycha/f82779f403107d643e2426eab1fe9b12
+
+.. |15.dz3.1| replace:: 1
+.. _15.dz3.1: https://gist.github.com/veyroter/b4099eb9c96004995a635d624ab3051c
+
 .. Домашняя работа #4
+
+.. |1.dz4.1| replace:: 1
+.. _1.dz4.1: https://github.com/Ducage/webhw
+.. |1.dz4.2-4| replace:: 2-4
+.. _1.dz4.2-4: https://gist.github.com/Ducage/354f88eefe8e6b82fe971b83505fb224
+.. |1.dz4.5| replace:: 5
+.. _1.dz4.5: https://gist.github.com/Ducage/52b0782141f7d2a09743c361980ef4fb
 
 .. |2.dz4.1| replace:: 1
 .. _2.dz4.1: https://github.com/totibi/myproject/tree/master/jinjaserver
 .. |2.dz4.2-5| replace:: 2-5
 .. _2.dz4.2-5: https://gist.github.com/totibi/daa34e977d300ef47f117a86b63d2559
 
+.. |5.dz4.1| replace:: 1
+.. _5.dz4.1: https://github.com/mMatvey/myProject
+.. |5.dz4.2| replace:: 2
+.. _5.dz4.2: https://gist.github.com/mMatvey/b8610471ce5a2eeda9d5c9f59ba60182
+.. |5.dz4.3| replace:: 3
+.. _5.dz4.3: https://gist.github.com/mMatvey/aeadff43f7a0126a55a55268b3f6d13c
+.. |5.dz4.4| replace:: 4
+.. _5.dz4.4: https://gist.github.com/mMatvey/548b085d87ebdb10495ca270ce67674e
+.. |5.dz4.5| replace:: 5
+.. _5.dz4.5: https://gist.github.com/mMatvey/dbbc2de2c48af1b2a33ea7bdc9576e9e
+
+.. |6.dz4.1| replace:: 1
+.. _6.dz4.1: https://github.com/evgenymarkov/web_homework4
+.. |6.dz4.2-4| replace:: 2-4
+.. _6.dz4.2-4: https://gist.github.com/evgenymarkov/de7f0d4c8e223748ff70abfbdbeeacf2
+.. |6.dz4.5| replace:: 5
+.. _6.dz4.5: https://gist.github.com/evgenymarkov/2291ca470a5d6a04c34f3494c59ca42d
+
+.. |7.dz4.1| replace:: 1
+.. _7.dz4.1: https://github.com/Lydmilamihaleva/myproject
+.. |7.dz4.2-4| replace:: 2-4
+.. _7.dz4.2-4: https://gist.github.com/Lydmilamihaleva/ee36ab0314e57fe8a77d1847f3cb8dcd
+.. |7.dz4.5| replace:: 5
+.. _7.dz4.5: https://gist.github.com/Lydmilamihaleva/a208258ab82bb05280211846232b49b2
+
+.. |8.dz4.1| replace:: 1
+.. _8.dz4.1: https://github.com/WhileTrueDoSex/WebHomeWork/tree/master/WebTask-4
+.. |8.dz4.2-5| replace:: 2-5
+.. _8.dz4.2-5: https://gist.github.com/WhileTrueDoSex
+
+.. |10.dz4.1| replace:: 1
+.. _10.dz4.1: https://github.com/NickVernal/myproject/tree/master/hw_4
+.. |10.dz4.2| replace:: 2-4
+.. _10.dz4.2: https://gist.github.com/NickVernal/92b6d88f433f9ced22bc3e7fbd1e2d09
+.. |10.dz4.5| replace:: 5
+.. _10.dz4.5: https://gist.github.com/NickVernal/a6db526b9a4210098852bef5fadec93e
+
+.. |13.dz4.1| replace:: 1
+.. _13.dz4.1: https://github.com/zasycha/myproject
+.. |13.dz4.2-4| replace:: 2-4
+.. _13.dz4.2-4: https://gist.github.com/zasycha/a36691c98cd782ea4195ceb99f80a830
+.. |13.dz4.5| replace:: 5
+.. _13.dz4.5: https://gist.github.com/zasycha/dad1b2b9860908561951abe48750b806
+
+
+.. |4.dz4.1| replace:: 1
+.. _4.dz4.1: https://github.com/LuizaKolobova/myproject2
+.. |4.dz4.2-4| replace:: 2-4
+.. _4.dz4.2-4 : https://gist.github.com/LuizaKolobova/dd1f27fd4d1f353f85e290e683edf0ac
+.. |4.dz4.5| replace:: 5
+.. _4.dz4.5: https://gist.github.com/LuizaKolobova/3a70962167ea552344fe485304a332d8
+
 .. Домашняя работа #5
+
+.. |10.dz5.1| replace:: 1
+.. _10.dz5.1: https://github.com/NickVernal/myproject/tree/master/hw_5
+
+.. |1.dz5.1| replace:: 1
+.. _1.dz5.1: https://github.com/Ducage/webhw/blob/master/pyramid.py
+
+.. |4.dz5.1| replace:: 1
+.. _4.dz5.1: https://github.com/LuizaKolobova/myproject3
+
+.. |5.dz5.1| replace:: 1
+.. _5.dz5.1: https://github.com/mMatvey/myProject/blob/master/pyramid/app.py
+
+.. |6.dz5.1| replace:: 1
+.. _6.dz5.1: https://github.com/evgenymarkov/web_homework5
+
+.. |8.dz5.1| replace:: 1
+.. _8.dz5.1: https://github.com/WhileTrueDoSex/WebHomeWork
+
+.. |12.dz5.1| replace:: 1
+.. _12.dz5.1: https://github.com/Lixa141/myproject/blob/master/pyramid.py
+
+.. |13.dz5.1| replace:: 1
+.. _13.dz5.1: https://github.com/zasycha/myproject/blob/master/pyramid.py
+
+.. |7.dz5.1| replace:: 1
+.. _7.dz5.1: https://gist.github.com/Lydmilamihaleva/0fb6ef38b3b25c7d73148d1f57305622
 
 .. |2.dz5.1| replace:: 1
 .. _2.dz5.1: https://github.com/totibi/myproject/blob/master/jinjaserver/pyramidserver.py
 
 .. Курсовая работа
 
-.. |2.kr1| replace:: к/р #1
-.. _2.kr1: https://github.com/totibi/quest_workshop
-.. |10.kr1| replace:: к/р #1
-.. _10.kr1: https://github.com/totibi/quest_workshop
+.. |1.kr1| replace:: к/р #1
+.. _1.kr1: https://github.com/Lydmilamihaleva/Cosmetics
+.. |1.models| replace:: #1
+.. _1.models: https://github.com/Lydmilamihaleva/Cosmetics/tree/master/cosmetics/models
+.. |1.ER| replace:: #2
+.. _1.ER: https://editor.ponyorm.com/user/Ducage/Cosmetics
 .. |2.presentation| replace:: презентация
     _2.presentation: https://docs.google.com/presentation/d/1MQ17_R1QukCRPjSRWXUsiFbdsQhyNvhZLkT6vNeP4UM/edit?usp=sharing
+.. |6.kr1| replace:: к/р #1
+.. _6.kr1: https://github.com/Lydmilamihaleva/Cosmetics
+.. |6.models| replace:: #1
+.. _6.models: https://github.com/Lydmilamihaleva/Cosmetics/tree/master/cosmetics/models
+.. |6.ER| replace:: #2
+.. _6.ER: https://editor.ponyorm.com/user/Ducage/Cosmetics
+.. |7.kr1| replace:: к/р #1
+.. _7.kr1: https://github.com/Lydmilamihaleva/Cosmetics
+.. |7.models| replace:: #1
+.. _7.models: https://github.com/Lydmilamihaleva/Cosmetics/tree/master/cosmetics/models
+.. |7.ER| replace:: #2
+.. _7.ER: https://editor.ponyorm.com/user/Ducage/Cosmetics
+.. |9.kr1| replace:: к/р #1
+.. _9.kr1: https://github.com/hellroot/constructor/blob/master/course_work.docx
+.. |9.models| replace:: #1
+.. _9.models: https://github.com/hellroot/constructor/tree/master/constructor/models
+.. |9.ER| replace:: #2
+.. _9.ER: https://editor.ponyorm.com/user/hellroot/Constructor
+.. |9.kr3| replace:: #1
+.. _9.kr3: https://github.com/hellroot/constructor/tree/master/constructor
+.. |9.doc| replace:: #2 
+.. _9.doc: https://github.com/hellroot/constructor/blob/master/course_work.docx
+.. |9.kr4| replace:: #1
+.. _9.kr4: https://github.com/hellroot/constructor/tree/master/constructor
+
+.. |4.kr1| replace:: к/р #1
+.. _4.kr1: https://github.com/LuizaKolobova/VebProject
+
+.. |5.kr1.1| replace:: к/р #1
+.. _5.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
+.. |12.kr1.1| replace:: к/р #1
+.. _12.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
+.. |13.kr1.1| replace:: к/р #1
+.. _13.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
+.. |4.kr2| replace:: к/р #2
+.. _4.kr2: https://github.com/LuizaKolobova/VebProject/tree/master/DB
+
