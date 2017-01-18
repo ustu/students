@@ -351,7 +351,7 @@
 .. _zasycha:            https://github.com/zasycha
 .. _veyroter:           https://github.com/veyroter
 .. _Lixa141:            https://github.com/Lixa141
-.. _totibi				https://github.com/totibi
+.. _totibi: 			https://github.com/totibi
 
 .. Домашняя работа #1
 
