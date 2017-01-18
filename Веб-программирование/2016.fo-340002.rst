@@ -78,8 +78,8 @@
      - |2.dz4.1|_ |2.dz4.2-5|_
      - |2.dz5.1|_
      -
-     - |2.kr1|_
-     - |2.kr2|_ |2.presentation|_
+     -
+     - |2.presentation|_
      -
      -
      -
