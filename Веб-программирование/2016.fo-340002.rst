@@ -52,14 +52,14 @@
    * - 2
      - Базанов Александр Сергеевич
      - totibi_
-     -
-     -
-     -
-     -
-     -
+     - |2.dz1.1|_ |2.dz1.2-4|_
+     - |2.dz2.1|_ |2.dz2.2-4|_
+     - |2.dz3.1|_ 
+     - |2.dz4.1|_ |2.dz4.2-5|_
+     - |2.dz5.1|_
      -
      - |2.kr1|_
-     -
+     - |2.kr2|_ |2.presentation|_
      -
      -
      -
@@ -256,13 +256,34 @@
 
 .. Домашняя работа #1
 
+.. |2.dz1.1| replace:: 1
+.. _2.dz1.1: https://github.com/totibi/myproject
+.. |2.dz1.2-4| replace:: 2-4
+.. _2.dz1.2-4: https://gist.github.com/totibi/ff7882f74d6463bbbeb8f70eefa943a9
+	
 .. Домашняя работа #2
+
+.. |2.dz2.1| replace:: 1
+.. _2.dz2.1: https://github.com/totibi/myproject/blob/master/server.py
+.. |2.dz2.2-4| replace:: 2-4
+.. _2.dz2.2-4: https://gist.github.com/totibi/26250abe999cdafdc884c994adabe748
 
 .. Домашняя работа #3
 
+.. |2.dz3.1| replace:: 1
+.. _2.dz3.1: https://github.com/totibi/myproject/blob/master/middleware.py
+
 .. Домашняя работа #4
 
+.. |2.dz4.1| replace:: 1
+.. _2.dz4.1: https://github.com/totibi/myproject/tree/master/jinjaserver
+.. |2.dz4.2-5| replace:: 2-5
+.. _2.dz4.2-5: https://gist.github.com/totibi/daa34e977d300ef47f117a86b63d2559
+
 .. Домашняя работа #5
+
+.. |2.dz5.1| replace:: 1
+.. _2.dz5.1: https://github.com/totibi/myproject/blob/master/jinjaserver/pyramidserver.py
 
 .. Курсовая работа
 
@@ -270,3 +291,5 @@
 .. _2.kr1: https://github.com/totibi/quest_workshop
 .. |10.kr1| replace:: к/р #1
 .. _10.kr1: https://github.com/totibi/quest_workshop
+.. |2.presentation| replace:: презентация
+    _2.presentation: https://docs.google.com/presentation/d/1MQ17_R1QukCRPjSRWXUsiFbdsQhyNvhZLkT6vNeP4UM/edit?usp=sharing
