@@ -672,7 +672,7 @@
 .. |1.ER| replace:: #2
 .. _1.ER: https://editor.ponyorm.com/user/Ducage/Cosmetics
 .. |2.presentation| replace:: презентация
-    _2.presentation: https://docs.google.com/presentation/d/1MQ17_R1QukCRPjSRWXUsiFbdsQhyNvhZLkT6vNeP4UM/edit?usp=sharing
+.. _2.presentation: https://docs.google.com/presentation/d/1MQ17_R1QukCRPjSRWXUsiFbdsQhyNvhZLkT6vNeP4UM/edit?usp=sharing
 .. |6.kr1| replace:: к/р #1
 .. _6.kr1: https://github.com/Lydmilamihaleva/Cosmetics
 .. |6.models| replace:: #1
