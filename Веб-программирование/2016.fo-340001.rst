@@ -836,3 +836,9 @@
 
 .. |1.kr3| replace:: #3
 .. _1.kr3: https://github.com/vebster123/RealAuto
+
+.. |12.kr3| replace:: #3
+.. _12.kr3: https://github.com/MalyshevaAlena/WebCourseWork
+
+.. |7.kr3| replace:: #3
+.. _7.kr3: https://github.com/MalyshevaAlena/WebCourseWork
