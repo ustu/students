@@ -512,6 +512,11 @@
 .. |6.dz1.2-4| replace:: 2-4
 .. _6.dz1.2-4: https://gist.github.com/yuuyuu04/825b8cc4ea948ed2f5842bb22ddb6b6a
 
+.. |7.dz1.1| replace:: 1
+.. _7.dz1.1: https://github.com/kotnyam/myproject
+.. |7.dz1.2-4| replace:: 2-4
+.. _7.dz1.2-4: https://gist.github.com/kotnyam/86dbc60ad81ba7cc469c1d2fd9bb9cf6
+
 .. |10.dz1.1| replace:: 1
 .. _10.dz1.1: https://github.com/Sergey16802/zadanie1/tree/master/myproject
 .. |10.dz1.2-4| replace:: 2-4
