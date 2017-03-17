@@ -153,7 +153,7 @@
      - Ильбарисова Элина
      - Kotnyam_
      -
-     -
+     - |7.dz2.2|_ |7.dz2.2-5|_
      -
      -
      -
@@ -578,6 +578,11 @@
 
 .. |5.dz2.1-5| replace:: 1-5
 .. _5.dz2.1-5: https://gist.github.com/Hasuni/d7d88abbd86c1fb9aa591463070fa554
+
+.. |7.dz2.2| replace:: 1
+.. _7.dz2.2: https://github.com/kotnyam/myproject/blob/master/webserv.py
+.. |7.dz2.2-5| replace:: 2-5
+.. _7.dz2.2-5: https://gist.github.com/kotnyam/f4eb22cad974de7b39cc7b9d26011b3b
 
 .. |10.dz2.1| replace:: 1
 .. _10.dz2.1: https://github.com/Sergey16802/zadanie1/tree/master/myproject
