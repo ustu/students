@@ -154,7 +154,7 @@
      - Kotnyam_
      -
      -
-     -
+     - |7.dz3|_ [**+5**]
      -
      -
      -
@@ -629,6 +629,9 @@
 
 .. |5.dz3.1| replace:: 1
 .. _5.dz3.1: https://github.com/Hasuni/hw3
+
+.. |7.dz3| replace:: 1
+.. _7.dz3: https://github.com/kotnyam/myproject/blob/master/wsgiserv.py
 
 .. |10.dz3.1| replace:: 1
 .. _10.dz3.1: https://github.com/Sergey16802/zadanie1/blob/master/myproject/wsgi.py
