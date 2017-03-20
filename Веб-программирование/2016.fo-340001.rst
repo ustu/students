@@ -498,6 +498,15 @@
 .. |19.dz1.4| replace:: 4
 .. _19.dz1.4: https://gist.github.com/kolalola/2bbf08e520469312c5f61f604f34bf3f
 
+.. |18.dz1.1| replace:: 1
+.. _18.dz1.1: https://github.com/semyoncher/Web
+.. |18.dz1.2| replace:: 2
+.. _18.dz1.2: https://gist.github.com/semyoncher/b88986849c6c4d61409b33a4a93027b6
+.. |18.dz1.3| replace:: 3
+.. _18.dz1.3: https://gist.github.com/semyoncher/8b5defb82923f59d18132fdf19f7270d
+.. |18.dz1.4| replace:: 4
+.. _18.dz1.4: https://gist.github.com/semyoncher/c073eba80fbf3c3aefe228dfc38f1a20
+
 .. Домашняя работа #2
 
 .. |1.dz2.1| replace:: 1
