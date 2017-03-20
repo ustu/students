@@ -72,9 +72,9 @@
    * - 2
      - Бушланов Александр Андреевич
      - SBRhen_
-     -
-     -
-     -
+     - |2.dz1.1|_ |2.dz1.2|_ |2.dz1.3|_ |2.dz1.4|_
+     - |2.dz2.1|_ |2.dz2.2|_ |2.dz2.3|_ |2.dz2.5|_
+     - |2.dz3|_
      -
      -
      -
@@ -412,6 +412,15 @@
 .. |1.dz1.2-4| replace:: 2-4
 .. _1.dz1.2-4: https://gist.github.com/Kostya174/7dcf62d15fd46c4441b8ac945c4386b3
 
+.. |2.dz1.1| replace:: 1
+.. _2.dz1.1: https://github.com/SBRhen/web_labs
+.. |2.dz1.2| replace:: 2
+.. _2.dz1.2: https://gist.github.com/SBRhen/533966333a9aaa908528ccdfee3b051c
+.. |2.dz1.3| replace:: 3
+.. _2.dz1.3: https://gist.github.com/SBRhen/4de6a1af5415b2c377281320476193b7
+.. |2.dz1.4| replace:: 4
+.. _2.dz1.4: https://gist.github.com/SBRhen/e62dcabda543ca9252c9e0983adc504e
+
 .. |3.dz1.1| replace:: 1
 .. _3.dz1.1: https://github.com/BallOfDestruction/Task-For-Web/tree/master/myproject
 .. |3.dz1.2-4| replace:: 2-4
@@ -505,6 +514,15 @@
 .. |1.dz2.2-5| replace:: 2-5
 .. _1.dz2.2-5: https://gist.github.com/Kostya174/0c7bf8220f7965638988f945a118b985
 
+.. |2.dz2.1| replace:: 1
+.. _2.dz2.1: https://github.com/SBRhen/web_labs
+.. |2.dz2.2| replace:: 2
+.. _2.dz2.2: https://gist.github.com/SBRhen/87ee8c2ba98f8276ae1832b159d41c4c
+.. |2.dz2.3| replace:: 3
+.. _2.dz2.3: https://gist.github.com/SBRhen/9505452d760463c11dbd8ab74fecd26c
+.. |2.dz2.5| replace:: 5
+.. _2.dz2.5: https://gist.github.com/SBRhen/3338f7124e0c216e460d8e7ddd415628
+
 .. |3.dz2.1| replace:: 1
 .. _3.dz2.1: https://github.com/BallOfDestruction/Task-For-Web
 .. |3.dz2.2-5| replace:: 2-5
@@ -593,6 +611,9 @@
 
 .. |1.dz3| replace:: 1
 .. _1.dz3: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject/server
+
+.. |2.dz3| replace:: 1
+.. _2.dz3: https://github.com/SBRhen/web_labs
 
 .. |3.dz3| replace:: 1
 .. _3.dz3: https://github.com/BallOfDestruction/Task-For-Web
