@@ -220,7 +220,7 @@
      - |11.dz2.1|_ |11.dz2.2-5|_ [**+4**]
      - |11.dz3.1|_ [**+3**]
      -
-     -
+     - |11.dz5.1|_ 
      -
      -
      -
@@ -631,6 +631,9 @@
 
 .. |8.dz5.1| replace:: 1
 .. _8.dz5.1: https://github.com/WhileTrueDoSex/WebHomeWork
+
+.. |11.dz5.1| replace:: 1
+.. _11.dz5.1: https://github.com/pivasik228/myproject/tree/master/Задание%205
 
 .. |12.dz5.1| replace:: 1
 .. _12.dz5.1: https://github.com/Lixa141/myproject/blob/master/pyramid.py
