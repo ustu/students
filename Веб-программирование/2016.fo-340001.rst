@@ -776,6 +776,8 @@
 .. _9.kr1: https://github.com/hallsands/qoorsuchue-web
 
 .. Курсовая работа
+.. |2.kr1| replace:: 1
+.. _2.kr1: https://github.com/SBRhen/StudioMonochrome
 
 .. |3.kr2| replace:: 1
 .. _3.kr2: https://github.com/BallOfDestruction/FactorioF
