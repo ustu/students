@@ -78,8 +78,13 @@
      - |2.dz4.1|_ |2.dz4.2-5|_
      - |2.dz5.1|_
      -
+     - |2.kr1|_
+     - |2.kr2|_ |2.presentation|_
      -
-     - |2.presentation|_
+     -
+     -
+     -
+     -
      -
      -
      -
@@ -197,7 +202,7 @@
      -
      -
      -
-   * - 10
+* - 10
      - Нуйкин Никита Владимирович
      - NickVernal_
      - |10.dz1.1|_ |10.dz1.2-4|_ [**+5**]
@@ -206,7 +211,7 @@
      - |10.dz4.1|_ |10.dz4.2|_ |10.dz4.5|_ [**+5**]
      - |10.dz5.1|_ [**+5**]
      -
-     -
+     - |10.kr1|_ 
      -
      -
      -
@@ -350,8 +355,36 @@
 .. _pivasik228:         https://github.com/pivasik228
 .. _zasycha:            https://github.com/zasycha
 .. _veyroter:           https://github.com/veyroter
+<<<<<<< HEAD
+.. _totibi				https://github.com/totibi
+
+.. Домашняя работа #1
+
+.. |2.dz1.1| replace:: 1
+.. _2.dz1.1: https://github.com/totibi/myproject
+.. |2.dz1.2-4| replace:: 2-4
+.. _2.dz1.2-4: https://gist.github.com/totibi/ff7882f74d6463bbbeb8f70eefa943a9
+	
+.. Домашняя работа #2
+
+.. |2.dz2.1| replace:: 1
+.. _2.dz2.1: https://github.com/totibi/myproject/blob/master/server.py
+.. |2.dz2.2-4| replace:: 2-4
+.. _2.dz2.2-4: https://gist.github.com/totibi/26250abe999cdafdc884c994adabe748
+
+.. Домашняя работа #3
+
+.. |2.dz3.1| replace:: 1
+.. _2.dz3.1: https://github.com/totibi/myproject/blob/master/middleware.py
+
+.. Домашняя работа #4
+
+.. |2.dz4.1| replace:: 1
+.. _2.dz4.1: https://github.com/totibi/myproject/tree/master/jinjaserver
+.. |2.dz4.2-5| replace:: 2-5
+.. _2.dz4.2-5: https://gist.github.com/totibi/daa34e977d300ef47f117a86b63d2559
+=======
 .. _Lixa141:            https://github.com/Lixa141
-.. _totibi: 			https://github.com/totibi
 
 .. Домашняя работа #1
 
@@ -359,11 +392,6 @@
 .. _1.dz1.1: https://github.com/Ducage/myproject
 .. |1.dz1.2-4| replace:: 2-4
 .. _1.dz1.2-4: https://gist.github.com/Ducage/cfc6b747bc8a8cb5ea553a92e06f5c94
-
-.. |2.dz1.1| replace:: 1
-.. _2.dz1.1: https://github.com/totibi/myproject
-.. |2.dz1.2-4| replace:: 2-4
-.. _2.dz1.2-4: https://gist.github.com/totibi/ff7882f74d6463bbbeb8f70eefa943a9
 
 .. |4.dz1.1| replace:: 1
 .. _4.dz1.1: https://github.com/LuizaKolobova/myproject
@@ -449,11 +477,6 @@
 .. |1.dz2.4| replace:: 4
 .. _1.dz2.4: https://gist.github.com/Ducage/eff4a808d76cba1a5004aab25a571789
 
-.. |2.dz2.1| replace:: 1
-.. _2.dz2.1: https://github.com/totibi/myproject/blob/master/server.py
-.. |2.dz2.2-4| replace:: 2-4
-.. _2.dz2.2-4: https://gist.github.com/totibi/26250abe999cdafdc884c994adabe748
-
 .. |4.dz2.1| replace:: 1
 .. _4.dz2.1: https://gist.github.com/LuizaKolobova/d40efed7dfabdf0f4da71b2990837678
 .. |4.dz2.2| replace:: 2
@@ -535,9 +558,6 @@
 .. |1.dz3.1| replace:: 1
 .. _1.dz3.1: https://github.com/Ducage/myproject/blob/master/WSGI.py
 
-.. |2.dz3.1| replace:: 1
-.. _2.dz3.1: https://github.com/totibi/myproject/blob/master/middleware.py
-
 .. |4.dz3.1| replace:: 1
 .. _4.dz3.1: https://github.com/LuizaKolobova/myproject/blob/master/wsgi.py
 
@@ -573,11 +593,6 @@
 .. _1.dz4.2-4: https://gist.github.com/Ducage/354f88eefe8e6b82fe971b83505fb224
 .. |1.dz4.5| replace:: 5
 .. _1.dz4.5: https://gist.github.com/Ducage/52b0782141f7d2a09743c361980ef4fb
-
-.. |2.dz4.1| replace:: 1
-.. _2.dz4.1: https://github.com/totibi/myproject/tree/master/jinjaserver
-.. |2.dz4.2-5| replace:: 2-5
-.. _2.dz4.2-5: https://gist.github.com/totibi/daa34e977d300ef47f117a86b63d2559
 
 .. |5.dz4.1| replace:: 1
 .. _5.dz4.1: https://github.com/mMatvey/myProject
@@ -631,13 +646,11 @@
 .. |4.dz4.5| replace:: 5
 .. _4.dz4.5: https://gist.github.com/LuizaKolobova/3a70962167ea552344fe485304a332d8
 
+>>>>>>> refs/remotes/ustu/master
 
 .. Домашняя работа #5
 .. |10.dz5.1| replace:: 1
 .. _10.dz5.1: https://github.com/NickVernal/myproject/tree/master/hw_5
-
-.. |2.dz5.1| replace:: 1
-.. _2.dz5.1: https://github.com/totibi/myproject/blob/master/jinjaserver/pyramidserver.py
 
 .. |1.dz5.1| replace:: 1
 .. _1.dz5.1: https://github.com/Ducage/webhw/blob/master/pyramid.py
@@ -663,16 +676,23 @@
 .. |7.dz5.1| replace:: 1
 .. _7.dz5.1: https://gist.github.com/Lydmilamihaleva/0fb6ef38b3b25c7d73148d1f57305622
 
+.. |2.dz5.1| replace:: 1
+.. _2.dz5.1: https://github.com/totibi/myproject/blob/master/jinjaserver/pyramidserver.py
+
 .. Курсовая работа
 
+<<<<<<< HEAD
+.. |10.kr1| replace:: к/р #1
+.. _10.kr1: https://github.com/totibi/quest_workshop
+.. |2.presentation| replace:: презентация
+    _2.presentation: https://docs.google.com/presentation/d/1MQ17_R1QukCRPjSRWXUsiFbdsQhyNvhZLkT6vNeP4UM/edit?usp=sharing
+=======
 .. |1.kr1| replace:: к/р #1
 .. _1.kr1: https://github.com/Lydmilamihaleva/Cosmetics
 .. |1.models| replace:: #1
 .. _1.models: https://github.com/Lydmilamihaleva/Cosmetics/tree/master/cosmetics/models
 .. |1.ER| replace:: #2
 .. _1.ER: https://editor.ponyorm.com/user/Ducage/Cosmetics
-.. |2.presentation| replace:: презентация
-.. _2.presentation: https://docs.google.com/presentation/d/1MQ17_R1QukCRPjSRWXUsiFbdsQhyNvhZLkT6vNeP4UM/edit?usp=sharing
 .. |6.kr1| replace:: к/р #1
 .. _6.kr1: https://github.com/Lydmilamihaleva/Cosmetics
 .. |6.models| replace:: #1
@@ -709,3 +729,4 @@
 .. _13.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
 .. |4.kr2| replace:: к/р #2
 .. _4.kr2: https://github.com/LuizaKolobova/VebProject/tree/master/DB
+>>>>>>> refs/remotes/ustu/master
