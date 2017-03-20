@@ -185,10 +185,10 @@
      - Мулыгина Александра Евгеньевна
      - hellroot_
      - |9.dz1.1|_ |9.dz1.2|_ |9.dz1.3|_ |9.dz1.4|_ [**+5**]
-     -
-     -
-     -
-     -
+     - |9.dz2.1|_ |9.dz2.2.1|_ |9.dz2.2.2|_ |9.dz2.3.1|_ |9.dz2.3.2|_ |9.dz2.5|_ [**+3**]
+     - |9.dz3.1|_ [**+3**]
+     - |9.dz4.1|_ |9.dz4.2|_ |9.dz4.3|_ |9.dz4.4|_ |9.dz4.5|_ [**+3**]
+     - |9.dz5.1|_ [**+3**]
      -
      - |9.kr1|_ [**+5**]
      - |9.models|_ |9.ER|_ [**+5**]
@@ -482,6 +482,19 @@
 .. |8.dz2.2-5| replace:: 2-5
 .. _8.dz2.2-5: https://gist.github.com/WhileTrueDoSex
 
+.. |9.dz2.1| replace:: 1
+.. _9.dz2.1: https://github.com/hellroot/web2
+.. |9.dz2.2.1| replace:: 2.1
+.. _9.dz2.2.1: https://gist.github.com/hellroot/0d1f0fd807179c9b0bb0b318307d7b4e
+.. |9.dz2.2.2| replace:: 2.2
+.. _9.dz2.2.2: https://gist.github.com/hellroot/0db4dab6fe1fa1e0b89865844f1bfc6a
+.. |9.dz2.3.1| replace:: 3.1
+.. _9.dz2.3.1: https://gist.github.com/hellroot/0a8405917dd7c25ef24cdd5811a16165
+.. |9.dz2.3.2| replace:: 3.2
+.. _9.dz2.3.2: https://gist.github.com/hellroot/a6614f03f32025220391bfca79cb7e70
+.. |9.dz2.5| replace:: 5
+.. _9.dz2.5: https://gist.github.com/hellroot/aaa672529baaa7aa7f9449b393282584
+
 .. |10.dz2.1| replace:: 1
 .. _10.dz2.1: https://gist.github.com/NickVernal/5ab8bd1032a527768f5dd2cddda158bc
 .. |10.dz2.2| replace:: 2
@@ -539,6 +552,9 @@
 .. |8.dz3.1| replace:: 1
 .. _8.dz3.1: https://gist.github.com/WhileTrueDoSex/2f4158613f40cf6fafe6aaf7d10c7b9b
 
+.. |9.dz3.1| replace:: 1
+.. _9.dz3.1: https://github.com/hellroot/web3
+
 .. |10.dz3.1| replace:: 1
 .. _10.dz3.1: https://gist.github.com/NickVernal/4de8578324887d568689f11c98398716
 
@@ -590,6 +606,17 @@
 .. |8.dz4.2-5| replace:: 2-5
 .. _8.dz4.2-5: https://gist.github.com/WhileTrueDoSex
 
+.. |9.dz4.1| replace:: 1
+.. _9.dz4.1: https://github.com/hellroot/web4
+.. |9.dz4.2| replace:: 2
+.. _9.dz4.2: https://gist.github.com/hellroot/79b497b5498921c261729a88aac9efdb
+.. |9.dz4.3| replace:: 3
+.. _9.dz4.3: https://gist.github.com/hellroot/d91c8a21367889a8bf0b9594fdd463be
+.. |9.dz4.4| replace:: 4
+.. _9.dz4.4: https://gist.github.com/hellroot/51230da45f3f3a871aa1367ac7af7572
+.. |9.dz4.5| replace:: 5
+.. _9.dz4.5: https://gist.github.com/hellroot/7ff5d5ab98bd786832830e4d0e120cdf
+
 .. |10.dz4.1| replace:: 1
 .. _10.dz4.1: https://github.com/NickVernal/myproject/tree/master/hw_4
 .. |10.dz4.2| replace:: 2-4
@@ -640,6 +667,9 @@
 
 .. |7.dz5.1| replace:: 1
 .. _7.dz5.1: https://gist.github.com/Lydmilamihaleva/0fb6ef38b3b25c7d73148d1f57305622
+
+.. |9.dz5.1| replace:: 1
+.. _9.dz5.1: https://github.com/hellroot/web5
 
 .. Курсовая работа
 
