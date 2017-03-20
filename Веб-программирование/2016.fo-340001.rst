@@ -777,14 +777,23 @@
 
 .. Курсовая работа
 
+.. |2.kr2| replace:: 2
+.. _2.kr2: https://github.com/SBRhen/StudioMonochrome
+
 .. |3.kr2| replace:: 1
 .. _3.kr2: https://github.com/BallOfDestruction/FactorioF
+
+.. |5.kr2| replace:: 2
+.. _5.kr2: https://github.com/SBRhen/StudioMonochrome
 
 .. |6.kr1| replace:: 1
 .. _6.kr1: https://github.com/EsaulkovNikolay/StickersArt
 
 .. |6.kr2| replace:: 1
 .. _6.kr2: https://github.com/EsaulkovNikolay/StickersArt
+
+.. |10.kr2| replace:: 2
+.. _10.kr2: https://github.com/SBRhen/StudioMonochrome
 
 .. |11.kr1| replace:: MUT
 .. _11.kr1: https://github.com/g196et/MUT
