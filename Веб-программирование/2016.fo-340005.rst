@@ -168,13 +168,11 @@
    * - 8
      - Казаков Роман
      - Azdum_
-     -
-     -
-     -
-     -
-     -
-     -
-     -
+     -|8.dz1.1|_ |8.dz1.2-4|_ 
+     - |8.dz2.1-5|_ 
+     - |8.dz3.1|_
+     - |8.dz4.1|_ |8.dz4.2-4|_ |8.dz4.5|_ 
+     - |8.dz5|_ 
      -
      -
      -
@@ -512,6 +510,11 @@
 .. |6.dz1.2-4| replace:: 2-4
 .. _6.dz1.2-4: https://gist.github.com/yuuyuu04/825b8cc4ea948ed2f5842bb22ddb6b6a
 
+.. |8.dz1.1| replace:: 1
+.. _8.dz1.1: https://github.com/Azdum/myproject
+.. |8.dz1.2-4| replace:: 2-4
+.. _8.dz1.2-4: https://gist.github.com/Azdum?page=2
+
 .. |10.dz1.1| replace:: 1
 .. _10.dz1.1: https://github.com/Sergey16802/zadanie1/tree/master/myproject
 .. |10.dz1.2-4| replace:: 2-4
@@ -579,6 +582,15 @@
 .. |5.dz2.1-5| replace:: 1-5
 .. _5.dz2.1-5: https://gist.github.com/Hasuni/d7d88abbd86c1fb9aa591463070fa554
 
+.. |8.dz2.1| replace:: 1
+.. _8.dz2.1: https://github.com/Sergey16802/zadanie1/tree/master/myproject
+.. |8.dz2.2| replace:: 2
+.. _8.dz2.2: https://gist.github.com/Azdum/4f899a1abebe22b63c343b429807fdc2
+.. |8.dz2.3| replace:: 3
+.. _8.dz2.3: https://gist.github.com/Azdum/85bda8203fbc7466bffde3fea5393312
+.. |8.dz2.5| replace:: 5
+.. _8.dz2.5: https://gist.github.com/Azdum/900fec0f316372498fc5c1ed2b539f64
+
 .. |10.dz2.1| replace:: 1
 .. _10.dz2.1: https://github.com/Sergey16802/zadanie1/tree/master/myproject
 .. |10.dz2.2-5| replace:: 2-5
@@ -630,6 +642,9 @@
 .. |5.dz3.1| replace:: 1
 .. _5.dz3.1: https://github.com/Hasuni/hw3
 
+.. |8.dz3.1| replace:: 1
+.. _8.dz3.1: https://gist.github.com/Azdum/62b347c42643a5019c877db1e8109795
+
 .. |10.dz3.1| replace:: 1
 .. _10.dz3.1: https://github.com/Sergey16802/zadanie1/blob/master/myproject/wsgi.py
 
@@ -665,6 +680,13 @@
 .. _5.dz4.2-4: https://gist.github.com/Hasuni/bb6aa277b6a585dab729e56bcc016e19
 .. |5.dz4.5| replace:: 5
 .. _5.dz4.5: https://gist.github.com/Hasuni/27815c84867c4e32e03ef86c2e264ed2
+
+.. |8.dz4.1| replace:: 1
+.. _8.dz4.1: https://gist.github.com/Azdum/bc902de7959374d079979bef98c622cc
+.. |8.dz4.2-4| replace:: 2-4
+.. _8.dz4.2-4: https://gist.github.com/Azdum/b2d9019644ad1e5e2a66f12c0a999d66
+.. |8.dz4.5| replace:: 5
+.. _8.dz4.5: https://gist.github.com/Azdum/ada49493974952c90fd477b6b1c0d145
 
 .. |10.dz4.1| replace:: 1
 .. _10.dz4.1: https://github.com/Sergey16802/jinja
@@ -720,6 +742,8 @@
 .. |5.dz5| replace:: 1
 .. _5.dz5: https://gist.github.com/Hasuni/35d1a8bf78e6caa0d06c5b93e917b3f1
 
+.. |8.dz5| replace:: 1
+.. _8.dz5: https://gist.github.com/Azdum/5f9f77ddb4e8471aa039bd2c77d0e357
 
 .. |22.dz5| replace:: 1
 .. _22.dz5: https://github.com/shilak96/myproject/tree/master/Pyramid
