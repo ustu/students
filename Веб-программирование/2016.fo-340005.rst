@@ -378,7 +378,7 @@
      - Vasyaga_
      - |21.dz1.1|_ |21.dz1.2-4|_ [**+3**]
      -
-     -
+     - |21.dz3|_ 
      -
      -
      -
@@ -653,6 +653,9 @@
 
 .. |20.dz3.1| replace:: 1
 .. _20.dz3.1: https://gist.github.com/Farakhutdinova/435cdbb99a50c237211c43b975cf774f
+
+.. |21.dz3| replace:: 1
+.. _21.dz3: https://github.com/Vasyaga/myproject/blob/master/HW3wsgi
 
 .. |22.dz3| replace:: 1
 .. _22.dz3: https://github.com/shilak96/myproject
