@@ -156,7 +156,7 @@
      -
      -
      -
-     -
+     - |7.dz5|_
      -
      -
      -
@@ -720,6 +720,8 @@
 .. |5.dz5| replace:: 1
 .. _5.dz5: https://gist.github.com/Hasuni/35d1a8bf78e6caa0d06c5b93e917b3f1
 
+.. |7.dz5| replace:: 1
+.. _7.dz5: https://github.com/kotnyam/myproject/blob/master/pyramid.py
 
 .. |22.dz5| replace:: 1
 .. _22.dz5: https://github.com/shilak96/myproject/tree/master/Pyramid
