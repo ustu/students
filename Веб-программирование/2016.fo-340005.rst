@@ -377,7 +377,7 @@
      - Цветков Василий
      - Vasyaga_
      - |21.dz1.1|_ |21.dz1.2-4|_ [**+3**]
-     -
+     - |21.dz2.1|_ |21.dz2.2|
      -
      -
      -
@@ -616,6 +616,11 @@
 .. _20.dz2.3: https://gist.github.com/Farakhutdinova/0786c642e0acdd447a967b5d15f3eedf
 .. |20.dz2.5| replace:: 5
 .. _20.dz2.5: https://gist.github.com/Farakhutdinova/2978c4408fe69ab95e5d4a124d0f9a13
+
+.. |21.dz2.1| replace:: 1
+.. _21.dz2.1: https://gist.github.com/Vasyaga/ef883aa1cf65846b58d4e3eaba7345ae
+.. |21.dz2.2| replace:: 2
+.. _21.dz2.2: https://gist.github.com/Vasyaga/28540d3c004cbd81cee3085f30f1738e
 
 .. |22.dz2.1| replace:: 1
 .. _22.dz2.1: https://github.com/shilak96/myproject
