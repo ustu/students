@@ -59,8 +59,8 @@
      - |1.dz1.1|_ |1.dz1.2-4|_ [**+3**]
      - |1.dz2.1|_ |1.dz2.2-5|_ [**+3**]
      - |1.dz3.1|_ [**+4**]
-     -
-     -
+     - |1.dz4.1|_ |1.dz4.2-4|_ |1.dz4.5|_
+     - |1.dz5|_
      -
      - |1.kr1|_ [**+5**]
      -
@@ -659,6 +659,13 @@
 
 .. Домашняя работа #4
 
+.. |1.dz4.1| replace:: 1
+.. _1.dz4.1: https://github.com/zamekb/myproject
+.. |1.dz4.2-4| replace:: 2-4
+.. _1.dz4.2-4: https://gist.github.com/zamekb/db683e52a795213fe12d34f6f77e6819
+.. |1.dz4.5| replace:: 5
+.. _1.dz4.5: https://gist.github.com/zamekb/2b6e1feab70a8798eca11d378692f613
+
 .. |5.dz4.1| replace:: 1
 .. _5.dz4.1: https://gist.github.com/Hasuni/2513bd98154b497f564238b5fe5ae79d
 .. |5.dz4.2-4| replace:: 2-4
@@ -716,6 +723,9 @@
 .. _18.dz4.5: https://gist.github.com/artofmind/7cdb47a1bfd308b7ae6476275bdbcf23
 
 .. Домашняя работа #5
+
+.. |1.dz5| replace:: 1
+.. _1.dz5: https://github.com/zamekb/myproject/blob/master/pyramidp.py
 
 .. |5.dz5| replace:: 1
 .. _5.dz5: https://gist.github.com/Hasuni/35d1a8bf78e6caa0d06c5b93e917b3f1
