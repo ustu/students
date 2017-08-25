@@ -89,7 +89,7 @@
      - Глушкова Виктория
      - VikiLural_
      -
-     -
+     - |3.dz2.2|_ |3.dz2.2-5|_
      -
      -
      -
@@ -575,6 +575,11 @@
 .. _1.dz2.1: https://github.com/zamekb/myproject
 .. |1.dz2.2-5| replace:: 2-5
 .. _1.dz2.2-5: https://gist.github.com/zamekb/1190f2fc4caf6a874bf27daacf299e27
+
+.. |3.dz2.2| replace:: 1
+.. _3.dz2.2: https://github.com/VikiLural/myproject/blob/master/web.py
+.. |3.dz2.2-5| replace:: 2-5
+.. _3.dz2.2-5: https://gist.github.com/VikiLural/145749e3e40c33833abd51639aa39b37
 
 .. |5.dz2.1-5| replace:: 1-5
 .. _5.dz2.1-5: https://gist.github.com/Hasuni/d7d88abbd86c1fb9aa591463070fa554
