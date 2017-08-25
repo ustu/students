@@ -155,7 +155,7 @@
      -
      -
      -
-     -
+     - |7.dz4.1|_ |7.dz4.2-5|_
      -
      -
      -
@@ -665,6 +665,11 @@
 .. _5.dz4.2-4: https://gist.github.com/Hasuni/bb6aa277b6a585dab729e56bcc016e19
 .. |5.dz4.5| replace:: 5
 .. _5.dz4.5: https://gist.github.com/Hasuni/27815c84867c4e32e03ef86c2e264ed2
+
+.. |7.dz4.1| replace:: 1
+.. _7.dz4.1: https://github.com/kotnyam/myproject
+.. |7.dz4.2-5| replace:: 2-5
+.. _7.dz4.2-5: https://gist.github.com/kotnyam/1f2f65979fac3b0b1c8779ba1a8a9aaf
 
 .. |10.dz4.1| replace:: 1
 .. _10.dz4.1: https://github.com/Sergey16802/jinja
