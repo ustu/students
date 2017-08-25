@@ -272,7 +272,7 @@
      -
      - |14.kr1|_ [**+5**]
      - |14.kr2.1|_ |14.kr2.2|_ [**+5**]
-     -
+     - |14.kr3|
      -
      -
      -
@@ -336,7 +336,7 @@
      -
      - |18.kr1|_ [**+5**]
      - |18.kr2.1|_ |18.kr2.2|_ [**+5**]
-     -
+     - |18.kr3|
      -
      -
      -
@@ -526,6 +526,7 @@
 .. _14.dz1.1: https://github.com/Ovchinnickova2016/myproject
 .. |14.dz1.2-4| replace:: 2-4
 .. _14.dz1.2-4: https://gist.github.com/Ovchinnickova2016/a7024dc0a28c6209b81993e177d6ba4b
+
 
 .. |15.dz1.1| replace:: 1
 .. _15.dz1.1: https://github.com/eduardpak96/myproject
@@ -795,3 +796,9 @@
 .. _17.kr2.1: https://github.com/Zixs/K-P
 .. |17.kr2.2| replace:: 2
 .. _17.kr2.2: https://github.com/Zixs/K-P/blob/master/bd.jpg
+
+.. |14.kr3| replace::1
+.. _14.kr3: https://github.com/artofmind/coursework/tree/master
+
+.. |18.kr3| replace::1
+.. _18.kr3: https://github.com/artofmind/coursework/tree/master
