@@ -90,7 +90,7 @@
      - VikiLural_
      -
      -
-     -
+     - |3.dz3.1|_
      -
      -
      -
@@ -626,6 +626,9 @@
 
 .. |1.dz3.1| replace:: 1
 .. _1.dz3.1: https://github.com/zamekb/myproject/blob/master/wsgi
+
+.. |3.dz3.1| replace:: 1
+.. _3.dz3.1: https://github.com/VikiLural/myproject/blob/master/wsgiserv.py
 
 .. |5.dz3.1| replace:: 1
 .. _5.dz3.1: https://github.com/Hasuni/hw3
