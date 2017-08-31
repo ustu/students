@@ -1,0 +1,27 @@
+{
+  "name": "ФО-000000",
+  "subjects": {
+    "Каналы передачи данных": {
+      "exam": false,
+      "course work": false,
+      "year": 2017,
+      "session": 4
+    },
+    "Веб-программирование": {
+      "exam": true,
+      "course work": false,
+      "year": 2017,
+      "session": 5
+    }
+  },
+  "students": [
+    {
+      "name": "Иванов Иван Иванович",
+      "github": "uralbash"
+    },
+    {
+      "name": "Петров Иван Иванович",
+      "github": "example"
+    }
+  ]
+}
