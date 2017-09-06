@@ -22,6 +22,9 @@ PATH_TO_GROUP: str = '../Группы/'
 
 
 class Student(object):
+    '''
+    Student factory
+    '''
 
     def __init__(
             self,
@@ -32,31 +35,57 @@ class Student(object):
     ) -> None:
         self.name:     str = name
         self.github:   str = github
-        self.avatar:   str = getFromGitHub(github)
+        self.avatar:   str = get_from_github(github)
         self.path:     Path = path
         self.subjects: Dict[str, Any] = subjects
 
     def make(self) -> None:
         key: str
         values: Dict[str, Any]
+
+        # Walk courses
         for key, values in self.subjects.items():
             course_path: Path = Path('..') / Path(key)
             if not os.path.exists(course_path):
                 logging.warning(f'Course "{key}" doesn\'t exist')
                 continue
-            year: int = values.get('year')
+            year:    int = values.get('year')
             session: int = values.get('session')
-            exam: str = 'exam' if values.get('exam') else 'noexam'
-            template_name: str = f'{year}.{session}.{exam}.student.json'
-            template_path: Path = course_path / '_templates' / template_name
+            exam:    str = 'exam' if values.get('exam') else 'noexam'
+            template_name: \
+                str = f'{year}.{session}.{exam}.student.json'
+            template_path: \
+                Path = course_path / '_templates' / template_name
             if not os.path.exists(template_path):
                 logging.warning(f'Template "{template_path}" doesn\'t exist')
                 continue
             dst_name: str = f'{year}.{session}.{key}.json'
-            shutil.copy(template_path, self.path / dst_name)
+
+            # Check file exist and update is it
+            dst_path: Path = self.path / dst_name
+            if not dst_path.exists():
+                shutil.copy(template_path, dst_path)
+            else:
+                merge_json_files(template_path, dst_path)
 
 
-def getFromGitHub(login: str) -> str:
+def merge_json_files(src_path, dst_path):
+    '''
+    Merge 2 JSON file
+    '''
+    with open(src_path) as fo:
+        src: Dict[str, Any] = json.load(fo)
+
+    with open(dst_path) as fo:
+        dst: Dict[str, Any] = json.load(fo)
+
+    src.update(dst)
+
+    with open(dst_path, "w") as fo:
+        json.dump(dst, fo, ensure_ascii=False, indent=2)
+
+
+def get_from_github(login: str) -> str:
     '''
     Return avatar if user exist
     '''
@@ -72,12 +101,15 @@ def getFromGitHub(login: str) -> str:
     return info['avatar_url']
 
 
-def makeStudent(student: Student) -> None:
+def make_student(student: Student) -> None:
     print(student.name)
     student.make()
 
 
-def makeGroup(file_name: str) -> None:
+def make_group(file_name: str) -> None:
+    '''
+    Create group folder and add students
+    '''
     with open(file_name) as file:
         data:     Dict[str, Any] = json.load(file)
         group:    str = data.get("name", "")
@@ -100,9 +132,12 @@ def makeGroup(file_name: str) -> None:
             stud_path.mkdir(exist_ok=True)
 
             github: str = student.get('github', '')
-            makeStudent(Student(name, github, stud_path, subjects))
+            make_student(Student(name, github, stud_path, subjects))
+
+        # TODO: Rebuild score reports
 
 
+# Walk groups
 for pos_json in os.listdir(PATH_TO_GROUP):
     if pos_json.endswith('.json'):
-        makeGroup(PATH_TO_GROUP + pos_json)
+        make_group(PATH_TO_GROUP + pos_json)
