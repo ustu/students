@@ -1,6 +1,7 @@
 {
   "github_nickname": "example",
   "Лабораторная работа 1": {
+    "name": "HTTP",
     "score": 0,
     "date": "",
     "1": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1",
@@ -9,6 +10,7 @@
     "4": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4"
   },
   "Лабораторная работа 2": {
+    "name": "Socket",
     "score": 0,
     "date": "",
     "1": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2",
@@ -17,11 +19,13 @@
     "5": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6"
   },
   "Лабораторная работа 3": {
+    "name": "WSGI",
     "score": 0,
     "date": "",
     "1": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1"
   },
   "Лабораторная работа 4": {
+    "name": "Web",
     "score": 0,
     "date": "",
     "1": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1",
@@ -31,6 +35,7 @@
     "5": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6"
   },
   "Лабораторная работа 5": {
+    "name": "Pyramid",
     "score": 0,
     "date": "",
     "1": "http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1"

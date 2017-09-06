@@ -5,8 +5,9 @@ stdenv.mkDerivation rec {
   env = buildEnv { name = name; paths = buildInputs; };
   buildInputs = [
     stack
-    python36Packages.pip
     mypy
     python3
+    python36Packages.pip
+    python36Packages.Mako
   ];
 }

@@ -5,10 +5,17 @@
 
 all: check
 	@# stack runghc --package http-conduit -- Stud.hs
-	nix-shell -p python3 --run "python3 stud.py"
+	@echo "Runing..."
+	@nix-shell 								 \
+		-p python3 							 \
+		-p python36Packages.Mako \
+		--run "python3 stud.py"
 
 check:
-	nix-shell -p mypy --run "mypy stud.py"
+	@echo "Checking ..."
+	@nix-shell \
+		-p mypy \
+		--run "mypy --ignore-missing-imports stud.py"
 
 
 # vim:ft=make
