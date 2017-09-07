@@ -11,4 +11,4 @@ install:
   - pip install rstcheck
 
 script:
-  - make test
+  - make
