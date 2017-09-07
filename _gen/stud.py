@@ -84,6 +84,12 @@ class Student(object):
         self.path:     Path = path
         self.subjects: Dict[str, Any] = subjects
 
+    def checkpoints(self, course: Course) -> List[str]:
+        return [
+            items.get('total', {})
+            for _, items in course.data.get('checkpoints', {}).items()
+        ]
+
     def make(self) -> None:
         key: str
         values: Dict[str, Any]
@@ -130,11 +136,6 @@ def get_from_github(login: str) -> str:
     return info['avatar_url']
 
 
-def make_student(student: Student) -> None:
-    print(student.name)
-    student.make()
-
-
 def make_group(file_name: str) -> None:
     '''
     Create group folder and add students
@@ -152,6 +153,7 @@ def make_group(file_name: str) -> None:
         path.mkdir(exist_ok=True)
 
         # Walk students
+        students_obj: List[Student] = []
         student: Dict[str, Any]
         for student in students:
             name: str = student.get('name', '')
@@ -161,7 +163,10 @@ def make_group(file_name: str) -> None:
             stud_path.mkdir(exist_ok=True)
 
             github: str = student.get('github', '')
-            make_student(Student(name, github, stud_path, subjects))
+            _obj: Student = Student(name, github, stud_path, subjects)
+            print(_obj.name)
+            _obj.make()
+            students_obj.append(_obj)
 
         # Rebuild score reports
         for key, values in subjects.items():
@@ -171,13 +176,15 @@ def make_group(file_name: str) -> None:
                 continue
             checkpoints: List[str] = [
                 f'`{values.get("name", "")}'
-                f' {values.get("date")} <{values.get("url", " ")}>`_'
+                f' {values.get("date")} <{values.get("url", "./")}>`_'
                 for key, values in course.data.get('checkpoints', {}).items()
             ]
             with open('./score.mako') as fo:
                 score: str = Template(fo.read()).render(
+                    course=course,
                     group_name=group,
-                    checkpoints=checkpoints
+                    checkpoints=checkpoints,
+                    students=students_obj
                 )
             score_path.write_text(score)
 
