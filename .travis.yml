@@ -1,5 +1,5 @@
 sudo: false
-language: python
+language: nix
 
 notifications:
   email: "sacrud@uralbash.ru"
