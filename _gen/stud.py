@@ -137,7 +137,7 @@ def get_from_github(login: str) -> str:
     conn.request("GET", f"/users/{login}", headers={'User-Agent': 'USTU/IIT'})
     response = conn.getresponse()
     if response.status != 200:
-        logging.error(response)  # type: ignore
+        logging.error(response.status, response.read())  # type: ignore
         raise Exception(f'User {login} not found')
     info: Dict[str, Any] = json.load(response)  # type: ignore
     if info['type'] != 'User':
