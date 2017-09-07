@@ -48,6 +48,15 @@ class Course(object):
         return {}
 
     @property
+    def checkpoints(self) -> List[str]:
+        return [
+            f'`{values.get("name", "")}'
+            f' <{values.get("url", "./")}>`_'
+            f' {values.get("date")}'
+            for key, values in self.data.get('checkpoints', {}).items()
+        ]
+
+    @property
     def template_path(self) -> Path:
         path: Path = self.course_path / '_templates' / self.template_name
         if not path.exists():
@@ -84,7 +93,7 @@ class Student(object):
         self.path:     Path = path
         self.subjects: Dict[str, Any] = subjects
 
-    def checkpoints(self, course: Course) -> List[str]:
+    def checkpoints(self, course: Course) -> List[Dict[str, str]]:
         return [
             items.get('total', {})
             for _, items in course.data.get('checkpoints', {}).items()
@@ -174,16 +183,10 @@ def make_group(file_name: str) -> None:
             score_path: Path = course.score_path(group)
             if not score_path.exists():
                 continue
-            checkpoints: List[str] = [
-                f'`{values.get("name", "")}'
-                f' {values.get("date")} <{values.get("url", "./")}>`_'
-                for key, values in course.data.get('checkpoints', {}).items()
-            ]
             with open('./score.mako') as fo:
                 score: str = Template(fo.read()).render(
                     course=course,
                     group_name=group,
-                    checkpoints=checkpoints,
                     students=students_obj
                 )
             score_path.write_text(score)
