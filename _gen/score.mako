@@ -21,9 +21,9 @@ ${len(group_name) * '='}
      - \
        %for key, value in _checkpoint.items():
          %if loop.last:
-           `${key} <${value}>`_
+           `${key} <${value}>`__
          %else:
-           `${key} <${value}>`_ \
+           `${key} <${value}>`__ \
          %endif
        %endfor
      %endfor

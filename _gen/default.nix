@@ -9,5 +9,6 @@ stdenv.mkDerivation rec {
     python3
     python36Packages.pip
     python36Packages.Mako
+    python36Packages.docutils
   ];
 }
