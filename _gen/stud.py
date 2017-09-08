@@ -181,7 +181,7 @@ def make_group(file_name: str) -> None:
         for key, values in subjects.items():
             course: Course = Course(key, values)
             score_path: Path = course.score_path(group)
-            if not score_path.exists():
+            if not score_path.parent.exists():
                 continue
             with open('./score.mako') as fo:
                 score: str = Template(fo.read()).render(
