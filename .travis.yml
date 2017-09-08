@@ -5,10 +5,10 @@ notifications:
   email: "sacrud@uralbash.ru"
 
 python:
-  - "3.5"
+  - "3.6"
 
 install:
-  - pip install rstcheck
+  - pip3 install rstcheck
 
 script:
   - make
