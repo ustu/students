@@ -136,7 +136,18 @@ def get_from_github(login: str) -> str:
     conn = http.client.HTTPSConnection("api.github.com")
     conn.request("GET", f"/users/{login}", headers={'User-Agent': 'USTU/IIT'})
     response = conn.getresponse()
-    if response.status != 200:
+    if response.status == 403:
+        conn = http.client.HTTPSConnection("github.com")
+        conn.request(
+            "GET", f"/{login}", headers={'User-Agent': 'USTU/IIT'}
+        )
+        response = conn.getresponse()
+        if response.status == 200:
+            return ''
+        else:
+            logging.error(response.status, response.read())  # type: ignore
+            raise Exception(f'User {login} not found')
+    elif response.status != 200:
         logging.error(response.status, response.read())  # type: ignore
         raise Exception(f'User {login} not found')
     info: Dict[str, Any] = json.load(response)  # type: ignore

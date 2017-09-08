@@ -1,0 +1,21 @@
+{
+  "name": "ФО-350005",
+  "subjects": {
+    "Веб-программирование": {
+      "exam": true,
+      "course work": false,
+      "year": 2017,
+      "session": 5
+    }
+  },
+  "students": [
+    {
+      "name": "Иванов Иван Иванович",
+      "github": "uralbash"
+    },
+    {
+      "name": "Петров Иван Иванович",
+      "github": "example"
+    }
+  ]
+}
