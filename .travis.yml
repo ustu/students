@@ -1,5 +1,5 @@
 sudo: false
-language: python
+language: nix
 
 notifications:
   email: "sacrud@uralbash.ru"
@@ -11,4 +11,4 @@ install:
   - pip install rstcheck
 
 script:
-  - make test
+  - make
