@@ -16,7 +16,11 @@ ${len(group_name) * '='}
 
    * - ${loop.index+1}
      - ${obj.name}
+     %if obj.github:
      - `${obj.github} <https://github.com/${obj.github}>`_
+     %else:
+     -
+     %endif
      %for _checkpoint in obj.checkpoints(course):
      - \
        %for key, value in _checkpoint.items():

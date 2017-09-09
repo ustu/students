@@ -19,7 +19,7 @@
 
    * - 1
      - Акинделе Ало Томас Димеджи
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -30,7 +30,7 @@
 
    * - 2
      - Акифьев Владимир Леонидович
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -41,7 +41,7 @@
 
    * - 3
      - Амирова Дария Булатовна
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -63,7 +63,7 @@
 
    * - 5
      - Белявин Тимофей Александрович
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -74,7 +74,7 @@
 
    * - 6
      - Богомолова Евгения Витальевна
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -85,7 +85,7 @@
 
    * - 7
      - Богуш Ирина Александровна
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -107,7 +107,7 @@
 
    * - 9
      - Вичкунина Дарья Дмитриевна
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -118,7 +118,7 @@
 
    * - 10
      - Клименко Владимир Валерьевич
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -129,7 +129,7 @@
 
    * - 11
      - Комаров Артем Владимирович
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -140,7 +140,7 @@
 
    * - 12
      - Кондратьев Сергей Алексеевич
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -151,7 +151,7 @@
 
    * - 13
      - Набатникова Александра Валерьевна
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -195,7 +195,7 @@
 
    * - 17
      - Подкин Евгений Михайлович
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -217,7 +217,7 @@
 
    * - 19
      - Савинова Марина Александровна
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -228,7 +228,7 @@
 
    * - 20
      - Снегирев Максим Константинович
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -239,7 +239,7 @@
 
    * - 21
      - Титов Кирилл Артемович
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -250,7 +250,7 @@
 
    * - 22
      - Умутбаева Ольга Геннадьевна
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -261,7 +261,7 @@
 
    * - 23
      - Черкасова Лия Юрьевна
-     - ` <https://github.com/>`_
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
