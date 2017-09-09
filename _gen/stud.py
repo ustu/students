@@ -133,6 +133,8 @@ def get_from_github(login: str) -> str:
     '''
     Return avatar if user exist
     '''
+    if not login.strip():
+        return ''
     conn = http.client.HTTPSConnection("api.github.com")
     conn.request("GET", f"/users/{login}", headers={'User-Agent': 'USTU/IIT'})
     response = conn.getresponse()
@@ -183,7 +185,11 @@ def make_group(file_name: str) -> None:
             stud_path.mkdir(exist_ok=True)
 
             github: str = student.get('github', '')
-            _obj: Student = Student(name, github, stud_path, subjects)
+            try:
+                _obj: Student = Student(name, github, stud_path, subjects)
+            except Exception as e:
+                logging.error(str(e))
+                continue
             print(_obj.name)
             _obj.make()
             students_obj.append(_obj)
