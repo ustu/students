@@ -260,6 +260,17 @@
      - 
 
    * - 23
+     - Чабин Александр Сергеевич
+     - `a-chabin <https://github.com/a-chabin>`_
+     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
+     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__
+     -            `1 <https://github.com/example/example>`__
+     - 
+
+   * - 24
      - Черкасова Лия Юрьевна
      -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
