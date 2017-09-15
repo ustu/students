@@ -6,7 +6,7 @@
 all: build test
 
 test:
-	rstcheck Веб-программирование/20*	
+	nix-shell . --run "rstcheck Веб-программирование/20*"
 	
 build:
 	cd _gen && make

@@ -4,11 +4,5 @@ language: nix
 notifications:
   email: "sacrud@uralbash.ru"
 
-python:
-  - "3.6"
-
-install:
-  - pip3 install rstcheck
-
 script:
   - make
