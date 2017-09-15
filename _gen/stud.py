@@ -116,16 +116,23 @@ class Student(object):
             if not dst_path.exists():
                 shutil.copy(course_template, dst_path)
             else:
-                merge_json_files(course_template, dst_path)
+                merge_json_files(course_template, dst_path, {
+                    'github_nickname': self.github
+                })
 
 
-def merge_json_files(src_path: Path, dst_path: Path) -> None:
+def merge_json_files(
+        src_path: Path,
+        dst_path: Path,
+        overwrite: Dict[str, Any] = {}) -> None:
     '''
     Merge 2 JSON file
     '''
     src: Dict[str, Any] = json.load(src_path.open())
     dst: Dict[str, Any] = json.load(dst_path.open())
     src.update(dst)
+    for key, value in overwrite.items():
+        dst[key] = value
     json.dump(dst, dst_path.open('w'), ensure_ascii=False, indent=2)
 
 
