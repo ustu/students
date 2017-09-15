@@ -18,8 +18,8 @@
 
 
    * - 1
-     - Иванов Иван Иванович
-     - `uralbash <https://github.com/uralbash>`_
+     - Безушко Максим Юрьевич
+     -
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
@@ -30,8 +30,164 @@
 
 
    * - 2
-     - Петров Иван Иванович
-     - `example <https://github.com/example>`_
+     - Бессонов Борис Романович
+     - `Obscurite <https://github.com/Obscurite>`_
+     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
+     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__
+     -            `1 <https://github.com/example/example>`__
+     -            `1 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst>`__            `2 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst>`__            `3 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst>`__            `4 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst>`__            `5 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst>`__
+
+
+   * - 3
+     - Долганов Антон Юрьевич
+     - `Antoha1397 <https://github.com/Antoha1397>`_
+     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
+     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__
+     -            `1 <https://github.com/example/example>`__
+     -            `1 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst>`__            `2 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst>`__            `3 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst>`__            `4 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst>`__            `5 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst>`__
+
+
+   * - 4
+     - Дружков Андрей Игоревич
+     -
+     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
+     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__
+     -            `1 <https://github.com/example/example>`__
+     -            `1 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst>`__            `2 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst>`__            `3 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst>`__            `4 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst>`__            `5 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst>`__
+
+
+   * - 5
+     - Жданов Игорь Николаевич
+     - `Rasmur <https://github.com/Rasmur>`_
+     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
+     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__
+     -            `1 <https://github.com/example/example>`__
+     -            `1 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst>`__            `2 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst>`__            `3 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst>`__            `4 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst>`__            `5 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst>`__
+
+
+   * - 6
+     - Заусова Екатерина Николаевна
+     -
+     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
+     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__
+     -            `1 <https://github.com/example/example>`__
+     -            `1 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst>`__            `2 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst>`__            `3 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst>`__            `4 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst>`__            `5 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst>`__
+
+
+   * - 7
+     - Искаков Шамиль Рафаилович
+     - `randomShama <https://github.com/randomShama>`_
+     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
+     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__
+     -            `1 <https://github.com/example/example>`__
+     -            `1 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst>`__            `2 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst>`__            `3 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst>`__            `4 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst>`__            `5 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst>`__
+
+
+   * - 8
+     - Корняков Никита Алексеевич
+     - `Kaiomaru <https://github.com/Kaiomaru>`_
+     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
+     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__
+     -            `1 <https://github.com/example/example>`__
+     -            `1 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst>`__            `2 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst>`__            `3 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst>`__            `4 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst>`__            `5 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst>`__
+
+
+   * - 9
+     - Корякин Александр Алексеевич
+     -
+     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
+     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__
+     -            `1 <https://github.com/example/example>`__
+     -            `1 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst>`__            `2 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst>`__            `3 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst>`__            `4 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst>`__            `5 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst>`__
+
+
+   * - 10
+     - Кузнецов Семён Григорьевич
+     -
+     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
+     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__
+     -            `1 <https://github.com/example/example>`__
+     -            `1 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst>`__            `2 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst>`__            `3 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst>`__            `4 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst>`__            `5 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst>`__
+
+
+   * - 11
+     - Матвеев Антон Сергеевич
+     - `learko <https://github.com/learko>`_
+     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
+     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__
+     -            `1 <https://github.com/example/example>`__
+     -            `1 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst>`__            `2 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst>`__            `3 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst>`__            `4 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst>`__            `5 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst>`__
+
+
+   * - 12
+     - Немков Владислав Ильич
+     -
+     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
+     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__
+     -            `1 <https://github.com/example/example>`__
+     -            `1 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst>`__            `2 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst>`__            `3 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst>`__            `4 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst>`__            `5 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst>`__
+
+
+   * - 13
+     - Новиков Александр Николаевич
+     - `theflatladder <https://github.com/theflatladder>`_
+     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
+     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__
+     -            `1 <https://github.com/example/example>`__
+     -            `1 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst>`__            `2 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst>`__            `3 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst>`__            `4 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst>`__            `5 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst>`__
+
+
+   * - 14
+     - Тетюцких Арсений Алексеевич
+     - `arstet <https://github.com/arstet>`_
+     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
+     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__
+     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__
+     -            `1 <https://github.com/example/example>`__
+     -            `1 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst>`__            `2 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst>`__            `3 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst>`__            `4 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst>`__            `5 <https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst>`__
+
+
+   * - 15
+     - Торощина Ирина Сергеевна
+     - `Anonymoar <https://github.com/Anonymoar>`_
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
      -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__

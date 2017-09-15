@@ -1,0 +1,82 @@
+{
+  "github_nickname": "example",
+  "checkpoints": {
+    "Лабораторная работа 1": {
+      "name": "л/р #1 (HTTP)",
+      "url": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html",
+      "score": 0,
+      "date": "16/09/2017",
+      "total": {
+        "1": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1",
+        "2": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2",
+        "3": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3",
+        "4": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4"
+      }
+    },
+    "Лабораторная работа 2": {
+      "name": "л/р #2 (Socket)",
+      "url": "http://lecturesnet.readthedocs.io/net/_checkpoint.html",
+      "score": 0,
+      "date": "",
+      "total": {
+        "1": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2",
+        "2": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3",
+        "3": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4",
+        "5": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6"
+      }
+    },
+    "Лабораторная работа 3": {
+      "name": "л/р #3 (WSGI)",
+      "url": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html",
+      "score": 0,
+      "date": "",
+      "total": {
+        "1": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1"
+      }
+    },
+    "Лабораторная работа 4": {
+      "name": "л/р #4 (Web)",
+      "url": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html",
+      "score": 0,
+      "date": "",
+      "total": {
+        "1": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1",
+        "2": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2",
+        "3": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3",
+        "4": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4",
+        "5": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6"
+      }
+    },
+    "Лабораторная работа 5": {
+      "name": "л/р #5 (Pyramid)",
+      "url": "http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html",
+      "score": 0,
+      "date": "",
+      "total": {
+        "1": "http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1"
+      }
+    },
+    "Контрольная работа": {
+      "name": "контр.",
+      "score": 0,
+      "date": "",
+      "total": {
+        "1": "https://github.com/example/example"
+      }
+    },
+    "Курсовая работа": {
+      "name": "к/р",
+      "url": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/",
+      "score": 0,
+      "date": "",
+      "theme": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/темы%20курсовых.rst",
+      "total": {
+        "1": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst",
+        "2": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst",
+        "3": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst",
+        "4": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst",
+        "5": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst"
+      }
+    }
+  }
+}
