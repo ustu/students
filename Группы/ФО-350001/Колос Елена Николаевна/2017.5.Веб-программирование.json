@@ -1,5 +1,5 @@
 {
-  "github_nickname": "",
+  "github_nickname": "lenok97",
   "checkpoints": {
     "Лабораторная работа 1": {
       "name": "л/р #1 (HTTP)",
@@ -7,10 +7,10 @@
       "score": 0,
       "date": "16/09/2017",
       "total": {
-        "1": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1",
-        "2": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2",
-        "3": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3",
-        "4": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4"
+        "1": "https://github.com/lenok97/WEBprogramming/tree/master/lab1/myproject",
+        "2": "https://gist.github.com/lenok97/67808273331a7b5c0fa5f5af7e5fbc41",
+        "3": "https://gist.github.com/lenok97/c78ef4165be3a45fc0a9430c3c4082ae",
+        "4": "https://gist.github.com/lenok97/81729a915a3f82cbe3070fc646a105c6"
       }
     },
     "Лабораторная работа 2": {
