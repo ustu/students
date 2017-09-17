@@ -1,5 +1,5 @@
 {
-  "github_nickname": "",
+  "github_nickname": "CatInJar",
   "checkpoints": {
     "Лабораторная работа 1": {
       "name": "л/р #1 (HTTP)",
@@ -7,10 +7,10 @@
       "score": 0,
       "date": "16/09/2017",
       "total": {
-        "1": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1",
-        "2": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2",
-        "3": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3",
-        "4": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4"
+        "1": "https://github.com/CatInJar/WebLabs/tree/master/Lab1",
+        "2": "https://gist.github.com/CatInJar/e8f9207f8750a9be75f28cfc650a49b3",
+        "3": "https://gist.github.com/CatInJar/c56a44365db53f4b75e9bcb7a7a27284",
+        "4": "https://gist.github.com/CatInJar/5376532361a9b6f598b9ef1864668d31"
       }
     },
     "Лабораторная работа 2": {
