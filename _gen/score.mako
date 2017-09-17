@@ -24,15 +24,21 @@ ${len(group_name) * '='}
      %for _checkpoint in obj.checkpoints(course):
      - \
        %for key, value in _checkpoint.items():
-         %if isinstance(value, collections.MutableSequence) :
-           %for _item in value:
-             `${key}.${loop.index+1} <${_item}>`__ \
-           %endfor
-         %else:
-           `${key} <${value}>`__ \
+         %if key is not 'score':
+           %if isinstance(value, collections.MutableSequence) :
+             %for _item in value:
+               `${key}.${loop.index+1} <${_item}>`__ \
+             %endfor
+           %else:
+             `${key} <${value}>`__ \
+           %endif
          %endif
          %if loop.last:
-           ${""}
+           %if _checkpoint.get('score', ''):
+             **+${_checkpoint.get('score', '')}**
+           %else:
+             ${''}
+           %endif
          %endif
        %endfor
      %endfor

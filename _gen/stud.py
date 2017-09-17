@@ -99,7 +99,14 @@ class Student(object):
         dst_path: Path = self._dst_path(course)
         data: Dict[str, Any] = json.load(dst_path.open())
         return [
-            items.get('total', {})
+            {
+                **items.get('total', {}),
+                **{
+                    'score': items.get('score', 0)
+                    if items.get('score', 0) > 0
+                    else ''
+                }
+            }
             for _, items in data.get('checkpoints', {}).items()
         ]
 

@@ -20,263 +20,287 @@
    * - 1
      - Акинделе Ало Томас Димеджи
      - `HateWG <https://github.com/HateWG>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 2
      - Акифьев Владимир Леонидович
      - `Akifev95 <https://github.com/Akifev95>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 3
      - Амирова Дария Булатовна
      - `mollyusk <https://github.com/mollyusk>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 4
      - Архипов Андрей Александрович
      - `impuppy <https://github.com/impuppy>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 5
      - Белявин Тимофей Александрович
      - `Ageratum <https://github.com/Ageratum>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 6
      - Богомолова Евгения Витальевна
      - `Lorry5 <https://github.com/Lorry5>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 7
      - Богуш Ирина Александровна
      - `Irina2772 <https://github.com/Irina2772>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 8
      - Васильев Александр Михайлович
      - `alex43jk <https://github.com/alex43jk>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 9
      - Вичкунина Дарья Дмитриевна
      - `vichkunina <https://github.com/vichkunina>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 10
      - Клименко Владимир Валерьевич
      -
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 11
      - Комаров Артем Владимирович
      - `paradox158 <https://github.com/paradox158>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 12
      - Кондратьев Сергей Алексеевич
      -
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 13
      - Набатникова Александра Валерьевна
      -
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 14
      - Нагаев Александр Олегович
      - `FlaX89 <https://github.com/FlaX89>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 15
      - Панкова Алена Александровна
      - `AlenaPankova <https://github.com/AlenaPankova>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 16
      - Перова Анастасия Александровна
      - `FOAna <https://github.com/FOAna>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 17
      - Подкин Евгений Михайлович
      -
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 18
      - Пошехонова Ольга Александровна
      - `OlyaFO <https://github.com/OlyaFO>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 19
      - Савинова Марина Александровна
      - `marywhat7 <https://github.com/marywhat7>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 20
      - Снегирев Максим Константинович
      - `MaksimMsnov <https://github.com/MaksimMsnov>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 21
      - Титов Кирилл Артемович
      -
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 22
      - Умутбаева Ольга Геннадьевна
      - `Olisss <https://github.com/Olisss>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 23
      - Чабин Александр Сергеевич
      - `a-chabin <https://github.com/a-chabin>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
 
    * - 24
      - Черкасова Лия Юрьевна
      - `Giraffe-in-hood <https://github.com/Giraffe-in-hood>`_
-     -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__            
-     -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__            `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__            `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__            `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__            `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__            
-     -            `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__            
-     -            `1 <https://github.com/example/example>`__            
-     - 
+     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
+     -              `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__              
+     -              `1 <https://github.com/example/example>`__              
+     -              
+
