@@ -90,7 +90,7 @@ class Student(object):
     ) -> None:
         self.name:     str = name
         self.github:   str = github
-        if not github.strip():
+        if not github.strip() or github is 'example':
             self.avatar:   str = get_from_github(github)
         self.path:     Path = path
         self.subjects: Dict[str, Any] = subjects
