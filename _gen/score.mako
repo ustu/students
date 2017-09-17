@@ -24,22 +24,15 @@ ${len(group_name) * '='}
      %for _checkpoint in obj.checkpoints(course):
      - \
        %for key, value in _checkpoint.items():
-         %if loop.last:
-           %if isinstance(value, collections.MutableSequence) :
-             %for _item in value:
-               `${key}.${loop.index+1} <${_item}>`__
-             %endfor
-           %else:
-             `${key} <${value}>`__
-           %endif
+         %if isinstance(value, collections.MutableSequence) :
+           %for _item in value:
+             `${key}.${loop.index+1} <${_item}>`__ \
+           %endfor
          %else:
-           %if isinstance(value, collections.MutableSequence) :
-             %for _item in value:
-               `${key}.${loop.index+1} <${_item}>`__ \
-             %endfor
-           %else:
-             `${key} <${value}>`__ \
-           %endif
+           `${key} <${value}>`__ \
+         %endif
+         %if loop.last:
+           ${""}
          %endif
        %endfor
      %endfor
