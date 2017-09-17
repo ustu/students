@@ -35,7 +35,7 @@ ${len(group_name) * '='}
          %endif
          %if loop.last:
            %if _checkpoint.get('score', ''):
-             **+${_checkpoint.get('score', '')}**
+             [**+${_checkpoint.get('score', '')}**]
            %else:
              ${''}
            %endif
