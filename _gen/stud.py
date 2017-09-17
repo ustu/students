@@ -14,11 +14,12 @@ import os
 import json
 import shutil
 import logging
-import http.client
-from typing import Any, Dict, List  # flake8: noqa
+import collections
 from pathlib import Path
 
 # third-party
+import http.client
+from typing import Any, Dict, List  # flake8: noqa
 from mako.template import Template
 
 PATH_TO_GROUP: str = '../Группы/'
@@ -89,15 +90,21 @@ class Student(object):
     ) -> None:
         self.name:     str = name
         self.github:   str = github
-        self.avatar:   str = get_from_github(github)
+        if not github.strip():
+            self.avatar:   str = get_from_github(github)
         self.path:     Path = path
         self.subjects: Dict[str, Any] = subjects
 
-    def checkpoints(self, course: Course) -> List[Dict[str, str]]:
+    def checkpoints(self, course: Course) -> List[Dict[str, Any]]:
+        dst_path: Path = self._dst_path(course)
+        data: Dict[str, Any] = json.load(dst_path.open())
         return [
             items.get('total', {})
-            for _, items in course.data.get('checkpoints', {}).items()
+            for _, items in data.get('checkpoints', {}).items()
         ]
+
+    def _dst_path(self, course: Course) -> Path:
+        return self.path / f'{course.year}.{course.session}.{course.name}.json'
 
     def make(self) -> None:
         key: str
@@ -111,8 +118,7 @@ class Student(object):
                 continue
 
             # Check file exist and update is it
-            dst_path: Path = self.path / \
-                f'{course.year}.{course.session}.{course.name}.json'
+            dst_path: Path = self._dst_path(course)
             if not dst_path.exists():
                 shutil.copy(course_template, dst_path)
             else:
@@ -211,7 +217,8 @@ def make_group(file_name: str) -> None:
                 score: str = Template(fo.read()).render(
                     course=course,
                     group_name=group,
-                    students=students_obj
+                    students=students_obj,
+                    collections=collections
                 )
             score_path.write_text(score)
 

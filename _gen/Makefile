@@ -10,6 +10,13 @@ all: check
 		-p python3 							 \
 		-p python36Packages.Mako \
 		--run "python3 stud.py"
+	
+debug:
+	@echo "Debug..."
+	@nix-shell 								 \
+		-p python3 							 \
+		-p python36Packages.Mako \
+		--run "python3 -m pdb -c continue stud.py"
 
 check:
 	@echo "Checking ..."

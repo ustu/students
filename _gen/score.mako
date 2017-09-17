@@ -25,9 +25,21 @@ ${len(group_name) * '='}
      - \
        %for key, value in _checkpoint.items():
          %if loop.last:
-           `${key} <${value}>`__
+           %if isinstance(value, collections.MutableSequence) :
+             %for _item in value:
+               `${key}.${loop.index+1} <${_item}>`__
+             %endfor
+           %else:
+             `${key} <${value}>`__
+           %endif
          %else:
-           `${key} <${value}>`__ \
+           %if isinstance(value, collections.MutableSequence) :
+             %for _item in value:
+               `${key}.${loop.index+1} <${_item}>`__ \
+             %endfor
+           %else:
+             `${key} <${value}>`__ \
+           %endif
          %endif
        %endfor
      %endfor
