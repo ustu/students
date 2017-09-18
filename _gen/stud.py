@@ -105,6 +105,8 @@ class Student(object):
         if not github_nickname:
             return None
 
+        self.github = github_nickname
+
         path: Path = Path(PATH_TO_GROUP) / f'{self.group}.json'
         data: Dict[str, Any] = json.load(path.open())
         for item in data.get('students'):
