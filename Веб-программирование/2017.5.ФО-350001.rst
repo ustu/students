@@ -55,8 +55,8 @@
 
    * - 4
      - Вяткин Денис Евгеньевич
-     -
-     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     - `CatInJar <https://github.com/CatInJar>`_
+     -              `1 <https://github.com/CatInJar/WebLabs/tree/master/Lab1>`__              `2 <https://gist.github.com/CatInJar/e8f9207f8750a9be75f28cfc650a49b3>`__              `3 <https://gist.github.com/CatInJar/c56a44365db53f4b75e9bcb7a7a27284>`__              `4 <https://gist.github.com/CatInJar/5376532361a9b6f598b9ef1864668d31>`__              [**+100**]
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
      -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
      -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
@@ -67,8 +67,8 @@
 
    * - 5
      - Габайдуллин Данил Ринатович
-     -
-     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     - `Danila24ru <https://github.com/Danila24ru>`_
+     -              `1 <https://github.com/Danila24ru/myproject>`__              `2 <https://gist.github.com/Danila24ru/6f7d693effb2b07d936d020006fde2de>`__              `3 <https://gist.github.com/Danila24ru/6f7d693effb2b07d936d020006fde2de>`__              `4 <https://gist.github.com/Danila24ru/6f7d693effb2b07d936d020006fde2de>`__              [**+100**]
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
      -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
      -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
@@ -152,7 +152,7 @@
    * - 12
      - Колос Елена Николаевна
      -
-     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <https://github.com/lenok97/WEBprogramming/tree/master/lab1/myproject>`__              `2 <https://gist.github.com/lenok97/67808273331a7b5c0fa5f5af7e5fbc41>`__              `3 <https://gist.github.com/lenok97/c78ef4165be3a45fc0a9430c3c4082ae>`__              `4 <https://gist.github.com/lenok97/81729a915a3f82cbe3070fc646a105c6>`__              [**+100**]
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
      -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
      -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              

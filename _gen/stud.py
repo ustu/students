@@ -84,16 +84,34 @@ class Student(object):
     def __init__(
             self,
             name:     str,
+            group:    str,
             github:   str,
             path:     Path,
             subjects: Dict[str, Any]
     ) -> None:
         self.name:     str = name
+        self.group:    str = group
         self.github:   str = github
-        if not github.strip() or github is 'example':
-            self.avatar:   str = get_from_github(github)
         self.path:     Path = path
         self.subjects: Dict[str, Any] = subjects
+
+    def set_github(self, course: Course) -> None:
+
+        if self.github:
+            return None
+
+        dst: Dict[str, Any] = json.load(self._dst_path(course).open())
+        github_nickname: str = dst.get('github_nickname', None)
+        if not github_nickname:
+            return None
+
+        path: Path = Path(PATH_TO_GROUP) / f'{self.group}.json'
+        data: Dict[str, Any] = json.load(path.open())
+        for item in data.get('students'):
+            if item.get('name') == self.name:
+                item['github'] = github_nickname
+
+        json.dump(data, path.open('w'), ensure_ascii=False, indent=2)
 
     def checkpoints(self, course: Course) -> List[Dict[str, Any]]:
         dst_path: Path = self._dst_path(course)
@@ -127,11 +145,16 @@ class Student(object):
             # Check file exist and update is it
             dst_path: Path = self._dst_path(course)
             if not dst_path.exists():
+                get_from_github(self.github)
                 shutil.copy(course_template, dst_path)
             else:
-                merge_json_files(course_template, dst_path, {
-                    'github_nickname': self.github
-                })
+                self.set_github(course)
+                merge_json_files(
+                    course_template,
+                    dst_path,
+                    {
+                        'github_nickname': self.github
+                    } if self.github else {})
 
 
 def merge_json_files(
@@ -206,7 +229,13 @@ def make_group(file_name: str) -> None:
 
             github: str = student.get('github', '')
             try:
-                _obj: Student = Student(name, github, stud_path, subjects)
+                _obj: Student = Student(
+                    name,
+                    group,
+                    github,
+                    stud_path,
+                    subjects
+                )
             except Exception as e:
                 logging.error(str(e))
                 continue
