@@ -91,8 +91,8 @@
 
    * - 7
      - Елизарьев Павел Вадимович
-     -
-     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     - `Gonleef <https://github.com/Gonleef>`_
+     -              `1 <https://github.com/Gonleef/myproject>`__              `2 <https://gist.github.com/Gonleef/816885c59bd0e3ed49824e8027194d1e>`__              `3 <https://gist.github.com/Gonleef/02e1d950538bb44b23c8c232c62ed01a>`__              `4 <https://gist.github.com/Gonleef/459cab3456b4d4bb9f7ded935d8d08a7>`__              [**+79**]
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
      -              `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__              
      -              `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__              
