@@ -15,11 +15,11 @@ import json
 import shutil
 import logging
 import collections
+import http.client
+from typing import Any, Dict, List  # flake8: noqa
 from pathlib import Path
 
 # third-party
-import http.client
-from typing import Any, Dict, List  # flake8: noqa
 from mako.template import Template
 
 PATH_TO_GROUP: str = '../Группы/'
@@ -32,9 +32,11 @@ class Course(object):
     def __init__(
             self,
             name:   str,
+            group:  str,
             values: Dict[str, Any]
     ) -> None:
-        self.name = name
+        self.name:    str = name
+        self.group:   str = group
         self.year:    int = values.get('year')
         self.session: int = values.get('session')
         self.exam:    str = 'exam' if values.get('exam') else 'noexam'
@@ -42,28 +44,61 @@ class Course(object):
         self.template_name: \
             str = f'{self.year}.{self.session}.{self.exam}.student.json'
 
-    @property
-    def data(self) -> Dict[str, Any]:
-        if (self.template_path.exists()):
-            return json.load(self.template_path.open())
+    def _data(self, path: Path) -> Dict[str, Any]:
+        if (path.exists()):
+            return json.load(path.open())
         return {}
 
     @property
+    def data(self) -> Dict[str, Any]:
+        return self._data(self.template_path)
+
+    @property
+    def data_group(self) -> Dict[str, Any]:
+        return self._data(self.template_group_path)
+
+    @property
     def checkpoints(self) -> List[str]:
+        return self._checkpoints(self.template_path)
+
+    @property
+    def checkpoints_group(self) -> List[str]:
+        return self._checkpoints(self.template_group_path)
+
+    def _checkpoints(self, path: Path) -> List[str]:
+        data: Dict[str, Any] = self._data(path)
         return [
             f'`{values.get("name", "")}'
             f' <{values.get("url", "./")}>`_'
             f' {values.get("date")}'
-            for key, values in self.data.get('checkpoints', {}).items()
+            for key, values in data.get('checkpoints', {}).items()
         ]
 
-    @property
-    def template_path(self) -> Path:
-        path: Path = self.course_path / '_templates' / self.template_name
+    def _template_path(self, common_path: Path) -> Path:
+        path: Path = common_path / '_templates' / self.template_name
         if not path.exists():
             logging.warning(f'Template "{path}" doesn\'t exist')
             return Path('__NO_EXIST__')
         return path
+
+    @property
+    def template_path(self) -> Path:
+        return self._template_path(self.course_path)
+
+    @property
+    def template_group_path(self) -> Path:
+        # Make group templates for subjects
+        path: Path = Path(PATH_TO_GROUP) / self.group / '_common' / self.name
+        path.mkdir(exist_ok=True)
+
+        # Copy if not exist
+        try:
+            shutil.copytree(f'../{self.name}/_templates', path)
+        except FileExistsError as e:
+            pass
+
+        # Return template path
+        return self._template_path(path)
 
     @property
     def course_path(self) -> Path:
@@ -139,7 +174,7 @@ class Student(object):
 
         # Walk courses
         for key, values in self.subjects.items():
-            course: Course = Course(key, values)
+            course: Course = Course(key, self.group, values)
             course_template: Path = course.template_path
             if not course_template.exists():
                 continue
@@ -148,11 +183,11 @@ class Student(object):
             dst_path: Path = self._dst_path(course)
             if not dst_path.exists():
                 get_from_github(self.github)
-                shutil.copy(course_template, dst_path)
+                shutil.copy(course.template_group_path, dst_path)
             else:
                 self.set_github(course)
                 merge_json_files(
-                    course_template,
+                    course.template_group_path,
                     dst_path,
                     {
                         'github_nickname': self.github
@@ -247,7 +282,7 @@ def make_group(file_name: str) -> None:
 
         # Rebuild score reports
         for key, values in subjects.items():
-            course: Course = Course(key, values)
+            course: Course = Course(key, group, values)
             score_path: Path = course.score_path(group)
             if not score_path.parent.exists():
                 continue

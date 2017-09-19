@@ -8,7 +8,7 @@ ${len(group_name) * '='}
    * -
      - ФИО
      - github
-     % for i in course.checkpoints:
+     % for i in course.checkpoints_group:
      - ${i}
      %endfor
 
