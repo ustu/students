@@ -1,7 +1,7 @@
 ${group_name}
 ${len(group_name) * '='}
 
-.. list-table:: Успеваемость (`${course.name} <http://lectureswww.readthedocs.io/>`_)
+.. list-table:: Успеваемость (`${course.name} <https://lectureswww.readthedocs.io/>`_)
    :header-rows: 1
    :stub-columns: 1
 

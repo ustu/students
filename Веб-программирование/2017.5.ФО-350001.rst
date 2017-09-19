@@ -1,7 +1,7 @@
 ФО-350001
 =========
 
-.. list-table:: Успеваемость (`Веб-программирование <http://lectureswww.readthedocs.io/>`_)
+.. list-table:: Успеваемость (`Веб-программирование <https://lectureswww.readthedocs.io/>`_)
    :header-rows: 1
    :stub-columns: 1
 
