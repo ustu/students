@@ -24,6 +24,12 @@ check:
 		-p mypy \
 		--run "mypy --ignore-missing-imports stud.py"
 
+rst2html:
+	@echo "Html..."
+	@nix-shell 								   \
+		-p python36Packages.sphinx \
+		--run "./rst2html.sh"
+
 
 # vim:ft=make
 #

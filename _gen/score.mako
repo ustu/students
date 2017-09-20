@@ -7,8 +7,21 @@ ${len(group_name) * '='}
 
    * -
      - ФИО
-     % for i in course.checkpoints_group:
-     - ${i}
+     % for _, values in course.checkpoints_group:
+     - `${values.get('name', '')} <${values.get("url", "./")}>`_
+     %endfor
+
+   * -
+     -
+     % for _, values in course.checkpoints_group:
+       <%
+         date = values.get("date")
+       %>
+       %if date:
+     - ${date.split('/')[0]}/${date.split('/')[1]} ${date.split('/')[2]}
+       % else:
+     -
+       %endif
      %endfor
 
      % for obj in students:

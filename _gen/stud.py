@@ -58,21 +58,16 @@ class Course(object):
         return self._data(self.template_group_path)
 
     @property
-    def checkpoints(self) -> List[str]:
+    def checkpoints(self) -> List[Dict[str, Any]]:
         return self._checkpoints(self.template_path)
 
     @property
-    def checkpoints_group(self) -> List[str]:
+    def checkpoints_group(self) -> List[Dict[str, Any]]:
         return self._checkpoints(self.template_group_path)
 
-    def _checkpoints(self, path: Path) -> List[str]:
+    def _checkpoints(self, path: Path) -> List[Dict[str, Any]]:
         data: Dict[str, Any] = self._data(path)
-        return [
-            f'`{values.get("name", "")}'
-            f' <{values.get("url", "./")}>`_'
-            f' {values.get("date")}'
-            for key, values in data.get('checkpoints', {}).items()
-        ]
+        return data.get('checkpoints', {}).items()
 
     def _template_path(self, common_path: Path) -> Path:
         path: Path = common_path / '_templates' / self.template_name
