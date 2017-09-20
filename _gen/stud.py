@@ -16,6 +16,7 @@ import shutil
 import logging
 import collections
 import http.client
+import urllib.parse
 from typing import Any, Dict, List  # flake8: noqa
 from pathlib import Path
 
@@ -293,7 +294,14 @@ def make_group(file_name: str) -> None:
                     course=course,
                     group_name=group,
                     students=students_obj,
-                    collections=collections
+                    collections=collections,
+                    quote=lambda url: urllib.parse.quote(
+                        url.replace(' ', '%20'),
+                        safe="%/:=&?~#+!$,;'@()*[]"
+                    )
+                    # quote=lambda url: urllib.parse.quote_plus(
+                    #     url, safe=":,/"
+                    # )
                 )
             score_path.write_text(score)
 

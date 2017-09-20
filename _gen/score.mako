@@ -8,7 +8,7 @@ ${len(group_name) * '='}
    * -
      - ФИО
      % for _, values in course.checkpoints_group:
-     - `${values.get('name', '')} <${values.get("url", "./")}>`_
+     - `${values.get('name', '')} <${quote(values.get("url", "./"))}>`_
      %endfor
 
    * -
@@ -29,7 +29,7 @@ ${len(group_name) * '='}
    * - ${loop.index+1}
      - ${obj.name} \
      %if obj.github:
-       (`${obj.github} <https://github.com/${obj.github}>`_)
+       (`${obj.github} <quote(https://github.com/${obj.github})>`_)
      %else:
 
      %endif
@@ -39,10 +39,10 @@ ${len(group_name) * '='}
          %if key is not 'score':
            %if isinstance(value, collections.MutableSequence) :
              %for _item in value:
-               `${key}.${loop.index+1} <${_item}>`__ \
+               `${key}.${loop.index+1} <${quote(_item)}>`__ \
              %endfor
            %else:
-             `${key} <${value}>`__ \
+             `${key} <${quote(value)}>`__ \
            %endif
          %endif
          %if loop.last:
