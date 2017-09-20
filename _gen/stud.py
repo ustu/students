@@ -146,7 +146,7 @@ class Student(object):
         json.dump(data, path.open('w'), ensure_ascii=False, indent=2)
 
     def checkpoints(self, course: Course) -> List[Dict[str, Any]]:
-        data: Dict[str, Any] = course.data_group
+        data: Dict[str, Any] = json.load(self._dst_path(course).open())
         return [
             {
                 **items.get('total', {}),
@@ -169,7 +169,7 @@ class Student(object):
         # Walk courses
         for key, values in self.subjects.items():
             course: Course = Course(key, self.group, values)
-            course_template: Path = course.template_path
+            course_template: Path = course.template_group_path
             if not course_template.exists():
                 continue
 
@@ -185,18 +185,26 @@ class Student(object):
                     dst_path,
                     {
                         'github_nickname': self.github
-                    } if self.github else {})
+                    } if self.github else {},
+                    [
+                        'checkpoints',
+                    ]
+                )
 
 
 def merge_json_files(
         src_path: Path,
         dst_path: Path,
-        overwrite: Dict[str, Any] = {}) -> None:
+        overwrite: Dict[str, Any] = {},
+        subkeys: List[str] = []
+) -> None:
     '''
     Merge 2 JSON file
     '''
     src: Dict[str, Any] = json.load(src_path.open())
     dst: Dict[str, Any] = json.load(dst_path.open())
+    for key in subkeys:
+        dst[key] = {**src[key], **dst[key]}
     src.update(dst)
     for key, value in overwrite.items():
         dst[key] = value

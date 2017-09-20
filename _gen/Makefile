@@ -16,6 +16,7 @@ debug:
 	@nix-shell 								 \
 		-p python3 							 \
 		-p python36Packages.Mako \
+		-p python36Packages.ipdb \
 		--run "python3 -m pdb -c continue stud.py"
 
 check:

@@ -13,6 +13,15 @@
         "4": "https://gist.github.com/Kaiomaru/3770174e73a33d966ad7fb89beb855b8"
       }
     },
+    "Самостоятельная работа 1": {
+      "name": "д/р #1",
+      "url": "https://lecturesnet.readthedocs.io/net/_checkpoint0.html",
+      "score": 0,
+      "date": "30/09/2017",
+      "total": {
+        "1": "https://lecturesnet.readthedocs.io/net/_checkpoint0.html"
+      }
+    },
     "Лабораторная работа 2": {
       "name": "л/р #2 (Socket)",
       "url": "http://lecturesnet.readthedocs.io/net/_checkpoint.html",
@@ -23,6 +32,14 @@
         "2": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3",
         "3": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4",
         "5": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6"
+      }
+    },
+    "Контрольная работа": {
+      "name": "контр.",
+      "score": 0,
+      "date": "",
+      "total": {
+        "1": "https://github.com/example/example"
       }
     },
     "Лабораторная работа 3": {
@@ -54,14 +71,6 @@
       "date": "",
       "total": {
         "1": "http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1"
-      }
-    },
-    "Контрольная работа": {
-      "name": "контр.",
-      "score": 0,
-      "date": "",
-      "total": {
-        "1": "https://github.com/example/example"
       }
     },
     "Курсовая работа": {
