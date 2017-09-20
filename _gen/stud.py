@@ -151,8 +151,7 @@ class Student(object):
         json.dump(data, path.open('w'), ensure_ascii=False, indent=2)
 
     def checkpoints(self, course: Course) -> List[Dict[str, Any]]:
-        dst_path: Path = self._dst_path(course)
-        data: Dict[str, Any] = json.load(dst_path.open())
+        data: Dict[str, Any] = course.data_group
         return [
             {
                 **items.get('total', {}),
