@@ -7,7 +7,6 @@ ${len(group_name) * '='}
 
    * -
      - ФИО
-     - github
      % for i in course.checkpoints_group:
      - ${i}
      %endfor
@@ -15,11 +14,11 @@ ${len(group_name) * '='}
      % for obj in students:
 
    * - ${loop.index+1}
-     - ${obj.name}
+     - ${obj.name} \
      %if obj.github:
-     - `${obj.github} <https://github.com/${obj.github}>`_
+       (`${obj.github} <https://github.com/${obj.github}>`_)
      %else:
-     -
+
      %endif
      %for _checkpoint in obj.checkpoints(course):
      - \
