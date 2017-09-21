@@ -378,11 +378,11 @@
 .. |kr3| replace:: к/р #3
 .. |kr4| replace:: к/р #4
 .. |kr5| replace:: к/р #5
-.. _kr1: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst
-.. _kr2: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst
-.. _kr3: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst
-.. _kr4: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst
-.. _kr5: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst
+.. _kr1: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/1.этап.rst
+.. _kr2: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/2.этап.rst
+.. _kr3: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/3.этап.rst
+.. _kr4: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/4.этап.rst
+.. _kr5: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/5.этап.rst
 
 .. GitHub
 
@@ -538,7 +538,7 @@
 .. _8.dz2.1-5: https://gist.github.com/hallsands/70b39e3c71b5b339d10bbdbb71ade93d
 
 .. |9.dz2.1| replace:: 1
-.. _9.dz2.1:  https://github.com/TacticKrieg/myproject/blob/master/static_server.py
+.. _9.dz2.1:  https://github.com/TacticKrieg/myproject/tree/master/static_server.py
 .. |9.dz2.2-5| replace:: 2-5
 .. _9.dz2.2-5: https://gist.github.com/TacticKrieg/a61ba7b6dbb5d0f779d4c405129f7768
 
@@ -565,7 +565,7 @@
 .. |15.dz2.2-5| replace:: 2-5
 .. _15.dz2.2-5: https://gist.github.com/vebster123/f127f1fabeac89f9ec9d688f65e176ff
 .. |15.dz2.1| replace:: 1
-.. _15.dz2.1: https://github.com/vebster123/myproject/blob/master/server.py
+.. _15.dz2.1: https://github.com/vebster123/myproject/tree/master/server.py
 
 .. |16.dz2.1| replace:: 1
 .. _16.dz2.1: https://github.com/StXaver/myproject
@@ -598,7 +598,7 @@
 .. _3.dz3: https://github.com/BallOfDestruction/Task-For-Web
 
 .. |4.dz3| replace:: 1
-.. _4.dz3: https://github.com/SckottJackson/Web-programming-first-homework/blob/master/WSGI.py
+.. _4.dz3: https://github.com/SckottJackson/Web-programming-first-homework/tree/master/WSGI.py
 
 .. |5.dz3| replace:: 1
 .. _5.dz3: https://github.com/Ouroborochi/HomeWork1
@@ -607,7 +607,7 @@
 .. _6.dz3: https://github.com/EsaulkovNikolay/web-programming
 
 .. |7.dz3.1| replace:: 1
-.. _7.dz3.1: https://github.com/zaitov-pavel/webProgramming/blob/master/WSGI%20server.py
+.. _7.dz3.1: https://github.com/zaitov-pavel/webProgramming/tree/master/WSGI%20server.py
 .. |7.dz3.2| replace:: dz
 .. _7.dz3.2: https://github.com/zaitov-pavel/webProgramming/tree/master/lectures_wsgi_example-master
 
@@ -615,13 +615,13 @@
 .. _8.dz3: https://gist.github.com/hallsands/814782cdbb31e6cef422868d9b9eac89
 
 .. |9.dz3| replace:: 1
-.. _9.dz3: https://github.com/TacticKrieg/myproject/blob/master/static_server.py
+.. _9.dz3: https://github.com/TacticKrieg/myproject/tree/master/static_server.py
 
 .. |11.dz3| replace:: 1
 .. _11.dz3: https://github.com/g196et/WebProg/tree/master/WSGI%2BMiddleware
 
 .. |12.dz3| replace:: 1
-.. _12.dz3: https://github.com/MalyshevaAlena/webProgramming/blob/master/DZ3.py
+.. _12.dz3: https://github.com/MalyshevaAlena/webProgramming/tree/master/DZ3.py
 
 .. |13.dz3| replace:: 1
 .. _13.dz3: https://github.com/ragozin-n/web-programming-homework/tree/master/wsgi-task
@@ -630,10 +630,10 @@
 .. _14.dz3: https://github.com/Coderator3000/HW3
 
 .. |15.dz3| replace:: 1
-.. _15.dz3: https://github.com/vebster123/myproject/blob/master/wsgi.py
+.. _15.dz3: https://github.com/vebster123/myproject/tree/master/wsgi.py
 
 .. |16.dz3| replace:: 1
-.. _16.dz3: https://github.com/StXaver/myproject/blob/master/WSGIserver
+.. _16.dz3: https://github.com/StXaver/myproject/tree/master/WSGIserver
 
 .. |17.dz3| replace:: 1
 .. _17.dz3: https://github.com/MaxUsov/web_programming
@@ -642,7 +642,7 @@
 .. _19.dz3: https://github.com/kolalola/WebHomework1/tree/master/WSGI
 
 .. |10.dz3.1| replace:: 1
-.. _10.dz3.1: https://github.com/ShatteredMind/Webprogramming/blob/master/wsgi.py
+.. _10.dz3.1: https://github.com/ShatteredMind/Webprogramming/tree/master/wsgi.py
 
 .. Домашняя работа #4
 
@@ -698,14 +698,14 @@
 .. |15.dz4.1| replace:: 1
 .. _15.dz4.1: https://github.com/vebster123/web-hw4
 .. |15.dz4.2-4.1| replace:: 2-4.1
-.. _15.dz4.2-4.1: https://github.com/vebster123/web-hw4/blob/master/request.py
+.. _15.dz4.2-4.1: https://github.com/vebster123/web-hw4/tree/master/request.py
 .. |15.dz4.2-4.2| replace:: 2-4.2
 .. _15.dz4.2-4.2: https://gist.github.com/vebster123/f58632c6bd09a9ebaa68c639b20884a1
 .. |15.dz4.5| replace:: 5
 .. _15.dz4.5: https://gist.github.com/vebster123/bedc1aa7e004fd7856946fddc077affa
 
 .. |16.dz4.1| replace:: 1
-.. _16.dz4.1: https://github.com/StXaver/myproject/blob/master/JinjaApplication.py
+.. _16.dz4.1: https://github.com/StXaver/myproject/tree/master/JinjaApplication.py
 .. |16.dz4.2-4.4| replace:: 2-4
 .. _16.dz4.2-4.4: https://gist.github.com/StXaver/e3d368379496ce34b2b76300b5899db0
 .. |16.dz4.5| replace:: 5
@@ -747,16 +747,16 @@
 .. _14.dz5: https://github.com/Coderator3000/HW5
 
 .. |19.dz5| replace:: 1
-.. _19.dz5: https://github.com/kolalola/WebH4/blob/master/Pyramid.py
+.. _19.dz5: https://github.com/kolalola/WebH4/tree/master/Pyramid.py
 
 .. |15.dz5| replace:: 1
-.. _15.dz5: https://github.com/vebster123/web-hw4/blob/master/pyramid.py
+.. _15.dz5: https://github.com/vebster123/web-hw4/tree/master/pyramid.py
 
 .. |16.dz5| replace:: 1
-.. _16.dz5: https://github.com/StXaver/myproject/blob/master/Pyramid.py
+.. _16.dz5: https://github.com/StXaver/myproject/tree/master/Pyramid.py
 
 .. |17.dz5| replace:: 1
-.. _17.dz5: https://github.com/MaxUsov/web_programming/blob/master/Pyramid.py
+.. _17.dz5: https://github.com/MaxUsov/web_programming/tree/master/Pyramid.py
 
 .. |1.dz5| replace:: 1
 .. _1.dz5: https://github.com/Kostya174/WebProgrammingUniversity/tree/master/myproject
@@ -817,13 +817,13 @@
 .. _15.kr1: https://github.com/vebster123/RealAuto
 
 .. |15.kr2| replace:: kr2
-.. _15.kr2: https://github.com/vebster123/RealAuto/blob/master/er.jpg
+.. _15.kr2: https://github.com/vebster123/RealAuto/tree/master/er.jpg
 
 .. |1.kr1| replace:: kr1
 .. _1.kr1: https://github.com/vebster123/RealAuto
 
 .. |1.kr2| replace:: kr2
-.. _1.kr2: https://github.com/vebster123/RealAuto/blob/master/er.jpg
+.. _1.kr2: https://github.com/vebster123/RealAuto/tree/master/er.jpg
 
 .. |19.kr1| replace:: 1
 .. _19.kr1: https://github.com/kolalola/FindDetective

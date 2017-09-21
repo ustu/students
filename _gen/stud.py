@@ -14,11 +14,13 @@ import os
 import json
 import shutil
 import logging
+import operator
 import collections
 import http.client
 import urllib.parse
 from typing import Any, Dict, List  # flake8: noqa
 from pathlib import Path
+from functools import reduce
 
 # third-party
 from mako.template import Template
@@ -185,11 +187,16 @@ class Student(object):
                     course.template_group_path,
                     dst_path,
                     {
-                        'github_nickname': self.github
-                    } if self.github else {},
-                    [
-                        'checkpoints',
-                    ]
+                        **(
+                            {
+                                'github_nickname': self.github,
+                            } if self.github else {}
+                        ),
+                        **{'checkpoints/Контрольная работа': None}
+                    }
+                    # [
+                    #     'checkpoints',
+                    # ]
                 )
 
 
@@ -197,18 +204,32 @@ def merge_json_files(
         src_path: Path,
         dst_path: Path,
         overwrite: Dict[str, Any] = {},
-        subkeys: List[str] = []
+        merge_subkeys: List[str] = []
 ) -> None:
     '''
     Merge 2 JSON file
     '''
     src: Dict[str, Any] = json.load(src_path.open())
     dst: Dict[str, Any] = json.load(dst_path.open())
-    for key in subkeys:
+
+    def setValue(keys: List[str], data: Dict, value) -> None:
+        getValue(keys[:-1], data)[keys[-1]] = value
+
+    def getValue(keys: List[str], data: Dict):
+        return reduce(operator.getitem, keys, data)
+
+    # merge subkeys
+    for key in merge_subkeys:
         dst[key] = {**src[key], **dst[key]}
+
+    # Owerwrite
+    for _keys, value in overwrite.items():
+        keys = _keys.split('/')
+        _value = value if value else getValue(keys, src)
+        print(_value)
+        setValue(keys, dst, _value)
+
     src.update(dst)
-    for key, value in overwrite.items():
-        dst[key] = value
     json.dump(dst, dst_path.open('w'), ensure_ascii=False, indent=2)
 
 

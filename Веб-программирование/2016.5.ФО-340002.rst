@@ -330,11 +330,11 @@
 .. |kr3| replace:: к/р #3
 .. |kr4| replace:: к/р #4
 .. |kr5| replace:: к/р #5
-.. _kr1: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst
-.. _kr2: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst
-.. _kr3: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst
-.. _kr4: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst
-.. _kr5: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst
+.. _kr1: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/1.этап.rst
+.. _kr2: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/2.этап.rst
+.. _kr3: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/3.этап.rst
+.. _kr4: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/4.этап.rst
+.. _kr5: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/5.этап.rst
 
 .. GitHub
 
@@ -522,10 +522,10 @@
 .. Домашняя работа #3
 
 .. |1.dz3.1| replace:: 1
-.. _1.dz3.1: https://github.com/Ducage/myproject/blob/master/WSGI.py
+.. _1.dz3.1: https://github.com/Ducage/myproject/tree/master/WSGI.py
 
 .. |4.dz3.1| replace:: 1
-.. _4.dz3.1: https://github.com/LuizaKolobova/myproject/blob/master/wsgi.py
+.. _4.dz3.1: https://github.com/LuizaKolobova/myproject/tree/master/wsgi.py
 
 .. |5.dz3.1| replace:: 1
 .. _5.dz3.1: https://gist.github.com/mMatvey/5d83881505057570d85b773f010f88c5
@@ -618,13 +618,13 @@
 .. _10.dz5.1: https://github.com/NickVernal/myproject/tree/master/hw_5
 
 .. |1.dz5.1| replace:: 1
-.. _1.dz5.1: https://github.com/Ducage/webhw/blob/master/pyramid.py
+.. _1.dz5.1: https://github.com/Ducage/webhw/tree/master/pyramid.py
 
 .. |4.dz5.1| replace:: 1
 .. _4.dz5.1: https://github.com/LuizaKolobova/myproject3
 
 .. |5.dz5.1| replace:: 1
-.. _5.dz5.1: https://github.com/mMatvey/myProject/blob/master/pyramid/app.py
+.. _5.dz5.1: https://github.com/mMatvey/myProject/tree/master/pyramid/app.py
 
 .. |6.dz5.1| replace:: 1
 .. _6.dz5.1: https://github.com/evgenymarkov/web_homework5
@@ -633,10 +633,10 @@
 .. _8.dz5.1: https://github.com/WhileTrueDoSex/WebHomeWork
 
 .. |12.dz5.1| replace:: 1
-.. _12.dz5.1: https://github.com/Lixa141/myproject/blob/master/pyramid.py
+.. _12.dz5.1: https://github.com/Lixa141/myproject/tree/master/pyramid.py
 
 .. |13.dz5.1| replace:: 1
-.. _13.dz5.1: https://github.com/zasycha/myproject/blob/master/pyramid.py
+.. _13.dz5.1: https://github.com/zasycha/myproject/tree/master/pyramid.py
 
 .. |7.dz5.1| replace:: 1
 .. _7.dz5.1: https://gist.github.com/Lydmilamihaleva/0fb6ef38b3b25c7d73148d1f57305622
@@ -662,7 +662,7 @@
 .. |7.ER| replace:: #2
 .. _7.ER: https://editor.ponyorm.com/user/Ducage/Cosmetics
 .. |9.kr1| replace:: к/р #1
-.. _9.kr1: https://github.com/hellroot/constructor/blob/master/course_work.docx
+.. _9.kr1: https://github.com/hellroot/constructor/tree/master/course_work.docx
 .. |9.models| replace:: #1
 .. _9.models: https://github.com/hellroot/constructor/tree/master/constructor/models
 .. |9.ER| replace:: #2
@@ -670,7 +670,7 @@
 .. |9.kr3| replace:: #1
 .. _9.kr3: https://github.com/hellroot/constructor/tree/master/constructor
 .. |9.doc| replace:: #2 
-.. _9.doc: https://github.com/hellroot/constructor/blob/master/course_work.docx
+.. _9.doc: https://github.com/hellroot/constructor/tree/master/course_work.docx
 .. |9.kr4| replace:: #1
 .. _9.kr4: https://github.com/hellroot/constructor/tree/master/constructor
 
@@ -678,10 +678,10 @@
 .. _4.kr1: https://github.com/LuizaKolobova/VebProject
 
 .. |5.kr1.1| replace:: к/р #1
-.. _5.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
+.. _5.kr1.1: https://github.com/SuperPloho/vangi.ru/tree/master/Отчетность/Poyasnitelnaya.docx
 .. |12.kr1.1| replace:: к/р #1
-.. _12.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
+.. _12.kr1.1: https://github.com/SuperPloho/vangi.ru/tree/master/Отчетность/Poyasnitelnaya.docx
 .. |13.kr1.1| replace:: к/р #1
-.. _13.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
+.. _13.kr1.1: https://github.com/SuperPloho/vangi.ru/tree/master/Отчетность/Poyasnitelnaya.docx
 .. |4.kr2| replace:: к/р #2
 .. _4.kr2: https://github.com/LuizaKolobova/VebProject/tree/master/DB

@@ -239,7 +239,7 @@
 .. _9.dz2.2-3: https://gist.github.com/dudev/e01ea6b9c4b255325dbe
 
 .. |5.dz2.1| replace:: 1
-.. _5.dz2.1: https://github.com/Pfffff/sockets/blob/master/server.py
+.. _5.dz2.1: https://github.com/Pfffff/sockets/tree/master/server.py
 .. |5.dz2.2-3| replace:: 2-3
 .. _5.dz2.2-3: https://gist.github.com/Pfffff/df886dd5ea64b03c7888#file-http-requests
 
@@ -266,7 +266,7 @@
 .. _8.dz3.1: https://github.com/LZIM-94/MyProject1/tree/master/myproject
 
 .. |5.dz3.1| replace:: 1
-.. _5.dz3.1: https://github.com/Pfffff/sockets/blob/master/WSGIserv.py
+.. _5.dz3.1: https://github.com/Pfffff/sockets/tree/master/WSGIserv.py
 
 .. |9.dz3.1| replace:: 1
 .. _9.dz3.1: https://github.com/dudev/3HW.WEB

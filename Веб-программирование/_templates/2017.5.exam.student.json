@@ -27,33 +27,33 @@
     },
     "Лабораторная работа 3": {
       "name": "л/р #3 (WSGI)",
-      "url": "https://lectures.uralbash.ru/5.web.server/_checkpoint.html",
+      "url": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html",
       "score": 0,
       "date": "",
       "total": {
-        "1": "https://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1"
+        "1": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1"
       }
     },
     "Лабораторная работа 4": {
       "name": "л/р #4 (Web)",
-      "url": "https://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html",
+      "url": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html",
       "score": 0,
       "date": "",
       "total": {
-        "1": "https://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1",
-        "2": "https://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2",
-        "3": "https://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3",
-        "4": "https://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4",
-        "5": "https://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6"
+        "1": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1",
+        "2": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2",
+        "3": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3",
+        "4": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4",
+        "5": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6"
       }
     },
     "Лабораторная работа 5": {
       "name": "л/р #5 (Pyramid)",
-      "url": "https://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html",
+      "url": "http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html",
       "score": 0,
       "date": "",
       "total": {
-        "1": "https://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1"
+        "1": "http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1"
       }
     },
     "Контрольная работа": {

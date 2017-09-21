@@ -39,10 +39,11 @@
     },
     "Контрольная работа": {
       "name": "контр.",
+      "url": "https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement",
       "score": 0,
-      "date": "",
+      "date": "04/11/2017",
       "total": {
-        "1": "https://github.com/example/example"
+        "1": "https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement"
       }
     },
     "Лабораторная работа 3": {

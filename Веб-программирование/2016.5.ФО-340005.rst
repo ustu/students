@@ -458,11 +458,11 @@
 .. |kr3| replace:: к/р #3
 .. |kr4| replace:: к/р #4
 .. |kr5| replace:: к/р #5
-.. _kr1: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst
-.. _kr2: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst
-.. _kr3: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst
-.. _kr4: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst
-.. _kr5: https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst
+.. _kr1: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/1.этап.rst
+.. _kr2: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/2.этап.rst
+.. _kr3: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/3.этап.rst
+.. _kr4: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/4.этап.rst
+.. _kr5: https://github.com/ustu/students/tree/master/Веб-программирование/курсовая%20работа/5.этап.rst
 
 .. GitHub
 
@@ -591,7 +591,7 @@
 .. _14.dz2.1-5: https://gist.github.com/Ovchinnickova2016/cba142572d1d0aab8f910ca085e55f73
 
 .. |15.dz2.1| replace:: 1
-.. _15.dz2.1: https://github.com/eduardpak96/myproject/blob/master/web.py
+.. _15.dz2.1: https://github.com/eduardpak96/myproject/tree/master/web.py
 .. |15.dz2.2-5| replace:: 2-5
 .. _15.dz2.2-5: https://gist.github.com/eduardpak96/48f94012013ec0b1f5ca83e4ada19754
 
@@ -625,22 +625,22 @@
 .. Домашняя работа #3
 
 .. |1.dz3.1| replace:: 1
-.. _1.dz3.1: https://github.com/zamekb/myproject/blob/master/wsgi
+.. _1.dz3.1: https://github.com/zamekb/myproject/tree/master/wsgi
 
 .. |5.dz3.1| replace:: 1
 .. _5.dz3.1: https://github.com/Hasuni/hw3
 
 .. |10.dz3.1| replace:: 1
-.. _10.dz3.1: https://github.com/Sergey16802/zadanie1/blob/master/myproject/wsgi.py
+.. _10.dz3.1: https://github.com/Sergey16802/zadanie1/tree/master/myproject/wsgi.py
 
 .. |11.dz3.1| replace:: 1
-.. _11.dz3.1: https://github.com/AlekseiKrivo/myproject/blob/master/1.py
+.. _11.dz3.1: https://github.com/AlekseiKrivo/myproject/tree/master/1.py
 
 .. |14.dz3.1| replace:: 1
-.. _14.dz3.1: https://github.com/Ovchinnickova2016/myproject/blob/master/WSGI.py
+.. _14.dz3.1: https://github.com/Ovchinnickova2016/myproject/tree/master/WSGI.py
 
 .. |15.dz3| replace:: 1
-.. _15.dz3: https://github.com/eduardpak96/myproject/blob/master/wsgi.py
+.. _15.dz3: https://github.com/eduardpak96/myproject/tree/master/wsgi.py
 
 .. |16.dz3| replace:: 1
 .. _16.dz3: https://github.com/Hyuugo/myproject
@@ -681,7 +681,7 @@
 .. _14.dz4.5: https://gist.github.com/Ovchinnickova2016/32d1700f50df054c545ff7fa5b691622
 
 .. |15.dz4.1| replace:: 1
-.. _15.dz4.1: https://github.com/eduardpak96/myproject/blob/master/j.py
+.. _15.dz4.1: https://github.com/eduardpak96/myproject/tree/master/j.py
 .. |15.dz4.2-4| replace:: 2-4
 .. _15.dz4.2-4: https://gist.github.com/eduardpak96/60f09225da7a81b8921a250e9dc66ed7
 .. |15.dz4.5| replace:: 5
@@ -731,16 +731,16 @@
 .. _14.dz5: https://gist.github.com/Ovchinnickova2016/83d329737b96d37e110cda01402c316d
 
 .. |15.dz5| replace:: 1
-.. _15.dz5: https://github.com/eduardpak96/myproject/blob/master/pyramd.py
+.. _15.dz5: https://github.com/eduardpak96/myproject/tree/master/pyramd.py
 
 .. |16.dz5| replace:: 1
 .. _16.dz5: https://github.com/Hyuugo/myproject
 
 .. |17.dz5| replace:: 1
-.. _17.dz5: https://github.com/Zixs/myproject/blob/master/pyramid.py
+.. _17.dz5: https://github.com/Zixs/myproject/tree/master/pyramid.py
 
 .. |18.dz5| replace:: 1
-.. _18.dz5: https://github.com/artofmind/myproject/blob/master/PyramidApp.py
+.. _18.dz5: https://github.com/artofmind/myproject/tree/master/PyramidApp.py
 
 .. Курсовая работа
 
@@ -748,10 +748,10 @@
 .. _5.kr1: https://github.com/Hasuni/Kursovaya-Rabota
 
 .. |14.kr1| replace:: 1
-.. _14.kr1: https://github.com/artofmind/coursework/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F(WEB).docx
+.. _14.kr1: https://github.com/artofmind/coursework/tree/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F(WEB).docx
 
 .. |18.kr1| replace:: к/р #1
-.. _18.kr1: https://github.com/artofmind/coursework/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F(WEB).docx
+.. _18.kr1: https://github.com/artofmind/coursework/tree/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F(WEB).docx
 
 .. |1.kr1| replace:: к/р #1
 .. _1.kr1: https://github.com/Farakhutdinova/k.r.
@@ -764,9 +764,9 @@
 .. _23.kr2: https://github.com/ShimanovskayaK/Kursovaya
 
 .. |5.kr2.1| replace:: 1
-.. _5.kr2.1: https://github.com/Hasuni/Kursovaya-Rabota/blob/master/pyramid_blogr/models.py
+.. _5.kr2.1: https://github.com/Hasuni/Kursovaya-Rabota/tree/master/pyramid_blogr/models.py
 .. |5.kr2.2| replace:: 2
-.. _5.kr2.2: https://github.com/Hasuni/Kursovaya-Rabota/blob/master/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%91%D0%94.jpg
+.. _5.kr2.2: https://github.com/Hasuni/Kursovaya-Rabota/tree/master/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%91%D0%94.jpg
 
 
 .. |22.kr1| replace:: к/р #1
@@ -775,12 +775,12 @@
 .. |14.kr2.1| replace:: 1
 .. _14.kr2.1: https://github.com/artofmind/coursework/tree/master
 .. |14.kr2.2| replace:: 2
-.. _14.kr2.2: https://github.com/artofmind/coursework/blob/master/er.JPG
+.. _14.kr2.2: https://github.com/artofmind/coursework/tree/master/er.JPG
 
 .. |18.kr2.1| replace:: 1
 .. _18.kr2.1: https://github.com/artofmind/coursework/tree/master
 .. |18.kr2.2| replace:: 2
-.. _18.kr2.2: https://github.com/artofmind/coursework/blob/master/er.JPG
+.. _18.kr2.2: https://github.com/artofmind/coursework/tree/master/er.JPG
 
 .. |17.kr1| replace:: к/р #1
 .. _17.kr1: https://github.com/Zixs/K-P
@@ -789,9 +789,9 @@
 .. |22.kr2.1| replace:: 1
 .. _22.kr2.1: https://github.com/Zixs/K-P
 .. |22.kr2.2| replace:: 2
-.. _22.kr2.2: https://github.com/Zixs/K-P/blob/master/bd.jpg
+.. _22.kr2.2: https://github.com/Zixs/K-P/tree/master/bd.jpg
 
 .. |17.kr2.1| replace:: 1
 .. _17.kr2.1: https://github.com/Zixs/K-P
 .. |17.kr2.2| replace:: 2
-.. _17.kr2.2: https://github.com/Zixs/K-P/blob/master/bd.jpg
+.. _17.kr2.2: https://github.com/Zixs/K-P/tree/master/bd.jpg

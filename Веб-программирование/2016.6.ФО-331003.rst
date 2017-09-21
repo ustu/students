@@ -323,7 +323,7 @@
 .. Домашняя работа #2
 
 .. |2.dz2.1| replace:: 1
-.. _2.dz2.1: https://github.com/jekaaa/WEB/blob/master/myproject/1.py
+.. _2.dz2.1: https://github.com/jekaaa/WEB/tree/master/myproject/1.py
 .. |2.dz2.2-5| replace:: 2-5
 .. _2.dz2.2-5: https://gist.github.com/jekaaa/f353ba1c87a61331203a
 
@@ -348,7 +348,7 @@
 .. _5.dz2.5: https://gist.github.com/Gnatuk/523b8817894f3d17a118174fb784ec24
 
 .. |7.dz2.1| replace:: 1
-.. _7.dz2.1: https://github.com/InnaNishchikh/myproject/blob/master/2.1.py
+.. _7.dz2.1: https://github.com/InnaNishchikh/myproject/tree/master/2.1.py
 .. |7.dz2.2-5| replace:: 2-5
 .. _7.dz2.2-5: https://gist.github.com/InnaNishchikh/3a079d6c528e7bc4ebdb2d5bcab0746c
 
@@ -428,19 +428,19 @@
 .. Домашняя работа #3
 
 .. |1.dz3.1| replace:: 1
-.. _1.dz3.1: https://github.com/sakuraido/first/blob/master/myproject/WSGI.py
+.. _1.dz3.1: https://github.com/sakuraido/first/tree/master/myproject/WSGI.py
 
 .. |2.dz3.1| replace:: 1
-.. _2.dz3.1: https://github.com/jekaaa/WEB/blob/master/myproject/wsgiserv.py
+.. _2.dz3.1: https://github.com/jekaaa/WEB/tree/master/myproject/wsgiserv.py
 
 .. |3.dz3.0| replace:: 1
-.. _3.dz3.0: https://github.com/BlameFlame/myproject/blob/master/WSGI.py
+.. _3.dz3.0: https://github.com/BlameFlame/myproject/tree/master/WSGI.py
 
 .. |5.dz3.1| replace:: 1
-.. _5.dz3.1: https://github.com/Gnatuk/myproject/blob/master/WSGI.py
+.. _5.dz3.1: https://github.com/Gnatuk/myproject/tree/master/WSGI.py
 
 .. |7.dz3.1| replace:: 1
-.. _7.dz3.1: https://github.com/InnaNishchikh/myproject/blob/master/3.1.py
+.. _7.dz3.1: https://github.com/InnaNishchikh/myproject/tree/master/3.1.py
 
 .. |8.dz3.1| replace:: 1
 .. _8.dz3.1: https://gist.github.com/lyubanksy/a7b0119690e03d23fc8b221b09dd5ce0
@@ -458,10 +458,10 @@
 .. _13.dz3.1: https://github.com/TabakovaChristina/HomeWorkTabakovaChristina2.1
 
 .. |14.dz3.1| replace:: 1
-.. _14.dz3.1: https://github.com/FirsovaJane/myProject/blob/master/WSGIMiddleware.py
+.. _14.dz3.1: https://github.com/FirsovaJane/myProject/tree/master/WSGIMiddleware.py
 
 .. |15.dz3.1| replace:: 1
-.. _15.dz3.1: https://github.com/KhorAMus/Exercise1-1/blob/master/myproject/simpleAppAndMiddleware.py
+.. _15.dz3.1: https://github.com/KhorAMus/Exercise1-1/tree/master/myproject/simpleAppAndMiddleware.py
 
 
 .. Домашняя работа #4
@@ -529,10 +529,10 @@
 .. Домашняя работа #5
 
 .. |1.dz5.1| replace:: 1
-.. _1.dz5.1: https://github.com/sakuraido/first/blob/master/myproject/pyramid_framework.py
+.. _1.dz5.1: https://github.com/sakuraido/first/tree/master/myproject/pyramid_framework.py
 
 .. |2.dz5.1| replace:: pyramidServer
-.. _2.dz5.1: https://github.com/jekaaa/WEB/blob/master/myproject/pyramidserv.py
+.. _2.dz5.1: https://github.com/jekaaa/WEB/tree/master/myproject/pyramidserv.py
 
 .. |7.dz5| replace:: 1
 .. _7.dz5: https://github.com/InnaNishchikh/myproject
