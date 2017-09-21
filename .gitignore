@@ -1,6 +1,7 @@
 # Created by https://www.gitignore.io/api/python,haskell
 
 .mypy_cache/
+.gcroots/
 
 ### Haskell ###
 dist
