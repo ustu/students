@@ -207,7 +207,9 @@ def merge_json_files(
         merge_subkeys: List[str] = []
 ) -> None:
     '''
-    Merge 2 JSON file
+    Merge first level keys of `src_path` and `dst_path` json files.
+    Overwrites values from `overwrite` dict. And if it's necessary merge
+    hight level subkeys by `merge_subkeys` list.
     '''
     src: Dict[str, Any] = json.load(src_path.open())
     dst: Dict[str, Any] = json.load(dst_path.open())
@@ -238,14 +240,15 @@ def get_from_github(login: str) -> str:
     '''
     if not login.strip():
         return ''
+    headers: Dict[str, str] = {
+        'User-Agent': 'USTU/IIT - https://lectureswww.readthedocs.io/'
+    }
     conn = http.client.HTTPSConnection("api.github.com")
-    conn.request("GET", f"/users/{login}", headers={'User-Agent': 'USTU/IIT'})
+    conn.request("GET", f"/users/{login}", headers=headers)
     response = conn.getresponse()
     if response.status == 403:
         conn = http.client.HTTPSConnection("github.com")
-        conn.request(
-            "GET", f"/{login}", headers={'User-Agent': 'USTU/IIT'}
-        )
+        conn.request("GET", f"/{login}", headers=headers)
         response = conn.getresponse()
         if response.status == 200:
             return ''
