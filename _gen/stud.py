@@ -319,9 +319,6 @@ def make_group(file_name: str) -> None:
                         url.replace(' ', '%20'),
                         safe="%/:=&?~#+!$,;'@()*[]"
                     )
-                    # quote=lambda url: urllib.parse.quote_plus(
-                    #     url, safe=":,/"
-                    # )
                 )
             score_path.write_text(score)
 
