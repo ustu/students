@@ -29,7 +29,7 @@ ${len(group_name) * '='}
    * - ${loop.index+1}
      - ${obj.name} \
      %if obj.github:
-       (`${obj.github} <quote(https://github.com/${obj.github})>`_)
+       (`${obj.github} <https://github.com/${quote(obj.github)}>`_)
      %else:
 
      %endif

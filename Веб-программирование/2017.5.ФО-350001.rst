@@ -73,7 +73,7 @@
 
 
    * - 4
-     - Вяткин Денис Евгеньевич        (`CatInJar <quote(https://github.com/CatInJar)>`_)
+     - Вяткин Денис Евгеньевич        (`CatInJar <https://github.com/CatInJar>`_)
      -              `1 <https://github.com/CatInJar/WebLabs/tree/master/Lab1>`__              `2 <https://gist.github.com/CatInJar/e8f9207f8750a9be75f28cfc650a49b3>`__              `3 <https://gist.github.com/CatInJar/c56a44365db53f4b75e9bcb7a7a27284>`__              `4 <https://gist.github.com/CatInJar/5376532361a9b6f598b9ef1864668d31>`__              [**+100**]
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__              
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
@@ -85,7 +85,7 @@
 
 
    * - 5
-     - Габайдуллин Данил Ринатович        (`Danila24ru <quote(https://github.com/Danila24ru)>`_)
+     - Габайдуллин Данил Ринатович        (`Danila24ru <https://github.com/Danila24ru>`_)
      -              `1 <https://github.com/Danila24ru/myproject>`__              `2 <https://gist.github.com/Danila24ru/6f7d693effb2b07d936d020006fde2de>`__              `3 <https://gist.github.com/Danila24ru/6f7d693effb2b07d936d020006fde2de>`__              `4 <https://gist.github.com/Danila24ru/6f7d693effb2b07d936d020006fde2de>`__              [**+100**]
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__              
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
@@ -109,7 +109,7 @@
 
 
    * - 7
-     - Елизарьев Павел Вадимович        (`Gonleef <quote(https://github.com/Gonleef)>`_)
+     - Елизарьев Павел Вадимович        (`Gonleef <https://github.com/Gonleef>`_)
      -              `1 <https://github.com/Gonleef/myproject>`__              `2 <https://gist.github.com/Gonleef/816885c59bd0e3ed49824e8027194d1e>`__              `3 <https://gist.github.com/Gonleef/02e1d950538bb44b23c8c232c62ed01a>`__              `4 <https://gist.github.com/Gonleef/459cab3456b4d4bb9f7ded935d8d08a7>`__              [**+79**]
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__              
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
@@ -169,7 +169,7 @@
 
 
    * - 12
-     - Колос Елена Николаевна        (`lenok97 <quote(https://github.com/lenok97)>`_)
+     - Колос Елена Николаевна        (`lenok97 <https://github.com/lenok97>`_)
      -              `1 <https://github.com/lenok97/WEBprogramming/tree/master/lab1/myproject>`__              `2 <https://gist.github.com/lenok97/67808273331a7b5c0fa5f5af7e5fbc41>`__              `3 <https://gist.github.com/lenok97/c78ef4165be3a45fc0a9430c3c4082ae>`__              `4 <https://gist.github.com/lenok97/81729a915a3f82cbe3070fc646a105c6>`__              [**+100**]
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__              
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
