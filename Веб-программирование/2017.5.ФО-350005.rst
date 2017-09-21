@@ -194,7 +194,7 @@
 
    * - 14
      - Нагаев Александр Олегович        (`FlaX89 <https://github.com/FlaX89>`_)
-     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <https://github.com/FlaX89/myrepo>`__              `2 <https://gist.github.com/FlaX89/7fe5cfac640f2de9a57eb5f371ff2fb7#file-2>`__              `3 <https://gist.github.com/FlaX89/7fe5cfac640f2de9a57eb5f371ff2fb7#file-3>`__              `4 <https://gist.github.com/FlaX89/7fe5cfac640f2de9a57eb5f371ff2fb7#file-4>`__              [**+79**]
      -              `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__              
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
      -              `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__              
