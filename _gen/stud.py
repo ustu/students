@@ -192,7 +192,7 @@ class Student(object):
                                 'github_nickname': self.github,
                             } if self.github else {}
                         ),
-                        **{'checkpoints/Контрольная работа': None}
+                        # **{'checkpoints/Контрольная работа': None}
                     }
                     # [
                     #     'checkpoints',
@@ -226,7 +226,6 @@ def merge_json_files(
     for _keys, value in overwrite.items():
         keys = _keys.split('/')
         _value = value if value else getValue(keys, src)
-        print(_value)
         setValue(keys, dst, _value)
 
     src.update(dst)
