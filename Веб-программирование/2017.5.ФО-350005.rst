@@ -251,7 +251,8 @@
 
    * - 19
      - Савинова Марина Александровна        (`marywhat7 <https://github.com/marywhat7>`_)
-     -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
+     -                      `1 <https://github.com/marywhat7/myprogect>`__              `2 <https://gist.github.com/marywhat7/2e8ac80ccd3b06b992d886a4cf4e9398>`__              `3 <https://gist.github.com/marywhat7/dee6e06c454135d59d3c8c33f039cda1>`__              `4 <https://gist.github.com/marywhat7/21c2232a7a1216d3181e930dfd01e70c>`__                          [**+79**]
+             
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -342,7 +343,7 @@
      - `экзамен <./>`__
       
    * - % сдачи
-     - 29.17
+     - 33.33
      - 0.0
      - 0.0
      - 0.0
@@ -352,7 +353,7 @@
      - 0.0
 
    * - средний балл группы
-     - 26.54
+     - 29.83
      - 0.0
      - 0.0
      - 0.0
@@ -363,7 +364,7 @@
 
    * - средний балл сдачи
      
-     - 91.0
+     - 89.5
      
      - 0.0
      
@@ -381,7 +382,7 @@
 
    * - сложность задания (от 0 до 5)
      
-     - 0
+     - 1
      
      - 0
      
@@ -399,7 +400,7 @@
 
    * - Продуктивность группы в %
      
-     - 24.03
+     - 26.52
      
      - 0.0
      
