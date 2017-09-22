@@ -242,7 +242,7 @@
 
    * - 18
      - Пошехонова Ольга Александровна        (`OlyaFO <https://github.com/OlyaFO>`_)
-     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <https://github.com/OlyaFO/myproject>`__              `2 <https://gist.github.com/OlyaFO/e15b612d099741e82c00b87298a50255#file-2>`__              `3 <https://gist.github.com/OlyaFO/e15b612d099741e82c00b87298a50255#file-3>`__              `4 <https://gist.github.com/OlyaFO/e15b612d099741e82c00b87298a50255#file-4>`__              [**+79**]
      -              `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__              
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
      -              `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__              
@@ -266,7 +266,7 @@
 
    * - 20
      - Снегирев Максим Константинович        (`MaksimMsnov <https://github.com/MaksimMsnov>`_)
-     -              `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__              
+     -              `1 <https://github.com/MaksimMsnov/web-programming1-1>`__              `2 <https://gist.github.com/MaksimMsnov/cb19ae8fa17b76fa5ad55d4c6570fcbc>`__              `3 <https://gist.github.com/MaksimMsnov/494b6de97529a3ead1a43ad4932f8ea7>`__              `4 <https://gist.github.com/MaksimMsnov/f3d68aac64bb0771f41f74512fda2cfc>`__              [**+79**]
      -              `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__              
      -              `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__              
      -              `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__              
