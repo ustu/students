@@ -198,6 +198,7 @@ class Student(object):
                     #     'checkpoints',
                     # ]
                 )
+                dst_path.open('a').write('\n')  # compat with github editor
 
 
 def merge_json_files(
