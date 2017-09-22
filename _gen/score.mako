@@ -5,12 +5,14 @@ ${len(group_name) * '='}
    :header-rows: 1
    :stub-columns: 1
 
+   ## Header
    * -
      - ФИО
      % for _, values in course.checkpoints_group:
      - `${values.get('name', '')} <${quote(values.get("url", "./"))}>`_
      %endfor
 
+   ## Deadline
    * -
      -
      % for _, values in course.checkpoints_group:
@@ -24,6 +26,13 @@ ${len(group_name) * '='}
        %endif
      %endfor
 
+     ## Students
+     <%
+       qty = len(students)
+       _len = len(course.checkpoints_group)
+       meanScore = [0] * (_len)
+       meanProgress = [0] * (_len)
+     %> \
      % for obj in students:
 
    * - ${loop.index+1}
@@ -35,6 +44,9 @@ ${len(group_name) * '='}
      %endif
      %for _checkpoint in obj.checkpoints(course):
      - \
+       <%
+         checkpoint_loop = loop
+       %> \
        %for key, value in _checkpoint.items():
          %if key is not 'score':
            %if isinstance(value, collections.MutableSequence) :
@@ -46,8 +58,15 @@ ${len(group_name) * '='}
            %endif
          %endif
          %if loop.last:
-           %if _checkpoint.get('score', ''):
-             [**+${_checkpoint.get('score', '')}**]
+           <%
+             score = _checkpoint.get('score', '')
+           %> \
+           %if score:
+             [**+${score}**]
+             <%
+               meanScore[checkpoint_loop.index] += score
+               meanProgress[checkpoint_loop.index] += 1
+             %>
            %else:
              ${''}
            %endif
@@ -56,3 +75,18 @@ ${len(group_name) * '='}
      %endfor
 
      %endfor
+
+     ## Stats
+     ## Mean progress in percent
+   * -
+     - % сдачи
+   %for item in meanProgress:
+     - ${round(item / (qty / 100), 2)}
+   %endfor
+
+     ## Mean score
+   * -
+     - средний балл
+   %for item in meanScore:
+     - ${round(item / qty, 2)}
+   %endfor
