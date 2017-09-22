@@ -7,10 +7,12 @@ ${len(group_name) * '='}
 
    ## Header
    * -
-     - ФИО
+     - ФИО \
+     <%block name="checkpoints_header">
      % for _, values in course.checkpoints_group:
      - `${values.get('name', '')} <${quote(values.get("url", "./"))}>`__
      %endfor
+     </%block>
 
    ## Deadline
    * -
@@ -82,19 +84,16 @@ ${len(group_name) * '='}
    :stub-columns: 1
 
    ## Header
-   * -
-     % for _, values in course.checkpoints_group:
-     - `${values.get('name', '')} <${quote(values.get("url", "./"))}>`__
-     %endfor
+   * - \
+     ${checkpoints_header()} \
 
-     ## Stats
-     ## Mean progress in percent
+   ## Mean progress in percent
    * - % сдачи
    %for item in meanProgress:
      - ${round(item / (qty / 100), 2)}
    %endfor
 
-     ## Mean score
+   ## Mean score
    * - средний балл
    %for item in meanScore:
      - ${round(item / qty, 2)}

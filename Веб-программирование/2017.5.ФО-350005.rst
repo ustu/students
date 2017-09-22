@@ -6,7 +6,7 @@
    :stub-columns: 1
 
    * -
-     - ФИО
+     - ФИО      
      - `л/р #1 (HTTP) <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html>`__
      - `д/р #1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__
      - `л/р #2 (Socket) <https://lecturesnet.readthedocs.io/net/_checkpoint.html>`__
@@ -15,6 +15,7 @@
      - `л/р #4 (Web) <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html>`__
      - `л/р #5 (Pyramid) <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html>`__
      - `экзамен <./>`__
+     
 
    * -
      -
@@ -330,7 +331,7 @@
    :header-rows: 1
    :stub-columns: 1
 
-   * -
+   * -      
      - `л/р #1 (HTTP) <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html>`__
      - `д/р #1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__
      - `л/р #2 (Socket) <https://lecturesnet.readthedocs.io/net/_checkpoint.html>`__
@@ -339,7 +340,7 @@
      - `л/р #4 (Web) <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html>`__
      - `л/р #5 (Pyramid) <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html>`__
      - `экзамен <./>`__
-
+      
    * - % сдачи
      - 29.17
      - 0.0
