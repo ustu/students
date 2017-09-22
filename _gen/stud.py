@@ -11,6 +11,7 @@ Parse students
 """
 # standard library
 import os
+import math
 import json
 import shutil
 import logging
@@ -322,7 +323,8 @@ def make_group(file_name: str) -> None:
                     quote=lambda url: urllib.parse.quote(
                         url.replace(' ', '%20'),
                         safe="%/:=&?~#+!$,;'@()*[]"
-                    )
+                    ),
+                    math=math
                 )
             score_path.write_text(score)
 

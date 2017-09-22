@@ -108,3 +108,26 @@ ${len(group_name) * '='}
      %>
      - ${round(item / scoreQty, 2)}
    %endfor
+
+   ## Level
+   * - сложность задания (от 0 до 5)
+   %for item in meanScore:
+     <%
+       scoreQty = meanProgress[loop.index]
+       scoreQty = scoreQty if scoreQty > 0 else scoreQty + 1
+       _meanScore = round(item / scoreQty, 2)
+     %>
+     - ${round(5 - 5 * math.fabs(2*_meanScore/100 - 1)**0.5)}
+   %endfor
+
+   ## Profit
+   * - Продуктивность группы в %
+   %for item in meanScore:
+     <%
+       scoreQty = meanProgress[loop.index]
+       scoreQty = scoreQty if scoreQty > 0 else scoreQty + 1
+       _meanScore = round(item / scoreQty, 2)
+       _meanProgress = item / qty
+     %>
+     - ${round(_meanProgress * math.fabs(2*_meanScore/100 - 1)**0.5, 2)}
+   %endfor
