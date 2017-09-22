@@ -30,8 +30,8 @@ ${len(group_name) * '='}
      <%
        qty = len(students)
        _len = len(course.checkpoints_group)
-       meanScore = [0] * (_len)
-       meanProgress = [0] * (_len)
+       meanScore = [0] * _len
+       meanProgress = [0] * _len
      %> \
      % for obj in students:
 
@@ -94,7 +94,17 @@ ${len(group_name) * '='}
    %endfor
 
    ## Mean score
-   * - средний балл
+   * - средний балл группы
    %for item in meanScore:
      - ${round(item / qty, 2)}
+   %endfor
+
+   ## Mean score
+   * - средний балл сдачи
+   %for item in meanScore:
+     <%
+       scoreQty = meanProgress[loop.index]
+       scoreQty = scoreQty if scoreQty > 0 else scoreQty + 1
+     %>
+     - ${round(item / scoreQty, 2)}
    %endfor
