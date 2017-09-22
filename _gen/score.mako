@@ -16,13 +16,11 @@ ${len(group_name) * '='}
    * -
      -
      % for _, values in course.checkpoints_group:
-       <%
-         date = values.get("date")
-       %>
+     - <% date = values.get("date") %> \
        %if date:
-     - ${date.split('/')[0]}/${date.split('/')[1]} ${date.split('/')[2]}
-       % else:
-     -
+         ${date.split('/')[0]}/${date.split('/')[1]} ${date.split('/')[2]}
+       %else:
+
        %endif
      %endfor
 
