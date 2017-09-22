@@ -119,7 +119,8 @@
      - Корняков Никита Алексеевич        (`Kaiomaru <https://github.com/Kaiomaru>`_)
      -                      `1 <https://github.com/Kaiomaru/lab1-HTTP>`__              `2 <https://gist.github.com/Kaiomaru/38c550cc9542eb4aba6c99d0fb1c0168>`__              `3 <https://gist.github.com/Kaiomaru/71ac013dff0a9644244254d9274381a4>`__              `4 <https://gist.github.com/Kaiomaru/3770174e73a33d966ad7fb89beb855b8>`__                          [**+100**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/Kaiomaru/1e5a733eeaf73e291febb22b1050c343>`__                          [**+100**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -233,7 +234,7 @@
       
    * - % сдачи
      - 33.33
-     - 0.0
+     - 6.67
      - 0.0
      - 0.0
      - 0.0
@@ -243,7 +244,7 @@
 
    * - средний балл группы
      - 31.93
-     - 0.0
+     - 6.67
      - 0.0
      - 0.0
      - 0.0
@@ -255,7 +256,7 @@
      
      - 95.8
      
-     - 0.0
+     - 100.0
      
      - 0.0
      
@@ -291,7 +292,7 @@
      
      - 30.56
      
-     - 0.0
+     - 6.67
      
      - 0.0
      
