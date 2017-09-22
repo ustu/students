@@ -7,14 +7,14 @@
 
    * -
      - ФИО
-     - `л/р #1 (HTTP) <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html>`_
-     - `д/р #1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`_
-     - `л/р #2 (Socket) <https://lecturesnet.readthedocs.io/net/_checkpoint.html>`_
-     - `контр. <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`_
-     - `л/р #3 (WSGI) <http://lectures.uralbash.ru/5.web.server/_checkpoint.html>`_
-     - `л/р #4 (Web) <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html>`_
-     - `л/р #5 (Pyramid) <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html>`_
-     - `экзамен <./>`_
+     - `л/р #1 (HTTP) <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html>`__
+     - `д/р #1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__
+     - `л/р #2 (Socket) <https://lecturesnet.readthedocs.io/net/_checkpoint.html>`__
+     - `контр. <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__
+     - `л/р #3 (WSGI) <http://lectures.uralbash.ru/5.web.server/_checkpoint.html>`__
+     - `л/р #4 (Web) <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html>`__
+     - `л/р #5 (Pyramid) <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html>`__
+     - `экзамен <./>`__
 
    * -
      -
@@ -323,8 +323,24 @@
      -                                  
 
 
+Статистика
+----------
+
+.. list-table::
+   :header-rows: 1
+   :stub-columns: 1
+
    * -
-     - % сдачи
+     - `л/р #1 (HTTP) <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html>`__
+     - `д/р #1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__
+     - `л/р #2 (Socket) <https://lecturesnet.readthedocs.io/net/_checkpoint.html>`__
+     - `контр. <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__
+     - `л/р #3 (WSGI) <http://lectures.uralbash.ru/5.web.server/_checkpoint.html>`__
+     - `л/р #4 (Web) <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html>`__
+     - `л/р #5 (Pyramid) <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html>`__
+     - `экзамен <./>`__
+
+   * - % сдачи
      - 29.17
      - 0.0
      - 0.0
@@ -334,8 +350,7 @@
      - 0.0
      - 0.0
 
-   * -
-     - средний балл
+   * - средний балл
      - 26.54
      - 0.0
      - 0.0
