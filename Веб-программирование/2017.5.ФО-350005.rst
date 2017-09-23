@@ -115,7 +115,8 @@
 
    * - 8
      - Васильев Александр Михайлович        (`alex43jk <https://github.com/alex43jk>`_)
-     -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
+     -                      `1 <https://github.com/alex43jk/Web>`__              `2 <https://gist.github.com/alex43jk/c74df12976bafc17b13cd9cad5845750#file-2>`__              `3 <https://gist.github.com/alex43jk/c74df12976bafc17b13cd9cad5845750#file-3>`__              `4 <https://gist.github.com/alex43jk/c74df12976bafc17b13cd9cad5845750#file-4>`__                          [**+79**]
+             
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -343,7 +344,7 @@
      - `экзамен <./>`__
       
    * - % сдачи
-     - 33.33
+     - 37.5
      - 0.0
      - 0.0
      - 0.0
@@ -353,7 +354,7 @@
      - 0.0
 
    * - средний балл группы
-     - 29.83
+     - 33.12
      - 0.0
      - 0.0
      - 0.0
@@ -364,7 +365,7 @@
 
    * - средний балл сдачи
      
-     - 89.5
+     - 88.33
      
      - 0.0
      
@@ -400,7 +401,7 @@
 
    * - Продуктивность группы в %
      
-     - 26.52
+     - 29.0
      
      - 0.0
      

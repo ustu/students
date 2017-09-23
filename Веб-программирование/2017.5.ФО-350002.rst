@@ -143,7 +143,8 @@
 
    * - 10
      - Кузнецов Семён Григорьевич        (`Semen110996 <https://github.com/Semen110996>`_)
-     -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
+     -                      `1 <https://github.com/Semen110996/myproject>`__              `2 <https://gist.github.com/Semen110996/172b6381de6793d83cd7d1b69234b5f1>`__              `3 <https://gist.github.com/Semen110996/271d56730e94242f558d4816011197f3>`__              `4 <https://gist.github.com/Semen110996/8e3bd707c1930286230c1c23b838cf89>`__                          [**+100**]
+             
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -180,7 +181,8 @@
 
    * - 13
      - Новиков Александр Николаевич        (`theflatladder <https://github.com/theflatladder>`_)
-     -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
+     -                      `1 <https://github.com/theflatladder/WebProgramming_Labs/tree/master/Lab1/Task%201>`__              `2 <https://github.com/theflatladder/WebProgramming_Labs/tree/master/Lab1/Task%202>`__              `3 <https://github.com/theflatladder/WebProgramming_Labs/tree/master/Lab1/Task%203>`__              `4 <https://github.com/theflatladder/WebProgramming_Labs/tree/master/Lab1/Task%204>`__                          [**+79**]
+             
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -233,7 +235,7 @@
      - `к/р <https://github.com/ustu/students/tree/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/>`__
       
    * - % сдачи
-     - 33.33
+     - 46.67
      - 6.67
      - 0.0
      - 0.0
@@ -243,7 +245,7 @@
      - 0.0
 
    * - средний балл группы
-     - 31.93
+     - 43.87
      - 6.67
      - 0.0
      - 0.0
@@ -254,7 +256,7 @@
 
    * - средний балл сдачи
      
-     - 95.8
+     - 94.0
      
      - 100.0
      
@@ -290,7 +292,7 @@
 
    * - Продуктивность группы в %
      
-     - 30.56
+     - 41.15
      
      - 6.67
      
