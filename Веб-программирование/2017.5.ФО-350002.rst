@@ -121,7 +121,8 @@
              
      -                      `1 <https://gist.github.com/Kaiomaru/1e5a733eeaf73e291febb22b1050c343>`__                          [**+100**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
+     -                      `1 <https://gist.github.com/Kaiomaru/e77dc4c3423fb864178f53edf6ee1c85>`__              `2 <https://gist.github.com/Kaiomaru/e8e5f961a338bae23670c7c2e8dc6b6b>`__              `3 <https://gist.github.com/Kaiomaru/5267a2fda96d9081f54b6dc98d98e17b>`__              `5 <https://gist.github.com/Kaiomaru/a9ed8bc731019da4fb0fad8063d2b745>`__                          [**+100**]
+             
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__                          
@@ -237,7 +238,7 @@
    * - % сдачи
      - 46.67
      - 6.67
-     - 0.0
+     - 6.67
      - 0.0
      - 0.0
      - 0.0
@@ -247,7 +248,7 @@
    * - средний балл группы
      - 43.87
      - 6.67
-     - 0.0
+     - 6.67
      - 0.0
      - 0.0
      - 0.0
@@ -260,7 +261,7 @@
      
      - 100.0
      
-     - 0.0
+     - 100.0
      
      - 0.0
      
@@ -296,7 +297,7 @@
      
      - 6.67
      
-     - 0.0
+     - 6.67
      
      - 0.0
      
