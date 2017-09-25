@@ -67,7 +67,8 @@
 
    * - 4
      - Архипов Андрей Александрович        (`impuppy <https://github.com/impuppy>`_)
-     -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
+     -                      `1 <https://github.com/impuppy/my_rep>`__              `2 <https://gist.github.com/impuppy/7839a0890f3d0034a3b21c8e357beb3b#file-2>`__              `3 <https://gist.github.com/impuppy/7839a0890f3d0034a3b21c8e357beb3b#file-3>`__              `4 <https://gist.github.com/impuppy/7839a0890f3d0034a3b21c8e357beb3b#file-4>`__                          [**+59**]
+             
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -345,7 +346,7 @@
      - `экзамен <./>`__
       
    * - % сдачи
-     - 41.67
+     - 45.83
      - 0.0
      - 0.0
      - 0.0
@@ -355,7 +356,7 @@
      - 0.0
 
    * - средний балл группы
-     - 37.29
+     - 39.75
      - 0.0
      - 0.0
      - 0.0
@@ -366,7 +367,7 @@
 
    * - средний балл сдачи
      
-     - 89.5
+     - 86.73
      
      - 0.0
      
@@ -402,7 +403,7 @@
 
    * - Продуктивность группы в %
      
-     - 33.15
+     - 34.07
      
      - 0.0
      
