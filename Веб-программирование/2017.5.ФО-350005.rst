@@ -92,7 +92,8 @@
 
    * - 6
      - Богомолова Евгения Витальевна        (`Lorry5 <https://github.com/Lorry5>`_)
-     -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
+     -                      `1 <https://github.com/Lorry5/myproject>`__              `2 <https://gist.github.com/Lorry5/d1363695d3ff4d813f8c4309ec5d89b0>`__              `3 <https://gist.github.com/Lorry5/6efca790cf3eb1798c9a05ab4fa59d3a>`__              `4 <https://gist.github.com/Lorry5/a306db18f232e3e0cd3e3c0a97cb1669>`__                          [**+59**]
+             
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -346,7 +347,7 @@
      - `экзамен <./>`__
       
    * - % сдачи
-     - 45.83
+     - 50.0
      - 0.0
      - 0.0
      - 0.0
@@ -356,7 +357,7 @@
      - 0.0
 
    * - средний балл группы
-     - 39.75
+     - 42.21
      - 0.0
      - 0.0
      - 0.0
@@ -367,7 +368,7 @@
 
    * - средний балл сдачи
      
-     - 86.73
+     - 84.42
      
      - 0.0
      
@@ -403,7 +404,7 @@
 
    * - Продуктивность группы в %
      
-     - 34.07
+     - 35.02
      
      - 0.0
      
