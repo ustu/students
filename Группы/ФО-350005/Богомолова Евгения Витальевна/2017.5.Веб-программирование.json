@@ -4,13 +4,13 @@
     "Лабораторная работа 1": {
       "name": "л/р #1 (HTTP)",
       "url": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html",
-      "score": 0,
-      "date": "16/09/2017",
+      "score": 59,
+      "date": "26/09/2017",
       "total": {
-        "1": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1",
-        "2": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2",
-        "3": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3",
-        "4": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4"
+        "1": "https://github.com/Lorry5/myproject",
+        "2": "https://gist.github.com/Lorry5/d1363695d3ff4d813f8c4309ec5d89b0",
+        "3": "https://gist.github.com/Lorry5/6efca790cf3eb1798c9a05ab4fa59d3a",
+        "4": "https://gist.github.com/Lorry5/a306db18f232e3e0cd3e3c0a97cb1669"
       }
     },
     "Самостоятельная работа 1": {
