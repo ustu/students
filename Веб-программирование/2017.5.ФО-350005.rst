@@ -56,7 +56,8 @@
 
    * - 3
      - Амирова Дария Булатовна        (`mollyusk <https://github.com/mollyusk>`_)
-     -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
+     -                      `1 <https://github.com/mollyusk/project1>`__              `2 <https://gist.github.com/mollyusk/78bb8be7117171874d19d2ba53d21f5d>`__              `3 <https://gist.github.com/mollyusk/92522e178498857059abcbfa35912ad7>`__              `4 <https://gist.github.com/mollyusk/2ddc8972286f0a650f075712366c4e78>`__                          [**+59**]
+             
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -348,7 +349,7 @@
      - `экзамен <./>`__
       
    * - % сдачи
-     - 54.17
+     - 58.33
      - 0.0
      - 0.0
      - 0.0
@@ -358,7 +359,7 @@
      - 0.0
 
    * - средний балл группы
-     - 44.67
+     - 47.12
      - 0.0
      - 0.0
      - 0.0
@@ -369,7 +370,7 @@
 
    * - средний балл сдачи
      
-     - 82.46
+     - 80.79
      
      - 0.0
      
@@ -405,7 +406,7 @@
 
    * - Продуктивность группы в %
      
-     - 35.99
+     - 36.98
      
      - 0.0
      
