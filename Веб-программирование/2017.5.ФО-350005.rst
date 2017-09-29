@@ -322,7 +322,8 @@
      - Черкасова Лия Юрьевна        (`Giraffe-in-hood <https://github.com/Giraffe-in-hood>`_)
      -                      `1 <https://github.com/Giraffe-in-hood/myprojects>`__              `2 <https://gist.github.com/Giraffe-in-hood/5395952eef85cfd0f139a4fe84dcd330>`__              `3 <https://gist.github.com/Giraffe-in-hood/5395952eef85cfd0f139a4fe84dcd330>`__              `4 <https://gist.github.com/Giraffe-in-hood/2c76466d2f60d33b1e0e23445c3dd674>`__                          [**+100**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/Giraffe-in-hood/22cc9b3f8ed865e1e8c1af76cf9212c4>`__                          [**+100**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -350,7 +351,7 @@
       
    * - % сдачи
      - 58.33
-     - 0.0
+     - 4.17
      - 0.0
      - 0.0
      - 0.0
@@ -360,7 +361,7 @@
 
    * - средний балл группы
      - 47.12
-     - 0.0
+     - 4.17
      - 0.0
      - 0.0
      - 0.0
@@ -372,7 +373,7 @@
      
      - 80.79
      
-     - 0.0
+     - 100.0
      
      - 0.0
      
@@ -408,7 +409,7 @@
      
      - 36.98
      
-     - 0.0
+     - 4.17
      
      - 0.0
      

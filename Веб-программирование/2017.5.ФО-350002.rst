@@ -159,7 +159,8 @@
      - Матвеев Антон Сергеевич        (`learko <https://github.com/learko>`_)
      -                      `1 <https://github.com/Learko/Web>`__              `2 <https://gist.github.com/Learko/9c8060ef5748d7492ab894f4430b5c68>`__              `3 <https://gist.github.com/Learko/971c499e6bc249ab720d9a788fb95fab>`__                `4.1 <https://gist.github.com/Learko/e6b72076a5b03cd9ebc14315d4619dbf>`__                `4.2 <https://gist.github.com/Learko/77e573ec27c1d48fdcb7af69d344e7d7>`__                          [**+100**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/Learko/721a90abb7bc2d7b92023a30ff6b8c73>`__                          [**+100**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -238,7 +239,7 @@
       
    * - % сдачи
      - 46.67
-     - 13.33
+     - 20.0
      - 6.67
      - 0.0
      - 0.0
@@ -248,7 +249,7 @@
 
    * - средний балл группы
      - 43.87
-     - 13.33
+     - 20.0
      - 6.67
      - 0.0
      - 0.0
@@ -296,7 +297,7 @@
      
      - 41.15
      
-     - 13.33
+     - 20.0
      
      - 6.67
      
