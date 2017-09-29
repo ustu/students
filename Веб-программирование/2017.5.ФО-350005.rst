@@ -297,7 +297,8 @@
      - Умутбаева Ольга Геннадьевна        (`Olisss <https://github.com/Olisss>`_)
      -                      `1 <https://github.com/Olisss/myproject->`__              `2 <https://gist.github.com/Olisss/af0a15a2329ef59b55c8de6d240326ca>`__              `3 <https://gist.github.com/Olisss/af0a15a2329ef59b55c8de6d240326ca>`__              `4 <https://gist.github.com/Olisss/d3bb9df622bbe55985faeea30b869d02>`__                          [**+100**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/Umutbaeva/d804f7e92b092ab9bd36c05049965331>`__                          [**+100**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -352,7 +353,7 @@
       
    * - % сдачи
      - 58.33
-     - 8.33
+     - 12.5
      - 0.0
      - 0.0
      - 0.0
@@ -362,7 +363,7 @@
 
    * - средний балл группы
      - 47.12
-     - 8.33
+     - 12.5
      - 0.0
      - 0.0
      - 0.0
@@ -410,7 +411,7 @@
      
      - 36.98
      
-     - 8.33
+     - 12.5
      
      - 0.0
      
