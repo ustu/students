@@ -134,7 +134,8 @@
      - Вичкунина Дарья Дмитриевна        (`vichkunina <https://github.com/vichkunina>`_)
      -                      `1 <https://github.com/vichkunina/myproject>`__              `2 <https://gist.github.com/vichkunina/e27d119817d8ae998676e1438cd2051e>`__              `3 <https://gist.github.com/vichkunina/e27d119817d8ae998676e1438cd2051e>`__              `4 <https://gist.github.com/vichkunina/e27d119817d8ae998676e1438cd2051e>`__                          [**+100**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/vichkunina/de956338bf59eff3d2c1b3314773714e>`__                          [**+100**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -351,7 +352,7 @@
       
    * - % сдачи
      - 58.33
-     - 4.17
+     - 8.33
      - 0.0
      - 0.0
      - 0.0
@@ -361,7 +362,7 @@
 
    * - средний балл группы
      - 47.12
-     - 4.17
+     - 8.33
      - 0.0
      - 0.0
      - 0.0
@@ -409,7 +410,7 @@
      
      - 36.98
      
-     - 4.17
+     - 8.33
      
      - 0.0
      
