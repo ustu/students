@@ -69,7 +69,8 @@
      - Вяткин Денис Евгеньевич        (`CatInJar <https://github.com/CatInJar>`_)
      -                      `1 <https://github.com/CatInJar/WebLabs/tree/master/Lab1>`__              `2 <https://gist.github.com/CatInJar/e8f9207f8750a9be75f28cfc650a49b3>`__              `3 <https://gist.github.com/CatInJar/c56a44365db53f4b75e9bcb7a7a27284>`__              `4 <https://gist.github.com/CatInJar/5376532361a9b6f598b9ef1864668d31>`__                          [**+100**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/CatInJar/49de27663b9479c58e7b36371d97b1eb>`__                          [**+100**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -222,7 +223,7 @@
       
    * - % сдачи
      - 42.86
-     - 0.0
+     - 7.14
      - 0.0
      - 0.0
      - 0.0
@@ -232,7 +233,7 @@
 
    * - средний балл группы
      - 36.93
-     - 0.0
+     - 7.14
      - 0.0
      - 0.0
      - 0.0
@@ -244,7 +245,7 @@
      
      - 86.17
      
-     - 0.0
+     - 100.0
      
      - 0.0
      
@@ -280,7 +281,7 @@
      
      - 31.41
      
-     - 0.0
+     - 7.14
      
      - 0.0
      

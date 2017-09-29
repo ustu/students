@@ -209,7 +209,8 @@
      - Торощина Ирина Сергеевна        (`Anonymoar <https://github.com/Anonymoar>`_)
      -                      `1 <https://github.com/Anonymoar/WEB_lb1_HTTP>`__              `2 <https://gist.github.com/Anonymoar/70aae84affc22a990efe9eed189ab9d6>`__              `3 <https://gist.github.com/Anonymoar/70d15b89d79ce880fd77ac6adcca3a83>`__              `4 <https://gist.github.com/Anonymoar/25935f1c13cd9c90def344701528f3a8>`__                          [**+100**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/Anonymoar/82555fec85bd0963c65aaae5665121d4>`__                          [**+100**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -237,7 +238,7 @@
       
    * - % сдачи
      - 46.67
-     - 6.67
+     - 13.33
      - 6.67
      - 0.0
      - 0.0
@@ -247,7 +248,7 @@
 
    * - средний балл группы
      - 43.87
-     - 6.67
+     - 13.33
      - 6.67
      - 0.0
      - 0.0
@@ -295,7 +296,7 @@
      
      - 41.15
      
-     - 6.67
+     - 13.33
      
      - 6.67
      
