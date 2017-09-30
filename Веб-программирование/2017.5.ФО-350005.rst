@@ -82,7 +82,8 @@
 
    * - 5
      - Белявин Тимофей Александрович        (`Ageratum <https://github.com/Ageratum>`_)
-     -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
+     -                      `1 <https://github.com/Ageratum/Myfirstrep>`__              `2 <https://gist.github.com/Ageratum/27e5711a6aca6186ad1e96be6cfc5734>`__              `3 <https://gist.github.com/Ageratum/600c6d7edc09b1764db517ef643d88de>`__              `4 <https://gist.github.com/Ageratum/eb5c2de73facc6b54b5ff5ee33ab91ba>`__                          [**+59**]
+             
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -352,7 +353,7 @@
      - `экзамен <./>`__
       
    * - % сдачи
-     - 58.33
+     - 62.5
      - 12.5
      - 0.0
      - 0.0
@@ -362,7 +363,7 @@
      - 0.0
 
    * - средний балл группы
-     - 47.12
+     - 49.58
      - 12.5
      - 0.0
      - 0.0
@@ -373,7 +374,7 @@
 
    * - средний балл сдачи
      
-     - 80.79
+     - 79.33
      
      - 100.0
      
@@ -409,7 +410,7 @@
 
    * - Продуктивность группы в %
      
-     - 36.98
+     - 37.98
      
      - 12.5
      
