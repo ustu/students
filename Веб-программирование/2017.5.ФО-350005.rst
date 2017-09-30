@@ -43,7 +43,7 @@
 
    * - 2
      - Акифьев Владимир Леонидович        (`Akifev95 <https://github.com/Akifev95>`_)
-     -                      `1 <https://github.com/Akifev95/myprojectL1Z1>`__              `2 <https://gist.github.com/Akifev95/3cb31dc6b233b256eabb43016ca5bda4>`__              `3 <https://gist.github.com/Akifev95/a8f5e5e9dbd233221a021781045e6624>`__              `4 <https://gist.github.com/Akifev95/08e40af9ebe98b8576b258b3f878a338>`__                          [**+59**]
+     -                      `1 <https://github.com/Akifev95/myprojectL1Z1>`__              `2 <https://gist.github.com/Akifev95/3cb31dc6b233b256eabb43016ca5bda4>`__              `3 <https://gist.github.com/Akifev95/a8f5e5e9dbd233221a021781045e6624>`__              `4 <https://gist.github.com/Akifev95/08e40af9ebe98b8576b258b3f878a338>`__                          [**+79**]
              
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
@@ -56,7 +56,7 @@
 
    * - 3
      - Амирова Дария Булатовна        (`mollyusk <https://github.com/mollyusk>`_)
-     -                      `1 <https://github.com/mollyusk/project1>`__              `2 <https://gist.github.com/mollyusk/78bb8be7117171874d19d2ba53d21f5d>`__              `3 <https://gist.github.com/mollyusk/92522e178498857059abcbfa35912ad7>`__              `4 <https://gist.github.com/mollyusk/2ddc8972286f0a650f075712366c4e78>`__                          [**+59**]
+     -                      `1 <https://github.com/mollyusk/project1>`__              `2 <https://gist.github.com/mollyusk/78bb8be7117171874d19d2ba53d21f5d>`__              `3 <https://gist.github.com/mollyusk/92522e178498857059abcbfa35912ad7>`__              `4 <https://gist.github.com/mollyusk/2ddc8972286f0a650f075712366c4e78>`__                          [**+79**]
              
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
@@ -95,7 +95,7 @@
 
    * - 6
      - Богомолова Евгения Витальевна        (`Lorry5 <https://github.com/Lorry5>`_)
-     -                      `1 <https://github.com/Lorry5/myproject>`__              `2 <https://gist.github.com/Lorry5/d1363695d3ff4d813f8c4309ec5d89b0>`__              `3 <https://gist.github.com/Lorry5/6efca790cf3eb1798c9a05ab4fa59d3a>`__              `4 <https://gist.github.com/Lorry5/a306db18f232e3e0cd3e3c0a97cb1669>`__                          [**+59**]
+     -                      `1 <https://github.com/Lorry5/myproject>`__              `2 <https://gist.github.com/Lorry5/d1363695d3ff4d813f8c4309ec5d89b0>`__              `3 <https://gist.github.com/Lorry5/6efca790cf3eb1798c9a05ab4fa59d3a>`__              `4 <https://gist.github.com/Lorry5/a306db18f232e3e0cd3e3c0a97cb1669>`__                          [**+79**]
              
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
