@@ -57,7 +57,8 @@
      - Долганов Антон Юрьевич        (`Antoha1397 <https://github.com/Antoha1397>`_)
      -                      `1 <https://github.com/Antoha1397/myproject>`__              `2 <https://gist.github.com/Antoha1397/7458373fc0804e466fce6ddbe79818f6>`__              `3 <https://gist.github.com/Antoha1397/3c15a31de096a9e183ae551bcaac9356>`__              `4 <https://gist.github.com/Antoha1397/9ee187d95614f35f5ef3f9b149961947>`__                          [**+100**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/Antoha1397/4435bf0fab095007b8c49b4f083b7af6>`__                          [**+100**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -146,7 +147,8 @@
      - Кузнецов Семён Григорьевич        (`Semen110996 <https://github.com/Semen110996>`_)
      -                      `1 <https://github.com/Semen110996/myproject>`__              `2 <https://gist.github.com/Semen110996/172b6381de6793d83cd7d1b69234b5f1>`__              `3 <https://gist.github.com/Semen110996/271d56730e94242f558d4816011197f3>`__              `4 <https://gist.github.com/Semen110996/8e3bd707c1930286230c1c23b838cf89>`__                          [**+100**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/Semen110996/79b718ac0c68e6d8992357392b00aabb>`__                          [**+100**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -239,7 +241,7 @@
       
    * - % сдачи
      - 46.67
-     - 20.0
+     - 33.33
      - 6.67
      - 0.0
      - 0.0
@@ -249,7 +251,7 @@
 
    * - средний балл группы
      - 43.87
-     - 20.0
+     - 33.33
      - 6.67
      - 0.0
      - 0.0
@@ -297,7 +299,7 @@
      
      - 41.15
      
-     - 20.0
+     - 33.33
      
      - 6.67
      
