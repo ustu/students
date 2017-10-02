@@ -112,7 +112,8 @@
      - Елизарьев Павел Вадимович        (`Gonleef <https://github.com/Gonleef>`_)
      -                      `1 <https://github.com/Gonleef/myproject>`__              `2 <https://gist.github.com/Gonleef/816885c59bd0e3ed49824e8027194d1e>`__              `3 <https://gist.github.com/Gonleef/02e1d950538bb44b23c8c232c62ed01a>`__              `4 <https://gist.github.com/Gonleef/459cab3456b4d4bb9f7ded935d8d08a7>`__                          [**+79**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/Gonleef/ded0fb0b52287320a76758ea4e6b9857>`__                          [**+79**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -228,7 +229,7 @@
       
    * - % сдачи
      - 57.14
-     - 21.43
+     - 28.57
      - 7.14
      - 0.0
      - 0.0
@@ -238,7 +239,7 @@
 
    * - средний балл группы
      - 45.36
-     - 19.93
+     - 25.57
      - 7.14
      - 0.0
      - 0.0
@@ -250,7 +251,7 @@
      
      - 79.38
      
-     - 93.0
+     - 89.5
      
      - 100.0
      
@@ -268,7 +269,7 @@
      
      - 1
      
-     - 0
+     - 1
      
      - 0
      
@@ -286,7 +287,7 @@
      
      - 34.77
      
-     - 18.48
+     - 22.73
      
      - 7.14
      
