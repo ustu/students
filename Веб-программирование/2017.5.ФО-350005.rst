@@ -226,7 +226,8 @@
      - Перова Анастасия Александровна        (`FOAna <https://github.com/FOAna>`_)
      -                      `1 <https://github.com/FOAna/AnastasiyaPerova>`__              `2 <https://gist.github.com/FOAna/d0a4a41d5e62e5c9b4bcb123a4203de1>`__              `3 <https://gist.github.com/FOAna/5631cb13bc1e1c05d1ec169acd1c8001>`__              `4 <https://gist.github.com/FOAna/0a2e80e748726ce3f54bc2552a878074>`__                          [**+59**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/FOAna/96dda6517b391a32eafd568c5e666765>`__                          [**+79**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -361,7 +362,7 @@
       
    * - % сдачи
      - 70.83
-     - 33.33
+     - 37.5
      - 0.0
      - 0.0
      - 0.0
@@ -371,7 +372,7 @@
 
    * - средний балл группы
      - 54.5
-     - 32.46
+     - 35.75
      - 0.0
      - 0.0
      - 0.0
@@ -383,7 +384,7 @@
      
      - 76.94
      
-     - 97.38
+     - 95.33
      
      - 0.0
      
@@ -419,7 +420,7 @@
      
      - 40.0
      
-     - 31.6
+     - 34.04
      
      - 0.0
      
