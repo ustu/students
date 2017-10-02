@@ -147,7 +147,7 @@
 
 
    * - 10
-     - Клименко Владимир Валерьевич 
+     - Клименко Владимир Валерьевич        (`klim043 <https://github.com/klim043>`_)
      -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
@@ -160,7 +160,8 @@
 
    * - 11
      - Комаров Артем Владимирович        (`paradox158 <https://github.com/paradox158>`_)
-     -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
+     -                      `1 <https://github.com/paradox158/Web-programming_1_1>`__              `2 <https://gist.github.com/paradox158/8dc1d951e1c4e831efc04fca963187e1>`__              `3 <https://gist.github.com/paradox158/af14b2d155106824820660b9daf96a67>`__              `4 <https://gist.github.com/paradox158/539c129c6e565c7a288f33520182c4df>`__                          [**+59**]
+             
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -171,7 +172,7 @@
 
 
    * - 12
-     - Кондратьев Сергей Алексеевич 
+     - Кондратьев Сергей Алексеевич        (`SergeyKondratyev <https://github.com/SergeyKondratyev>`_)
      -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
@@ -234,7 +235,7 @@
 
 
    * - 17
-     - Подкин Евгений Михайлович 
+     - Подкин Евгений Михайлович        (`sorryiambizzy <https://github.com/sorryiambizzy>`_)
      -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
@@ -249,7 +250,7 @@
      - Пошехонова Ольга Александровна        (`OlyaFO <https://github.com/OlyaFO>`_)
      -                      `1 <https://github.com/OlyaFO/myproject>`__              `2 <https://gist.github.com/OlyaFO/e15b612d099741e82c00b87298a50255#file-2>`__              `3 <https://gist.github.com/OlyaFO/e15b612d099741e82c00b87298a50255#file-3>`__              `4 <https://gist.github.com/OlyaFO/e15b612d099741e82c00b87298a50255#file-4>`__                          [**+100**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          [**+100**]
+     -                      `1 <https://gist.github.com/OlyaFO/972ef981ec32b202f8ffafd61a40392b#file-1>`__                          [**+100**]
              
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -357,7 +358,7 @@
      - `экзамен <./>`__
       
    * - % сдачи
-     - 66.67
+     - 70.83
      - 25.0
      - 0.0
      - 0.0
@@ -367,7 +368,7 @@
      - 0.0
 
    * - средний балл группы
-     - 52.04
+     - 54.5
      - 25.0
      - 0.0
      - 0.0
@@ -378,7 +379,7 @@
 
    * - средний балл сдачи
      
-     - 78.06
+     - 76.94
      
      - 100.0
      
@@ -414,7 +415,7 @@
 
    * - Продуктивность группы в %
      
-     - 38.99
+     - 40.0
      
      - 25.0
      
