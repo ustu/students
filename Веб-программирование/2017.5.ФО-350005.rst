@@ -212,7 +212,8 @@
      - Панкова Алена Александровна        (`AlenaPankova <https://github.com/AlenaPankova>`_)
      -                      `1 <https://github.com/AlenaPankova/web-progrmming>`__              `2 <https://gist.github.com/AlenaPankova/b88caf05fc4b985cb63171eea3e56f60>`__              `3 <https://gist.github.com/AlenaPankova/5a918898ee262b011e9a58b2c34b06c1>`__              `4 <https://gist.github.com/AlenaPankova/a5ed94c6d4c15a9b467d2394f9db4b75>`__                          [**+100**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/AlenaPankova/70e78720343e0c69c89feb8815f67869>`__                          [**+79**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -317,7 +318,8 @@
      - Чабин Александр Сергеевич        (`a-chabin <https://github.com/a-chabin>`_)
      -                      `1 <https://github.com/a-chabin/myproject>`__              `2 <https://gist.github.com/a-chabin/8fe7a00b51ae44667c511f263d31e439>`__              `3 <https://gist.github.com/a-chabin/5296a060beb97e0429d07c0dfb008dfd>`__              `4 <https://gist.github.com/a-chabin/7e14b54a954817d739681b8fae947c9b>`__                          [**+79**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/a-chabin/edd7271c407a3f5cc4dcea44e10a32d4>`__                          [**+100**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -359,7 +361,7 @@
       
    * - % сдачи
      - 70.83
-     - 25.0
+     - 33.33
      - 0.0
      - 0.0
      - 0.0
@@ -369,7 +371,7 @@
 
    * - средний балл группы
      - 54.5
-     - 25.0
+     - 32.46
      - 0.0
      - 0.0
      - 0.0
@@ -381,7 +383,7 @@
      
      - 76.94
      
-     - 100.0
+     - 97.38
      
      - 0.0
      
@@ -417,7 +419,7 @@
      
      - 40.0
      
-     - 25.0
+     - 31.6
      
      - 0.0
      
