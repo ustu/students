@@ -4,13 +4,13 @@
     "Лабораторная работа 1": {
       "name": "л/р #1 (HTTP)",
       "url": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html",
-      "score": 0,
-      "date": "16/09/2017",
+      "score": 59,
+      "date": "30/09/2017",
       "total": {
-        "1": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1",
-        "2": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2",
-        "3": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3",
-        "4": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4"
+        "1": "https://github.com/paradox158/Web-programming_1_1",
+        "2": "https://gist.github.com/paradox158/8dc1d951e1c4e831efc04fca963187e1",
+        "3": "https://gist.github.com/paradox158/af14b2d155106824820660b9daf96a67",
+        "4": "https://gist.github.com/paradox158/539c129c6e565c7a288f33520182c4df"
       }
     },
     "Самостоятельная работа 1": {
