@@ -108,7 +108,8 @@
 
    * - 7
      - Богуш Ирина Александровна        (`Irina2772 <https://github.com/Irina2772>`_)
-     -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
+     -                      `1 <https://gist.github.com/Irina2772/8841ec39a459fbf3c8c63bd2819818c5>`__              `2 <https://gist.github.com/Irina2772/1c0808442d6d6b810215406cc34264b6>`__              `3 <https://gist.github.com/Irina2772/de1ddf816f7abd32e63e45a81d189205>`__              `4 <https://gist.github.com/Irina2772/93ecea1dc8b4c7cdd34c09eaa49a7c8b>`__                          [**+1**]
+             
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -361,7 +362,7 @@
      - `экзамен <./>`__
       
    * - % сдачи
-     - 70.83
+     - 75.0
      - 37.5
      - 0.0
      - 0.0
@@ -371,7 +372,7 @@
      - 0.0
 
    * - средний балл группы
-     - 54.5
+     - 54.54
      - 35.75
      - 0.0
      - 0.0
@@ -382,7 +383,7 @@
 
    * - средний балл сдачи
      
-     - 76.94
+     - 72.72
      
      - 95.33
      
@@ -400,7 +401,7 @@
 
    * - сложность задания (от 0 до 5)
      
-     - 1
+     - 2
      
      - 0
      
@@ -418,7 +419,7 @@
 
    * - Продуктивность группы в %
      
-     - 40.0
+     - 36.77
      
      - 34.04
      
