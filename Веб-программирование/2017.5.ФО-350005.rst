@@ -268,7 +268,8 @@
      - Савинова Марина Александровна        (`marywhat7 <https://github.com/marywhat7>`_)
      -                      `1 <https://github.com/marywhat7/myprogect>`__              `2 <https://gist.github.com/marywhat7/2e8ac80ccd3b06b992d886a4cf4e9398>`__              `3 <https://gist.github.com/marywhat7/dee6e06c454135d59d3c8c33f039cda1>`__              `4 <https://gist.github.com/marywhat7/21c2232a7a1216d3181e930dfd01e70c>`__                          [**+79**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/marywhat7/fd0e880656ae8a08a2bc87cc578dc31d>`__                          [**+79**]
+             
      -                      `1 <https://gist.github.com/marywhat7/fbb42ce5ea367ed8e2be3e8fa052f883>`__              `2 <https://gist.github.com/marywhat7/a232f81901f51b3f14cc1360ccbe9da0>`__              `3 <https://gist.github.com/marywhat7/e6a46b75c6a4146850269fc80a1694fe>`__              `5 <https://gist.github.com/marywhat7/37c3118675dae783d2564b71d694fd77>`__                          [**+100**]
              
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -367,7 +368,7 @@
       
    * - % сдачи
      - 75.0
-     - 37.5
+     - 41.67
      - 16.67
      - 0.0
      - 0.0
@@ -377,7 +378,7 @@
 
    * - средний балл группы
      - 54.54
-     - 35.75
+     - 39.04
      - 16.67
      - 0.0
      - 0.0
@@ -389,7 +390,7 @@
      
      - 72.72
      
-     - 95.33
+     - 93.7
      
      - 100.0
      
@@ -425,7 +426,7 @@
      
      - 36.77
      
-     - 34.04
+     - 36.5
      
      - 16.67
      
