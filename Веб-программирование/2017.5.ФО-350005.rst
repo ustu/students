@@ -139,7 +139,8 @@
              
      -                      `1 <https://gist.github.com/vichkunina/de956338bf59eff3d2c1b3314773714e>`__                          [**+100**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
+     -                      `1 <https://gist.github.com/vichkunina/c983722e311f915cfb340fdc18fc96e8>`__              `2 <https://gist.github.com/vichkunina/502c522b6643fb9c212a7e256b746d8d>`__              `3 <https://gist.github.com/vichkunina/ef5f43bc81310af26e102bfc42ad30b7>`__              `5 <https://gist.github.com/vichkunina/45aba60dd247d69b0718a169136fc927>`__                          [**+100**]
+             
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__                          
@@ -268,7 +269,8 @@
      -                      `1 <https://github.com/marywhat7/myprogect>`__              `2 <https://gist.github.com/marywhat7/2e8ac80ccd3b06b992d886a4cf4e9398>`__              `3 <https://gist.github.com/marywhat7/dee6e06c454135d59d3c8c33f039cda1>`__              `4 <https://gist.github.com/marywhat7/21c2232a7a1216d3181e930dfd01e70c>`__                          [**+79**]
              
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
+     -                      `1 <https://gist.github.com/marywhat7/fbb42ce5ea367ed8e2be3e8fa052f883>`__              `2 <https://gist.github.com/marywhat7/a232f81901f51b3f14cc1360ccbe9da0>`__              `3 <https://gist.github.com/marywhat7/e6a46b75c6a4146850269fc80a1694fe>`__              `5 <https://gist.github.com/marywhat7/37c3118675dae783d2564b71d694fd77>`__                          [**+100**]
+             
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__                          
@@ -308,7 +310,8 @@
              
      -                      `1 <https://gist.github.com/Umutbaeva/d804f7e92b092ab9bd36c05049965331>`__                          [**+100**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
+     -                      `1 <https://gist.github.com/Olisss/b7f80d315470230fb6189c140a8b918c>`__              `2 <https://gist.github.com/Olisss/779c04739ea31d15e99416f67c078336>`__              `3 <https://gist.github.com/Olisss/be41f4fe10bec8b3096ab7b8a149c27d>`__              `5 <https://gist.github.com/Olisss/a470efa0fd5ce679f03c50434a540282>`__                          [**+100**]
+             
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__                          
@@ -336,7 +339,8 @@
              
      -                      `1 <https://gist.github.com/Giraffe-in-hood/22cc9b3f8ed865e1e8c1af76cf9212c4>`__                          [**+100**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
+     -                      `1 <https://gist.github.com/Giraffe-in-hood/dfaa0cda13b909ec8396b3f32eb6a3ee>`__              `2 <https://gist.github.com/Giraffe-in-hood/0f37351f5c86ad945fd56e1757b6c678>`__              `3 <https://gist.github.com/Giraffe-in-hood/31a7a7060666701ff32ff4f775cd97ad>`__              `5 <https://gist.github.com/Giraffe-in-hood/bdc9a94fa9b0415d086092026eb4f071>`__                          [**+100**]
+             
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__                          
@@ -364,7 +368,7 @@
    * - % сдачи
      - 75.0
      - 37.5
-     - 0.0
+     - 16.67
      - 0.0
      - 0.0
      - 0.0
@@ -374,7 +378,7 @@
    * - средний балл группы
      - 54.54
      - 35.75
-     - 0.0
+     - 16.67
      - 0.0
      - 0.0
      - 0.0
@@ -387,7 +391,7 @@
      
      - 95.33
      
-     - 0.0
+     - 100.0
      
      - 0.0
      
@@ -423,7 +427,7 @@
      
      - 34.04
      
-     - 0.0
+     - 16.67
      
      - 0.0
      
