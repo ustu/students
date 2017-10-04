@@ -7,8 +7,8 @@ stdenv.mkDerivation rec {
     stack
     mypy
     python3
-    python36Packages.pip
-    python36Packages.Mako
-    python36Packages.docutils
+    python3Packages.pip
+    python3Packages.Mako
+    python3Packages.docutils
   ];
 }

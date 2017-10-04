@@ -1,9 +1,9 @@
 { pkgs ? import <nixpkgs> {} }:
 
 let
-  pythonPackages = pkgs.python36Packages;
+  pythonPackages = pkgs.python3Packages;
   stdenv = pkgs.stdenv;
-  python3 = pkgs.python36;
+  python3 = pkgs.python3;
 
   rstcheck = pythonPackages.buildPythonPackage rec {
     name = "rstcheck-3.1";
