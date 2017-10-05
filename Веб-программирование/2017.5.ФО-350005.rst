@@ -150,7 +150,8 @@
 
    * - 10
      - Клименко Владимир Валерьевич        (`klim043 <https://github.com/klim043>`_)
-     -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
+     -                      `1 <https://github.com/klim043/project>`__              `2 <https://gist.github.com/klim043/35ca83b7fe2f1c85b26d0873c8e09bbf>`__              `3 <https://gist.github.com/klim043/a9a9fa5410909d01469ff063a7ec29b6>`__              `4 <https://gist.github.com/klim043/cb779887f2d9ba9c211a30df0f475a12>`__                          [**+1**]
+             
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -216,7 +217,8 @@
              
      -                      `1 <https://gist.github.com/AlenaPankova/70e78720343e0c69c89feb8815f67869>`__                          [**+79**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
+     -                      `1 <https://gist.github.com/AlenaPankova/1bf05a38fbd8d0395fc6f44528a33b1f>`__              `2 <https://gist.github.com/AlenaPankova/5d1428d03236a944352017fcf66dff0a>`__              `3 <https://gist.github.com/AlenaPankova/a5df0b64800cd8798cc33a15748f0758>`__              `5 <https://gist.github.com/AlenaPankova/18259f26a4b2f5d56096ef1c3513e946>`__                          [**+100**]
+             
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__                          
@@ -368,9 +370,9 @@
      - `экзамен <./>`__
       
    * - % сдачи
-     - 75.0
+     - 79.17
      - 41.67
-     - 20.83
+     - 25.0
      - 0.0
      - 0.0
      - 0.0
@@ -378,9 +380,9 @@
      - 0.0
 
    * - средний балл группы
-     - 54.54
+     - 54.58
      - 39.04
-     - 20.83
+     - 25.0
      - 0.0
      - 0.0
      - 0.0
@@ -389,7 +391,7 @@
 
    * - средний балл сдачи
      
-     - 72.72
+     - 68.95
      
      - 93.7
      
@@ -425,11 +427,11 @@
 
    * - Продуктивность группы в %
      
-     - 36.77
+     - 33.6
      
      - 36.5
      
-     - 20.83
+     - 25.0
      
      - 0.0
      
