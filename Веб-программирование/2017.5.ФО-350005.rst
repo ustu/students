@@ -259,7 +259,8 @@
              
      -                      `1 <https://gist.github.com/OlyaFO/972ef981ec32b202f8ffafd61a40392b#file-1>`__                          [**+100**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
+     -                      `1 <https://gist.github.com/OlyaFO/7a395fb0232078ca4b3d947930142e74#file-1>`__              `2 <https://gist.github.com/OlyaFO/7a395fb0232078ca4b3d947930142e74#file-2>`__              `3 <https://gist.github.com/OlyaFO/7a395fb0232078ca4b3d947930142e74#file-3>`__              `5 <https://gist.github.com/OlyaFO/7a395fb0232078ca4b3d947930142e74#file-5>`__                          [**+100**]
+             
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__              `5 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id6>`__                          
@@ -372,7 +373,7 @@
    * - % сдачи
      - 79.17
      - 41.67
-     - 25.0
+     - 29.17
      - 0.0
      - 0.0
      - 0.0
@@ -382,7 +383,7 @@
    * - средний балл группы
      - 54.58
      - 39.04
-     - 25.0
+     - 29.17
      - 0.0
      - 0.0
      - 0.0
@@ -431,7 +432,7 @@
      
      - 36.5
      
-     - 25.0
+     - 29.17
      
      - 0.0
      

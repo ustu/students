@@ -190,7 +190,8 @@
      - Новиков Александр Николаевич        (`theflatladder <https://github.com/theflatladder>`_)
      -                      `1 <https://github.com/theflatladder/WebProgramming_Labs/tree/master/Lab1/Task%201>`__              `2 <https://github.com/theflatladder/WebProgramming_Labs/tree/master/Lab1/Task%202>`__              `3 <https://github.com/theflatladder/WebProgramming_Labs/tree/master/Lab1/Task%203>`__              `4 <https://github.com/theflatladder/WebProgramming_Labs/tree/master/Lab1/Task%204>`__                          [**+79**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/theflatladder/3eaff636e36cac564929138ba6a945c4>`__                          [**+79**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -246,7 +247,7 @@
       
    * - % сдачи
      - 53.33
-     - 40.0
+     - 46.67
      - 26.67
      - 0.0
      - 0.0
@@ -256,7 +257,7 @@
 
    * - средний балл группы
      - 47.13
-     - 38.6
+     - 43.87
      - 26.67
      - 0.0
      - 0.0
@@ -268,7 +269,7 @@
      
      - 88.38
      
-     - 96.5
+     - 94.0
      
      - 100.0
      
@@ -304,7 +305,7 @@
      
      - 41.29
      
-     - 37.22
+     - 41.15
      
      - 26.67
      
