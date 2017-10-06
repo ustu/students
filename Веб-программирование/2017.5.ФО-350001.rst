@@ -152,7 +152,8 @@
      - Кинцель Сергей Александрович        (`Wolzev <https://github.com/Wolzev>`_)
      -                      `1 <https://github.com/Wolzev/myproject>`__              `2 <https://gist.github.com/Wolzev/c0669bdff334ac23c79e9dee4635ef5f>`__              `3 <https://gist.github.com/Wolzev/2436693148f213b092a72d1b0823a8bf>`__              `4 <https://gist.github.com/Wolzev/7da1601a404e33112f66d7739fe3a66d>`__                          [**+59**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/Wolzev/f56001855f6fb919b904da7ba8ddee0d>`__                          [**+79**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -230,7 +231,7 @@
       
    * - % сдачи
      - 57.14
-     - 28.57
+     - 35.71
      - 14.29
      - 0.0
      - 0.0
@@ -240,7 +241,7 @@
 
    * - средний балл группы
      - 45.36
-     - 25.57
+     - 31.21
      - 14.29
      - 0.0
      - 0.0
@@ -252,7 +253,7 @@
      
      - 79.38
      
-     - 89.5
+     - 87.4
      
      - 100.0
      
@@ -288,7 +289,7 @@
      
      - 34.77
      
-     - 22.73
+     - 27.0
      
      - 14.29
      
