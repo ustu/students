@@ -193,7 +193,10 @@ class Student(object):
                                 'github_nickname': self.github,
                             } if self.github else {}
                         ),
-                        # **{'checkpoints/Контрольная работа': None}
+                        # **{
+                        #     'checkpoints/Контрольная работа/date':
+                        #     "28/10/2017"
+                        # }
                     }
                     # [
                     #     'checkpoints',
