@@ -87,12 +87,18 @@ class Course(object):
     @property
     def template_group_path(self) -> Path:
         # Make group templates for subjects
-        path: Path = Path(PATH_TO_GROUP) / self.group / '_common' / self.name
+        path: Path = Path(PATH_TO_GROUP) / self.group / '_common'
+        path.mkdir(exist_ok=True)
+        path = path / self.name
         path.mkdir(exist_ok=True)
 
         # Copy if not exist
+        # TODO: merge files
         try:
-            shutil.copytree(f'../{self.name}/_templates', path)
+            shutil.copytree(
+                f'../{self.name}/_templates',
+                path / '_templates'
+            )
         except FileExistsError as e:
             pass
 
@@ -196,6 +202,9 @@ class Student(object):
                         # **{
                         #     'checkpoints/Контрольная работа/date':
                         #     "28/10/2017"
+                        # }
+                        # **{
+                        #     'checkpoints/Лабораторная работа 5': None
                         # }
                     }
                     # [
@@ -334,5 +343,5 @@ def make_group(file_name: str) -> None:
 
 # Walk groups
 for pos_json in os.listdir(PATH_TO_GROUP):
-    if pos_json.endswith('.json'):
+    if pos_json.endswith('5.json'):
         make_group(PATH_TO_GROUP + pos_json)
