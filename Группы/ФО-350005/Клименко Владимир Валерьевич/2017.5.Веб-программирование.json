@@ -25,13 +25,13 @@
     "Лабораторная работа 2": {
       "name": "л/р #2 (Socket)",
       "url": "http://lecturesnet.readthedocs.io/net/_checkpoint.html",
-      "score": 0,
-      "date": "",
+      "score": 1,
+      "date": "13/10/2017",
       "total": {
-        "1": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2",
-        "2": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3",
-        "3": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4",
-        "5": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6"
+        "1": "https://gist.github.com/klim043/903f3a4c81f313bc3e9e03ec1adc29c1",
+        "2": "https://gist.github.com/klim043/eda08d97df3bdc43920e77d84cb041af",
+        "3": "https://gist.github.com/klim043/0fe2212e0bc847177224e38d8568ee59",
+        "5": "https://gist.github.com/klim043/ae951a051639ca8d7dd7af30a77e0670"
       }
     },
     "Контрольная работа": {
