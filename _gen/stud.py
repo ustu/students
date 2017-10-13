@@ -204,7 +204,9 @@ class Student(object):
                         #     "28/10/2017"
                         # }
                         # **{
-                        #     'checkpoints/Лабораторная работа 5': None
+                        #     'checkpoints/Лабораторная работа 4': None,
+                        #     'checkpoints/Лабораторная работа 5': None,
+                        #     'checkpoints/Лабораторная работа 6': None
                         # }
                     }
                     # [
@@ -225,8 +227,12 @@ def merge_json_files(
     Overwrites values from `overwrite` dict. And if it's necessary merge
     hight level subkeys by `merge_subkeys` list.
     '''
-    src: Dict[str, Any] = json.load(src_path.open())
-    dst: Dict[str, Any] = json.load(dst_path.open())
+    src: Dict[str, Any] = collections.OrderedDict(
+        json.load(src_path.open())
+    )
+    dst: Dict[str, Any] = collections.OrderedDict(
+        json.load(dst_path.open())
+    )
 
     def setValue(keys: List[str], data: Dict, value) -> None:
         getValue(keys[:-1], data)[keys[-1]] = value
@@ -244,7 +250,18 @@ def merge_json_files(
         _value = value if value else getValue(keys, src)
         setValue(keys, dst, _value)
 
+    def sort_by_list(dict_, list_):
+        for key in list_:
+            dict_.move_to_end(key)
+
+    # TODO: move to settings
+    sorted_keys = src['checkpoints'].keys()
     src.update(dst)
+    checkpoints = collections.OrderedDict(dst['checkpoints'])
+    sort_by_list(checkpoints, sorted_keys)
+    dst['checkpoints'] = checkpoints
+
+    # Write to file
     json.dump(dst, dst_path.open('w'), ensure_ascii=False, indent=2)
 
 
@@ -343,5 +360,5 @@ def make_group(file_name: str) -> None:
 
 # Walk groups
 for pos_json in os.listdir(PATH_TO_GROUP):
-    if pos_json.endswith('5.json'):
+    if pos_json.endswith('.json'):
         make_group(PATH_TO_GROUP + pos_json)
