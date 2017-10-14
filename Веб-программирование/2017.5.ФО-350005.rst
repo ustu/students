@@ -79,7 +79,8 @@
      - Архипов Андрей Александрович        (`impuppy <https://github.com/impuppy>`_)
      -                      `1 <https://github.com/impuppy/my_rep>`__              `2 <https://gist.github.com/impuppy/7839a0890f3d0034a3b21c8e357beb3b#file-2>`__              `3 <https://gist.github.com/impuppy/7839a0890f3d0034a3b21c8e357beb3b#file-3>`__              `4 <https://gist.github.com/impuppy/7839a0890f3d0034a3b21c8e357beb3b#file-4>`__                          [**+79**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/impuppy/967a345bfa75c02c0d8dbc10c3195522>`__                          [**+59**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -412,7 +413,7 @@
       
    * - % сдачи
      - 79.17
-     - 50.0
+     - 54.17
      - 62.5
      - 0.0
      - 12.5
@@ -423,7 +424,7 @@
 
    * - средний балл группы
      - 57.92
-     - 44.79
+     - 47.25
      - 54.88
      - 0.0
      - 12.5
@@ -436,7 +437,7 @@
      
      - 73.16
      
-     - 89.58
+     - 87.23
      
      - 87.8
      
@@ -476,7 +477,7 @@
      
      - 39.42
      
-     - 39.85
+     - 40.77
      
      - 47.71
      

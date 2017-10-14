@@ -23,5 +23,9 @@ build:
 fix-github:
 	for i in ./*; do sed -i 's/blob\/master/tree\/master/g'; done
 
+score:
+	git add .
+	git commit -m "++score"
+	git push
 # vim:ft=make
 #
