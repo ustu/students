@@ -28,10 +28,8 @@
       "score": 0,
       "date": "",
       "total": {
-        "1": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2",
-        "2": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3",
-        "3": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4",
-        "5": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6"
+        "1,2,3,5": "https://gist.github.com/Irina2772/d82ff3d542cf86e85cd7072571192f05",
+       
       }
     },
     "Контрольная работа": {
