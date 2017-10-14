@@ -94,7 +94,8 @@
      - Белявин Тимофей Александрович        (`Ageratum <https://github.com/Ageratum>`_)
      -                      `1 <https://github.com/Ageratum/Myfirstrep>`__              `2 <https://gist.github.com/Ageratum/27e5711a6aca6186ad1e96be6cfc5734>`__              `3 <https://gist.github.com/Ageratum/600c6d7edc09b1764db517ef643d88de>`__              `4 <https://gist.github.com/Ageratum/eb5c2de73facc6b54b5ff5ee33ab91ba>`__                          [**+59**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/Ageratum/68eafc53fb137509d5d1dd1fe25b8c74>`__                          [**+59**]
+             
      -                      `1 <https://gist.github.com/Ageratum/67b3b6bc624aa191eace9624c36ad38a>`__              `2 <https://gist.github.com/Ageratum/47680dc98fd95a8e891f7a7f66389281>`__              `3 <https://gist.github.com/Ageratum/9052adb6402092879f43167ab355e0c5>`__              `5 <https://gist.github.com/Ageratum/fbfdacfdc6270fdea2d80761ae017da5>`__                          [**+100**]
              
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -124,7 +125,8 @@
      - Богуш Ирина Александровна        (`Irina2772 <https://github.com/Irina2772>`_)
      -                      `1 <https://gist.github.com/Irina2772/8841ec39a459fbf3c8c63bd2819818c5>`__              `2 <https://gist.github.com/Irina2772/1c0808442d6d6b810215406cc34264b6>`__              `3 <https://gist.github.com/Irina2772/de1ddf816f7abd32e63e45a81d189205>`__              `4 <https://gist.github.com/Irina2772/93ecea1dc8b4c7cdd34c09eaa49a7c8b>`__                          [**+1**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/Irina2772/7f3eae0e1e7bfa3ba0e9c05433bcd453>`__                          [**+59**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -413,7 +415,7 @@
       
    * - % сдачи
      - 79.17
-     - 54.17
+     - 62.5
      - 62.5
      - 0.0
      - 12.5
@@ -424,7 +426,7 @@
 
    * - средний балл группы
      - 57.92
-     - 47.25
+     - 52.17
      - 54.88
      - 0.0
      - 12.5
@@ -437,7 +439,7 @@
      
      - 73.16
      
-     - 87.23
+     - 83.47
      
      - 87.8
      
@@ -477,7 +479,7 @@
      
      - 39.42
      
-     - 40.77
+     - 42.68
      
      - 47.71
      
