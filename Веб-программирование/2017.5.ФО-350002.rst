@@ -63,7 +63,8 @@
              
      -                      `1 <https://gist.github.com/Antoha1397/4435bf0fab095007b8c49b4f083b7af6>`__                          [**+100**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
+     -                      `1 <https://gist.github.com/Antoha1397/f34edb0e9dc831a33681176e57c85306>`__              `2 <https://gist.github.com/Antoha1397/f657f44584aa62212168fa4769e1a9ae>`__              `3 <https://gist.github.com/Antoha1397/194874d708e8cb378b7316707a797a0e>`__              `5 <https://gist.github.com/Antoha1397/37f32249f4a074e0fd9cde1772be51b3>`__                          [**+79**]
+             
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
@@ -222,7 +223,8 @@
      - Тетюцких Арсений Алексеевич        (`arstet <https://github.com/arstet>`_)
      -                      `1 <https://github.com/arstet/myproject>`__              `2 <https://gist.github.com/arstet/b62c49dff749fed8e6c162a9c3b22056>`__              `3 <https://gist.github.com/arstet/df83cf0cdbedf148a284d7b8bf76ad3a>`__              `4 <https://gist.github.com/arstet/81a2d16134d9d72618fc8078afaa4915>`__                          [**+49**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/arstet/b2b73a8ee4e2536492292db42839da1c>`__                          [**+59**]
+             
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -268,8 +270,8 @@
       
    * - % сдачи
      - 60.0
+     - 53.33
      - 46.67
-     - 40.0
      - 0.0
      - 0.0
      - 0.0
@@ -279,8 +281,8 @@
 
    * - средний балл группы
      - 49.73
-     - 43.87
-     - 32.0
+     - 47.8
+     - 37.27
      - 0.0
      - 0.0
      - 0.0
@@ -292,9 +294,9 @@
      
      - 82.89
      
-     - 94.0
+     - 89.62
      
-     - 80.0
+     - 79.86
      
      - 0.0
      
@@ -312,7 +314,7 @@
      
      - 1
      
-     - 0
+     - 1
      
      - 1
      
@@ -332,9 +334,9 @@
      
      - 40.34
      
-     - 41.15
+     - 42.55
      
-     - 24.79
+     - 28.8
      
      - 0.0
      
