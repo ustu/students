@@ -110,7 +110,8 @@
      - Богомолова Евгения Витальевна        (`Lorry5 <https://github.com/Lorry5>`_)
      -                      `1 <https://github.com/Lorry5/myproject>`__              `2 <https://gist.github.com/Lorry5/d1363695d3ff4d813f8c4309ec5d89b0>`__              `3 <https://gist.github.com/Lorry5/6efca790cf3eb1798c9a05ab4fa59d3a>`__              `4 <https://gist.github.com/Lorry5/a306db18f232e3e0cd3e3c0a97cb1669>`__                          [**+79**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/Lorry5/1c147e3ee6980820fd54e3249dcd760c>`__                          [**+49**]
+             
      -                      `1 <https://gist.github.com/Lorry5/070318b4ed30d5864457ca365e46db97>`__              `2 <https://gist.github.com/Lorry5/e03a56a1ea491a9deeea7f6b84541744>`__              `3 <https://gist.github.com/Lorry5/7cab7df11facf7397d7aa8444287208f>`__              `5 <https://gist.github.com/Lorry5/7bb0f039acfbe74e7e8543892f8ed891>`__                          [**+79**]
              
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -418,7 +419,7 @@
       
    * - % сдачи
      - 79.17
-     - 66.67
+     - 70.83
      - 66.67
      - 0.0
      - 12.5
@@ -429,7 +430,7 @@
 
    * - средний балл группы
      - 57.92
-     - 54.21
+     - 56.25
      - 58.17
      - 0.0
      - 12.5
@@ -442,7 +443,7 @@
      
      - 73.16
      
-     - 81.31
+     - 79.41
      
      - 87.25
      
@@ -482,7 +483,7 @@
      
      - 39.42
      
-     - 42.9
+     - 43.14
      
      - 50.21
      
