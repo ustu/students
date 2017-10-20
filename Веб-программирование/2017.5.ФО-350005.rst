@@ -176,7 +176,8 @@
      - Клименко Владимир Валерьевич        (`klim043 <https://github.com/klim043>`_)
      -                      `1 <https://github.com/klim043/project>`__              `2 <https://gist.github.com/klim043/35ca83b7fe2f1c85b26d0873c8e09bbf>`__              `3 <https://gist.github.com/klim043/a9a9fa5410909d01469ff063a7ec29b6>`__              `4 <https://gist.github.com/klim043/cb779887f2d9ba9c211a30df0f475a12>`__                          [**+1**]
              
-     -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
+     -                      `1 <https://gist.github.com/klim043/4efe5292cf6035605d6c08521854ecc1>`__                          [**+1**]
+             
      -                      `1 <https://gist.github.com/klim043/903f3a4c81f313bc3e9e03ec1adc29c1>`__              `2 <https://gist.github.com/klim043/eda08d97df3bdc43920e77d84cb041af>`__              `3 <https://gist.github.com/klim043/0fe2212e0bc847177224e38d8568ee59>`__              `5 <https://gist.github.com/klim043/ae951a051639ca8d7dd7af30a77e0670>`__                          [**+1**]
              
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
@@ -419,7 +420,7 @@
       
    * - % сдачи
      - 79.17
-     - 70.83
+     - 75.0
      - 66.67
      - 0.0
      - 12.5
@@ -430,7 +431,7 @@
 
    * - средний балл группы
      - 57.92
-     - 56.25
+     - 56.29
      - 58.17
      - 0.0
      - 12.5
@@ -443,7 +444,7 @@
      
      - 73.16
      
-     - 79.41
+     - 75.06
      
      - 87.25
      
@@ -483,7 +484,7 @@
      
      - 39.42
      
-     - 43.14
+     - 39.85
      
      - 50.21
      
