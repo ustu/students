@@ -37,8 +37,8 @@
     "Контрольная работа": {
       "name": "контр.",
       "url": "https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement",
-      "score": 0,
-      "date": "28/10/2017",
+      "score": 100,
+      "date": "21/10/2017",
       "total": {
         "1": "https://gist.github.com/a-chabin/c00f1edda1464e292618e0a3ac35687e"
       }
