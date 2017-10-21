@@ -146,7 +146,8 @@
              
      -                      `1 <https://gist.github.com/alex43jk/f0cdb8d277d92fd113c6adf6ff8bdfbe>`__              `2 <https://gist.github.com/alex43jk/ac94958b6e0d9a3e445a79fc7c1003c0>`__              `3 <https://gist.github.com/alex43jk/4eacc93a69ff86ec6545d2e7a870aea0>`__              `5 <https://gist.github.com/alex43jk/dc7cda273f362496fbfe501785eb66b5>`__                          [**+100**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
+     -                      `1 <https://gist.github.com/a-chabin/c00f1edda1464e292618e0a3ac35687e>`__                          [**+100**]
+             
      -                      `1 <https://gist.github.com/alex43jk/5e806196d7b07a1dbaaf5754bac6d3c5#file-wsgi-py>`__                          [**+100**]
              
      -                      `1 <https://github.com/alex43jk/Web_lr4>`__              `2 <https://gist.github.com/alex43jk/40c5edf20df064d93ccedcd0795fe3ab#file-2-2-http-webob>`__              `3 <https://gist.github.com/alex43jk/40c5edf20df064d93ccedcd0795fe3ab#file-2-3-http-webob>`__              `4 <https://gist.github.com/alex43jk/40c5edf20df064d93ccedcd0795fe3ab#file-2-4-http-webob>`__                          [**+100**]
@@ -376,7 +377,8 @@
              
      -                      `1 <https://gist.github.com/a-chabin/82385379fe4eabc885e3f4fe9caab866>`__              `2 <https://gist.github.com/a-chabin/e67b2fcbc4bb7d25471532b7104410af>`__              `3 <https://gist.github.com/a-chabin/9e740920afe13f91ea0b235e8fbe742e>`__              `5 <https://gist.github.com/a-chabin/ecfeaaa586d82f3b31ae36fb4bea92e0>`__                          [**+79**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
+     -                      `1 <https://gist.github.com/a-chabin/c00f1edda1464e292618e0a3ac35687e>`__                          [**+100**]
+             
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
@@ -422,7 +424,7 @@
      - 79.17
      - 75.0
      - 66.67
-     - 0.0
+     - 8.33
      - 12.5
      - 4.17
      - 0.0
@@ -433,7 +435,7 @@
      - 57.92
      - 56.29
      - 58.17
-     - 0.0
+     - 8.33
      - 12.5
      - 4.17
      - 0.0
@@ -448,7 +450,7 @@
      
      - 87.25
      
-     - 0.0
+     - 100.0
      
      - 100.0
      
@@ -488,7 +490,7 @@
      
      - 50.21
      
-     - 0.0
+     - 8.33
      
      - 12.5
      
