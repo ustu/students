@@ -1,16 +1,16 @@
 {
-  "github_nickname": "",
+  "github_nickname": "SKolobukhov",
   "checkpoints": {
     "Лабораторная работа 1": {
       "name": "л/р #1 (HTTP)",
       "url": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html",
-      "score": 0,
-      "date": "16/09/2017",
+      "score": 19,
+      "date": "23/10/2017",
       "total": {
-        "1": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1",
-        "2": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2",
-        "3": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3",
-        "4": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4"
+        "1": "https://github.com/SKolobukhov/WebProgramming/blob/lab1/task1.md",
+        "2": "https://github.com/SKolobukhov/WebProgramming/blob/lab1/task2.md",
+        "3": "https://github.com/SKolobukhov/WebProgramming/blob/lab1/task3.md",
+        "4": "https://github.com/SKolobukhov/WebProgramming/blob/lab1/task4.md"
       }
     },
     "Самостоятельная работа 1": {
@@ -19,7 +19,7 @@
       "score": 0,
       "date": "30/09/2017",
       "total": {
-        "1": "http://lecturesnet.readthedocs.io/net/_checkpoint0.html"
+        "1": "https://github.com/SKolobukhov/WebProgramming/tree/home1"
       }
     },
     "Лабораторная работа 2": {
@@ -28,9 +28,9 @@
       "score": 0,
       "date": "",
       "total": {
-        "1": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2",
-        "2": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3",
-        "3": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4",
+        "1": "https://github.com/SKolobukhov/WebProgramming/blob/lab2/task1.md",
+        "2": "https://github.com/SKolobukhov/WebProgramming/blob/lab2/task2.md",
+        "3": "https://github.com/SKolobukhov/WebProgramming/blob/lab2/task2.md",
         "5": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6"
       }
     },
