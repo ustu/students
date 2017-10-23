@@ -168,7 +168,8 @@
      -                      `1 <https://gist.github.com/Semen110996/e093ed249e7214e4c6301579ba797f29>`__              `2 <https://gist.github.com/Semen110996/6f082b08f384f6bbb2bf93d8c5dbb75b>`__              `3 <https://gist.github.com/Semen110996/0b02373ee45d0ff8b2e3fadb1b8b1809>`__              `5 <https://gist.github.com/Semen110996/fe89d90ded344563df99809abe78a9f5>`__                          [**+100**]
              
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
+     -                      `1 <https://gist.github.com/Semen110996/3fddb1d85e2460fd23df177ec5df8050#file-3>`__                          [**+100**]
+             
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
@@ -274,7 +275,7 @@
      - 53.33
      - 46.67
      - 0.0
-     - 6.67
+     - 13.33
      - 0.0
      - 0.0
      - 0.0
@@ -285,7 +286,7 @@
      - 47.8
      - 37.27
      - 0.0
-     - 6.67
+     - 13.33
      - 0.0
      - 0.0
      - 0.0
@@ -341,7 +342,7 @@
      
      - 0.0
      
-     - 6.67
+     - 13.33
      
      - 0.0
      
