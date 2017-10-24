@@ -379,7 +379,8 @@
              
      -                      `1 <https://gist.github.com/a-chabin/c00f1edda1464e292618e0a3ac35687e>`__                          [**+100**]
              
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
+     -                      `1 <https://gist.github.com/a-chabin/ceb5652079d4b84ba4862e563979a433>`__                          [**+100**]
+             
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
@@ -425,7 +426,7 @@
      - 75.0
      - 66.67
      - 8.33
-     - 12.5
+     - 16.67
      - 4.17
      - 0.0
      - 0.0
@@ -436,7 +437,7 @@
      - 56.29
      - 58.17
      - 8.33
-     - 12.5
+     - 16.67
      - 4.17
      - 0.0
      - 0.0
@@ -492,7 +493,7 @@
      
      - 8.33
      
-     - 12.5
+     - 16.67
      
      - 4.17
      
