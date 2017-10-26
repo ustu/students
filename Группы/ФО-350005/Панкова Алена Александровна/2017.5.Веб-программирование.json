@@ -46,8 +46,8 @@
     "Лабораторная работа 3": {
       "name": "л/р #3 (WSGI)",
       "url": "https://gist.github.com/AlenaPankova/ec542078288bb5a76033916a17817abe",
-      "score": 0,
-      "date": "",
+      "score": 100,
+      "date": "26/10/2017",
       "total": {
         "1": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1"
       }
