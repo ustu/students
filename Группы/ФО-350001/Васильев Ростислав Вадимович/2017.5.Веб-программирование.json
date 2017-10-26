@@ -1,11 +1,11 @@
 {
-  "github_nickname": "",
+  "github_nickname": "Sodiet",
   "checkpoints": {
     "Лабораторная работа 1": {
       "name": "л/р #1 (HTTP)",
       "url": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html",
-      "score": 0,
-      "date": "16/09/2017",
+      "score": 19,
+      "date": "26/10/2017",
       "total": {
         "1": "https://github.com/Sodiet/Labs/tree/master",
         "2": "https://gist.github.com/Sodiet/f995e27e106b74006ddaed89cd38bcaa",
