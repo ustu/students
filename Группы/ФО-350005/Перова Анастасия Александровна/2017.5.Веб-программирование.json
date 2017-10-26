@@ -40,16 +40,16 @@
       "score": 0,
       "date": "28/10/2017",
       "total": {
-        "1": "https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement"
+        "1": "https://docs.google.com/presentation/d/1QI2lx9po0cvkG1smUrv6jO4sGy4SdWDqvBM-0bnFklk/edit?usp=drive_web"
       }
     },
     "Лабораторная работа 3": {
       "name": "л/р #3 (WSGI)",
       "url": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html",
-      "score": 0,
-      "date": "",
+      "score": 100,
+      "date": "26/10/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1"
+        "1": "https://gist.github.com/FOAna/1a8c1c39e408f087304f595a50119350"
       }
     },
     "Лабораторная работа 4": {
