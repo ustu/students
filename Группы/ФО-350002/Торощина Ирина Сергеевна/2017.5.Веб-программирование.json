@@ -40,7 +40,10 @@
       "score": 0,
       "date": "28/10/2017",
       "total": {
-        "1": "https://docs.google.com/document/d/1FVPK6zzuIyk68fVCWJrlJvKM3h9IULFC1KTRDbqckWo/edit?usp=sharing"
+        "1": [
+          "https://docs.google.com/document/d/1FVPK6zzuIyk68fVCWJrlJvKM3h9IULFC1KTRDbqckWo/edit?usp=sharing",
+          "https://docs.google.com/presentation/d/1w5DNMD60JJz1JXgDChy-eM5U6qFW3HJcXsNFQ4Y3RzA/edit?usp=sharing"
+        ]
       }
     },
     "Лабораторная работа 3": {
