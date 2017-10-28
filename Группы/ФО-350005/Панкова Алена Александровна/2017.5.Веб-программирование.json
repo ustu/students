@@ -40,8 +40,10 @@
       "score": 0,
       "date": "28/10/2017",
       "total": {
-        "1": "https://github.com/AlenaPankova/web-progrmming/blob/master/CoAP.docx"
-        "2": "https://github.com/AlenaPankova/web-progrmming/blob/master/CoAP.pptx"
+        "1": [
+          "https://github.com/AlenaPankova/web-progrmming/blob/master/CoAP.docx",
+          "https://github.com/AlenaPankova/web-progrmming/blob/master/CoAP.pptx"
+          ]
       }
     },
     "Лабораторная работа 3": {
