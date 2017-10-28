@@ -37,10 +37,13 @@
     "Контрольная работа": {
       "name": "контр.",
       "url": "https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement",
-      "score": 0,
+      "score": 100,
       "date": "28/10/2017",
       "total": {
-        "1": "https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement"
+        "1": [
+           "https://gist.github.com/CatInJar/a05de179a8afbc56f29152e8692cdf78",
+           "https://docs.google.com/presentation/d/1uwgLdB2VcIBFcGkf3X0mW9zHBvyPGR8uC7oLZos2Ptc/edit?usp=drivesdk"
+         ]
       }
     },
     "Лабораторная работа 3": {
