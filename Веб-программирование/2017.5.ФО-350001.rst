@@ -81,7 +81,8 @@
              
      -                      `1 <https://github.com/CatInJar/WebLabs/tree/master/Lab1>`__              `2 <https://gist.github.com/CatInJar/40b969b647e3f8a0c1ed6218478c2437>`__              `3 <https://gist.github.com/CatInJar/d144b7d97981984d62d5f863ba3e4cdb>`__              `5 <https://gist.github.com/CatInJar/7bd09b654fab7549bd5fb564954ac132>`__                          [**+100**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
+     -                        `1.1 <https://gist.github.com/CatInJar/a05de179a8afbc56f29152e8692cdf78>`__                `1.2 <https://docs.google.com/presentation/d/1uwgLdB2VcIBFcGkf3X0mW9zHBvyPGR8uC7oLZos2Ptc/edit?usp=drivesdk>`__                          [**+100**]
+             
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
@@ -111,7 +112,8 @@
              
      -                      `1 <https://github.com/ElizavetaAlekseevna/web>`__              `2 <https://gist.github.com/ElizavetaAlekseevna/433da0d347b30c39f322f153b5d216de>`__              `3 <https://gist.github.com/ElizavetaAlekseevna/95baf267c431aa90dbf0fb8e0846232c>`__              `5 <https://gist.github.com/ElizavetaAlekseevna/0731f8e2e9de01ff0e5bd3cd2fe231b5>`__                          [**+100**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
+     -                        `1.1 <https://docs.google.com/presentation/d/1SWtMhwqERjLypivWB9SUwVb3SoenMs8bbieR3x2VenM/edit?usp=sharing>`__                `1.2 <https://docs.google.com/document/d/1eBds-nfhyDnISm0udtcI5MZYI4xvWfa0Oh3YjfSf6Rc/edit?usp=sharing>`__                          [**+100**]
+             
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
@@ -255,7 +257,7 @@
      - 71.43
      - 35.71
      - 35.71
-     - 0.0
+     - 14.29
      - 0.0
      - 0.0
      - 0.0
@@ -266,7 +268,7 @@
      - 48.07
      - 31.21
      - 28.43
-     - 0.0
+     - 14.29
      - 0.0
      - 0.0
      - 0.0
@@ -281,7 +283,7 @@
      
      - 79.6
      
-     - 0.0
+     - 100.0
      
      - 0.0
      
@@ -321,7 +323,7 @@
      
      - 21.87
      
-     - 0.0
+     - 14.29
      
      - 0.0
      
