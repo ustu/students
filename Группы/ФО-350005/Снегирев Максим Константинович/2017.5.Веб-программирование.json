@@ -25,22 +25,25 @@
     "Лабораторная работа 2": {
       "name": "л/р #2 (Socket)",
       "url": "http://lecturesnet.readthedocs.io/net/_checkpoint.html",
-      "score": 0,
-      "date": "",
+      "score": 100,
+      "date": "10/10/2017",
       "total": {
-        "1": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2",
-        "2": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3",
-        "3": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4",
-        "5": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6"
+        "1": "https://gist.github.com/MaksimMsnov/4928b3af2a371cd2ce0b4cda9e49203b",
+        "2": "https://gist.github.com/MaksimMsnov/8e036cb8e5782775b56d7612faa70841",
+        "3": "https://gist.github.com/MaksimMsnov/8e036cb8e5782775b56d7612faa70841",
+        "5": "https://gist.github.com/MaksimMsnov/13318ad3f8425f52ba76ef7849e3d617"
       }
     },
     "Контрольная работа": {
       "name": "контр.",
       "url": "https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement",
-      "score": 0,
+      "score": 100,
       "date": "28/10/2017",
       "total": {
-        "1": "https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement"
+        "1": [
+          "https://goo.gl/QsMdxA",
+          "https://gist.github.com/MaksimMsnov/4953badceae01c79115dff96a93ea370"
+        ]
       }
     },
     "Лабораторная работа 3": {
