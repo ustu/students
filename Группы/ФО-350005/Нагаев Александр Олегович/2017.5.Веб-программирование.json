@@ -40,7 +40,10 @@
       "score": 0,
       "date": "28/10/2017",
       "total": {
-        "1": "https://gist.github.com/FlaX89/35b64408733a77dd5f740fb1762add67"
+        "1": [
+          "https://gist.github.com/FlaX89/35b64408733a77dd5f740fb1762add67",
+          "bit.ly/2zLgnXs"
+          ]
       }
     },
     "Лабораторная работа 3": {
