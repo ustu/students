@@ -40,7 +40,10 @@
       "score": 0,
       "date": "28/10/2017",
       "total": {
-        "1": "https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement"
+        "1": [
+          "https://docs.google.com/document/d/1hy70MXeRA-BUUUBTdyqzMGGYIWI3F6t6o6L_RbmfIZ0/edit?usp=sharing",
+          "https://docs.google.com/presentation/d/1zYTbLTe3PeQYmkVg2DDQfvr4NRaI724iNgsf9RmYWs8/edit?usp=sharing"
+        ]
       }
     },
     "Лабораторная работа 3": {
