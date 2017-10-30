@@ -82,7 +82,7 @@
      -                      `1 <https://gist.github.com/impuppy/967a345bfa75c02c0d8dbc10c3195522>`__                          [**+59**]
              
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
-     -                        `1.1 <https://gist.github.com/FlaX89/35b64408733a77dd5f740fb1762add67>`__                `1.2 <https://bit.ly/2zLgnXs>`__                          [**+100**]
+     -                        `1.1 <https://gist.github.com/FlaX89/35b64408733a77dd5f740fb1762add67>`__                `1.2 <https://docs.google.com/presentation/d/19mtsdxaEGOvuKg7_2Rz8kuuuWC3Stlp7F3nvzbuYVx4/edit#slide=id.p5>`__                          [**+100**]
              
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
@@ -240,7 +240,7 @@
              
      -                      `1 <https://gist.github.com/FlaX89/13b73163a5f850fc1e546ae5f60f36ee#file-1>`__              `2 <https://gist.github.com/FlaX89/13b73163a5f850fc1e546ae5f60f36ee#file-2>`__              `3 <https://gist.github.com/FlaX89/13b73163a5f850fc1e546ae5f60f36ee#file-3>`__              `5 <https://gist.github.com/FlaX89/13b73163a5f850fc1e546ae5f60f36ee#file-4>`__                          [**+100**]
              
-     -                        `1.1 <https://gist.github.com/FlaX89/35b64408733a77dd5f740fb1762add67>`__                `1.2 <bit.ly/2zLgnXs>`__                          [**+100**]
+     -                        `1.1 <https://gist.github.com/FlaX89/35b64408733a77dd5f740fb1762add67>`__                `1.2 <https://docs.google.com/presentation/d/19mtsdxaEGOvuKg7_2Rz8kuuuWC3Stlp7F3nvzbuYVx4/edit#slide=id.p5>`__                          [**+100**]
              
      -                      `1 <https://gist.github.com/FlaX89/fe5c7b7fa970012e416254fe351a2d1f>`__                          [**+100**]
              
@@ -342,7 +342,7 @@
              
      -                      `1 <https://gist.github.com/MaksimMsnov/4928b3af2a371cd2ce0b4cda9e49203b>`__              `2 <https://gist.github.com/MaksimMsnov/8e036cb8e5782775b56d7612faa70841>`__              `3 <https://gist.github.com/MaksimMsnov/8e036cb8e5782775b56d7612faa70841>`__              `5 <https://gist.github.com/MaksimMsnov/13318ad3f8425f52ba76ef7849e3d617>`__                          [**+100**]
              
-     -                        `1.1 <https://goo.gl/QsMdxA>`__                `1.2 <https://gist.github.com/MaksimMsnov/4953badceae01c79115dff96a93ea370>`__                          [**+100**]
+     -                        `1.1 <https://drive.google.com/open?id=1eSuTVL7yUZlpvY8f7L59KjyuvAmTiA-WkZb5x9JzEak>`__                `1.2 <https://gist.github.com/MaksimMsnov/4953badceae01c79115dff96a93ea370>`__                          [**+100**]
              
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
