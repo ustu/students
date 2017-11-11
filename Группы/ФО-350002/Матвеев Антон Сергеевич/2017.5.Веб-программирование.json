@@ -52,7 +52,7 @@
       "score": 0,
       "date": "",
       "total": {
-        "1": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1"
+        "1": "https://github.com/Learko/Web/blob/master/wsgi_server.py"
       }
     },
     "Лабораторная работа 4": {
@@ -61,10 +61,10 @@
       "score": 0,
       "date": "11/11/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1",
-        "2": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2",
-        "3": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3",
-        "4": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4"
+        "1": "https://github.com/Learko/Web/blob/master/template_server.py",
+        "2": "https://gist.github.com/Learko/bd0765b0b2eea77944c7929fa59605ee#file-webob_req_2-py",
+        "3": "https://gist.github.com/Learko/bd0765b0b2eea77944c7929fa59605ee#file-webob_req_3-py",
+        "4": "https://gist.github.com/Learko/bd0765b0b2eea77944c7929fa59605ee#file-webob_req_4-py"
       }
     },
     "Лабораторная работа 5": {
