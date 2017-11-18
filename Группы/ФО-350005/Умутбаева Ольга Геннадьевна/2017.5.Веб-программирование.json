@@ -73,7 +73,10 @@
       "score": 0,
       "date": "18/11/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html"
+        "1.1": "https://gist.github.com/Olisss/b0007ec59537067ad7774dfb4cb9e147",
+        "1.2": "https://gist.github.com/Olisss/ee77986a64a4538df1033cb31014baaa",
+        "1.3": "https://gist.github.com/Olisss/62bd99e995a5d5385d30fff0fb0dc0d5",
+        "1.4": "https://gist.github.com/Olisss/bf9c6c32d02ae4c6976e1fca935edf19"
       }
     },
     "Лабораторная работа 6": {
@@ -82,7 +85,7 @@
       "score": 0,
       "date": "18/11/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1"
+        "1": "https://gist.github.com/Olisss/a0ba15a26d77deb767d9360b23fd85ea"
       }
     },
     "Экзамен": {
