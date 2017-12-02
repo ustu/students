@@ -67,7 +67,7 @@
     "Лабораторная работа 5": {
       "name": "л/р #5 (SQL)",
       "url": "http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html",
-      "score": 0,
+      "score": 100,
       "date": "18/11/2017",
       "total": {
         "1": "https://gist.github.com/FOAna/a203228b05673536b310bf4279dcf85f"
@@ -76,7 +76,7 @@
     "Лабораторная работа 6": {
       "name": "л/р #6 (Pyramid)",
       "url": "http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html",
-      "score": 0,
+      "score": 100,
       "date": "18/11/2017",
       "total": {
         "1": "https://gist.github.com/FOAna/67df13cc216e5e34471323530f3eb804"
