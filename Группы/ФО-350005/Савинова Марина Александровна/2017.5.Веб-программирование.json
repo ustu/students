@@ -55,13 +55,13 @@
     "Лабораторная работа 4": {
       "name": "л/р #4 (Web)",
       "url": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html",
-      "score": 0,
+      "score": 100,
       "date": "11/11/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1",
-        "2": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2",
-        "3": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3",
-        "4": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4"
+        "1": "https://github.com/marywhat7/new",
+        "2": "https://gist.github.com/marywhat7/ab33398f9511002b68e592ae752cf9e8",
+        "3": "https://gist.github.com/marywhat7/3b4ea624a4e1cc73673ceeaec7aa4a27",
+        "4": "https://gist.github.com/marywhat7/4c77b316452473b9ba7c8132e97ca8bf"
       }
     },
     "Лабораторная работа 5": {
