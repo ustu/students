@@ -92,11 +92,7 @@
       "date": "",
       "theme": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/темы%20курсовых.rst",
       "total": {
-        "1": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst",
-        "2": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst",
-        "3": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst",
-        "4": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst",
-        "5": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst"
+        "Агрегатор метео данных из различных источников"
       }
     }
   }
