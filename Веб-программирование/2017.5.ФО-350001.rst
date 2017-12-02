@@ -116,10 +116,14 @@
              
      -                        `1.1 <https://docs.google.com/presentation/d/1SWtMhwqERjLypivWB9SUwVb3SoenMs8bbieR3x2VenM/edit?usp=sharing>`__                `1.2 <https://docs.google.com/document/d/1eBds-nfhyDnISm0udtcI5MZYI4xvWfa0Oh3YjfSf6Rc/edit?usp=sharing>`__                          [**+100**]
              
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
+     -                      `1 <https://github.com/ElizavetaAlekseevna/web/blob/master/wsgi.py>`__                          [**+100**]
+             
+     -                      `1 <https://github.com/ElizavetaAlekseevna/web/tree/lab-4>`__              `2 <https://gist.github.com/ElizavetaAlekseevna/1f9b824b37d4af333d6cfe4e3ca2e4df>`__              `3 <https://gist.github.com/ElizavetaAlekseevna/1f9b824b37d4af333d6cfe4e3ca2e4df>`__              `4 <https://gist.github.com/ElizavetaAlekseevna/1f9b824b37d4af333d6cfe4e3ca2e4df>`__                          [**+100**]
+             
+     -                      `1 <https://gist.github.com/ElizavetaAlekseevna/dc7ae2ec2e6425738e7aad18c941fd0e>`__                          [**+100**]
+             
+     -                      `1 <https://github.com/ElizavetaAlekseevna/lab6>`__                          [**+100**]
+             
      -                      `1 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/1.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `2 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/2.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `3 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/3.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `4 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/4.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `5 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/5.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__                          
 
 
@@ -263,10 +267,10 @@
      - 42.86
      - 42.86
      - 35.71
-     - 0.0
-     - 0.0
-     - 0.0
-     - 0.0
+     - 7.14
+     - 7.14
+     - 7.14
+     - 7.14
      - 0.0
 
    * - средний балл группы
@@ -274,10 +278,10 @@
      - 35.43
      - 30.5
      - 35.71
-     - 0.0
-     - 0.0
-     - 0.0
-     - 0.0
+     - 7.14
+     - 7.14
+     - 7.14
+     - 7.14
      - 0.0
 
    * - средний балл сдачи
@@ -290,13 +294,13 @@
      
      - 100.0
      
-     - 0.0
+     - 100.0
      
-     - 0.0
+     - 100.0
      
-     - 0.0
+     - 100.0
      
-     - 0.0
+     - 100.0
      
      - 0.0
 
@@ -330,13 +334,13 @@
      
      - 35.71
      
-     - 0.0
+     - 7.14
      
-     - 0.0
+     - 7.14
      
-     - 0.0
+     - 7.14
      
-     - 0.0
+     - 7.14
      
      - 0.0
 

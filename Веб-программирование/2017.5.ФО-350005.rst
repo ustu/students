@@ -328,11 +328,16 @@
              
      -                      `1 <https://gist.github.com/marywhat7/fbb42ce5ea367ed8e2be3e8fa052f883>`__              `2 <https://gist.github.com/marywhat7/a232f81901f51b3f14cc1360ccbe9da0>`__              `3 <https://gist.github.com/marywhat7/e6a46b75c6a4146850269fc80a1694fe>`__              `5 <https://gist.github.com/marywhat7/37c3118675dae783d2564b71d694fd77>`__                          [**+100**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
+     -                      `1 <https://github.com/marywhat7/control>`__                          [**+79**]
+             
+     -                      `1 <https://gist.github.com/marywhat7/c66f3d75cd95426a51def486bb7b0d4b>`__                          [**+100**]
+             
+     -                      `1 <https://github.com/marywhat7/new>`__              `2 <https://gist.github.com/marywhat7/ab33398f9511002b68e592ae752cf9e8>`__              `3 <https://gist.github.com/marywhat7/3b4ea624a4e1cc73673ceeaec7aa4a27>`__              `4 <https://gist.github.com/marywhat7/4c77b316452473b9ba7c8132e97ca8bf>`__                          [**+100**]
+             
+     -                      `1 <https://gist.github.com/marywhat7/d303c77a82c482c909ac1d3054bd2b66>`__              `2 <https://gist.github.com/marywhat7/8d55a0bc31a134eeb71cf91c5e9974b0>`__              `3 <https://gist.github.com/marywhat7/1cdf4ee3f01c3480ee050999a9a1e8c6>`__              `4 <https://gist.github.com/marywhat7/097c8eabe2553bd4db33036b7c1d923e>`__              `5 <https://gist.github.com/marywhat7/f481495906531edc3ce31b656c2a378e>`__              `6 <https://gist.github.com/marywhat7/f348d0b7cebd59ac524b9ad64db38830>`__              `7 <https://gist.github.com/marywhat7/42f549b41f5acc9dad55b64407fac3c1>`__              `8 <https://gist.github.com/marywhat7/7540343bf9323a6eb238b5ae2d0bb6e4>`__              `9 <https://gist.github.com/marywhat7/4be77e06510b2ec61ab45d33857567a1>`__              `10 <https://gist.github.com/marywhat7/51ef667a893aa27948a1d7e35a11c3bd>`__              `11 <https://gist.github.com/marywhat7/6b01ca733633218b3b742dbdfa5e7f6d>`__                          [**+100**]
+             
+     -                      `1 <https://gist.github.com/marywhat7/d519ad73c4d807837524e0ec66381d76>`__                          [**+100**]
+             
      -                                  
 
 
@@ -378,9 +383,12 @@
              
      -                      `1 <https://gist.github.com/Olisss/7e73f81f89ec2aa148f664978f6aa647>`__                          [**+100**]
              
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
+     -                      `1 <https://github.com/Olisss/myproject->`__              `2 <https://gist.github.com/Olisss/9e351af42146be962aa28c3638f4590c>`__              `3 <https://gist.github.com/Olisss/07f6384b1164292b551f83f9c9ff5e91>`__              `4 <https://gist.github.com/Olisss/5579ac3f53eec3e8fb80832fc6a71700>`__                          [**+100**]
+             
+     -                      `1.1 <https://gist.github.com/Olisss/b0007ec59537067ad7774dfb4cb9e147>`__              `1.2 <https://gist.github.com/Olisss/ee77986a64a4538df1033cb31014baaa>`__              `1.3 <https://gist.github.com/Olisss/62bd99e995a5d5385d30fff0fb0dc0d5>`__              `1.4 <https://gist.github.com/Olisss/bf9c6c32d02ae4c6976e1fca935edf19>`__                          [**+100**]
+             
+     -                      `1 <https://gist.github.com/Olisss/a0ba15a26d77deb767d9360b23fd85ea>`__                          [**+100**]
+             
      -                                  
 
 
@@ -441,22 +449,22 @@
      - 79.17
      - 75.0
      - 70.83
-     - 41.67
-     - 33.33
-     - 16.67
-     - 0.0
-     - 0.0
+     - 45.83
+     - 37.5
+     - 25.0
+     - 8.33
+     - 8.33
      - 0.0
 
    * - средний балл группы
      - 57.92
      - 56.29
      - 62.33
-     - 41.67
-     - 32.46
-     - 14.96
-     - 0.0
-     - 0.0
+     - 44.96
+     - 36.62
+     - 23.29
+     - 8.33
+     - 8.33
      - 0.0
 
    * - средний балл сдачи
@@ -467,15 +475,15 @@
      
      - 88.0
      
+     - 98.09
+     
+     - 97.67
+     
+     - 93.17
+     
      - 100.0
      
-     - 97.38
-     
-     - 89.75
-     
-     - 0.0
-     
-     - 0.0
+     - 100.0
      
      - 0.0
 
@@ -491,7 +499,7 @@
      
      - 0
      
-     - 1
+     - 0
      
      - 0
      
@@ -507,15 +515,15 @@
      
      - 54.34
      
-     - 41.67
+     - 44.09
      
-     - 31.6
+     - 35.76
      
-     - 13.34
+     - 21.64
      
-     - 0.0
+     - 8.33
      
-     - 0.0
+     - 8.33
      
      - 0.0
 
