@@ -65,11 +65,15 @@
              
      -                      `1 <https://gist.github.com/Antoha1397/f34edb0e9dc831a33681176e57c85306>`__              `2 <https://gist.github.com/Antoha1397/f657f44584aa62212168fa4769e1a9ae>`__              `3 <https://gist.github.com/Antoha1397/194874d708e8cb378b7316707a797a0e>`__              `5 <https://gist.github.com/Antoha1397/37f32249f4a074e0fd9cde1772be51b3>`__                          [**+79**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
+     -                      `1 <https://docs.google.com/document/d/1eV-4foDuqd1G1K3rRRCbtZvBq82Zt-nqOhinfEbGYvE/edit?usp=sharing>`__                          [**+100**]
+             
+     -                      `1 <https://gist.github.com/Antoha1397/41ac071eb7310775f5405dd109e63646>`__                          [**+100**]
+             
+     -                      `1 <https://gist.github.com/Antoha1397/b8ef87d6853465747e5acdde753bb883>`__              `2 <https://gist.github.com/Antoha1397/ede3fb629f09dfa779715d2a0c6fa065>`__              `3 <https://gist.github.com/Antoha1397/2ce7d412719bbf28f9e6b7e14ef12a29>`__              `4 <https://gist.github.com/Antoha1397/f07857cf013caefd363f08a93cf433c1>`__                          [**+79**]
+             
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
+     -                      `1 <https://gist.github.com/Antoha1397/199c4c4811e9997814b85a08af7b2b25>`__                          [**+79**]
+             
      -                      `1 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/1.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `2 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/2.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `3 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/3.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `4 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/4.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `5 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/5.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__                          
 
 
@@ -185,11 +189,14 @@
              
      -                      `1 <https://github.com/Learko/Web/blob/master/server.py>`__              `2 <https://gist.github.com/Learko/bfb098a915ce62f1682e53d801f0a042>`__              `3 <https://gist.github.com/Learko/421401a930412f9740f04759c8c39241>`__              `5 <https://gist.github.com/Learko/72aaddd11f870e786badc6469eee8fc8>`__                          [**+100**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
+     -                      `1 <https://gist.github.com/Learko/94e0fe1e337b07a694251701f8bf1a87>`__                          [**+100**]
+             
+     -                      `1 <https://github.com/Learko/Web/blob/master/wsgi_server.py>`__                          [**+100**]
+             
+     -                      `1 <https://github.com/Learko/Web/blob/master/template_server.py>`__              `2 <https://gist.github.com/Learko/bd0765b0b2eea77944c7929fa59605ee#file-webob_req_2-py>`__              `3 <https://gist.github.com/Learko/bd0765b0b2eea77944c7929fa59605ee#file-webob_req_3-py>`__              `4 <https://gist.github.com/Learko/bd0765b0b2eea77944c7929fa59605ee#file-webob_req_4-py>`__                          [**+100**]
+             
+     -                      `1 <https://github.com/Learko/Web/blob/master/pyramid_server.py>`__                          
+     -                      `1 <https://gist.github.com/Learko/37f108f4fc61d23dce1b8eb4f1cbe227>`__                          
      -                      `1 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/1.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `2 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/2.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `3 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/3.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `4 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/4.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `5 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/5.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__                          
 
 
@@ -276,22 +283,22 @@
      - 60.0
      - 53.33
      - 46.67
+     - 26.67
+     - 26.67
      - 13.33
-     - 13.33
      - 0.0
-     - 0.0
-     - 0.0
+     - 6.67
      - 0.0
 
    * - средний балл группы
      - 49.73
      - 47.8
      - 37.27
-     - 13.33
-     - 13.33
+     - 26.67
+     - 26.67
+     - 11.93
      - 0.0
-     - 0.0
-     - 0.0
+     - 5.27
      - 0.0
 
    * - средний балл сдачи
@@ -306,11 +313,11 @@
      
      - 100.0
      
-     - 0.0
+     - 89.5
      
      - 0.0
      
-     - 0.0
+     - 79.0
      
      - 0.0
 
@@ -326,11 +333,11 @@
      
      - 0
      
-     - 0
+     - 1
      
      - 0
      
-     - 0
+     - 1
      
      - 0
 
@@ -342,15 +349,15 @@
      
      - 28.8
      
-     - 13.33
+     - 26.67
      
-     - 13.33
+     - 26.67
      
-     - 0.0
-     
-     - 0.0
+     - 10.61
      
      - 0.0
+     
+     - 4.01
      
      - 0.0
 
