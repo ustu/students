@@ -137,7 +137,8 @@
              
      -                      `1 <https://gist.github.com/Gonleef/ded0fb0b52287320a76758ea4e6b9857>`__                          [**+79**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
+     -                      `1 <https://github.com/Gonleef/myproject>`__              `2 <https://gist.github.com/Gonleef/8505823cd47e57732dcf2da4e2758ec9>`__              `3 <https://gist.github.com/Gonleef/eda6689a6c999914a23bec2c74dca9d2>`__              `5 <https://gist.github.com/Gonleef/8b2651a120ecee624cb4b2d2a5f3d12e>`__                          [**+29**]
+             
      -                        `1.1 <https://docs.google.com/presentation/d/1C3fFz55R4XnLKvoOYWYiiSG8j2632eSyZAik7sKTTN0/edit>`__                `1.2 <https://docs.google.com/document/d/1vzbEjV-xHpnTQwSCt2zkdlWitdLkmOCF7Z7aaqXJlbE/edit>`__                          [**+100**]
              
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -184,8 +185,10 @@
      -                      `1 <https://gist.github.com/Wolzev/657410c5d6ee050ed7378bc16e3b5103>`__              `2 <https://gist.github.com/Wolzev/9bb376ff5247fd2aeb09c8be443b89db>`__              `3 <https://gist.github.com/Wolzev/7ee242d44f5e342006ab2357e3e671b8>`__              `5 <https://gist.github.com/Wolzev/2777fec57a08fd1893668a90ca0dfae4>`__                          [**+49**]
              
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
+     -                      `1 <https://gist.github.com/Wolzev/01cce8bbd3c00c7e67717c50d62f2fa1>`__                          [**+59**]
+             
+     -                      `1 <https://github.com/Wolzev/myproject>`__              `2 <https://gist.github.com/Wolzev/206f9c58ab6f2ba9fd4ce8545ff170f6>`__              `3 <https://gist.github.com/Wolzev/206f9c58ab6f2ba9fd4ce8545ff170f6>`__              `4 <https://gist.github.com/Wolzev/206f9c58ab6f2ba9fd4ce8545ff170f6>`__                          [**+59**]
+             
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
      -                      `1 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/1.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `2 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/2.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `3 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/3.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `4 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/4.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `5 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/5.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__                          
@@ -277,10 +280,10 @@
    * - % сдачи
      - 71.43
      - 42.86
-     - 42.86
+     - 50.0
      - 35.71
-     - 28.57
-     - 28.57
+     - 35.71
+     - 35.71
      - 28.57
      - 28.57
      - 0.0
@@ -288,10 +291,10 @@
    * - средний балл группы
      - 48.07
      - 35.43
-     - 30.5
+     - 32.57
      - 35.71
-     - 28.57
-     - 28.57
+     - 32.79
+     - 32.79
      - 27.07
      - 28.57
      - 0.0
@@ -302,13 +305,13 @@
      
      - 82.67
      
-     - 71.17
+     - 65.14
      
      - 100.0
      
-     - 100.0
+     - 91.8
      
-     - 100.0
+     - 91.8
      
      - 94.75
      
@@ -342,13 +345,13 @@
      
      - 28.64
      
-     - 19.85
+     - 17.92
      
      - 35.71
      
-     - 28.57
+     - 29.98
      
-     - 28.57
+     - 29.98
      
      - 25.61
      

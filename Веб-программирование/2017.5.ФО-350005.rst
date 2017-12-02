@@ -70,7 +70,8 @@
      -                      `1 <https://gist.github.com/mollyusk/f4f135a4b2e8a6e8197b31346dd1429d>`__              `2 <https://gist.github.com/mollyusk/c867b8a4edc58230f063f6b7aa25747a>`__              `3 <https://gist.github.com/mollyusk/c867b8a4edc58230f063f6b7aa25747a>`__              `5 <https://gist.github.com/mollyusk/56669eb4240931c7824f2be399ca158c>`__                          [**+79**]
              
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
+     -                      `1 <https://gist.github.com/mollyusk/ad6184d8c04386beda9c5ea0064271cf>`__                          [**+59**]
+             
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
@@ -86,7 +87,8 @@
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                        `1.1 <https://gist.github.com/FlaX89/35b64408733a77dd5f740fb1762add67>`__                `1.2 <https://docs.google.com/presentation/d/19mtsdxaEGOvuKg7_2Rz8kuuuWC3Stlp7F3nvzbuYVx4/edit#slide=id.p5>`__                          [**+100**]
              
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
+     -                      `1 <https://gist.github.com/impuppy/a5427be21c9909639947a9a7c4acc6fe#file-gistfile1-txt>`__                          [**+79**]
+             
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
@@ -159,8 +161,10 @@
              
      -                      `1 <https://github.com/alex43jk/Web_lr4>`__              `2 <https://gist.github.com/alex43jk/40c5edf20df064d93ccedcd0795fe3ab#file-2-2-http-webob>`__              `3 <https://gist.github.com/alex43jk/40c5edf20df064d93ccedcd0795fe3ab#file-2-3-http-webob>`__              `4 <https://gist.github.com/alex43jk/40c5edf20df064d93ccedcd0795fe3ab#file-2-4-http-webob>`__                          [**+100**]
              
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
+     -                      `1 <https://gist.github.com/alex43jk/c7208bdcc8785c0cacf493ebf9481497>`__                          [**+100**]
+             
+     -                      `1 <https://github.com/alex43jk/Web_lr6>`__                          [**+100**]
+             
      -                                  
 
 
@@ -194,8 +198,10 @@
      -                      `1 <https://gist.github.com/klim043/903f3a4c81f313bc3e9e03ec1adc29c1>`__              `2 <https://gist.github.com/klim043/eda08d97df3bdc43920e77d84cb041af>`__              `3 <https://gist.github.com/klim043/0fe2212e0bc847177224e38d8568ee59>`__              `5 <https://gist.github.com/klim043/ae951a051639ca8d7dd7af30a77e0670>`__                          [**+1**]
              
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
+     -                      `1 <https://gist.github.com/klim043/7bd576ae4e435e7377bc7a05031a18db>`__                          [**+79**]
+             
+     -                      `1 <https://github.com/klim043/Laba4/tree/master>`__              `2 <https://gist.github.com/klim043/25322a47aeaaf894139c3b489c688f9c>`__              `3 <https://gist.github.com/klim043/3f308e481579b2b280c98dd5d4c99c74>`__              `4 <https://gist.github.com/klim043/ada9c376e75ee676f6f9b1079b1093f0>`__                          [**+59**]
+             
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
      -                                  
@@ -256,8 +262,10 @@
              
      -                      `1 <https://github.com/FlaX89/web4>`__              `2 <https://gist.github.com/FlaX89/d9f1353c53947479efec9ab70d8c8bdf#file-2-http>`__              `3 <https://gist.github.com/FlaX89/d9f1353c53947479efec9ab70d8c8bdf#file-3-http>`__              `4 <https://gist.github.com/FlaX89/d9f1353c53947479efec9ab70d8c8bdf#file-4-http>`__                          [**+100**]
              
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
+     -                      `SQL <https://gist.github.com/FlaX89/ca0c18bc8cf5d2068226193c0378a711>`__                          [**+100**]
+             
+     -                      `▲ <https://github.com/FlaX89/Pyramid>`__                          [**+100**]
+             
      -                                  
 
 
@@ -329,8 +337,10 @@
              
      -                      `1 <https://github.com/OlyaFO/Web>`__              `2 <https://gist.github.com/OlyaFO/f125a57c737011311d63634f43c29228#file-2>`__              `3 <https://gist.github.com/OlyaFO/f125a57c737011311d63634f43c29228#file-3>`__              `4 <https://gist.github.com/OlyaFO/f125a57c737011311d63634f43c29228#file-4>`__                          [**+100**]
              
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
+     -                      `1 <https://gist.github.com/OlyaFO/ecd93697bf8824334b10d434155411c6>`__                          [**+100**]
+             
+     -                      `1 <https://github.com/OlyaFO/Pyramid/tree/master>`__                          [**+100**]
+             
      -                                  
 
 
@@ -473,10 +483,10 @@
      - 75.0
      - 70.83
      - 50.0
+     - 70.83
      - 58.33
-     - 54.17
-     - 29.17
-     - 29.17
+     - 41.67
+     - 41.67
      - 0.0
 
    * - средний балл группы
@@ -484,10 +494,10 @@
      - 56.29
      - 62.33
      - 48.25
-     - 57.46
-     - 52.46
-     - 29.17
-     - 29.17
+     - 66.5
+     - 54.92
+     - 41.67
+     - 41.67
      - 0.0
 
    * - средний балл сдачи
@@ -500,9 +510,9 @@
      
      - 96.5
      
-     - 98.5
+     - 93.88
      
-     - 96.85
+     - 94.14
      
      - 100.0
      
@@ -540,13 +550,13 @@
      
      - 46.53
      
-     - 56.59
+     - 62.3
      
-     - 50.78
+     - 51.6
      
-     - 29.17
+     - 41.67
      
-     - 29.17
+     - 41.67
      
      - 0.0
 
