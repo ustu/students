@@ -201,8 +201,10 @@
              
      -                      `1 <https://github.com/Learko/Web/blob/master/template_server.py>`__              `2 <https://gist.github.com/Learko/bd0765b0b2eea77944c7929fa59605ee#file-webob_req_2-py>`__              `3 <https://gist.github.com/Learko/bd0765b0b2eea77944c7929fa59605ee#file-webob_req_3-py>`__              `4 <https://gist.github.com/Learko/bd0765b0b2eea77944c7929fa59605ee#file-webob_req_4-py>`__                          [**+100**]
              
-     -                      `1 <https://github.com/Learko/Web/blob/master/pyramid_server.py>`__                          
-     -                      `1 <https://gist.github.com/Learko/37f108f4fc61d23dce1b8eb4f1cbe227>`__                          
+     -                      `1 <https://gist.github.com/Learko/37f108f4fc61d23dce1b8eb4f1cbe227>`__                          [**+100**]
+             
+     -                      `1 <https://github.com/Learko/Web/blob/master/pyramid_server.py>`__                          [**+100**]
+             
      -                      `1 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/1.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `2 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/2.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `3 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/3.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `4 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/4.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `5 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/5.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__                          
 
 
@@ -292,8 +294,8 @@
      - 33.33
      - 26.67
      - 20.0
-     - 6.67
      - 13.33
+     - 20.0
      - 0.0
 
    * - средний балл группы
@@ -303,8 +305,8 @@
      - 33.33
      - 26.67
      - 18.6
-     - 6.67
-     - 11.93
+     - 13.33
+     - 18.6
      - 0.0
 
    * - средний балл сдачи
@@ -323,7 +325,7 @@
      
      - 100.0
      
-     - 89.5
+     - 93.0
      
      - 0.0
 
@@ -343,7 +345,7 @@
      
      - 0
      
-     - 1
+     - 0
      
      - 0
 
@@ -361,9 +363,9 @@
      
      - 17.25
      
-     - 6.67
+     - 13.33
      
-     - 10.61
+     - 17.25
      
      - 0.0
 

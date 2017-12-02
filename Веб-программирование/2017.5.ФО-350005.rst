@@ -376,7 +376,8 @@
              
      -                        `1.1 <https://docs.google.com/presentation/d/1Pb5a5lgG-5faS7Tx3DYY4m-yx8GObT8DUsbe1wUpvN8/edit>`__                `1.2 <https://docs.google.com/document/d/1pENXRrs8dMTRLr60IBSd6cv5WPWoRsnnGvIBVWgjQrc/edit>`__                          [**+100**]
              
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
+     -                      `1 <https://gist.github.com/Olisss/7e73f81f89ec2aa148f664978f6aa647>`__                          [**+100**]
+             
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
@@ -441,7 +442,7 @@
      - 75.0
      - 70.83
      - 41.67
-     - 29.17
+     - 33.33
      - 16.67
      - 0.0
      - 0.0
@@ -452,7 +453,7 @@
      - 56.29
      - 62.33
      - 41.67
-     - 28.29
+     - 32.46
      - 14.96
      - 0.0
      - 0.0
@@ -468,7 +469,7 @@
      
      - 100.0
      
-     - 97.0
+     - 97.38
      
      - 89.75
      
@@ -508,7 +509,7 @@
      
      - 41.67
      
-     - 27.43
+     - 31.6
      
      - 13.34
      
