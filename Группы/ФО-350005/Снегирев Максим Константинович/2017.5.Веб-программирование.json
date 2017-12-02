@@ -49,22 +49,22 @@
     "Лабораторная работа 3": {
       "name": "л/р #3 (WSGI)",
       "url": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html",
-      "score": 0,
-      "date": "",
+      "score": 100,
+      "date": "11/11/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1"
+        "1": "https://gist.github.com/MaksimMsnov/dcfca95eb435fb30a1455dc5ded10893"
       }
     },
     "Лабораторная работа 4": {
       "name": "л/р #4 (Web)",
       "url": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html",
-      "score": 0,
+      "score": 100,
       "date": "11/11/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1",
-        "2": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2",
-        "3": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3",
-        "4": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4"
+        "1": "https://github.com/MaksimMsnov/web2",
+        "2": "https://gist.github.com/MaksimMsnov/3c21e96a6d55b4585ddecc8081ded31a",
+        "3": "https://gist.github.com/MaksimMsnov/3c21e96a6d55b4585ddecc8081ded31a",
+        "4": "https://gist.github.com/MaksimMsnov/3c21e96a6d55b4585ddecc8081ded31a"
       }
     },
     "Лабораторная работа 5": {
