@@ -46,22 +46,22 @@
     "Лабораторная работа 3": {
       "name": "л/р #3 (WSGI)",
       "url": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html",
-      "score": 0,
-      "date": "",
+      "score": 59,
+      "date": "25/11/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1"
+        "1": "https://gist.github.com/Wolzev/01cce8bbd3c00c7e67717c50d62f2fa1"
       }
     },
     "Лабораторная работа 4": {
       "name": "л/р #4 (Web)",
       "url": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html",
-      "score": 0,
-      "date": "11/11/2017",
+      "score": 59,
+      "date": "25/11/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1",
-        "2": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2",
-        "3": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3",
-        "4": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4"
+        "1": "https://github.com/Wolzev/myproject",
+        "2": "https://gist.github.com/Wolzev/206f9c58ab6f2ba9fd4ce8545ff170f6",
+        "3": "https://gist.github.com/Wolzev/206f9c58ab6f2ba9fd4ce8545ff170f6",
+        "4": "https://gist.github.com/Wolzev/206f9c58ab6f2ba9fd4ce8545ff170f6"
       }
     },
     "Лабораторная работа 5": {
