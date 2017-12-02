@@ -70,10 +70,15 @@
     "Лабораторная работа 5": {
       "name": "л/р #5 (SQL)",
       "url": "http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html",
-      "score": 0,
+      "score": 100,
       "date": "18/11/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html"
+        "1": [
+          "https://gist.github.com/Semen110996/e0f550186cec0e6a3852f6ddf85f3faa",
+          "https://gist.github.com/Semen110996/732d8483f139b015f187f7b72b61aa67",
+          "https://gist.github.com/Semen110996/e4eaa9900d7e39719f77c153d8e99cc5",
+          "https://gist.github.com/Semen110996/adfb343fe8bdbec702ac0b8709806348"
+          ]
       }
     },
     "Лабораторная работа 6": {
