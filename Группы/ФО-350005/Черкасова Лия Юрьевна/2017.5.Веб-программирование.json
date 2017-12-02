@@ -70,19 +70,19 @@
     "Лабораторная работа 5": {
       "name": "л/р #5 (SQL)",
       "url": "http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html",
-      "score": 0,
+      "score": 100,
       "date": "18/11/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html"
+        "1": "https://gist.github.com/Giraffe-in-hood/589e130ebfbc22e27e829666a4a20704"
       }
     },
     "Лабораторная работа 6": {
       "name": "л/р #6 (Pyramid)",
       "url": "http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html",
-      "score": 0,
+      "score": 100,
       "date": "18/11/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1"
+        "1": "https://gist.github.com/Giraffe-in-hood/7ae564d23adceae763bc21643de02943"
       }
     },
     "Экзамен": {
