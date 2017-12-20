@@ -329,7 +329,7 @@
              
      -                      `1 <https://gist.github.com/FOAna/67df13cc216e5e34471323530f3eb804>`__                          [**+100**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
+     -                      `Project <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/2.project.html>`__                          
      -                                  
 
 
