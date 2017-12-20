@@ -240,16 +240,21 @@
 
    * - 12
      - Кондратьев Сергей Алексеевич        (`SergeyKondratyev <https://github.com/SergeyKondratyev>`_)
-     -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
+     -                      `1 <https://github.com/SergeyKondratyev/lab1>`__              `2 <https://gist.github.com/SergeyKondratyev/68a4f2a95337523d1056a2f7a345ca43#file-2-py>`__              `3 <https://gist.github.com/SergeyKondratyev/68a4f2a95337523d1056a2f7a345ca43#file-3-6-py>`__              `4 <https://gist.github.com/SergeyKondratyev/68a4f2a95337523d1056a2f7a345ca43#file-4-py>`__                          [**+10**]
+             
      -                      `1 <https://gist.github.com/SergeyKondratyev/fb3fc5667705d58b3c0cb4ea2a7f482f>`__                          [**+49**]
              
      -                      `1 <https://gist.github.com/SergeyKondratyev/f7a737bcfb72141fe6e5b4ff5edc355b>`__              `2 <https://gist.github.com/SergeyKondratyev/93ec91be6b4ca35565f0d4573781dc11>`__              `3 <https://gist.github.com/SergeyKondratyev/220890caf660ea8db9219de5ea278aea>`__              `5 <https://gist.github.com/SergeyKondratyev/f6c5042d8d5817acc92e675500aae5a2>`__                          [**+79**]
              
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
+     -                      `1 <https://gist.github.com/SergeyKondratyev/b09823a6d8595de4dc632bf21bf77108>`__                          [**+10**]
+             
+     -                      `1 <https://github.com/SergeyKondratyev/lab4>`__              `2 <https://gist.github.com/SergeyKondratyev/35d03aa8b87c9bc8ebf9718ca947f2ea#file-2-2-py>`__              `3 <https://gist.github.com/SergeyKondratyev/35d03aa8b87c9bc8ebf9718ca947f2ea#file-2-3-6-py>`__              `4 <https://gist.github.com/SergeyKondratyev/35d03aa8b87c9bc8ebf9718ca947f2ea#file-2-5-py>`__                          [**+10**]
+             
+     -                      `1 <https://gist.github.com/SergeyKondratyev/91be607d62092b95d0d52bac1d69293c>`__                          [**+39**]
+             
+     -                      `1 <https://github.com/SergeyKondratyev/lab6>`__                          [**+39**]
+             
      -                      `Configuration <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/1.configuration.html>`__                          
      -                                  
 
@@ -513,32 +518,32 @@
      - `экзамен <./>`__
       
    * - % сдачи
-     - 79.17
+     - 83.33
      - 75.0
      - 75.0
      - 50.0
-     - 70.83
+     - 75.0
+     - 62.5
      - 58.33
-     - 54.17
-     - 54.17
+     - 58.33
      - 0.0
      - 0.0
 
    * - средний балл группы
-     - 57.92
+     - 58.33
      - 56.29
      - 65.62
      - 48.25
-     - 66.5
-     - 54.92
-     - 48.62
-     - 47.79
+     - 66.92
+     - 55.33
+     - 50.25
+     - 49.42
      - 0.0
      - 0.0
 
    * - средний балл сдачи
      
-     - 73.16
+     - 70.0
      
      - 75.06
      
@@ -546,13 +551,13 @@
      
      - 96.5
      
-     - 93.88
+     - 89.22
      
-     - 94.14
+     - 88.53
      
-     - 89.77
+     - 86.14
      
-     - 88.23
+     - 84.71
      
      - 0.0
      
@@ -568,9 +573,9 @@
      
      - 0
      
-     - 0
+     - 1
      
-     - 0
+     - 1
      
      - 1
      
@@ -582,7 +587,7 @@
 
    * - Продуктивность группы в %
      
-     - 39.42
+     - 36.89
      
      - 39.85
      
@@ -590,13 +595,13 @@
      
      - 46.53
      
-     - 62.3
+     - 59.27
      
-     - 51.6
+     - 48.57
      
-     - 43.37
+     - 42.72
      
-     - 41.79
+     - 41.17
      
      - 0.0
      
