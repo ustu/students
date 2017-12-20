@@ -243,7 +243,8 @@
      -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
      -                      `1 <https://gist.github.com/SergeyKondratyev/fb3fc5667705d58b3c0cb4ea2a7f482f>`__                          [**+49**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
+     -                      `1 <https://gist.github.com/SergeyKondratyev/f7a737bcfb72141fe6e5b4ff5edc355b>`__              `2 <https://gist.github.com/SergeyKondratyev/93ec91be6b4ca35565f0d4573781dc11>`__              `3 <https://gist.github.com/SergeyKondratyev/220890caf660ea8db9219de5ea278aea>`__              `5 <https://gist.github.com/SergeyKondratyev/f6c5042d8d5817acc92e675500aae5a2>`__                          [**+79**]
+             
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
@@ -514,7 +515,7 @@
    * - % сдачи
      - 79.17
      - 75.0
-     - 70.83
+     - 75.0
      - 50.0
      - 70.83
      - 58.33
@@ -526,7 +527,7 @@
    * - средний балл группы
      - 57.92
      - 56.29
-     - 62.33
+     - 65.62
      - 48.25
      - 66.5
      - 54.92
@@ -541,7 +542,7 @@
      
      - 75.06
      
-     - 88.0
+     - 87.5
      
      - 96.5
      
@@ -585,7 +586,7 @@
      
      - 39.85
      
-     - 54.34
+     - 56.83
      
      - 46.53
      
