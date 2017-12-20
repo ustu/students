@@ -100,12 +100,18 @@
      - Габайдуллин Данил Ринатович        (`Danila24ru <https://github.com/Danila24ru>`_)
      -                      `1 <https://github.com/Danila24ru/myproject>`__              `2 <https://gist.github.com/Danila24ru/6f7d693effb2b07d936d020006fde2de>`__              `3 <https://gist.github.com/Danila24ru/6f7d693effb2b07d936d020006fde2de>`__              `4 <https://gist.github.com/Danila24ru/6f7d693effb2b07d936d020006fde2de>`__                          [**+100**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
+     -                      `1 <https://gist.github.com/Danila24ru/8388f676128903467ad5cb0309057403>`__                          [**+10**]
+             
+     -                      `1 <https://github.com/Danila24ru/myproject/blob/master/httpserver.py>`__              `2 <https://gist.github.com/Danila24ru/b3fd9fd33bbf6679145e5637c1edeef3>`__              `3 <https://gist.github.com/Danila24ru/b3fd9fd33bbf6679145e5637c1edeef3>`__              `5 <https://gist.github.com/Danila24ru/b3fd9fd33bbf6679145e5637c1edeef3>`__                          [**+10**]
+             
+     -                      `1 <https://docs.google.com/presentation/d/1PZFPghQ6UVXv-ZtCSwOMssKVl26yog3u-aJXngbaxNg/edit#slide=id.p3>`__                          [**+100**]
+             
+     -                      `1 <https://gist.github.com/Danila24ru/2905167f9cb4904a542b22a58fdd1ef9>`__                          [**+10**]
+             
+     -                      `1 <https://github.com/Danila24ru/myproject/tree/master/webob>`__              `2 <https://gist.github.com/Danila24ru/6278814a14d8911695d26842a0c866da>`__              `3 <https://gist.github.com/Danila24ru/6278814a14d8911695d26842a0c866da>`__              `4 <https://gist.github.com/Danila24ru/6278814a14d8911695d26842a0c866da>`__                          [**+39**]
+             
+     -                      `1 <https://gist.github.com/Danila24ru/9ef4387c7024f2f542e59e53d0f00dfc>`__                          [**+39**]
+             
      -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
      -                      `1 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/1.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `2 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/2.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `3 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/3.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `4 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/4.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `5 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/5.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__                          
 
@@ -279,23 +285,23 @@
       
    * - % сдачи
      - 71.43
-     - 42.86
      - 50.0
+     - 57.14
+     - 42.86
+     - 42.86
+     - 42.86
      - 35.71
-     - 35.71
-     - 35.71
-     - 28.57
      - 28.57
      - 0.0
 
    * - средний балл группы
      - 48.07
-     - 35.43
-     - 32.57
-     - 35.71
-     - 32.79
-     - 32.79
-     - 27.07
+     - 36.14
+     - 33.29
+     - 42.86
+     - 33.5
+     - 35.57
+     - 29.86
      - 28.57
      - 0.0
 
@@ -303,17 +309,17 @@
      
      - 67.3
      
-     - 82.67
+     - 72.29
      
-     - 65.14
+     - 58.25
      
      - 100.0
      
-     - 91.8
+     - 78.17
      
-     - 91.8
+     - 83.0
      
-     - 94.75
+     - 83.6
      
      - 100.0
      
@@ -323,17 +329,17 @@
      
      - 2
      
-     - 1
-     
      - 2
      
-     - 0
+     - 3
      
      - 0
      
-     - 0
+     - 1
      
-     - 0
+     - 1
+     
+     - 1
      
      - 0
      
@@ -343,17 +349,17 @@
      
      - 28.28
      
-     - 28.64
+     - 24.13
      
-     - 17.92
+     - 13.52
      
-     - 35.71
+     - 42.86
      
-     - 29.98
+     - 25.15
      
-     - 29.98
+     - 28.9
      
-     - 25.61
+     - 24.48
      
      - 28.57
      
