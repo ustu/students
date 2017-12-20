@@ -85,6 +85,15 @@
         "1": "https://gist.github.com/Giraffe-in-hood/7ae564d23adceae763bc21643de02943"
       }
     },
+    "Контрольная работа2": {
+      "name": "контр.2",
+      "url": "https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement",
+      "score": 0,
+      "date": "22/12/2017",
+      "total": {
+        "1": "https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement"
+      }
+    },
     "Экзамен": {
       "name": "экзамен",
       "url": "./",
