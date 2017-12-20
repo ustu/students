@@ -4,13 +4,13 @@
     "Лабораторная работа 1": {
       "name": "л/р #1 (HTTP)",
       "url": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html",
-      "score": 0,
+      "score": 10,
       "date": "16/09/2017",
       "total": {
-        "1": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1",
-        "2": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2",
-        "3": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3",
-        "4": "https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4"
+        "1": "https://github.com/SergeyKondratyev/lab1",
+        "2": "https://gist.github.com/SergeyKondratyev/68a4f2a95337523d1056a2f7a345ca43#file-2-py",
+        "3": "https://gist.github.com/SergeyKondratyev/68a4f2a95337523d1056a2f7a345ca43#file-3-6-py",
+        "4": "https://gist.github.com/SergeyKondratyev/68a4f2a95337523d1056a2f7a345ca43#file-4-py"
       }
     },
     "Самостоятельная работа 1": {
@@ -46,40 +46,40 @@
     "Лабораторная работа 3": {
       "name": "л/р #3 (WSGI)",
       "url": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html",
-      "score": 0,
+      "score": 10,
       "date": "",
       "total": {
-        "1": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1"
+        "1": "https://gist.github.com/SergeyKondratyev/b09823a6d8595de4dc632bf21bf77108"
       }
     },
     "Лабораторная работа 4": {
       "name": "л/р #4 (Web)",
       "url": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html",
-      "score": 0,
+      "score": 10,
       "date": "11/11/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1",
-        "2": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2",
-        "3": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3",
-        "4": "http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4"
+        "1": "https://github.com/SergeyKondratyev/lab4",
+        "2": "https://gist.github.com/SergeyKondratyev/35d03aa8b87c9bc8ebf9718ca947f2ea#file-2-2-py",
+        "3": "https://gist.github.com/SergeyKondratyev/35d03aa8b87c9bc8ebf9718ca947f2ea#file-2-3-6-py",
+        "4": "https://gist.github.com/SergeyKondratyev/35d03aa8b87c9bc8ebf9718ca947f2ea#file-2-5-py"
       }
     },
     "Лабораторная работа 5": {
       "name": "л/р #5 (SQL)",
       "url": "http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html",
-      "score": 0,
+      "score": 39,
       "date": "18/11/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html"
+        "1": "https://gist.github.com/SergeyKondratyev/91be607d62092b95d0d52bac1d69293c"
       }
     },
     "Лабораторная работа 6": {
       "name": "л/р #6 (Pyramid)",
       "url": "http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html",
-      "score": 0,
+      "score": 39,
       "date": "18/11/2017",
       "total": {
-        "1": "http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1"
+        "1": "https://github.com/SergeyKondratyev/lab6"
       }
     },
     "Контрольная работа2": {
