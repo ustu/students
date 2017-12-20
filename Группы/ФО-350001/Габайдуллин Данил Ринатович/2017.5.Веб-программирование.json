@@ -25,7 +25,7 @@
     "Лабораторная работа 2": {
       "name": "л/р #2 (Socket)",
       "url": "http://lecturesnet.readthedocs.io/net/_checkpoint.html",
-      "score": 0,
+      "score": 10,
       "date": "",
       "total": {
         "1": "https://github.com/Danila24ru/myproject/blob/master/httpserver.py",
