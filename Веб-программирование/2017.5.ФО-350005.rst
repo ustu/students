@@ -217,9 +217,11 @@
              
      -                      `1 <https://github.com/klim043/Laba4/tree/master>`__              `2 <https://gist.github.com/klim043/25322a47aeaaf894139c3b489c688f9c>`__              `3 <https://gist.github.com/klim043/3f308e481579b2b280c98dd5d4c99c74>`__              `4 <https://gist.github.com/klim043/ada9c376e75ee676f6f9b1079b1093f0>`__                          [**+59**]
              
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
+     -                      `1 <https://gist.github.com/klim043/ef06890cac3957284c161318a45d7fd6>`__                          [**+59**]
+             
+     -                      `1 <https://gist.github.com/klim043/6546f311e282db71a7a5f9b11785c473>`__                          [**+39**]
+             
+     -                      `Security <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/10.security.html>`__                          
      -                                  
 
 
@@ -524,8 +526,8 @@
      - 50.0
      - 75.0
      - 62.5
-     - 58.33
-     - 58.33
+     - 62.5
+     - 62.5
      - 0.0
      - 0.0
 
@@ -536,8 +538,8 @@
      - 48.25
      - 66.92
      - 55.33
-     - 50.25
-     - 49.42
+     - 52.71
+     - 51.04
      - 0.0
      - 0.0
 
@@ -555,9 +557,9 @@
      
      - 88.53
      
-     - 86.14
+     - 84.33
      
-     - 84.71
+     - 81.67
      
      - 0.0
      
@@ -599,9 +601,9 @@
      
      - 48.57
      
-     - 42.72
+     - 43.67
      
-     - 41.17
+     - 40.62
      
      - 0.0
      
