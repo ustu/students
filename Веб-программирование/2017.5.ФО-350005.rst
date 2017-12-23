@@ -84,7 +84,7 @@
              
      -                      `1 <https://gist.github.com/mollyusk/690696b760207b141f0191ab968c9d87>`__                          [**+39**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
+     -                      `Mako <https://docs.google.com/document/d/1IMUQdzJaSk16tU94OyvoxvtUACE6u_Ov_7AIxIFCvNQ/edit>`__              `gh <https://github.com/mollyusk/Mako>`__                          
      -                                  
 
 
@@ -144,7 +144,8 @@
              
      -                      `1 <https://gist.github.com/Lorry5/ae57efa9e8d38e6b02aa3ccc0ac1c4d6>`__                          [**+59**]
              
-     -                      `Security <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/10.security.html>`__                          
+     -                      `Security <https://github.com/Lorry5/Pyramid>`__                          [**+100**]
+             
      -                                  
 
 
@@ -463,7 +464,8 @@
              
      -                      `1 <https://gist.github.com/Olisss/a0ba15a26d77deb767d9360b23fd85ea>`__                          [**+100**]
              
-     -                      `Sacrud <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/9.sacrud.html>`__                          
+     -                      `Sacrud <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/9.sacrud.html>`__                `1.1 <https://docs.google.com/presentation/d/1WhN8go27ESYuLWcitdOUxCaPtH5YDGuK8uenbE2uuro/edit#slide=id.p>`__                `1.2 <https://docs.google.com/document/d/1OjpAbaHjdbWpwNn9UownIDcmJ_5hYNBkIqCqADz6oo4/edit>`__                          [**+100**]
+             
      -                                  
 
 
@@ -539,7 +541,7 @@
      - 75.0
      - 75.0
      - 75.0
-     - 0.0
+     - 8.33
      - 0.0
 
    * - средний балл группы
@@ -551,7 +553,7 @@
      - 60.67
      - 58.42
      - 56.33
-     - 0.0
+     - 8.33
      - 0.0
 
    * - средний балл сдачи
@@ -572,7 +574,7 @@
      
      - 75.11
      
-     - 0.0
+     - 100.0
      
      - 0.0
 
@@ -616,7 +618,7 @@
      
      - 39.92
      
-     - 0.0
+     - 8.33
      
      - 0.0
 
