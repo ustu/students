@@ -49,7 +49,7 @@
     "Лабораторная работа 3": {
       "name": "л/р #3 (WSGI)",
       "url": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html",
-      "score": 0,
+      "score": 10,
       "date": "",
       "total": {
         "1": "https://github.com/Gonleef/myproject/blob/master/wsgi.py"
