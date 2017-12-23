@@ -84,7 +84,8 @@
              
      -                      `1 <https://gist.github.com/mollyusk/690696b760207b141f0191ab968c9d87>`__                          [**+39**]
              
-     -                      `Mako <https://docs.google.com/document/d/1IMUQdzJaSk16tU94OyvoxvtUACE6u_Ov_7AIxIFCvNQ/edit>`__              `gh <https://github.com/mollyusk/Mako>`__                          
+     -                      `Mako <https://docs.google.com/document/d/1IMUQdzJaSk16tU94OyvoxvtUACE6u_Ov_7AIxIFCvNQ/edit>`__              `gh <https://github.com/mollyusk/Mako>`__                          [**+100**]
+             
      -                                  
 
 
@@ -185,7 +186,8 @@
              
      -                      `1 <https://github.com/alex43jk/Web_lr6>`__                          [**+100**]
              
-     -                      `Админка для телеграм-бота @urfu_bot (Flask) <url>`__                          
+     -                      `TelegramBot Admin <https://gist.github.com/a-chabin/7c6fdcf305a6464ac71bd3c4c02eaf7a>`__                          [**+100**]
+             
      -                                  
 
 
@@ -207,7 +209,8 @@
              
      -                      `1 <https://gist.github.com/vichkunina/271cb3545bec82ddd97e5d2e4d1aef85>`__                          [**+100**]
              
-     -                      `Urldispatch <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/5.urldispatch.html>`__                          
+     -                      `Urldispatch <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/5.urldispatch.html>`__                `1.1 <https://docs.google.com/document/d/1MNTRnbQuxQSTZzDaJUganei93bsJzs3wxE2yhip5gj4/edit>`__                `1.2 <https://docs.google.com/presentation/d/1V--FfUaJm1dk9nyjc247umiSYh_Om1r9Tk3Q7z4lgU4/edit#slide=id.p>`__                          [**+100**]
+             
      -                                  
 
 
@@ -428,7 +431,8 @@
              
      -                      `1 <https://github.com/MaksimMsnov/web_6>`__                          [**+39**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
+     -                      `1 <http://bit.ly/OrtemNeUmer>`__              `2 <https://gist.github.com/MaksimMsnov/668e21e569565d4420bc1b169fa71f49>`__                          [**+100**]
+             
      -                                  
 
 
@@ -487,7 +491,8 @@
              
      -                      `1 <https://github.com/a-chabin/web-6>`__                          [**+100**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
+     -                      `TelegramBot Admin <https://gist.github.com/a-chabin/7c6fdcf305a6464ac71bd3c4c02eaf7a>`__                          [**+100**]
+             
      -                                  
 
 
@@ -541,7 +546,7 @@
      - 75.0
      - 75.0
      - 75.0
-     - 8.33
+     - 29.17
      - 0.0
 
    * - средний балл группы
@@ -553,7 +558,7 @@
      - 60.67
      - 58.42
      - 56.33
-     - 8.33
+     - 29.17
      - 0.0
 
    * - средний балл сдачи
@@ -618,7 +623,7 @@
      
      - 39.92
      
-     - 8.33
+     - 29.17
      
      - 0.0
 
