@@ -91,7 +91,11 @@
       "score": 0,
       "date": "22/12/2017",
       "total": {
-        "Urldispatch": "http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/5.urldispatch.html"
+        "Urldispatch": "http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/5.urldispatch.html",
+        "1": [
+          "https://docs.google.com/document/d/1MNTRnbQuxQSTZzDaJUganei93bsJzs3wxE2yhip5gj4/edit",
+          "https://docs.google.com/presentation/d/1V--FfUaJm1dk9nyjc247umiSYh_Om1r9Tk3Q7z4lgU4/edit#slide=id.p"
+        ]
       }
     },
     "Экзамен": {
