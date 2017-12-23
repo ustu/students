@@ -106,7 +106,7 @@
              
      -                      `1 <https://github.com/impuppy/Web-Laba-6>`__                          [**+39**]
              
-     -                      `1 <https://docs.google.com/document/d/1gT3nHDQbHNCT4m8ntHnecyth3Y2SVQrQy2v0Jy0rMts/edit>`__                          [**+100**]
+     -                      `getedit <https://docs.google.com/document/d/1gT3nHDQbHNCT4m8ntHnecyth3Y2SVQrQy2v0Jy0rMts/edit>`__                          [**+100**]
              
      -                                  
 
