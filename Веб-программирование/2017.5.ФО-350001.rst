@@ -191,7 +191,8 @@
              
      -                      `1 <https://gist.github.com/Wolzev/657410c5d6ee050ed7378bc16e3b5103>`__              `2 <https://gist.github.com/Wolzev/9bb376ff5247fd2aeb09c8be443b89db>`__              `3 <https://gist.github.com/Wolzev/7ee242d44f5e342006ab2357e3e671b8>`__              `5 <https://gist.github.com/Wolzev/2777fec57a08fd1893668a90ca0dfae4>`__                          [**+49**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
+     -                      `1 <https://docs.google.com/presentation/d/1Mqiu3mqbctTQaUe9CJFkBNftG2JUMp3za2MqMNW0IJc/edit?usp=sharing>`__                          [**+59**]
+             
      -                      `1 <https://gist.github.com/Wolzev/01cce8bbd3c00c7e67717c50d62f2fa1>`__                          [**+59**]
              
      -                      `1 <https://github.com/Wolzev/myproject>`__              `2 <https://gist.github.com/Wolzev/206f9c58ab6f2ba9fd4ce8545ff170f6>`__              `3 <https://gist.github.com/Wolzev/206f9c58ab6f2ba9fd4ce8545ff170f6>`__              `4 <https://gist.github.com/Wolzev/206f9c58ab6f2ba9fd4ce8545ff170f6>`__                          [**+59**]
@@ -290,7 +291,7 @@
      - 71.43
      - 50.0
      - 57.14
-     - 42.86
+     - 50.0
      - 50.0
      - 42.86
      - 42.86
@@ -301,7 +302,7 @@
      - 48.07
      - 36.14
      - 33.29
-     - 42.86
+     - 47.07
      - 34.21
      - 35.57
      - 33.36
@@ -316,7 +317,7 @@
      
      - 58.25
      
-     - 100.0
+     - 94.14
      
      - 68.43
      
@@ -356,7 +357,7 @@
      
      - 13.52
      
-     - 42.86
+     - 44.23
      
      - 20.77
      
