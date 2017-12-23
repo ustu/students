@@ -516,7 +516,8 @@
              
      -                      `1 <https://gist.github.com/Giraffe-in-hood/7ae564d23adceae763bc21643de02943>`__                          [**+100**]
              
-     -                      `Session <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/8.session.html>`__              `1.1 <https://drive.google.com/open?id=1PRM3wLyYbxybQ9Y8iCBKSOXH9Lozq0qK>`__              `1.2 <https://drive.google.com/open?id=14dWusUvWsnthau_TCqe1q2ZCFgRtwMvHPPRfvs2h-8E>`__                          
+     -                      `Session <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/8.session.html>`__              `1.1 <https://drive.google.com/open?id=1PRM3wLyYbxybQ9Y8iCBKSOXH9Lozq0qK>`__              `1.2 <https://drive.google.com/open?id=14dWusUvWsnthau_TCqe1q2ZCFgRtwMvHPPRfvs2h-8E>`__                          [**+100**]
+             
      -                                  
 
 
@@ -548,7 +549,7 @@
      - 75.0
      - 75.0
      - 75.0
-     - 37.5
+     - 41.67
      - 0.0
 
    * - средний балл группы
@@ -560,7 +561,7 @@
      - 60.67
      - 58.42
      - 56.33
-     - 37.5
+     - 41.67
      - 0.0
 
    * - средний балл сдачи
@@ -625,7 +626,7 @@
      
      - 39.92
      
-     - 37.5
+     - 41.67
      
      - 0.0
 
