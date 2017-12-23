@@ -304,7 +304,7 @@
              
      -                      `▲ <https://github.com/FlaX89/Pyramid>`__                          [**+100**]
              
-     -                      `1 <https://docs.google.com/document/d/1gT3nHDQbHNCT4m8ntHnecyth3Y2SVQrQy2v0Jy0rMts/edit>`__                          [**+100**]
+     -                      `gettext <https://docs.google.com/document/d/1gT3nHDQbHNCT4m8ntHnecyth3Y2SVQrQy2v0Jy0rMts/edit>`__                          [**+100**]
              
      -                                  
 
@@ -433,7 +433,7 @@
              
      -                      `1 <https://github.com/MaksimMsnov/web_6>`__                          [**+39**]
              
-     -                      `1 <http://bit.ly/OrtemNeUmer>`__              `2 <https://gist.github.com/MaksimMsnov/668e21e569565d4420bc1b169fa71f49>`__                          [**+100**]
+     -                      `hupper <http://bit.ly/OrtemNeUmer>`__              `text <https://gist.github.com/MaksimMsnov/668e21e569565d4420bc1b169fa71f49>`__                          [**+100**]
              
      -                                  
 
