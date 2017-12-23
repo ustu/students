@@ -92,11 +92,7 @@
       "date": "",
       "theme": "Каталог товаров",
       "total": {
-        "1": "https://github.com/ElizavetaAlekseevna/shop_toys",
-        "2": "https://github.com/ElizavetaAlekseevna/shop_toys",
-        "3": "https://github.com/ElizavetaAlekseevna/shop_toys",
-        "4": "https://github.com/ElizavetaAlekseevna/shop_toys",
-        "5": "https://github.com/ElizavetaAlekseevna/shop_toys"
+        "Каталог товаров": "https://github.com/ElizavetaAlekseevna/shop_toys"
       }
     }
   }
