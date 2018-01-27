@@ -75,7 +75,8 @@
              
      -                      `1 <https://gist.github.com/Antoha1397/199c4c4811e9997814b85a08af7b2b25>`__                          [**+79**]
              
-     -                      `Каталог товаров <https://github.com/Semen110996/Kursovaia_rabota_po_web_programmirovaniu>`__                          
+     -                      `Каталог товаров <https://github.com/Semen110996/Kursovaia_rabota_po_web_programmirovaniu>`__                          [**+79**]
+             
 
 
    * - 4
@@ -99,7 +100,8 @@
              
      -                      `1 <https://gist.github.com/Rasmur/2865cfbfee62e2e25430fbbd4e28a646>`__              `2 <https://gist.github.com/Rasmur/e75ea6436837e40213669d213450ae10>`__              `3 <https://gist.github.com/Rasmur/a841778341ff0008db997233c03109f9>`__              `5 <https://gist.github.com/Rasmur/74f27b8dc2f2b3a42824a7fbdfa29d30>`__                          [**+79**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues/50>`__                          
+     -                      `1 <https://github.com/ustu/lectures.www/issues/50>`__                          [**+100**]
+             
      -                      `1 <https://gist.github.com/Rasmur/1f19f20dfdccb3f7bdd8ecd169baf9d9>`__                          [**+100**]
              
      -                      `1 <https://gist.github.com/Rasmur/1f19f20dfdccb3f7bdd8ecd169baf9d9>`__              `2 <https://gist.github.com/Rasmur/652bdc7f2724f21c4caee0ad767b8e6f>`__              `3 <https://gist.github.com/Rasmur/31777d09d912254aea2c1486aca8588f>`__              `4 <https://gist.github.com/Rasmur/fa4aa4f663b87c9cdc7f1c4b689ef07f>`__                          [**+100**]
@@ -164,7 +166,8 @@
              
      -                      `1 <https://gist.github.com/Kaiomaru/93943fab7e36678a885c1928c18c7145>`__                          [**+100**]
              
-     -                      `Агрегатор метео данных из различных источников <https://docs.google.com/document/d/1VCcqTpmNjz1LkeTnin1lHbUmxFXAYpvtp1mQ32Dv9Co/edit?usp=sharing>`__                          
+     -                      `Агрегатор метео данных из различных источников <https://docs.google.com/document/d/1VCcqTpmNjz1LkeTnin1lHbUmxFXAYpvtp1mQ32Dv9Co/edit?usp=sharing>`__                          [**+100**]
+             
 
 
    * - 9
@@ -258,12 +261,17 @@
              
      -                      `1 <https://gist.github.com/arstet/b2b73a8ee4e2536492292db42839da1c>`__                          [**+59**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
+     -                      `1 <https://gist.github.com/arstet/3abaa3b0727893fe955ac440ce1a84e6>`__              `2 <https://gist.github.com/arstet/88aa8116e145b3fd476fc4621b02724b>`__              `3 <https://gist.github.com/arstet/a388f50f6318751d21416198d0b462d4>`__              `5 <https://gist.github.com/arstet/e522c38734c638c610f75dd4ad00d2f2>`__                          [**+10**]
+             
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
+     -                      `1 <https://gist.github.com/arstet/cc4f27af188163059a4db1f1b8cd0c36>`__                          [**+10**]
+             
+     -                      `1 <https://gist.github.com/arstet/991d24a4c4b3e42d2b0f1469f491ed6c>`__              `2 <https://gist.github.com/arstet/711f376ab736370387aed4265cbad2d6>`__              `3 <https://gist.github.com/arstet/daeba6712778ffa75b7ceaaa3ee062e9>`__              `4 <https://gist.github.com/arstet/04592845aefebbd4fab347fca1ad4114>`__                          [**+100**]
+             
+     -                      `1 <https://gist.github.com/arstet/6a03fda7bdde09e0281683ca31019d05>`__                          [**+10**]
+             
+     -                      `1 <https://gist.github.com/arstet/badab931129dff47a1c3b76b6659513e>`__                          [**+10**]
+             
      -                      `1 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/1.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `2 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/2.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `3 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/3.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `4 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/4.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `5 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/5.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__                          
 
 
@@ -309,24 +317,24 @@
    * - % сдачи
      - 66.67
      - 53.33
+     - 60.0
+     - 40.0
+     - 60.0
      - 53.33
-     - 33.33
      - 53.33
-     - 46.67
-     - 46.67
-     - 46.67
-     - 13.33
+     - 53.33
+     - 26.67
 
    * - средний балл группы
      - 49.8
      - 47.8
-     - 37.33
-     - 33.33
-     - 46.6
-     - 38.53
-     - 35.8
-     - 41.2
-     - 11.93
+     - 38.0
+     - 40.0
+     - 47.27
+     - 45.2
+     - 36.47
+     - 41.87
+     - 23.87
 
    * - средний балл сдачи
      
@@ -334,17 +342,17 @@
      
      - 89.62
      
-     - 70.0
+     - 63.33
      
      - 100.0
      
-     - 87.38
+     - 78.78
      
-     - 82.57
+     - 84.75
      
-     - 76.71
+     - 68.38
      
-     - 88.29
+     - 78.5
      
      - 89.5
 
@@ -362,7 +370,7 @@
      
      - 1
      
-     - 1
+     - 2
      
      - 1
      
@@ -374,19 +382,19 @@
      
      - 42.55
      
-     - 23.61
+     - 19.62
      
-     - 33.33
+     - 40.0
      
-     - 40.29
+     - 35.86
      
-     - 31.1
+     - 37.68
      
-     - 26.17
+     - 22.11
      
-     - 36.05
+     - 31.61
      
-     - 10.61
+     - 21.21
 
 
 Балльно-рейтинговая система оценки знаний
