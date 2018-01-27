@@ -85,10 +85,14 @@
      -                      `1 <https://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
-     -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id1>`__              `2 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id2>`__              `3 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id3>`__              `4 <http://lectures.uralbash.ru/6.www.sync/2.codding/_checkpoint.html#id4>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/2.codding/9.databases/_checkpoint.html>`__                          
-     -                      `1 <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/_checkpoint.html#id1>`__                          
+     -                      `1 <https://gist.github.com/DruzhkovAndrey/f6ae110956e984543e6645e932028c96#file-3>`__                          [**+10**]
+             
+     -                      `1 <https://github.com/DruzhkovAndrey/Web4>`__              `2 <https://gist.github.com/DruzhkovAndrey/f3066b1ff5d7e70ff10d372f727e0987>`__              `3 <https://gist.github.com/DruzhkovAndrey/b3d1e8df316858c8f427ef4c04a719cd>`__              `4 <https://gist.github.com/DruzhkovAndrey/7e1a9febd9b43a6069a703a675108d3c>`__                          [**+10**]
+             
+     -                      `1 <https://gist.github.com/DruzhkovAndrey/874627ceb15e4cbd4b3ff088548155bb>`__                          [**+10**]
+             
+     -                      `1 <https://github.com/DruzhkovAndrey/Web6666>`__                          [**+10**]
+             
      -                      `1 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/1.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `2 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/2.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `3 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/3.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `4 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/4.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `5 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/5.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__                          
 
 
@@ -321,10 +325,10 @@
      - 53.33
      - 60.0
      - 40.0
+     - 66.67
      - 60.0
-     - 53.33
-     - 53.33
-     - 53.33
+     - 60.0
+     - 60.0
      - 40.0
 
    * - средний балл группы
@@ -332,10 +336,10 @@
      - 47.8
      - 38.0
      - 40.0
-     - 47.27
-     - 45.2
-     - 36.47
-     - 41.87
+     - 47.93
+     - 45.87
+     - 37.13
+     - 42.53
      - 35.8
 
    * - средний балл сдачи
@@ -348,13 +352,13 @@
      
      - 100.0
      
-     - 78.78
+     - 71.9
      
-     - 84.75
+     - 76.44
      
-     - 68.38
+     - 61.89
      
-     - 78.5
+     - 70.89
      
      - 89.5
 
@@ -368,13 +372,13 @@
      
      - 0
      
-     - 1
-     
-     - 1
-     
      - 2
      
      - 1
+     
+     - 3
+     
+     - 2
      
      - 1
 
@@ -388,13 +392,13 @@
      
      - 40.0
      
-     - 35.86
+     - 31.72
      
-     - 37.68
+     - 33.35
      
-     - 22.11
+     - 18.11
      
-     - 31.61
+     - 27.49
      
      - 31.82
 

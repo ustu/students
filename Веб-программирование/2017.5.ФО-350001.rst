@@ -179,7 +179,8 @@
              
      -                      `1 <https://gist.github.com/Avoocadoo/fa7d087cc7da36be6f3fa3e194a7300e>`__                          [**+10**]
              
-     -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
+     -                      `1 <https://gist.github.com/Avoocadoo/c9b38c1618eae30ab4403505ad4966b5>`__              `2 <https://gist.github.com/Avoocadoo/5bf92baa3d1e287ac9b7cc9aa1846881>`__              `3 <https://gist.github.com/Avoocadoo/5f1f4b5077f75c83f2ab454cd2e86d51>`__              `5 <https://gist.github.com/Avoocadoo/286675410c1a732eab6d15555d3ddec0>`__                          [**+10**]
+             
      -                        `1.1 <https://docs.google.com/document/d/1vzbEjV-xHpnTQwSCt2zkdlWitdLkmOCF7Z7aaqXJlbE/edit>`__                `1.2 <https://docs.google.com/presentation/d/1C3fFz55R4XnLKvoOYWYiiSG8j2632eSyZAik7sKTTN0/edit#slide=id.p>`__                          [**+100**]
              
      -                      `1 <http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1>`__                          
@@ -299,7 +300,7 @@
    * - % сдачи
      - 71.43
      - 57.14
-     - 57.14
+     - 64.29
      - 50.0
      - 50.0
      - 50.0
@@ -310,7 +311,7 @@
    * - средний балл группы
      - 48.07
      - 36.86
-     - 33.29
+     - 34.0
      - 47.07
      - 34.21
      - 36.29
@@ -324,7 +325,7 @@
      
      - 64.5
      
-     - 58.25
+     - 52.89
      
      - 94.14
      
@@ -344,7 +345,7 @@
      
      - 2
      
-     - 3
+     - 4
      
      - 0
      
@@ -364,7 +365,7 @@
      
      - 19.85
      
-     - 13.52
+     - 8.17
      
      - 44.23
      
