@@ -75,7 +75,8 @@
              
      -                      `1 <https://gist.github.com/mollyusk/f4f135a4b2e8a6e8197b31346dd1429d>`__              `2 <https://gist.github.com/mollyusk/c867b8a4edc58230f063f6b7aa25747a>`__              `3 <https://gist.github.com/mollyusk/c867b8a4edc58230f063f6b7aa25747a>`__              `5 <https://gist.github.com/mollyusk/56669eb4240931c7824f2be399ca158c>`__                          [**+79**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
+     -                      `1 <https://docs.google.com/document/d/1st3XWZtAEf9SsB_7f7VVH_y3JHWcyt63mPPefoNOdWs/edit>`__                          [**+50**]
+             
      -                      `1 <https://gist.github.com/mollyusk/ad6184d8c04386beda9c5ea0064271cf>`__                          [**+59**]
              
      -                      `1 <https://github.com/mollyusk/web>`__              `2 <https://gist.github.com/mollyusk/bdbcd1f49d2616e74115f0a9dded46d5>`__              `3 <https://gist.github.com/mollyusk/bdbcd1f49d2616e74115f0a9dded46d5>`__              `4 <https://gist.github.com/mollyusk/bdbcd1f49d2616e74115f0a9dded46d5>`__                          [**+59**]
@@ -551,7 +552,7 @@
      - 87.5
      - 75.0
      - 79.17
-     - 54.17
+     - 58.33
      - 79.17
      - 75.0
      - 75.0
@@ -563,7 +564,7 @@
      - 58.75
      - 56.29
      - 66.04
-     - 52.42
+     - 54.5
      - 67.33
      - 60.67
      - 58.42
@@ -579,7 +580,7 @@
      
      - 83.42
      
-     - 96.77
+     - 93.43
      
      - 85.05
      
@@ -623,7 +624,7 @@
      
      - 53.99
      
-     - 50.7
+     - 50.79
      
      - 56.38
      
