@@ -11,8 +11,8 @@ let
     src = pkgs.fetchFromGitHub{
       owner = "myint";
       repo = "rstcheck";
-      rev = "master";
-      sha256 = "1wmjmmbg43vbkimahlj92g2bzzazwavrwg9f284zpa2npaxrlpq5";
+      rev = "v3.1";
+      sha256 = "08z0phzxvga6m5c9j1vgl7c7lwh2c50mxkdxx08fm9hzabr0iwg6";
     };
 
 

@@ -328,7 +328,8 @@
              
      -                      `1 <https://github.com/AlenaPankova/web_lab6>`__                          [**+100**]
              
-     -                      `Settings <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/3.settings.html>`__                          
+     -                      `Settings <https://github.com/AlenaPankova/web-progrmming>`__                          [**+100**]
+             
      -                                  
 
 
@@ -350,7 +351,8 @@
              
      -                      `1 <https://gist.github.com/FOAna/67df13cc216e5e34471323530f3eb804>`__                          [**+100**]
              
-     -                      `Project <http://lectures.uralbash.ru/6.www.sync/3.framework/pyramid/2.project.html>`__                          
+     -                      `Project <https://gist.github.com/FOAna/5a0cce580b6dd8eeddfa3a547c3d25a1>`__                          [**+100**]
+             
      -                                  
 
 
@@ -551,7 +553,7 @@
      - 75.0
      - 75.0
      - 75.0
-     - 50.0
+     - 58.33
      - 0.0
 
    * - средний балл группы
@@ -563,7 +565,7 @@
      - 60.67
      - 58.42
      - 56.33
-     - 50.0
+     - 58.33
      - 0.0
 
    * - средний балл сдачи
@@ -628,7 +630,7 @@
      
      - 39.92
      
-     - 50.0
+     - 58.33
      
      - 0.0
 

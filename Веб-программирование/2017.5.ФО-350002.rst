@@ -163,7 +163,7 @@
              
      -                      `1 <https://gist.github.com/Kaiomaru/93943fab7e36678a885c1928c18c7145>`__                          [**+100**]
              
-     -                      `Агрегатор метео данных из различных источников <url>`__                          
+     -                      `Агрегатор метео данных из различных источников <https://docs.google.com/document/d/1VCcqTpmNjz1LkeTnin1lHbUmxFXAYpvtp1mQ32Dv9Co/edit?usp=sharing>`__                          
 
 
    * - 9
@@ -218,7 +218,8 @@
              
      -                      `1 <https://github.com/Learko/Web/blob/master/pyramid_server.py>`__                          [**+100**]
              
-     -                      `1 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/1.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `2 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/2.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `3 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/3.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `4 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/4.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__              `5 <https://github.com/ustu/students/blob/master/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/5.%D1%8D%D1%82%D0%B0%D0%BF.rst>`__                          
+     -                      `src <https://github.com/Learko/TranslateProxy>`__              `notes <https://docs.google.com/document/d/17urJ5UaB-ale9alD_n_2CG6p8CPIxV-2Y1kIYdn5JN0/edit?usp=sharing>`__                          [**+100**]
+             
 
 
    * - 12
@@ -313,7 +314,7 @@
      - 46.67
      - 46.67
      - 46.67
-     - 0.0
+     - 6.67
 
    * - средний балл группы
      - 49.8
@@ -324,7 +325,7 @@
      - 38.53
      - 35.8
      - 41.2
-     - 0.0
+     - 6.67
 
    * - средний балл сдачи
      
@@ -344,7 +345,7 @@
      
      - 88.29
      
-     - 0.0
+     - 100.0
 
    * - сложность задания (от 0 до 5)
      
@@ -384,7 +385,7 @@
      
      - 36.05
      
-     - 0.0
+     - 6.67
 
 
 Балльно-рейтинговая система оценки знаний
