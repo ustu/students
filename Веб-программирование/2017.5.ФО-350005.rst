@@ -225,7 +225,8 @@
              
      -                      `1 <https://gist.github.com/klim043/903f3a4c81f313bc3e9e03ec1adc29c1>`__              `2 <https://gist.github.com/klim043/eda08d97df3bdc43920e77d84cb041af>`__              `3 <https://gist.github.com/klim043/0fe2212e0bc847177224e38d8568ee59>`__              `5 <https://gist.github.com/klim043/ae951a051639ca8d7dd7af30a77e0670>`__                          [**+1**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
+     -                      `1 <https://github.com/klim043/Web-socket>`__                          [**+20**]
+             
      -                      `1 <https://gist.github.com/klim043/7bd576ae4e435e7377bc7a05031a18db>`__                          [**+79**]
              
      -                      `1 <https://github.com/klim043/Laba4/tree/master>`__              `2 <https://gist.github.com/klim043/25322a47aeaaf894139c3b489c688f9c>`__              `3 <https://gist.github.com/klim043/3f308e481579b2b280c98dd5d4c99c74>`__              `4 <https://gist.github.com/klim043/ada9c376e75ee676f6f9b1079b1093f0>`__                          [**+59**]
@@ -552,7 +553,7 @@
      - 87.5
      - 75.0
      - 79.17
-     - 58.33
+     - 62.5
      - 79.17
      - 75.0
      - 75.0
@@ -564,7 +565,7 @@
      - 58.75
      - 56.29
      - 66.04
-     - 54.5
+     - 55.33
      - 67.33
      - 60.67
      - 58.42
@@ -580,7 +581,7 @@
      
      - 83.42
      
-     - 93.43
+     - 88.53
      
      - 85.05
      
@@ -602,7 +603,7 @@
      
      - 1
      
-     - 0
+     - 1
      
      - 1
      
@@ -624,7 +625,7 @@
      
      - 53.99
      
-     - 50.79
+     - 48.57
      
      - 56.38
      
