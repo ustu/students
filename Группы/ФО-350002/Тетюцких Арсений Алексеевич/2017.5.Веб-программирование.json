@@ -25,8 +25,8 @@
     "Лабораторная работа 2": {
       "name": "л/р #2 (Socket)",
       "url": "http://lecturesnet.readthedocs.io/net/_checkpoint.html",
-      "score": 0,
-      "date": "",
+      "score": 10,
+      "date": "28/01/2018",
       "total": {
         "1": "https://gist.github.com/arstet/3abaa3b0727893fe955ac440ce1a84e6",
         "2": "https://gist.github.com/arstet/88aa8116e145b3fd476fc4621b02724b",
