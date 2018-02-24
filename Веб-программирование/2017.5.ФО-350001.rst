@@ -226,7 +226,8 @@
              
      -                      `1 <https://github.com/SKolobukhov/WebProgramming/blob/lab2/task1.md>`__              `2 <https://github.com/SKolobukhov/WebProgramming/blob/lab2/task2.md>`__              `3 <https://github.com/SKolobukhov/WebProgramming/blob/lab2/task2.md>`__              `5 <https://github.com/SKolobukhov/WebProgramming/blob/lab3/task5.md>`__                          [**+1**]
              
-     -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
+     -                      `1 <https://github.com/SKolobukhov/WebProgramming/blob/sm/websocket.pdf>`__                          [**+1**]
+             
      -                      `1 <https://github.com/SKolobukhov/WebProgramming/blob/lab3/task.md>`__                          [**+100**]
              
      -                      `1 <https://github.com/SKolobukhov/WebProgramming/blob/lab4/task1.md>`__              `2 <https://github.com/SKolobukhov/WebProgramming/blob/lab4/task2.md>`__              `3 <https://github.com/SKolobukhov/WebProgramming/blob/lab4/task2.md>`__              `4 <https://github.com/SKolobukhov/WebProgramming/blob/lab4/task2.md>`__                          [**+100**]
@@ -310,7 +311,7 @@
      - 71.43
      - 64.29
      - 71.43
-     - 50.0
+     - 57.14
      - 57.14
      - 57.14
      - 57.14
@@ -321,7 +322,7 @@
      - 48.07
      - 36.93
      - 34.07
-     - 47.07
+     - 47.14
      - 34.29
      - 36.36
      - 35.5
@@ -336,7 +337,7 @@
      
      - 47.7
      
-     - 94.14
+     - 82.5
      
      - 60.0
      
@@ -356,7 +357,7 @@
      
      - 4
      
-     - 0
+     - 1
      
      - 3
      
@@ -376,7 +377,7 @@
      
      - 7.31
      
-     - 44.23
+     - 38.01
      
      - 15.33
      
