@@ -16,22 +16,22 @@
     "Самостоятельная работа 1": {
       "name": "д/р #1",
       "url": "https://lecturesnet.readthedocs.io/net/_checkpoint0.html",
-      "score": 0,
-      "date": "30/09/2017",
+      "score": 1,
+      "date": "24/02/2018",
       "total": {
-        "1": "https://github.com/SKolobukhov/WebProgramming/tree/home1"
+        "1": "https://github.com/SKolobukhov/WebProgramming/tree/home1?version=2"
       }
     },
     "Лабораторная работа 2": {
       "name": "л/р #2 (Socket)",
       "url": "http://lecturesnet.readthedocs.io/net/_checkpoint.html",
-      "score": 0,
-      "date": "",
+      "score": 1,
+      "date": "24/02/2018",
       "total": {
         "1": "https://github.com/SKolobukhov/WebProgramming/blob/lab2/task1.md",
         "2": "https://github.com/SKolobukhov/WebProgramming/blob/lab2/task2.md",
         "3": "https://github.com/SKolobukhov/WebProgramming/blob/lab2/task2.md",
-        "5": "http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6"
+        "5": "https://github.com/SKolobukhov/WebProgramming/blob/lab3/task5.md"
       }
     },
     "Контрольная работа": {
