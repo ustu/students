@@ -49,10 +49,10 @@
     "Лабораторная работа 3": {
       "name": "л/р #3 (WSGI)",
       "url": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html",
-      "score": 0,
-      "date": "",
+      "score": 1,
+      "date": "24/02/2018",
       "total": {
-        "1": "http://lectures.uralbash.ru/5.web.server/_checkpoint.html#id1"
+        "1": "https://github.com/Avoocadoo/myproject/blob/master/3lab.py"
       }
     },
     "Лабораторная работа 4": {
