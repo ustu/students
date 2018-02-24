@@ -88,15 +88,11 @@
     "Курсовая работа": {
       "name": "к/р",
       "url": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/",
-      "score": 0,
-      "date": "",
-      "theme": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/темы%20курсовых.rst",
+      "score": 79,
+      "date": "24/02/2018",
+      "theme": "https://github.com/Gonleef/cool_map/blob/master/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0.docx",
       "total": {
-        "1": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/1.этап.rst",
-        "2": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/2.этап.rst",
-        "3": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/3.этап.rst",
-        "4": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/4.этап.rst",
-        "5": "https://github.com/ustu/students/blob/master/Веб-программирование/курсовая%20работа/5.этап.rst"
+        "Интерактивная карта": "https://github.com/Gonleef/cool_map"
       }
     }
   }
