@@ -37,8 +37,8 @@
     "Контрольная работа": {
       "name": "контр.",
       "url": "https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement",
-      "score": 0,
-      "date": "28/10/2017",
+      "score": 1,
+      "date": "24/02/2018",
       "total": {
         "1": "https://github.com/SKolobukhov/WebProgramming/blob/sm/websocket.pdf"
       }
